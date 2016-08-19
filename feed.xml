@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CH101-008 UA Fall 2016</title>
+    <description>Notes and study materials for The University of Alabama's Chemistry 101  course offered Fall 2016.
+</description>
+    <link>http://jmbeach.github.io/CH101-008/</link>
+    <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 19 Aug 2016 16:21:41 -0500</pubDate>
+    <lastBuildDate>Fri, 19 Aug 2016 16:21:41 -0500</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 1 - Day 2</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/146650883/week-1-day-2-terms-flash-cards/&quot;&gt;Quizlet for terms in this lecture&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-1-day-2.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;ZNSWb250J7Y&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;some-online-homework-discussion&quot;&gt;Some online homework discussion&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:29.813843&lt;/li&gt;
+  &lt;li&gt;You log on to the &lt;a href=&quot;http://ua.mylabsplus.com&quot;&gt;MyLabsPlus&lt;/a&gt; website
+    &lt;ul&gt;
+      &lt;li&gt;Go to assignments
+        &lt;ul&gt;
+          &lt;li&gt;They are arranged in order&lt;/li&gt;
+          &lt;li&gt;Audio 0:01:13.422000&lt;/li&gt;
+          &lt;li&gt;They are due at midnight, but you get 1% per hour late off your score. So you aren’t SOL if you don’t get it right on time&lt;/li&gt;
+          &lt;li&gt;You get a drop on the homework&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Audio 0:03:18.888195
+        &lt;ul&gt;
+          &lt;li&gt;Speech about tax returns is actually about:
+            &lt;ul&gt;
+              &lt;li&gt;You have 5 freebies on the clicker questions
+                &lt;ul&gt;
+                  &lt;li&gt;absences&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Same is true for the lab
+                &lt;ul&gt;
+                  &lt;li&gt;You get 2 absences
+                    &lt;ul&gt;
+                      &lt;li&gt;More starts penalties&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Audio 0:06:21.001575
+        &lt;ul&gt;
+          &lt;li&gt;Re-iterating
+            &lt;ul&gt;
+              &lt;li&gt;You get one drop grade in the class
+                &lt;ul&gt;
+                  &lt;li&gt;Shoot to make it the last test because it is the hardest&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Pre-labs are due mid-day the day before your lab
+        &lt;ul&gt;
+          &lt;li&gt;If you have a Monday lab, your pre-lab is due noon Sunday&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:09:10.406530
+    &lt;ul&gt;
+      &lt;li&gt;You have two attempts at getting multiple choice right in homework&lt;/li&gt;
+      &lt;li&gt;6 on numeric&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;chapter-1-notes-part-2&quot;&gt;Chapter 1 Notes Part 2&lt;/h1&gt;
+
+&lt;h2 id=&quot;classification-of-pure-substances&quot;&gt;Classification of Pure Substances&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pure substances can be categorized into two types:
+    &lt;ul&gt;
+      &lt;li&gt;Elements&lt;/li&gt;
+      &lt;li&gt;Compounds&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;This categorization depends on whether or not they can be broken down (or decomposed) into simpler substances.&lt;/li&gt;
+  &lt;li&gt;An &lt;em&gt;element&lt;/em&gt; is a substance that cannot be chemically broken down into simpler substances.
+    &lt;ul&gt;
+      &lt;li&gt;Basic building blocks of matter&lt;/li&gt;
+      &lt;li&gt;Composed of single type of atom, like helium&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A &lt;em&gt;compound&lt;/em&gt; is a substance composed of two or more elements in fixed definite proportions.&lt;/li&gt;
+  &lt;li&gt;Most elements are chemically reactive and combine with other elements to form compounds.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;heterogeneous-mixture&quot;&gt;Heterogeneous Mixture&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A &lt;em&gt;heterogeneous mixture&lt;/em&gt; is one in which the composition varies from one region of the mixture to another.
+    &lt;ul&gt;
+      &lt;li&gt;Made of multiple substances, whose presence can be seen (example: a salt and sand mixture)
+        &lt;ul&gt;
+          &lt;li&gt;Portions of a sample of a heterogeneous mixture have different composition and properties.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;homogeneous-mixture&quot;&gt;Homogeneous Mixture&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A &lt;em&gt;homogeneous mixture&lt;/em&gt; is one made of multiple substances, but it appears to be one substance.&lt;/li&gt;
+  &lt;li&gt;All portions of a sample have the same composition and properties (like sweetened tea).&lt;/li&gt;
+  &lt;li&gt;Homogeneous mixtures have uniform compositions because the atoms or molecules that compose them mix uniformly.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-scientific-approach-to-knowledge&quot;&gt;The Scientific Approach to Knowledge&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:42.707245&lt;/li&gt;
+  &lt;li&gt;The approach to scientific knowledge is empirical&lt;/li&gt;
+  &lt;li&gt;It is based on observation and experimentation.&lt;/li&gt;
+  &lt;li&gt;The scientific method is a process for understanding nature by observing nature and its behavior through experimentation.&lt;/li&gt;
+  &lt;li&gt;Key characteristics of the scientific method
+    &lt;ul&gt;
+      &lt;li&gt;Observations&lt;/li&gt;
+      &lt;li&gt;Formulation of hypotheses&lt;/li&gt;
+      &lt;li&gt;Experimentation&lt;/li&gt;
+      &lt;li&gt;Formulation of laws and theories&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;observations&quot;&gt;Observations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Observations:
+    &lt;ul&gt;
+      &lt;li&gt;They are also known as data.&lt;/li&gt;
+      &lt;li&gt;They are the descriptions about the characteristics or behavior of nature.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Observations, verification of observations, and experimentation can lead scientists to formulate a hypothesis.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-scientific-approach-to-knowledge-1&quot;&gt;The Scientific Approach to Knowledge&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Scientists try to understand the universe through empirical knowledge gained through observation and experiment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gathering-empirical-knowledge--observation&quot;&gt;Gathering Empirical Knowledge ─ Observation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Some observations are descriptions of the characteristics or behavior of nature ─ qualitative&lt;/li&gt;
+  &lt;li&gt;Some observations compare a characteristic to a standard numerical scale ─ quantitative&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;from-observation-to-understanding&quot;&gt;From Observation to Understanding&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:15:58.585935&lt;/li&gt;
+  &lt;li&gt;Hypothesis – a tentative interpretation or explanation for an observation&lt;/li&gt;
+  &lt;li&gt;A good hypothesis is one that can be tested to be proved wrong!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;testing-ideas&quot;&gt;Testing Ideas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:17:57.155168&lt;/li&gt;
+  &lt;li&gt;Ideas in science are tested with experiments&lt;/li&gt;
+  &lt;li&gt;An experiment is a set of highly controlled procedures designed to test whether an idea about nature is valid&lt;/li&gt;
+  &lt;li&gt;The experiment generates observations that will either validate or invalidate the idea&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;is-this-a-good-hypothesis&quot;&gt;Is this a good hypothesis?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:19:00.330922&lt;/li&gt;
+  &lt;li&gt;Yesterday, the phase of the moon was a crescent. I observed that it rained a lot yesterday.&lt;/li&gt;
+  &lt;li&gt;It also rained during the previous crescent moon.&lt;/li&gt;
+  &lt;li&gt;I hypothesize that crescent moons cause rain showers
+    &lt;ul&gt;
+      &lt;li&gt;The hypothesis is the ‘why?’&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;My answer: This is a good hypothesis because it can be tested and proved wrong&lt;/li&gt;
+  &lt;li&gt;Audio 0:21:04.453540&lt;/li&gt;
+  &lt;li&gt;Best answer: C
+    &lt;ul&gt;
+      &lt;li&gt;It’s a good hypothesis because it’s falsifiable&lt;/li&gt;
+      &lt;li&gt;Audio 0:23:23.754722&lt;/li&gt;
+      &lt;li&gt;Audio 0:25:56.261455&lt;/li&gt;
+      &lt;li&gt;Good reasons to understand the importance of hypothesis&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;from-specific-to-general-understanding&quot;&gt;From Specific to General Understanding&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:25.458523&lt;/li&gt;
+  &lt;li&gt;A &lt;em&gt;hypothesis&lt;/em&gt; is a potential explanation for a single or small number of observations&lt;/li&gt;
+  &lt;li&gt;A &lt;em&gt;scientific theory&lt;/em&gt; is a general explanation for why things in nature are the way they are and behave the way they do
+    &lt;ul&gt;
+      &lt;li&gt;Integrates a lot of different observations&lt;/li&gt;
+      &lt;li&gt;Lets us predict what’s happening in the universe&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;think-about-it&quot;&gt;Think about it&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Given what you just learned about the term “Theory”, what’s wrong with this statement:
+    &lt;ul&gt;
+      &lt;li&gt;“The theory of gravity is just a theory and therefore probably wrong”
+        &lt;ul&gt;
+          &lt;li&gt;Audio 0:27:55.076377&lt;/li&gt;
+          &lt;li&gt;By the time you get to calling things theories, they have been tested &lt;em&gt;a lot&lt;/em&gt;
+            &lt;ul&gt;
+              &lt;li&gt;The scientific method says you can’t prove anything, you can only disprove things&lt;/li&gt;
+              &lt;li&gt;You’ll have to explain exceptions to the theory at some point so a new theory will emerge&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;from-specific-to-general-observations&quot;&gt;From Specific to General Observations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A &lt;em&gt;scientific law&lt;/em&gt; is a statement that summarizes all past observations and predicts future observations
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Law of Conservation of Mass&lt;/em&gt; – “In a chemical reaction matter is neither created nor destroyed.”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A scientific law allows you to predict future observations&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-19-week-1-day-2-a68b5.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:31:28.593326&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;relationships-between-pieces-of-the-scientific-method&quot;&gt;Relationships Between Pieces of the Scientific Method&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-19-week-1-day-2-9652f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-scientific-approach-to-knowledge-2&quot;&gt;The Scientific Approach to Knowledge&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It is necessary to be careful with the information presented by an experimentalist who lacks theoretical principles… [he] gathers at random several facts and presents them as proofs… scientific knowledge without reasoning [theory] does not exist.”
+    &lt;ul&gt;
+      &lt;li&gt;J. le R. d’Alembert (1717-1783), from Nouvelles Experiences sur la Resistance des Fluids. Jombert, Paris (1997)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;D’Alembert was always surrounded by controversy. ….Unfortunately he carried [his]… pugnacity into his scientific research and once he had entered a controversy, he argued his cause with vigour and stubbornness. He closed his mind to the possibility that he might be wrong…
+    &lt;ul&gt;
+      &lt;li&gt;Thomas L. Hankins (1990). Jean D’Alembert: Science and the Enlightenment. Taylor &amp;amp; Francis. p. 236. ISBN 2881243991&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-is-scientific-measurement-important&quot;&gt;Why Is Scientific Measurement Important?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Scientific data can be either qualifiable or quantifiable
+    &lt;ul&gt;
+      &lt;li&gt;Qualifiable data are observational
+        &lt;ul&gt;
+          &lt;li&gt;Subjective in nature&lt;/li&gt;
+          &lt;li&gt;Examples: color, shape&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Quantifiable data are measurable (empirical).
+    &lt;ul&gt;
+      &lt;li&gt;Objective in nature&lt;/li&gt;
+      &lt;li&gt;Uses equipment (e.g., glassware, balance, instrumentation) capable of generating empirical data with standardized &lt;em&gt;UNITS&lt;/em&gt;.
+        &lt;ul&gt;
+          &lt;li&gt;English system (e.g., inch, feet, etc.) – International System of Units (SI)&lt;/li&gt;
+          &lt;li&gt;Metric system&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-a-measurement&quot;&gt;What Is a Measurement?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:17.268476&lt;/li&gt;
+  &lt;li&gt;quantitative observation&lt;/li&gt;
+  &lt;li&gt;comparison to an agreed- upon standard&lt;/li&gt;
+  &lt;li&gt;every measurement has a number and a unit&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-19-week-1-day-2-bae0e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;significant-figures&quot;&gt;Significant Figures&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:37:46.810624&lt;/li&gt;
+  &lt;li&gt;No measurement can be more accurate than half the smallest division
+    &lt;ul&gt;
+      &lt;li&gt;Note: Tro says 1/10 of smallest division&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Often write +- to indicate this: 11+-1 mm, 1.1 +-0.3 cm&lt;/li&gt;
+  &lt;li&gt;No error range given? Then assume + half the least Significant Figure
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-19-week-1-day-2-5c1b1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:39:46.713576&lt;/li&gt;
+  &lt;li&gt;Any digit that is not zero is significant
+    &lt;ul&gt;
+      &lt;li&gt;1.234 kg 4 significant figures&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Zeros between nonzero digits are significant
+    &lt;ul&gt;
+      &lt;li&gt;606 m 3 significant figures&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Zeros to the left of the first nonzero digit are not significant
+    &lt;ul&gt;
+      &lt;li&gt;0.08 L 1 significant figure&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If a number is greater than 1, then all zeros to the right of the decimal point are significant
+    &lt;ul&gt;
+      &lt;li&gt;2.0 mg 2 significant figures&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If a number is less than 1, then only the zeros that are at the end and in the middle of the number are significant
+    &lt;ul&gt;
+      &lt;li&gt;0.004020 g 4 significant figures&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.khanacademy.org/math/arithmetic-home/arith-review-decimals/arithmetic-significant-figures-tutorial/e/significant_figures_1&quot;&gt;test your ability&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-many-significant-figures-are-in-each-of-the-following-measurements&quot;&gt;How many significant figures are in each of the following measurements?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:42:44.871665&lt;/li&gt;
+  &lt;li&gt;24 mL
+    &lt;ul&gt;
+      &lt;li&gt;2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;3001 g
+    &lt;ul&gt;
+      &lt;li&gt;4&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;0.0320 m^3
+    &lt;ul&gt;
+      &lt;li&gt;3&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;6.4 x 104 molecules
+    &lt;ul&gt;
+      &lt;li&gt;2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;560 kg
+    &lt;ul&gt;
+      &lt;li&gt;2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;rounding-rules-for-significant-figures&quot;&gt;Rounding Rules for Significant Figures&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:44:53.580413&lt;/li&gt;
+  &lt;li&gt;Digit being rounded &amp;gt; 5
+    &lt;ul&gt;
+      &lt;li&gt;Add 1 to least significant digit&lt;/li&gt;
+      &lt;li&gt;Result: 4.16 with 2 sig figs becomes 4.2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Digit being rounded &amp;lt; 5
+    &lt;ul&gt;
+      &lt;li&gt;Result: 4.14 with 2 sig figs becomes 4.1&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ROUND AT THE END OF THE PROBLEM&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;addition-or-subtraction---significant-figures&quot;&gt;Addition or Subtraction - Significant Figures&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The answer cannot have more digits to the right of the decimal point than any of the original numbers
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-19-week-1-day-2-c7ef7.png&quot; alt=&quot;&quot; /&gt;
+        &lt;ul&gt;
+          &lt;li&gt;1.1 has one sig fig after decimal&lt;/li&gt;
+          &lt;li&gt;round 90.432 to 90.4&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-19-week-1-day-2-6e28c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Look at sig figs in the given variables in the problem and have that many in your answer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vocab&quot;&gt;Vocab&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;element&lt;/td&gt;
+      &lt;td&gt;a substance that cannot be chemically broken down into simpler substances&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;compound&lt;/td&gt;
+      &lt;td&gt;a substance composed of two or more elements in fixed definite proportions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;heterogeneous mixture&lt;/td&gt;
+      &lt;td&gt;mixture in which the composition varies from one region of the mixture to another&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;homogeneous mixture&lt;/td&gt;
+      &lt;td&gt;mixture made of multiple substances, but it appears to be one substance&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;observations&lt;/td&gt;
+      &lt;td&gt;also known as data&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;hypothesis&lt;/td&gt;
+      &lt;td&gt;a tentative interpretation or explanation for an observation&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;qualitative&lt;/td&gt;
+      &lt;td&gt;type of observation which describe characteristics of something&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;quantitative&lt;/td&gt;
+      &lt;td&gt;type of observation which are compare a characteristic to a standard numerical scale&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;experiment&lt;/td&gt;
+      &lt;td&gt;a set of highly controlled procedures designed to test whether an idea about nature is valid&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;scientific theory&lt;/td&gt;
+      &lt;td&gt;a general explanation for why things in nature are the way they are and behave the way they do&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;scientific law&lt;/td&gt;
+      &lt;td&gt;a statement that summarizes all past observations and predicts future observations&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Law of Conservation of Mass&lt;/td&gt;
+      &lt;td&gt;In a chemical reaction matter is neither created nor destroyed&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Fri, 19 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/08/19/week-1-day-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/19/week-1-day-2.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 1 - Day 1</title>
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-1-day-1.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-pass-ch101-the-high-school-version&quot;&gt;How to Pass CH101: the High School Version&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pay attention, ask questions, complete your homework&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-pass-the-college-version&quot;&gt;How to pass the college version&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Do not take it in the summer&lt;/li&gt;
+  &lt;li&gt;Read ahead
+    &lt;ul&gt;
+      &lt;li&gt;You’ll read more new words than when taking a foreign language&lt;/li&gt;
+      &lt;li&gt;There is more material than anyone can memorize: you need to understand&lt;/li&gt;
+      &lt;li&gt;Seriously compounding: each new topic builds on previous ones&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;DO NOT GET BEHIND&lt;/li&gt;
+  &lt;li&gt;Go back over each days class
+    &lt;ul&gt;
+      &lt;li&gt;Reread text book to fix things that were unclear in class&lt;/li&gt;
+      &lt;li&gt;It’s up to you to learn the material&lt;/li&gt;
+      &lt;li&gt;Correct / amplify notes as needed&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Join a study group&lt;/li&gt;
+  &lt;li&gt;Do online homework “as we go”
+    &lt;ul&gt;
+      &lt;li&gt;Assigned homework is minimum set&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;10-12 hours a week out of class&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Use the practice problems to test yourself
+        &lt;ul&gt;
+          &lt;li&gt;If you can’t work the practice problems with the textbook closed, then you won’t necessarily do well on the test&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Attempt the problems you can’t immediately see how to work&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Do much more than the minimum&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;my-labs-plus&quot;&gt;My Labs Plus&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;This is where you do your homework and pre-labs&lt;/li&gt;
+  &lt;li&gt;DO NOT USE THE CODE FOR THE LAB
+    &lt;ul&gt;
+      &lt;li&gt;You’ll be given that at your lab time&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;University of Alabama Login URL:  http://ua.mylabsplus.com
+    &lt;ul&gt;
+      &lt;li&gt;Students Username : MyBama ID (all lower case)&lt;/li&gt;
+      &lt;li&gt;Students Password : CWID&lt;/li&gt;
+      &lt;li&gt;Click on your course under the Fall 2016 tab&lt;/li&gt;
+      &lt;li&gt;Accept Terms of Agreement&lt;/li&gt;
+      &lt;li&gt;Input Access code (purchased from the bookstore), purchase Access Code, or choose Pay Later to receive 14 days of temporary access&lt;/li&gt;
+      &lt;li&gt;Your access code is good for 24 months&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;syllabus-overview&quot;&gt;Syllabus overview&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How fast we cover a section depends on how well we perform to some degree&lt;/li&gt;
+  &lt;li&gt;Tests are not commutative in the sense that future tests will not ask the same exact questions
+    &lt;ul&gt;
+      &lt;li&gt;However knowledge of the previous test might be required to answer questions on future tests&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Office hours are Mondays 5-6, Thursdays 4-5
+    &lt;ul&gt;
+      &lt;li&gt;Don’t need an appointment&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;test-format&quot;&gt;Test Format&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Some questions will be vocabish “word” questions and have “word answers”&lt;/li&gt;
+  &lt;li&gt;Some questions ask you if a situation is reasonable&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-textbook&quot;&gt;The textbook&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The second edition&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;labs-do-not-meet-this-week&quot;&gt;Labs do not meet this week&lt;/h2&gt;
+
+&lt;h2 id=&quot;attendance&quot;&gt;Attendance&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Using your clicker at all gets you half a point&lt;/li&gt;
+  &lt;li&gt;Using it correctly or luckily gets you the other half&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tests&quot;&gt;Tests&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Need to bring an ID&lt;/li&gt;
+  &lt;li&gt;Labs can’t be programmable&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;there-will-not-be-recitation-this-evening&quot;&gt;There will not be recitation this evening&lt;/h2&gt;
+
+&lt;h1 id=&quot;chapter-1---atoms&quot;&gt;Chapter 1 - Atoms&lt;/h1&gt;
+
+&lt;h2 id=&quot;matter-from-the-particulate-point-of-view&quot;&gt;Matter from the Particulate Point of View&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Matter is composed of particles
+    &lt;ul&gt;
+      &lt;li&gt;Example: subatomic particles such as neutrons, protons, and electrons, atoms, and molecules
+        &lt;ul&gt;
+          &lt;li&gt;“We divide the universe into two types of stuff”&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;How the particles come together dictates the physical properties of matter
+    &lt;ul&gt;
+      &lt;li&gt;How do things transform&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Matter is defined as anything that has mass and occupies space (e.g., has volume)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;elements-molecules-and-mixtures-the-types-of-matter&quot;&gt;Elements, Molecules, and Mixtures: The Types of Matter&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Atoms&lt;/em&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Basic submicroscopic particles that constitute the
+fundamental building blocks of ordinary matter&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Molecules&lt;/em&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Substances formed when two or more atoms
+come together (bond) in specific geometric
+arrangements&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Atoms and molecules determine how matter behaves&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Chemistry&lt;/em&gt; is a discipline that seeks to understand
+matter and its properties, and the transformations
+that matter undergoes- particularly between
+molecules.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-classification-of-matter&quot;&gt;The Classification of Matter&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Matter can be classified according to
+    &lt;ul&gt;
+      &lt;li&gt;its &lt;em&gt;state&lt;/em&gt; — its physical form (i.e., solid, liquid, or gas) based on what properties it exhibits;&lt;/li&gt;
+      &lt;li&gt;its &lt;em&gt;composition&lt;/em&gt; or the types of particles&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The state of matter changes from solid to liquid to gas with increasing temperature&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-08-17-week-1-day-1-860db.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;solid-matter&quot;&gt;Solid Matter&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;In &lt;em&gt;solid matter&lt;/em&gt;, atoms or molecules pack
+close to each other in fixed locations.&lt;/li&gt;
+  &lt;li&gt;Although the atoms and molecules in a solid
+vibrate, they do not move around or past
+each other.&lt;/li&gt;
+  &lt;li&gt;Consequently, a solid has a fixed volume and
+rigid shape.
+    &lt;ul&gt;
+      &lt;li&gt;Ice, aluminum, and diamond are good examples
+of solids.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;liquid-matter&quot;&gt;Liquid Matter&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;In &lt;em&gt;liquid matter&lt;/em&gt;, atoms or molecules pack about as closely as they do in solid matter, but they are free to move relative to each other.&lt;/li&gt;
+  &lt;li&gt;Liquids have fixed volume but not a fixed shape.&lt;/li&gt;
+  &lt;li&gt;Liquids’ ability to flow makes them assume the shape of their container.
+    &lt;ul&gt;
+      &lt;li&gt;Water, alcohol, and gasoline are all substances that are liquids at room temperature.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gaseous-matter&quot;&gt;Gaseous Matter&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;In gaseous matter, atoms or molecules have a lot of space between them.&lt;/li&gt;
+  &lt;li&gt;They are free to move relative to one another.&lt;/li&gt;
+  &lt;li&gt;Fill available space&lt;/li&gt;
+  &lt;li&gt;These qualities make gases &lt;em&gt;compressible&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;classification-of-matter-by-components&quot;&gt;Classification of Matter by Components&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Matter can be classified according to its composition: elements, compounds, and mixtures.&lt;/li&gt;
+  &lt;li&gt;a &lt;em&gt;pure substance&lt;/em&gt; is made up of only one component, and its composition is invariant&lt;/li&gt;
+  &lt;li&gt;a &lt;em&gt;mixture&lt;/em&gt; is a substance composed of two or more components in proportions that can vary from one sample to another&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-08-17-week-1-day-1-8a83d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vocab&quot;&gt;Vocab&lt;/h2&gt;
+
+&lt;p&gt;| Term | Definition
+| — | —
+| matter | anything that has mass and occupies space (e.g. has volume)
+| atoms | Basic submicroscopic particles that constitute the
+fundamental building blocks of ordinary matter
+| molecules | Substances formed when two or more atoms
+come together (bond) in specific geometric
+arrangements
+| chemistry | a discipline that seeks to understand
+matter and its properties, and the transformations
+that matter undergoes- particularly between
+molecules.
+| state | physical form of matter based on what properties it exhibits (i.e. solid, liquid, or gas. Classifies matter)
+| composition | Classifies matter based on the types of particles in it
+| solid matter | atoms and molecules in this type of matter pack close to each other in fixed locations
+| liquid matter | type of matter in which atoms or molecules are packed closely, but they are free to move relative to each other.
+| gaseous matter | matter in which atoms or molecules have a lot of space between them
+| compressible | Material which are like gases are said to be…
+| pure substance | made up of only one component and its composition is invariant
+| mixture | substance composed of two or more components in proportions that can vary from one sample to another&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/08/17/week-1-day-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/17/week-1-day-1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Syllabus</title>
+        <description>&lt;h1 id=&quot;general-chemistry&quot;&gt;General Chemistry&lt;/h1&gt;
+
+&lt;h2 id=&quot;ch-101-section-008&quot;&gt;CH 101 Section 008&lt;/h2&gt;
+
+&lt;h3 id=&quot;fall-2016-lecture&quot;&gt;Fall 2016, Lecture&lt;/h3&gt;
+
+&lt;h3 id=&quot;dr-martin-bakker&quot;&gt;Dr. Martin Bakker&lt;/h3&gt;
+
+&lt;h2 id=&quot;office-hours-and-contact-information&quot;&gt;Office Hours and Contact Information&lt;/h2&gt;
+
+&lt;p&gt;Dr. Martin G. Bakker E-mail: bakker@bama.ua.edu Phone: 348-9116&lt;/p&gt;
+
+&lt;p&gt;Office:   1030 Shelby Hall   Office Hours:  Monday 5:00-6:00 pm, Thursdays 2-3 pm  and 4:00-5:00 pm. Others times by appointment&lt;/p&gt;
+
+&lt;h2 id=&quot;prerequisites&quot;&gt;Prerequisites&lt;/h2&gt;
+
+&lt;p&gt;MATH 100&lt;/p&gt;
+
+&lt;h2 id=&quot;course-description&quot;&gt;Course Description&lt;/h2&gt;
+
+&lt;p&gt;Three lectures and one three-hour laboratory. Degree credit is not awarded for both CH 101 and CH 107 or for both CH 101 and CH 117. A survey of the fundamental facts, principles, and theories of general chemistry. Usually offered in the fall, spring, and summer semesters.&lt;/p&gt;
+
+&lt;h2 id=&quot;student-learning-outcomes&quot;&gt;Student Learning Outcomes&lt;/h2&gt;
+
+&lt;p&gt;The objective of this course is to introduce students to the principles that form the foundations of chemistry.  An understanding of the quantum mechanical model of atoms provides the basis for understanding atomic structure, which in turn predicts the physical and chemical properties of atoms, as illustrated in the periodic table of the elements.  This understanding provides the basis for understanding the nature of chemical bonds: ionic and covalent.  An understanding of chemical bonds in turn provides the basis for predicting the structures of molecules, and a qualitative understanding of chemical reactions.  A quantitative understanding of the energy of atoms and molecules will provide the basis for predicting the energy changes that occur in chemical reactions and the accompanying release or absorption of heat.  The last objective is to be able to quantitatively predict the properties of gases and understand how the speed of molecular motion relates to the chemical and physical properties of gases and gas mixtures.&lt;/p&gt;
+
+&lt;h2 id=&quot;required-texts&quot;&gt;Required Texts&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;TURNING TECH / NXT CLICKER (Required)&lt;/li&gt;
+  &lt;li&gt;TRO (CUSTOM) / Chemistry: Structure and Properties Package for University of Alabama, 1/e (Required)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;exams-and-assignments&quot;&gt;Exams and Assignments&lt;/h2&gt;
+
+&lt;p&gt;Exams 1 – 3 will be given on Wednesday September 7th, October 5th and November 9th from 6:30 - 7:50 PM 127 Biology&lt;/p&gt;
+
+&lt;p&gt;Final Exam:  Monday.  December 5th, 2016 11:30 AM—2:00 PM 127 Biology&lt;/p&gt;
+
+&lt;h3 id=&quot;a-exams&quot;&gt;A. Exams&lt;/h3&gt;
+
+&lt;p&gt;You must bring your ACT card, driver’s license, or other photographic identification to all exams in order to receive a grade.  Students are strongly encouraged to take all regularly scheduled exams. However, should you have to miss one of these exams it will become your drop grade.  If you miss a second exam and can provide a written, reasonable excuse, you will be permitted to use your score (calculated as a percent) on the final exam as a makeup score for the test you missed.  &lt;em&gt;No make-up exams will be given&lt;/em&gt;.  No programmable calculators, or calculators that solve polynomial equations, language translators, pagers, cell phones or similar electronic devices are allowed.&lt;/p&gt;
+
+&lt;h3 id=&quot;b-quizzes&quot;&gt;B. Quizzes&lt;/h3&gt;
+
+&lt;p&gt;Quizzes will be given most every non-test week.  Electronic quizzes will be given either in the Wednesday afternoon recitation sessions or in the lecture classes using the Turning Point response units (“Clicker”).  The response units may be purchased in the SUPE Store (in the Ferguson Center).  It is your responsibility to make sure that your response unit is working, including its batteries, and you must bring it to every class meeting and recitation session.  Your lowest two or three quiz scores will be dropped, and the remainder will be used towards a maximum of 50 points; however, all quizzes will count toward your attendance points.  50% of a questions value will be attendance, 50% will be performance. &lt;em&gt;No make-up quizzes will be given&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;c-homework&quot;&gt;C. Homework&lt;/h3&gt;
+
+&lt;p&gt;Homework assignments will be submitted on the Web using MyLabsPlus.  The due dates are listed on the Web site. Typically about 15-20 problems will be assigned per chapter for a total of approximately 150 questions for the semester.  Each assignment will carry equal weight.  The instructions for logging in are available on BlackBoard Learn. Each assignment carry equal weight. Please check your textbook package for extra instructions.&lt;/p&gt;
+
+&lt;h2 id=&quot;grading-policy&quot;&gt;Grading Policy&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Assignment&lt;/th&gt;
+      &lt;th&gt;Points&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Exam1&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Exam2&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Exam3&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;HW&lt;/td&gt;
+      &lt;td&gt;50&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Quizzes&lt;/td&gt;
+      &lt;td&gt;50&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;In-Class&lt;/td&gt;
+      &lt;td&gt;150&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Lab&lt;/td&gt;
+      &lt;td&gt;150&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Final&lt;/td&gt;
+      &lt;td&gt;700&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;grading-scale&quot;&gt;Grading Scale&lt;/h2&gt;
+
+&lt;p&gt;A = 90 – 100  B = 80 - 89   C = 70 -  79  D = 60 - 69  F &amp;lt; 60&lt;/p&gt;
+
+&lt;p&gt;Plus/Minus grading will be used.&lt;/p&gt;
+
+&lt;h2 id=&quot;policy-on-missed-exams--coursework&quot;&gt;Policy on Missed Exams &amp;amp; Coursework&lt;/h2&gt;
+
+&lt;h3 id=&quot;exams&quot;&gt;Exams&lt;/h3&gt;
+
+&lt;p&gt;Students are strongly encouraged to take all regularly scheduled exams. However, should you have to miss one of these exams it will become your drop grade.  If you miss a second exam and can provide a written, reasonable excuse, you will be permitted to use your score (calculated as a percent) on the final exam as a makeup score for the test you missed.  &lt;em&gt;No make-up exams will be given&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;quizzes&quot;&gt;Quizzes&lt;/h3&gt;
+
+&lt;p&gt;As there is a drop grade no &lt;em&gt;make-up quizzes will be given&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;outline-of-topics&quot;&gt;Outline of Topics&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Liquids, Solids and Intermolecular Forces&lt;/li&gt;
+  &lt;li&gt;Phase Diagrams and Crystalline Solids&lt;/li&gt;
+  &lt;li&gt;Solutions&lt;/li&gt;
+  &lt;li&gt;Chemical Kinetics&lt;/li&gt;
+  &lt;li&gt;Chemical Equilibrium&lt;/li&gt;
+  &lt;li&gt;Acids and Bases&lt;/li&gt;
+  &lt;li&gt;Aqueous Ionic Equilibrium&lt;/li&gt;
+  &lt;li&gt;Free Energy and Thermodynamics&lt;/li&gt;
+  &lt;li&gt;Electrochemistry&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;attendance-policy&quot;&gt;Attendance Policy&lt;/h2&gt;
+
+&lt;p&gt;Attendance is mandatory and will be taken in all class periods with the use of the Turning Point Response Unit.  Your number of attendances will count towards a maximum of 50 points for in-class performance/participation.  50% of each question will count towards attendance and 50% towards performance. There will be 5 drops given for absences, and so documentation for excused absences will only be necessary in the case of extended absences.  You will need to go to Blackboard to enter your clicker ID number. Please ensure that you enter your name also so that you can earn credit for clicker usage.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/08/14/syllabus.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/14/syllabus.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
