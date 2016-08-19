@@ -1,0 +1,24 @@
+{
+  "name": "CH101-008",
+  "homepage": "https://github.com/jmbeach/CH101-008",
+  "authors": [
+    "jmbeach <jaredbeachdesign@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "icono": "^1.3.0",
+    "jquery": "^3.1.0",
+    "jquery-ui": "^1.12.0",
+    "jspdf": "^1.2.61",
+    "simple-jekyll-search": "^1.1.4"
+  }
+}
