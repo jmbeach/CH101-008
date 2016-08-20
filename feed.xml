@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Aug 2016 16:34:47 -0500</pubDate>
-    <lastBuildDate>Fri, 19 Aug 2016 16:34:47 -0500</lastBuildDate>
+    <pubDate>Sat, 20 Aug 2016 13:41:45 -0500</pubDate>
+    <lastBuildDate>Sat, 20 Aug 2016 13:41:45 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -26,7 +26,7 @@
 &lt;/div&gt;
 
 &lt;script&gt;
-  new AudioNavigator({videoId:&quot;ZNSWb250J7Y&quot;});
+  new AudioNavigator({videoId:&quot;9DLPuxi0ZKU&quot;});
 &lt;/script&gt;
 
 &lt;h1 id=&quot;some-online-homework-discussion&quot;&gt;Some online homework discussion&lt;/h1&gt;
