@@ -6,9 +6,362 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Aug 2016 13:41:45 -0500</pubDate>
-    <lastBuildDate>Sat, 20 Aug 2016 13:41:45 -0500</lastBuildDate>
+    <pubDate>Mon, 22 Aug 2016 14:19:50 -0500</pubDate>
+    <lastBuildDate>Mon, 22 Aug 2016 14:19:50 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 2 - Day 1</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2ffqnc&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-2-day-1.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;bZ0v2jVyHW8&quot;});
+&lt;/script&gt;
+
+&lt;h2 id=&quot;announcements&quot;&gt;Announcements&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sig figs are covered in appendix III&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;we-left-off&quot;&gt;We left off:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:01:29.531683&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;addition-or-subtraction---significant-figures&quot;&gt;Addition or Subtraction - Significant Figures&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The answer cannot have more digits to the right of the decimal point than any of the original numbers
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-19-week-1-day-2-c7ef7.png&quot; alt=&quot;&quot; /&gt;
+        &lt;ul&gt;
+          &lt;li&gt;1.1 has one sig fig after decimal&lt;/li&gt;
+          &lt;li&gt;round 90.432 to 90.4&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-19-week-1-day-2-6e28c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Look at sig figs in the given variables in the problem and have that many in your answer&lt;/li&gt;
+  &lt;li&gt;Do not round until the end of the calculation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;significant-figures---multiplication-or-division&quot;&gt;Significant Figures - Multiplication or Division&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:03:48.566124&lt;/li&gt;
+  &lt;li&gt;The number of significant figures in the result is set by the original number that has the &lt;em&gt;smallest&lt;/em&gt; number of significant figures&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-bdeee.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;significant-figures---exact-numbers&quot;&gt;Significant Figures - Exact Numbers&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:05:48.200501&lt;/li&gt;
+  &lt;li&gt;Numbers from definitions or numbers of objects are considered to have an infinite number of significant figures
+The average of three measured lengths; 6.64, 6.68 and 6.70?&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-7a38e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Because 3 is an exact number
+    &lt;ul&gt;
+      &lt;li&gt;You don’t round to one sig fig because you ignore exact numbers when determining how many to round to&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;significant-figures---precision-vs-accuracy&quot;&gt;Significant Figures - Precision vs accuracy&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:08:18.238337&lt;/li&gt;
+  &lt;li&gt;Accuracy – how close a measurement is to the true value&lt;/li&gt;
+  &lt;li&gt;Precision – how close a set of measurements are to each other&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-618b1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.khanacademy.org/math/arithmetic-home/arith-review-decimals/arithmetic-significant-figures-tutorial/e/significant_figures_1&quot;&gt;test your ability&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-many-significant-figures-are-in-the-measurement-00005890g&quot;&gt;How many significant figures are in the measurement 0.0005890g?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:09.150335&lt;/li&gt;
+  &lt;li&gt;Answer: 4&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-answer-should-be-reported-with-the-correct-number-of-significant-figures-for-the-following-calculation--433621---3339--11900&quot;&gt;What answer should be reported, with the correct number of significant figures for the following calculation? =&amp;gt; (433.621 - 333.9) * 11.900&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The calculation yields 1186.6799
+    &lt;ul&gt;
+      &lt;li&gt;You round to three sig figs because 99.721 has three sig figs after you subtract 433.621 from 333.9. has the smallest amount of sig figs since you choose the smallest with multiplication&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:20:48.415419
+    &lt;ul&gt;
+      &lt;li&gt;Confused how 99.721 has 3 sig figs and 11.900 has five
+        &lt;ul&gt;
+          &lt;li&gt;I think it’s because we’ve subtracted and the way he explained it (I think) is that you start from the right most sig figs after the decimal and count up to it&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;our-current-understanding-of-the-structure-of-matter&quot;&gt;Our Current Understanding of the Structure of Matter&lt;/h1&gt;
+
+&lt;h2 id=&quot;early-ideas-about-the-building-blocks-of-matter&quot;&gt;Early Ideas about the Building Blocks of Matter&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:16.678865&lt;/li&gt;
+  &lt;li&gt;Leucippus (fifth century B.C.) and his student Democritus (460–370 B.C.) were the first to propose that matter was composed of small, indestructible particles.
+    &lt;ul&gt;
+      &lt;li&gt;Democritus wrote, “Nothing exists except atoms and empty space; everything else is opinion.”
+        &lt;ul&gt;
+          &lt;li&gt;He proposed that atoms existed in different shapes and sizes and moved randomly through empty space.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Plato and Aristotle did not embrace the atomic ideas of Leucippus and Democritus.
+    &lt;ul&gt;
+      &lt;li&gt;They held that matter had no smallest parts.&lt;/li&gt;
+      &lt;li&gt;They proposed that different substances were composed of various proportions of fire, air, earth, and water.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;early-building-blocks-of-matter-ideas&quot;&gt;Early Building Blocks of Matter Ideas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:24:38.965354&lt;/li&gt;
+  &lt;li&gt;An English chemist, John Dalton (1766–1844) offered convincing evidence that supported the early atomic ideas of Leucippus and Democritus.
+    &lt;ul&gt;
+      &lt;li&gt;Dalton’s atomic theory of matter&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Modern Atomic Theory and Its Laws:
+    &lt;ul&gt;
+      &lt;li&gt;Law of conservation of mass&lt;/li&gt;
+      &lt;li&gt;Law of definite proportions&lt;/li&gt;
+      &lt;li&gt;Law of multiple proportions&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;john-dalton-and-the-atomic-theory&quot;&gt;John Dalton and the Atomic Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;John Dalton and the Atomic Theory
+    &lt;ol&gt;
+      &lt;li&gt;Each element is composed of tiny indestructible particles called atoms.&lt;/li&gt;
+      &lt;li&gt;All atoms of a given element have the same mass and other properties that distinguish them from the atoms of other elements&lt;/li&gt;
+      &lt;li&gt;Atoms combine in simple whole-number ratios to form compounds&lt;/li&gt;
+      &lt;li&gt;Atoms of one element cannot change into atoms of another element. In a chemical reaction, atoms change only the way that they are bound together with other atoms.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-law-of-conservation-of-mass&quot;&gt;The Law of Conservation of Mass&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:27:20.929720&lt;/li&gt;
+  &lt;li&gt;Antoine Lavoisier formulated the law of conservation of mass, which states the following:
+    &lt;ul&gt;
+      &lt;li&gt;In a chemical reaction, matter is neither created nor destroyed.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;When a chemical reaction occurs, the total mass of the substances involved in the reaction does not change.
+    &lt;ul&gt;
+      &lt;li&gt;This law is consistent with the idea that matter is composed of small, indestructible particles.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:28:53.424491&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-cafbd.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-law-of-definite-proportions&quot;&gt;The Law of Definite Proportions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:29:25.280225&lt;/li&gt;
+  &lt;li&gt;In 1797 a French chemist named Joseph Proust made observations on the composition of compounds&lt;/li&gt;
+  &lt;li&gt;He summarized his observations in the &lt;em&gt;law of definite proportions&lt;/em&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;All samples of a given compound, regardless of their source or how they were prepared, have the same proportions of their constituent elements.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The law of definite proportions is sometimes called the law of constant composition.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;an-example-of-the-law-of-definite-proportions&quot;&gt;An Example of the Law of Definite Proportions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:02.047142&lt;/li&gt;
+  &lt;li&gt;The decomposition of 18.0 g of water (H2O) results in 16.0 g of oxygen (O2) and 2.0 g of hydrogen (H2)&lt;/li&gt;
+  &lt;li&gt;an oxygen-to-hydrogen mass ratio of 8:1.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-7e599.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;problem-solving-the-law-of-definite-proportions&quot;&gt;Problem Solving: The Law of Definite Proportions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:39.294000&lt;/li&gt;
+  &lt;li&gt;Two samples of carbon dioxide decompose into their constituent elements. One produces 25.6 g oxygen and 9.60 g carbon, the other 21.6 g oxygen, and 8.10 g carbon. Show that these results are consistent with the law of definite proportions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-law-of-multiple-proportions&quot;&gt;The Law of Multiple Proportions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:08.719405&lt;/li&gt;
+  &lt;li&gt;In 1804, John Dalton published his law of multiple proportions:
+    &lt;ul&gt;
+      &lt;li&gt;When two elements (call them A and B) form two different compounds, the masses of element B that combine with 1 g of element A can be expressed as a ratio of small whole numbers.
+        &lt;ul&gt;
+          &lt;li&gt;When an atom of A combines with either one, two, three, or more atoms of B, the following molecular compounds are possible: AB1, AB2, AB3, etc.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:36:00.257154&lt;/li&gt;
+  &lt;li&gt;Carbon monoxide and carbon dioxide are two compounds composed of the same two elements: carbon and oxygen.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-23da8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;The mass ratio of oxygen to carbon in carbon dioxide is 2.67:1; therefore, 2.67 g of oxygen reacts with 1 g of carbon.&lt;/li&gt;
+      &lt;li&gt;In carbon monoxide, however, the mass ratio of oxygen to carbon is 1.33:1, or 1.33 g of oxygen to every 1 g of carbon.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The ratio of these two masses is itself a small whole number
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-c08d4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;problem-solving-the-law-of-multiple-proportions&quot;&gt;Problem Solving: The Law of Multiple Proportions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nitrogen forms a number of compounds with oxygen. Measurements of the masses of nitrogen and oxygen that form upon decomposing these compounds show that nitrogen dioxide contains 2.28 g oxygen to every 1.00 g of nitrogen, while dinitrogen monoxide contains 0.570 g oxygen to every 1.00 g nitrogen. Show that the results are consistent with the law of multiple proportions:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-46ea2.png&quot; alt=&quot;&quot; /&gt;
+        &lt;ul&gt;
+          &lt;li&gt;4 is a small whole number which coincides with the law of multiple proportions&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;the-structure-of-the-atom&quot;&gt;The Structure of the Atom&lt;/h1&gt;
+
+&lt;h2 id=&quot;the-discovery-of-the-electron&quot;&gt;The Discovery of the Electron&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:41:57.987686&lt;/li&gt;
+  &lt;li&gt;From J. J. Thomson’s (1856–1940) cathode rays experiments, it was observed that
+    &lt;ul&gt;
+      &lt;li&gt;a beam of particles, called cathode rays, traveled from the negatively charged electrode (called the cathode) to the positively charged one (called the anode);&lt;/li&gt;
+      &lt;li&gt;the particles that compose the cathode ray have the following properties:
+        &lt;ul&gt;
+          &lt;li&gt;They travel in straight lines.&lt;/li&gt;
+          &lt;li&gt;They are independent of the composition of the material from which they originate (the cathode).&lt;/li&gt;
+          &lt;li&gt;They carry a negative electrical charge.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;J.J. Thomson was able to measure the charge-to-mass ratio of the cathode ray particles by deflecting them using electric and magnetic fields, as shown in the figure on the bottom of the next slide.
+    &lt;ul&gt;
+      &lt;li&gt;The value he measured was –1.76 × 103 coulombs per gram. © 2015 Pearson Education, Inc.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-a024e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:43:28.234010&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-68288.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Measured mass/charge of e-&lt;/li&gt;
+  &lt;li&gt;Audio 0:44:28.784923&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-c4d37.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;millikans-oil-drop-experiment-determining-the-charge-of-an-electron&quot;&gt;Millikan’s Oil Drop Experiment: Determining the Charge of an Electron&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:45:09.599076&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-db2e5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-f2945.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:45:42.474328&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-66a4b.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Calculated electron mass and hydrogen mass&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;millikans-oil-drop-experiment-the-charge-to-mass-ratio-for-an-electron&quot;&gt;Millikan’s Oil Drop Experiment: The Charge-to-Mass Ratio for an Electron&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Using data from
+    &lt;ul&gt;
+      &lt;li&gt;Millikan’s experiment (–1.60 × 10–19 C/electron);&lt;/li&gt;
+      &lt;li&gt;Thomson’s mass-to-charge ratio for electrons, it can be deducted that the mass of an electron is as follows:&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-17e9a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mastering-chemistry-is-due-tomorrow-night&quot;&gt;Mastering chemistry is due tomorrow night!&lt;/h2&gt;
+
+&lt;h2 id=&quot;vocab&quot;&gt;Vocab&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;accuracy&lt;/td&gt;
+      &lt;td&gt;how close a measurement is to the true value&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;precision&lt;/td&gt;
+      &lt;td&gt;how close a set of measurements are to each other&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;atomic theory&lt;/td&gt;
+      &lt;td&gt;Explains the laws of the composition of matter and favors the existence of atoms&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;law of conservation of mass&lt;/td&gt;
+      &lt;td&gt;states that in a chemical reaction, matter is neither created nor destroyed&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;law of definite proportions&lt;/td&gt;
+      &lt;td&gt;states that all samples of a given compound, regardless of their source or how they were prepared, have the same proportions of their constituent elements&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Mon, 22 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/08/22/week-2-day-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/22/week-2-day-1.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 1 - Day 2</title>
