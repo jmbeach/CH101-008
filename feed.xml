@@ -6,9 +6,367 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Aug 2016 14:25:25 -0500</pubDate>
-    <lastBuildDate>Mon, 22 Aug 2016 14:25:25 -0500</lastBuildDate>
+    <pubDate>Wed, 24 Aug 2016 15:22:19 -0500</pubDate>
+    <lastBuildDate>Wed, 24 Aug 2016 15:22:19 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 2 - Day 2</title>
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-2-day-2.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;NA3V6m3Kf1M&quot;});
+&lt;/script&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2fmjqw&quot;&gt;Quizlet for terms in this lecture&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:02:12.490025&lt;/li&gt;
+  &lt;li&gt;Recitation tonight
+    &lt;ul&gt;
+      &lt;li&gt;Going over practice problems&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Next Wednesday
+    &lt;ul&gt;
+      &lt;li&gt;Placement exam&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;millikans-oil-drop-experiment-the-charge-to-mass-ratio-for-an-electron&quot;&gt;Millikan’s Oil Drop Experiment: The Charge-to-Mass Ratio for an Electron&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:03:42.054463&lt;/li&gt;
+  &lt;li&gt;Using data from
+    &lt;ul&gt;
+      &lt;li&gt;Millikan’s experiment (–1.60 × 10–19 C/electron);&lt;/li&gt;
+      &lt;li&gt;Thomson’s mass-to-charge ratio for electrons, it can be deducted that the mass of an electron is as follows:&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-17e9a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;radioactivity&quot;&gt;Radioactivity&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:04:08.902546&lt;/li&gt;
+  &lt;li&gt;Some elements: Uranium, Radium, Thorium emit high energy radiation: alpha, beta, gamma rays
+    &lt;ul&gt;
+      &lt;li&gt;Gave the basis for what is in atoms&lt;/li&gt;
+      &lt;li&gt;Audio 0:05:35.336223&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-4160c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;Audio 0:06:11.521979&lt;/li&gt;
+      &lt;li&gt;Alpha is positively charged&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-518b0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;Audio 0:06:28.313205&lt;/li&gt;
+      &lt;li&gt;Beta is negatively&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-d5ffe.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;Gamma is neutrally charged&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-2774d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-8dff6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;putting-the-pieces-together&quot;&gt;Putting the pieces together:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:07:20.979240&lt;/li&gt;
+  &lt;li&gt;Beta particles: negatively charged = electrons&lt;/li&gt;
+  &lt;li&gt;Alpha particles: positively charged
+Ernest Rutherford showed that these are chemically part of helium atoms&lt;/li&gt;
+  &lt;li&gt;Audio 0:07:58.216800&lt;/li&gt;
+  &lt;li&gt;Gamma Rays: like light and X-rays, only more energy&lt;/li&gt;
+  &lt;li&gt;So where are the Electrons and the Positive Charge in an atom?&lt;/li&gt;
+  &lt;li&gt;Audio 0:08:27.289910&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-978fa.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-ultimate-undergraduate-research-project&quot;&gt;The Ultimate Undergraduate Research Project&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:09:44.109094&lt;/li&gt;
+  &lt;li&gt;(as carried out by Ernest Marsden under the direction of Johannes Gieger and Ernest Rutherford)
+Rutherford’s Experimental Design&lt;/li&gt;
+  &lt;li&gt;Audio 0:10:06.370006&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-cd4e0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:11:02.745604&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-aa4da.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;thomsons-model-predicts&quot;&gt;Thomson’s Model Predicts:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Multiple collisions, small deflections&lt;/li&gt;
+  &lt;li&gt;Rutherford on the large deflections:&lt;/li&gt;
+  &lt;li&gt;’.. About as credible as if you had fired a 15- inch [artillery] shell at a piece of paper and it came back and hit you.’&lt;/li&gt;
+  &lt;li&gt;Audio 0:12:11.955108&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-729b8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:12:34.844121&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-44c24.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:12:53.542528&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-67a34.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-55409.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:13:40.032752&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-d6d03.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:14:53.573853&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-15fb7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ernest-rutherford-baron-nelson-bsc-dsc-canterbury-college-university-of-new-zealand&quot;&gt;Ernest Rutherford, Baron Nelson, BSc, DSc, Canterbury College, University of New Zealand&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:15:04.348832&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-8ea75.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-1ded6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;building-on-the-rutherford-atomic-model-the-nuclear-atom-model&quot;&gt;Building on the Rutherford Atomic Model: The Nuclear Atom Model&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:16:11.946000&lt;/li&gt;
+  &lt;li&gt;The nuclear theory of the atom has three basic parts
+    &lt;ol&gt;
+      &lt;li&gt;Most of the atom’s mass and all of its positive charge are contained in a small core called a nucleus.&lt;/li&gt;
+      &lt;li&gt;Most of the volume of the atom is empty space, throughout which tiny, negatively charged electrons are dispersed.&lt;/li&gt;
+      &lt;li&gt;There are many negatively charged electrons outside the nucleus as there are positively charged particles (named protons) within the nucleus, so that the atom is electrically neutral.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;protons-and-neutrons&quot;&gt;Protons (and Neutrons)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:17:40.279234&lt;/li&gt;
+  &lt;li&gt;Had bare proton (nucleus of hydrogen) Charge of alpha particle x 2 proton&lt;/li&gt;
+  &lt;li&gt;Mass of alpha particle x 4 proton&lt;/li&gt;
+  &lt;li&gt;So must be something else in the nucleus
+    &lt;ul&gt;
+      &lt;li&gt;Neutron&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;chadwicks-experiment-1932&quot;&gt;Chadwick’s Experiment (1932)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:18:21.136318&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-dc3d7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-atoms-subatomic-particles&quot;&gt;The Atom’s Subatomic Particles&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:04.055851&lt;/li&gt;
+  &lt;li&gt;All atoms are composed of the same subatomic particles:
+    &lt;ul&gt;
+      &lt;li&gt;Protons&lt;/li&gt;
+      &lt;li&gt;Neutrons&lt;/li&gt;
+      &lt;li&gt;Electrons&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Protons and neutrons have nearly identical masses
+    &lt;ul&gt;
+      &lt;li&gt;The mass of the proton is 1.67262 * 10^-27 kg&lt;/li&gt;
+      &lt;li&gt;The mass of the neutron is 1.67493 × 10^–27 kg.&lt;/li&gt;
+      &lt;li&gt;The mass of the electron is 9.1 × 10^31 kg.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The charge of the proton and the charge of the electron are equal in magnitude but opposite in sign. The neutron has no charge.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;subatomic-particles&quot;&gt;Subatomic Particles&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:21:17.788117&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-21e48.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;elements-defined-by-their-numbers-of-protons&quot;&gt;Elements: Defined by Their Numbers of Protons&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The most important number to the identity of an atom is the number of protons in its nucleus.&lt;/li&gt;
+  &lt;li&gt;The number of protons defines the element.&lt;/li&gt;
+  &lt;li&gt;The number of protons in an atom’s nucleus is its
+atomic number and is given the symbol Z.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;isotopes-elements-with-varied-number-of-neutrons&quot;&gt;Isotopes: Elements with Varied Number of Neutrons&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:24:33.380011&lt;/li&gt;
+  &lt;li&gt;All atoms of a given element have the same number of protons; however, they do not necessarily have the same number of neutrons.
+    &lt;ul&gt;
+      &lt;li&gt;Example:
+        &lt;ul&gt;
+          &lt;li&gt;All neon atoms contain 10 protons, but they
+may contain 10, 11, or 12 neutrons.&lt;/li&gt;
+          &lt;li&gt;All three types of neon atoms exist, and each has a slightly different mass.&lt;/li&gt;
+          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-8bce3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Atoms with the same number of protons but a different number of neutrons are called isotopes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;isotopes-representation&quot;&gt;Isotopes: Representation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:45.772174&lt;/li&gt;
+  &lt;li&gt;The sum of the number of neutrons and protons in an atom is its mass number and is represented by the symbol A.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-30c5e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;X is the chemical symbol, A is the mass number, and Z is the atomic number.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;isotopes-representation-1&quot;&gt;Isotopes: Representation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:28:13.708943&lt;/li&gt;
+  &lt;li&gt;A second common notation for isotopes is the chemical symbol (or chemical name) followed by a dash and the mass number of the isotope.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-c40c3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;isotopes-varied-number-of-neutrons&quot;&gt;Isotopes: Varied Number of Neutrons&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:28:56.545513&lt;/li&gt;
+  &lt;li&gt;The relative amount of each different isotope in a naturally occurring sample of a given element is roughly constant.&lt;/li&gt;
+  &lt;li&gt;The percentages are called the natural abundance of the isotopes.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-0dec3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-question&quot;&gt;Clicker Question&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:59.698445&lt;/li&gt;
+  &lt;li&gt;What is the atomic number (Z), mass number (A), of chlorine with 18 neutrons?&lt;/li&gt;
+  &lt;li&gt;Z = 17, A = 35 (or 17 + 18)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ions-charged-atoms-losing-and-gaining-electrons&quot;&gt;Ions: Charged Atoms Losing and Gaining Electrons&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:19.624557&lt;/li&gt;
+  &lt;li&gt;The number of electrons in a neutral atom is equal to the number of protons in its nucleus (designated by its atomic number Z).&lt;/li&gt;
+  &lt;li&gt;In chemical changes, however, atoms can lose or gain electrons and become charged particles called ions.
+    &lt;ul&gt;
+      &lt;li&gt;Positively charged ions are called cations.
+        &lt;ul&gt;
+          &lt;li&gt;Metal elements, such as Na+, form cations.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Negatively charged ions are called anions.
+        &lt;ul&gt;
+          &lt;li&gt;Nonmetal elements, such as F–, form anions.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;atomic-mass-the-average-mass-of-an-elements-atoms&quot;&gt;Atomic Mass: The Average Mass of an Element’s Atoms&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:03.449187&lt;/li&gt;
+  &lt;li&gt;Atomic mass is sometimes called the atomic weight or standard atomic weight.&lt;/li&gt;
+  &lt;li&gt;The atomic mass of each element is directly beneath the element’s symbol in the periodic table.&lt;/li&gt;
+  &lt;li&gt;The atomic mass of an element represents the average mass of the isotopes that compose that element
+    &lt;ul&gt;
+      &lt;li&gt;It is a weighted value based on the element’s natural abundance of each isotope.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-812c2.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:36:29.805279&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-38b17.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mass-spectrometry-measuring-the-mass-of-atoms-and-molecules&quot;&gt;Mass Spectrometry: Measuring the Mass of Atoms and Molecules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The masses of atoms and the percent abundances of isotopes of elements are measured using mass spectrometry—a technique that separates particles according to their mass.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-1b873.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;atomic-mass-problem&quot;&gt;Atomic Mass: Problem&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Naturally occurring chlorine consists of 75.77% chlorine-35 atoms (mass 34.97 amu) and 24.23% chlorine-37 atoms (mass 36.97 amu).&lt;/li&gt;
+  &lt;li&gt;Calculate chlorine’s atomic mass.&lt;/li&gt;
+  &lt;li&gt;Audio 0:39:29.943281&lt;/li&gt;
+  &lt;li&gt;75.77 % / 100 % * 34.97 amu + 24.23%/100% * 36.97 amu&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vocab&quot;&gt;Vocab&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;term&lt;/th&gt;
+      &lt;th&gt;definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;atomic number&lt;/td&gt;
+      &lt;td&gt;number of protons in an atom’s nucleus (Z)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;isotopes&lt;/td&gt;
+      &lt;td&gt;atoms with the same number of protons but a different number of neutrons&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;mass number&lt;/td&gt;
+      &lt;td&gt;the sum of the number of neutrons and protons in an atom&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;natural abundance&lt;/td&gt;
+      &lt;td&gt;the relative amount of each different isotope in a naturally occurring sample of a given element (it is roughly constant)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;atomic structure&lt;/td&gt;
+      &lt;td&gt;highly condensed mass in nucleus with mostly empty space in electron cloud&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;nucleus&lt;/td&gt;
+      &lt;td&gt;the small core of an atom (contains most of it’s mass and the positive charge)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;protons&lt;/td&gt;
+      &lt;td&gt;positively charged particles (in the nucleus of an atom)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;cations&lt;/td&gt;
+      &lt;td&gt;positively charged ions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;anions&lt;/td&gt;
+      &lt;td&gt;negatively charged ions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;mass spectrometry&lt;/td&gt;
+      &lt;td&gt;technique that separates particles according to their mass&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Wed, 24 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/08/24/week-2-day-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/24/week-2-day-2.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 2 - Day 1</title>
@@ -46,13 +404,13 @@
 &lt;ul&gt;
   &lt;li&gt;The answer cannot have more digits to the right of the decimal point than any of the original numbers
     &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-19-week-1-day-2-c7ef7.png&quot; alt=&quot;&quot; /&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-19-week-1-day-2-c7ef7.png&quot; alt=&quot;&quot; /&gt;
         &lt;ul&gt;
           &lt;li&gt;1.1 has one sig fig after decimal&lt;/li&gt;
           &lt;li&gt;round 90.432 to 90.4&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-19-week-1-day-2-6e28c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-19-week-1-day-2-6e28c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Look at sig figs in the given variables in the problem and have that many in your answer&lt;/li&gt;
@@ -64,7 +422,7 @@
 &lt;ul&gt;
   &lt;li&gt;Audio 0:03:48.566124&lt;/li&gt;
   &lt;li&gt;The number of significant figures in the result is set by the original number that has the &lt;em&gt;smallest&lt;/em&gt; number of significant figures&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-bdeee.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-bdeee.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;significant-figures---exact-numbers&quot;&gt;Significant Figures - Exact Numbers&lt;/h2&gt;
@@ -73,7 +431,7 @@
   &lt;li&gt;Audio 0:05:48.200501&lt;/li&gt;
   &lt;li&gt;Numbers from definitions or numbers of objects are considered to have an infinite number of significant figures
 The average of three measured lengths; 6.64, 6.68 and 6.70?&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-7a38e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-7a38e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;Because 3 is an exact number
     &lt;ul&gt;
       &lt;li&gt;You don’t round to one sig fig because you ignore exact numbers when determining how many to round to&lt;/li&gt;
@@ -87,7 +445,7 @@ The average of three measured lengths; 6.64, 6.68 and 6.70?&lt;/li&gt;
   &lt;li&gt;Audio 0:08:18.238337&lt;/li&gt;
   &lt;li&gt;Accuracy – how close a measurement is to the true value&lt;/li&gt;
   &lt;li&gt;Precision – how close a set of measurements are to each other&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-618b1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-618b1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;https://www.khanacademy.org/math/arithmetic-home/arith-review-decimals/arithmetic-significant-figures-tutorial/e/significant_figures_1&quot;&gt;test your ability&lt;/a&gt;&lt;/li&gt;
@@ -190,7 +548,7 @@ The average of three measured lengths; 6.64, 6.68 and 6.70?&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Audio 0:28:53.424491&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-cafbd.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-cafbd.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;the-law-of-definite-proportions&quot;&gt;The Law of Definite Proportions&lt;/h2&gt;
@@ -212,7 +570,7 @@ The average of three measured lengths; 6.64, 6.68 and 6.70?&lt;/li&gt;
   &lt;li&gt;Audio 0:32:02.047142&lt;/li&gt;
   &lt;li&gt;The decomposition of 18.0 g of water (H2O) results in 16.0 g of oxygen (O2) and 2.0 g of hydrogen (H2)&lt;/li&gt;
   &lt;li&gt;an oxygen-to-hydrogen mass ratio of 8:1.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-7e599.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-7e599.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;problem-solving-the-law-of-definite-proportions&quot;&gt;Problem Solving: The Law of Definite Proportions&lt;/h2&gt;
@@ -238,14 +596,14 @@ The average of three measured lengths; 6.64, 6.68 and 6.70?&lt;/li&gt;
   &lt;li&gt;Audio 0:36:00.257154&lt;/li&gt;
   &lt;li&gt;Carbon monoxide and carbon dioxide are two compounds composed of the same two elements: carbon and oxygen.
     &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-23da8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-23da8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
       &lt;li&gt;The mass ratio of oxygen to carbon in carbon dioxide is 2.67:1; therefore, 2.67 g of oxygen reacts with 1 g of carbon.&lt;/li&gt;
       &lt;li&gt;In carbon monoxide, however, the mass ratio of oxygen to carbon is 1.33:1, or 1.33 g of oxygen to every 1 g of carbon.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;The ratio of these two masses is itself a small whole number
     &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-c08d4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-c08d4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -255,7 +613,7 @@ The average of three measured lengths; 6.64, 6.68 and 6.70?&lt;/li&gt;
 &lt;ul&gt;
   &lt;li&gt;Nitrogen forms a number of compounds with oxygen. Measurements of the masses of nitrogen and oxygen that form upon decomposing these compounds show that nitrogen dioxide contains 2.28 g oxygen to every 1.00 g of nitrogen, while dinitrogen monoxide contains 0.570 g oxygen to every 1.00 g nitrogen. Show that the results are consistent with the law of multiple proportions:
     &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-46ea2.png&quot; alt=&quot;&quot; /&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-46ea2.png&quot; alt=&quot;&quot; /&gt;
         &lt;ul&gt;
           &lt;li&gt;4 is a small whole number which coincides with the law of multiple proportions&lt;/li&gt;
         &lt;/ul&gt;
@@ -287,22 +645,22 @@ The average of three measured lengths; 6.64, 6.68 and 6.70?&lt;/li&gt;
       &lt;li&gt;The value he measured was –1.76 × 103 coulombs per gram. © 2015 Pearson Education, Inc.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-a024e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-a024e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;Audio 0:43:28.234010&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-68288.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-68288.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;Measured mass/charge of e-&lt;/li&gt;
   &lt;li&gt;Audio 0:44:28.784923&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-c4d37.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-c4d37.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;millikans-oil-drop-experiment-determining-the-charge-of-an-electron&quot;&gt;Millikan’s Oil Drop Experiment: Determining the Charge of an Electron&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:45:09.599076&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-db2e5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-f2945.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-db2e5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-f2945.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;Audio 0:45:42.474328&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-66a4b.png&quot; alt=&quot;&quot; /&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-66a4b.png&quot; alt=&quot;&quot; /&gt;
     &lt;ul&gt;
       &lt;li&gt;Calculated electron mass and hydrogen mass&lt;/li&gt;
     &lt;/ul&gt;
@@ -316,7 +674,7 @@ The average of three measured lengths; 6.64, 6.68 and 6.70?&lt;/li&gt;
     &lt;ul&gt;
       &lt;li&gt;Millikan’s experiment (–1.60 × 10–19 C/electron);&lt;/li&gt;
       &lt;li&gt;Thomson’s mass-to-charge ratio for electrons, it can be deducted that the mass of an electron is as follows:&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-22-week-2-day-1-17e9a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-17e9a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -614,7 +972,7 @@ The average of three measured lengths; 6.64, 6.68 and 6.70?&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;A scientific law allows you to predict future observations&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-19-week-1-day-2-a68b5.png&quot; alt=&quot;&quot; /&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-19-week-1-day-2-a68b5.png&quot; alt=&quot;&quot; /&gt;
     &lt;ul&gt;
       &lt;li&gt;Audio 0:31:28.593326&lt;/li&gt;
     &lt;/ul&gt;
@@ -624,7 +982,7 @@ The average of three measured lengths; 6.64, 6.68 and 6.70?&lt;/li&gt;
 &lt;h2 id=&quot;relationships-between-pieces-of-the-scientific-method&quot;&gt;Relationships Between Pieces of the Scientific Method&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-19-week-1-day-2-9652f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-19-week-1-day-2-9652f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;the-scientific-approach-to-knowledge-2&quot;&gt;The Scientific Approach to Knowledge&lt;/h2&gt;
@@ -674,7 +1032,7 @@ The average of three measured lengths; 6.64, 6.68 and 6.70?&lt;/li&gt;
   &lt;li&gt;quantitative observation&lt;/li&gt;
   &lt;li&gt;comparison to an agreed- upon standard&lt;/li&gt;
   &lt;li&gt;every measurement has a number and a unit&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-19-week-1-day-2-bae0e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-19-week-1-day-2-bae0e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;significant-figures&quot;&gt;Significant Figures&lt;/h2&gt;
@@ -689,7 +1047,7 @@ The average of three measured lengths; 6.64, 6.68 and 6.70?&lt;/li&gt;
   &lt;li&gt;Often write +- to indicate this: 11+-1 mm, 1.1 +-0.3 cm&lt;/li&gt;
   &lt;li&gt;No error range given? Then assume + half the least Significant Figure
     &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-19-week-1-day-2-5c1b1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-19-week-1-day-2-5c1b1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Audio 0:39:46.713576&lt;/li&gt;
@@ -775,13 +1133,13 @@ The average of three measured lengths; 6.64, 6.68 and 6.70?&lt;/li&gt;
 &lt;ul&gt;
   &lt;li&gt;The answer cannot have more digits to the right of the decimal point than any of the original numbers
     &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-19-week-1-day-2-c7ef7.png&quot; alt=&quot;&quot; /&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-19-week-1-day-2-c7ef7.png&quot; alt=&quot;&quot; /&gt;
         &lt;ul&gt;
           &lt;li&gt;1.1 has one sig fig after decimal&lt;/li&gt;
           &lt;li&gt;round 90.432 to 90.4&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-19-week-1-day-2-6e28c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-19-week-1-day-2-6e28c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Look at sig figs in the given variables in the problem and have that many in your answer&lt;/li&gt;
@@ -1029,7 +1387,7 @@ molecules.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;The state of matter changes from solid to liquid to gas with increasing temperature&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-17-week-1-day-1-860db.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-17-week-1-day-1-860db.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;solid-matter&quot;&gt;Solid Matter&lt;/h2&gt;
@@ -1072,7 +1430,7 @@ of solids.&lt;/li&gt;
   &lt;li&gt;Matter can be classified according to its composition: elements, compounds, and mixtures.&lt;/li&gt;
   &lt;li&gt;a &lt;em&gt;pure substance&lt;/em&gt; is made up of only one component, and its composition is invariant&lt;/li&gt;
   &lt;li&gt;a &lt;em&gt;mixture&lt;/em&gt; is a substance composed of two or more components in proportions that can vary from one sample to another&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;/CH101-008/assets/2016-08-17-week-1-day-1-8a83d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-17-week-1-day-1-8a83d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;vocab&quot;&gt;Vocab&lt;/h2&gt;
