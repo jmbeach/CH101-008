@@ -6,9 +6,205 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Aug 2016 15:22:19 -0500</pubDate>
-    <lastBuildDate>Wed, 24 Aug 2016 15:22:19 -0500</lastBuildDate>
+    <pubDate>Thu, 25 Aug 2016 11:23:49 -0500</pubDate>
+    <lastBuildDate>Thu, 25 Aug 2016 11:23:49 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 2 - Recitation</title>
+        <description>&lt;h2 id=&quot;questions&quot;&gt;Questions&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;How are gases different from solids and liquids?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Gases can only be made up of atoms.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; The particles in a gas attract each other much more strongly than in solids and liquids&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Gases are compressible&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Gases are colorless&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Correctly report the result of the following computation
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 4&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 3.7&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 3.72&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 3.716&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 3.7162
+&lt;span style=&quot;display:none&quot;&gt;It looks like 1.6 would be the smallest but you wait until you are actually performing the devision to determine which is the smallest&lt;/span&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;An atom which has lost an electron is
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; a cation&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; unlikely to be found in homogeneous mixtures&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; electrically neutral&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; likely to behave exactly like the parent atom&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; an anion&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Determine the number of protons, neutrons and electrons in the following: &lt;img src=&quot;../../../assets/2016-08-24-week-2-recitation-eccb1.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; p = 18, n = 18, e = 22&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; p = 18, n = 22, e = 18&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; p = 22, n = 18, e = 18&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; p = 18, n = 22, e = 40&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; p = 40, n = 22, e = 18&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Calculate the atomic mass of element “X” if it has 2 naturally occurring isotopes with the following masses and natural abundances
+    &lt;ul&gt;
+      &lt;li&gt;X-107  106.90509 amu  51.84%&lt;/li&gt;
+      &lt;li&gt;X-109  108.90476 amu  48.46%
+        &lt;ul&gt;
+          &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 107.90 amu&lt;/li&gt;
+          &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 108.00 amu&lt;/li&gt;
+          &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 107.79 amu&lt;/li&gt;
+          &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 108.32 amu&lt;/li&gt;
+          &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 108.19 amu&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A new compound was recently discovered and found to have an atomic weight of 342.38 amu. This element has two isotopes, the lighter of which has a mass of 340.91 amu and an abundance of 68.322%. What is the mass of the heavier isotope?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 350.21&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 345.55&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 348&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 108.32 amu&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 108.19 amu&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;script&gt;
+var st = false;
+function toggleSix() {
+  st = !st;
+  if (st) {
+    $('#sixHint').show();
+    $('#toggleSix').val('hide');
+  }
+  else {
+    $('#sixHint').hide();
+    $('#toggleSix').val('show solution');
+  }
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input id=&quot;toggleSix&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleSix()&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img id=&quot;sixHint&quot; src=&quot;../../../assets/2016-08-24-week-2-recitation-2cb30.png&quot; style=&quot;display:none&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Two or more substances in variable proportions, where the composition is variable throughout are
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; a solution&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; a homogeneous mixture&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; a compound&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; an amorphous solution&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; a heterogeneous mixture&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Calculate the mass of the air contained in a room that measures 2.50 m x 5.50 m x 3.00 m, given that the density of air is 1.29 g/dm^3 at 25 °C.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 3.13 x 10^-5 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 32.0 kg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 53.2 kg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 53.2 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 32.0 g&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Three students measure the density of copper (density of copper 8.92 g/cm^3) and obtain the following results:&lt;/p&gt;
+
+    &lt;table&gt;
+      &lt;thead&gt;
+        &lt;tr&gt;
+          &lt;th&gt;Student A&lt;/th&gt;
+          &lt;th&gt;Student B&lt;/th&gt;
+          &lt;th&gt;Student C&lt;/th&gt;
+        &lt;/tr&gt;
+      &lt;/thead&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;7.99 g/cm^3&lt;/td&gt;
+          &lt;td&gt;8.91 g/cm^3&lt;/td&gt;
+          &lt;td&gt;6.50 g/cm^3&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;7.98 g/cm^3&lt;/td&gt;
+          &lt;td&gt;8.90 g/cm^3&lt;/td&gt;
+          &lt;td&gt;6.90 g/cm^3&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;8.01 g/cm^3&lt;/td&gt;
+          &lt;td&gt;8.92 g/cm^3&lt;/td&gt;
+          &lt;td&gt;7.20 g/cm^3&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Which student is precise but not accurate?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Students A and B&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Student A&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Student C&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Student B&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; Students B and C&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+var answers = [&quot;c&quot;, &quot;c&quot;, &quot;a&quot;, &quot;b&quot;, &quot;e&quot;, &quot;b&quot;, &quot;e&quot;, &quot;c&quot;, &quot;b&quot;];
+function getAnswer(number) {
+  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
+}
+function validate() {
+  var any = false;
+  for (var i = 1; i &lt; 10; i++) {
+    var answer = getAnswer(i);
+    if (!answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
+      any = true;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
+    }
+  }
+  if (any) {
+    toastr.error(&quot;You did not answer every question!&quot;);
+  }
+  return !any;
+}
+function grade() {
+  if (!validate()) return;
+  var correct = 0;
+  for (var i = 1; i &lt; 10; i++) {
+    var answer = getAnswer(i);
+    if (answers[i-1] == answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
+      correct++;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
+    }
+  }
+  toastr.success(&quot;Your grade is &quot;+ ((correct/9) * 100).toFixed(2) + &quot; out of 100&quot;);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/08/24/week-2-recitation.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/24/week-2-recitation.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 2 - Day 2</title>
