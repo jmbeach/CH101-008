@@ -6,9 +6,330 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Aug 2016 16:06:54 -0500</pubDate>
-    <lastBuildDate>Thu, 25 Aug 2016 16:06:54 -0500</lastBuildDate>
+    <pubDate>Fri, 26 Aug 2016 15:00:38 -0500</pubDate>
+    <lastBuildDate>Fri, 26 Aug 2016 15:00:38 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 2 - Day 3</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2ffqnc&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-2-day-3.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;c4nrM7v6-Cg&quot;});
+&lt;/script&gt;
+
+&lt;h2 id=&quot;announcements&quot;&gt;Announcements&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:46.589362&lt;/li&gt;
+  &lt;li&gt;Sound is garbage today. His mic was broken. I’ll sit closer next time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;rounding-rules&quot;&gt;Rounding Rules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:01:40.912711&lt;/li&gt;
+  &lt;li&gt;&amp;lt; 5 round down&lt;/li&gt;
+  &lt;li&gt;&amp;gt; 5 round up&lt;/li&gt;
+  &lt;li&gt;exactly 5 ?
+    &lt;ul&gt;
+      &lt;li&gt;Missed what he said&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;chapter-2---measurement-problem-solving-and-the-mole-concept&quot;&gt;Chapter 2 - Measurement, Problem Solving, and the Mole Concept&lt;/h1&gt;
+
+&lt;h2 id=&quot;the-standard-units&quot;&gt;The Standard Units&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:02:06.373427&lt;/li&gt;
+  &lt;li&gt;Scientists have agreed on a set of international standard units for comparing all our measurements called the SI units
+    &lt;ul&gt;
+      &lt;li&gt;Système International = International System&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:02:50.788800&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-a59cd.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:05:08.029693&lt;/li&gt;
+  &lt;li&gt;Matter - anything that occupies space and has mass.
+    &lt;ul&gt;
+      &lt;li&gt;mass – measure of the quantity of matter
+        &lt;ul&gt;
+          &lt;li&gt;SI unit of mass is the kilogram (kg)&lt;/li&gt;
+          &lt;li&gt;1kg=1000g=1x10^3 g&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;weight – force that gravity exerts on an object&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-8e475.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mass&quot;&gt;Mass&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:06:06.450576&lt;/li&gt;
+  &lt;li&gt;kg
+    &lt;ul&gt;
+      &lt;li&gt;about 2 lbs 3 oz&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;length&quot;&gt;Length&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:06:35.376924&lt;/li&gt;
+  &lt;li&gt;SI unit = meter
+    &lt;ul&gt;
+      &lt;li&gt;3.37 inches longer than a yard&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:07:38.776888&lt;/li&gt;
+  &lt;li&gt;Memorize the prefixes!&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-ec143.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gimli-glider&quot;&gt;Gimli Glider:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:11:07.232754&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cbc.ca/player/Digital+Archives/Science+and+Technology/Measurement/ID/1434886244/&quot;&gt;Metric conversion error&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;chemistry-in-action&quot;&gt;Chemistry In Action&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:15.114556&lt;/li&gt;
+  &lt;li&gt;On 9/23/99, $125,000,000 Mars Climate Orbiter entered Mars’ atmosphere 100 km lower than planned and was destroyed by heat.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-bf24b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;“This is going to be the cautionary tale that will be embedded into introduction to the metric system in elementary school, high school, and college science courses till the end of time.”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;volume&quot;&gt;Volume&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:14:22.485803&lt;/li&gt;
+  &lt;li&gt;Volume – SI derived unit for volume is cubic meter (m^3)&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-22b94.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;extensive-and-intensive-properties&quot;&gt;Extensive and Intensive Properties&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:17:51.208624&lt;/li&gt;
+  &lt;li&gt;An extensive property of a material depends upon how much matter is is being considered.
+    &lt;ul&gt;
+      &lt;li&gt;mass&lt;/li&gt;
+      &lt;li&gt;length&lt;/li&gt;
+      &lt;li&gt;volume&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;An intensive property of a material does not depend
+upon how much matter is being considered.
+    &lt;ul&gt;
+      &lt;li&gt;density&lt;/li&gt;
+      &lt;li&gt;temperature&lt;/li&gt;
+      &lt;li&gt;color&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;question-1&quot;&gt;Question 1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Which of the following is an example of an intensive property
+    &lt;ul&gt;
+      &lt;li&gt;Temperature&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;density&quot;&gt;Density&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:22:15.274916&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-5e9bd.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Density is
+    &lt;ul&gt;
+      &lt;li&gt;an INTENSIVE physical property.
+        &lt;ul&gt;
+          &lt;li&gt;The physical property does not depend on amount of substance.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The physical properties of mass and volume that determine a substance’s density are EXTENSIVE.
+    &lt;ul&gt;
+      &lt;li&gt;Extensive physical properties are dependent on amount.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Densities of liquids and gases are affected by temperature.&lt;/li&gt;
+  &lt;li&gt;Audio 0:23:13.252741&lt;/li&gt;
+  &lt;li&gt;Density – SI derived unit for density is kg/m^3
+    &lt;ul&gt;
+      &lt;li&gt;1 g/cm^3 = 1 g/mL = 1000 kg/m^3&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;density = mass / volume
+    &lt;ul&gt;
+      &lt;li&gt;d = m/V&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ex-1&quot;&gt;Ex 1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Piece of platinum with mass of 96.5g and a volume of 4.49 cm^3. Find the density of platinum&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-139ac.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ex-2&quot;&gt;Ex 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:36.209585&lt;/li&gt;
+  &lt;li&gt;Mercury has a density of 13.534 g/cm^3. A sample of mercury has a volume of 24 cm^3. Find the mass of the sample&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-4482f.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:29:40.010633&lt;/li&gt;
+  &lt;li&gt;For equal volumes, denser object has larger mass&lt;/li&gt;
+  &lt;li&gt;For equal masses, denser object has smaller volume&lt;/li&gt;
+  &lt;li&gt;Heating an object generally causes it to expand, therefore the density changes with temperature
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-4f96b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;comparison-of-the-three-temperature-scales&quot;&gt;Comparison of the Three Temperature scales&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:02.968553&lt;/li&gt;
+  &lt;li&gt;25 C = 77 F = 298 K
+    &lt;ul&gt;
+      &lt;li&gt;Celsius is what we use&lt;/li&gt;
+      &lt;li&gt;Water freezes at 0 C and boils at 100.
+        &lt;ul&gt;
+          &lt;li&gt;Logical. Fahrenheit isn’t&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;F to C =&amp;gt; (9/5) * degrees Celsius + 32&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;scientific-notation&quot;&gt;Scientific Notation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:38:13.441616&lt;/li&gt;
+  &lt;li&gt;The number of atoms in 12 g of carbon: 602,200,000,000,000,000,000,000
+    &lt;ul&gt;
+      &lt;li&gt;6.022 * 10^3 atoms&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:39:05.792632&lt;/li&gt;
+  &lt;li&gt;The mass of a single carbon atom in grams
+    &lt;ul&gt;
+      &lt;li&gt;0.0000000000000000000000199&lt;/li&gt;
+      &lt;li&gt;1.99*10^-23&lt;/li&gt;
+      &lt;li&gt;N * 10^n
+        &lt;ul&gt;
+          &lt;li&gt;N is a number between 1 and 10&lt;/li&gt;
+          &lt;li&gt;n is a positive or negative integer&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:40:49.588209&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-a4a6b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;scientific-notation---multiplication-and-devision&quot;&gt;Scientific Notation - Multiplication and devision&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:43:12.438956&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-eef67.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;energy-changes-in-matter&quot;&gt;Energy Changes in Matter&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:45:25.068840&lt;/li&gt;
+  &lt;li&gt;changes in matter, both physical and chemical, result in the matter either gaining or releasing energy&lt;/li&gt;
+  &lt;li&gt;energy is the capacity to do work&lt;/li&gt;
+  &lt;li&gt;work is the action of a force applied across a distance
+    &lt;ul&gt;
+      &lt;li&gt;a force is a push or a pull on an object&lt;/li&gt;
+      &lt;li&gt;electrostatic force is the push or pull on objects that have an electrical charge&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-d9bc3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;energy-of-matter&quot;&gt;Energy of Matter&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:47:25.068840&lt;/li&gt;
+  &lt;li&gt;all matter possesses energy&lt;/li&gt;
+  &lt;li&gt;energy is classified as either kinetic or potential&lt;/li&gt;
+  &lt;li&gt;energy can be converted from one form to another&lt;/li&gt;
+  &lt;li&gt;when matter undergoes a chemical or physical change, the amount of energy in the matter changes as well&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vocab&quot;&gt;Vocab&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Term&lt;/td&gt;
+      &lt;td&gt;Definition&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;mass&lt;/td&gt;
+      &lt;td&gt;measure of quantity of matter&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;weight&lt;/td&gt;
+      &lt;td&gt;force that gravity exerts on an object&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;extensive property&lt;/td&gt;
+      &lt;td&gt;property of a material which depends upon how much matter is is being considered&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;intensive property&lt;/td&gt;
+      &lt;td&gt;property of a material which does not depend upon how much matter is being considered&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;energy&lt;/td&gt;
+      &lt;td&gt;capacity to do work&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Fri, 26 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/08/26/week-2-day-3.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/26/week-2-day-3.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 2 - Recitation</title>
