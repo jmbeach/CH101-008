@@ -6,9 +6,317 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Aug 2016 15:03:50 -0500</pubDate>
-    <lastBuildDate>Fri, 26 Aug 2016 15:03:50 -0500</lastBuildDate>
+    <pubDate>Mon, 29 Aug 2016 13:43:20 -0500</pubDate>
+    <lastBuildDate>Mon, 29 Aug 2016 13:43:20 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 3 - Day 1</title>
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-3-day-1.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;HUV71IVwULM&quot;});
+&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2g0nv3&quot;&gt;Quizlet for terms in this lecture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;announcements&quot;&gt;Announcements&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If you’ve had an error while trying to do the pre-lab before the assignment was due, you will not be penalized and you will be able to participate in the lab&lt;/li&gt;
+  &lt;li&gt;If you go to recitation, you’ll see a grade, but you won’t actually get a grade for it, it’s just to let you know how you did&lt;/li&gt;
+  &lt;li&gt;Blackboard isn’t trustable in terms of what your actual grade is&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;energy-of-matter&quot;&gt;Energy of Matter&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:01:00.206391&lt;/li&gt;
+  &lt;li&gt;all matter possesses energy&lt;/li&gt;
+  &lt;li&gt;energy is classified as either kinetic or potential&lt;/li&gt;
+  &lt;li&gt;energy can be converted from one form to another&lt;/li&gt;
+  &lt;li&gt;when matter undergoes a chemical or physical change, the amount of energy in the matter changes as well&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;energy-of-matter---kinetic&quot;&gt;Energy of Matter - Kinetic&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:02:50.452505&lt;/li&gt;
+  &lt;li&gt;Kinetic energy is energy of motion
+    &lt;ul&gt;
+      &lt;li&gt;motion of the atoms, molecules, and subatomic particles&lt;/li&gt;
+      &lt;li&gt;thermal (heat) energy is a form of kinetic energy because it is caused by molecular motion&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;energy-of-matter---potential&quot;&gt;Energy of Matter - Potential&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:04:28.166741&lt;/li&gt;
+  &lt;li&gt;potential energy is energy that is stored in the matter
+    &lt;ul&gt;
+      &lt;li&gt;due to the composition of the matter and its position in the universe&lt;/li&gt;
+      &lt;li&gt;chemical potential energy arises from electrostatic forces between atoms, molecules, and subatomic particles&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conversion-of-energy&quot;&gt;Conversion of Energy&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:04:55.558320&lt;/li&gt;
+  &lt;li&gt;Can interconvert kinetic energy and potential energy&lt;/li&gt;
+  &lt;li&gt;whatever process that converts energy from one type or form to another, the total amount of energy remains the same
+    &lt;ul&gt;
+      &lt;li&gt;Law of Conservation of Energy&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;spontaneous-processes&quot;&gt;Spontaneous Processes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:05:47.137848&lt;/li&gt;
+  &lt;li&gt;materials that possess high potential energy are less stable&lt;/li&gt;
+  &lt;li&gt;processes in nature tend to occur on their own when the result is material(s) with lower total potential energy
+    &lt;ul&gt;
+      &lt;li&gt;processes that result in materials with higher total potential energy can occur, but generally will not happen without input of energy from an outside source&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;when a process results in materials with less potential energy at the end than there was at the beginning, the difference in energy is released into the environment
+    &lt;ul&gt;
+      &lt;li&gt;Released as heat&lt;/li&gt;
+      &lt;li&gt;Can be used to drive your car, heat your house, cool your house, etc&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-bbffd.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:08:24.475547&lt;/li&gt;
+      &lt;li&gt;Potential becomes kinetic energy which becomes heat&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;potential-to-kinetic-energy&quot;&gt;Potential to Kinetic Energy&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:09:14.128456&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-37e38.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Gasoline burns, heat comes out tailpipe, but also propels car forward&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;properties-of-matter&quot;&gt;Properties of Matter&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:09:54.800676&lt;/li&gt;
+  &lt;li&gt;physical properties are the characteristics of matter that can be changed without changing its composition
+    &lt;ul&gt;
+      &lt;li&gt;characteristics that are directly observable&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;chemical properties are the characteristics that determine how the composition of matter changes as a result of contact with other matter or the influence of energy
+    &lt;ul&gt;
+      &lt;li&gt;characteristics that describe the behavior of matter&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;convert-1729-f-to-degrees-celsius&quot;&gt;Convert 172.9 F to degrees Celsius&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:14:51.677292&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-d592c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;dimensional-analysis-method-of-solving-problems&quot;&gt;Dimensional Analysis Method of Solving Problems&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:17:11.366509
+    &lt;ol&gt;
+      &lt;li&gt;Determine which unit conversion factor(s) are needed&lt;/li&gt;
+      &lt;li&gt;Carry units through calculation&lt;/li&gt;
+      &lt;li&gt;If all units cancel except for the desired unit(s), then the problem was solved correctly.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ex-how-many-ml-are-in-163-l&quot;&gt;Ex: How many mL are in 1.63 L?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-c6215.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ex-the-speed-of-sound-in-air-is-about-343-ms-what-is-this-speed-in-miles-per-hour-1-mile--1609-km&quot;&gt;Ex: The speed of sound in air is about 343 m/s. What is this speed in miles per hour? (1 mile = 1.609 km)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:52.486829&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-284d5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-a-mole&quot;&gt;What is a Mole?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:59.232240&lt;/li&gt;
+  &lt;li&gt;A mole is a scientist’s “baker’s dozen.”
+    &lt;ul&gt;
+      &lt;li&gt;When we count large numbers of objects, we often use units such as
+        &lt;ul&gt;
+          &lt;li&gt;1 dozen objects = 12 objects&lt;/li&gt;
+          &lt;li&gt;1 gross objects = 144 objects.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A mole (mol) of anything contains 6.02214 × 1023 pieces.
+    &lt;ul&gt;
+      &lt;li&gt;Examples:
+        &lt;ul&gt;
+          &lt;li&gt;1 mol of marbles corresponds to 6.02214 × 1023 marbles.&lt;/li&gt;
+          &lt;li&gt;1 mol of sand grains corresponds to 6.02214 × 1023 sand grains.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;This number is Avogadro’s number.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-mole&quot;&gt;The Mole&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:54.511808&lt;/li&gt;
+  &lt;li&gt;The second, and more fundamental, thing to understand about the mole is how it gets its specific value.&lt;/li&gt;
+  &lt;li&gt;The value of the mole is equal to the number of atoms in exactly 12 grams of pure C-12.&lt;/li&gt;
+  &lt;li&gt;12 g C = 1 mol C atoms = 6.022×10^23 C atoms&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mole-conversions-atoms-to-moles-or-moles-to-atoms&quot;&gt;Mole Conversions: Atoms to Moles or Moles to Atoms&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:28:02.694268&lt;/li&gt;
+  &lt;li&gt;Converting between number of moles and number of atoms is similar to converting between dozens of eggs and number of eggs.&lt;/li&gt;
+  &lt;li&gt;For atoms, you use the conversion factor 1 mol atoms = 6.022 × 1023 atoms.&lt;/li&gt;
+  &lt;li&gt;The conversion factors take the following forms:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-ef8de.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;converting-between-mass-and-moles&quot;&gt;Converting between Mass and Moles&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:28:55.905682&lt;/li&gt;
+  &lt;li&gt;The molar mass of any element is the conversion factor between the mass (in grams) of that element and the amount (in moles) of that element.&lt;/li&gt;
+  &lt;li&gt;Example:
+    &lt;ul&gt;
+      &lt;li&gt;12.01 g C atoms = 1 mol C atoms&lt;/li&gt;
+      &lt;li&gt;or 12.01 g C atoms/1 mol C atoms&lt;/li&gt;
+      &lt;li&gt;or 1 mol C atoms/12.01 g C atoms&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mass-to-moles-to-number-of-particles-the-conceptual-plan&quot;&gt;Mass to Moles to Number of Particles: The Conceptual Plan&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:30:08.760686&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-2a75f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;converting-between-mass-and-moles-1&quot;&gt;Converting between Mass and Moles&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:31:09.351315&lt;/li&gt;
+  &lt;li&gt;How many copper atoms are in a copper penny with a mass of 3.10 g?
+(Assume that the penny is composed of pure copper: Molar Mass of Copper: 63.55 g/mol)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ex-converting-mass-and-moles&quot;&gt;Ex: Converting mass and moles&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How many copper atoms are in a copper penny with a mass of 3.10 g? Mollar mass of Copper is 63.55g/mol&lt;/li&gt;
+  &lt;li&gt;Audio 0:33:32.001193&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-8b01e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;li-atoms&quot;&gt;Li atoms&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How many lithium atoms are in 97.9 grams of Lithium. The molar mass of Lithium is 6.94 g / mol&lt;/li&gt;
+  &lt;li&gt;Audio 0:35:39.657032&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-f952f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;converting-between-particles-and-mass&quot;&gt;Converting between Particles and Mass&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:39:03.568008&lt;/li&gt;
+  &lt;li&gt;An aluminum sphere contains 8.55 * 10^22 aluminum atoms. What is the sphere’s radius in cm? Density of aluminum is 2.7 g/cm^3
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-d1567.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vocab&quot;&gt;Vocab&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;kinetic energy&lt;/td&gt;
+      &lt;td&gt;energy of motion&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;potential energy&lt;/td&gt;
+      &lt;td&gt;energy that is stored in matter&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;law of conservation of energy&lt;/td&gt;
+      &lt;td&gt;says you cannot create or destroy energy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;physical properties&lt;/td&gt;
+      &lt;td&gt;properties that can be changed without changing matter’s composition&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;chemical properties&lt;/td&gt;
+      &lt;td&gt;properties of matter which determine how the composition of matter changes when it contacts other matter&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;mole (Avogadro’s number)&lt;/td&gt;
+      &lt;td&gt;6.022 * 10^23 of anything&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Mon, 29 Aug 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/08/29/week-3-day-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/29/week-3-day-1.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 2 - Day 3</title>
