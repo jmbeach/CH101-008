@@ -6,318 +6,192 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 31 Aug 2016 15:27:17 -0500</pubDate>
-    <lastBuildDate>Wed, 31 Aug 2016 15:27:17 -0500</lastBuildDate>
+    <pubDate>Thu, 01 Sep 2016 12:06:52 -0500</pubDate>
+    <lastBuildDate>Thu, 01 Sep 2016 12:06:52 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Week 3 - Day 2</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2gas0u&quot;&gt;Quizlet on terms from this lecture&lt;/a&gt;&lt;/p&gt;
+        <title>Week 2 - Recitation</title>
+        <description>&lt;h2 id=&quot;density-table&quot;&gt;Density table&lt;/h2&gt;
 
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-3-day-2.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-bce8f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
+&lt;h2 id=&quot;questions&quot;&gt;Questions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Which of the following has the largest density?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A material that has a mass of 10.0 g and a volume of 2.00 L&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; A material that has a mass of 6.13 g and a volume of 5 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; A material that has a mass of 5 g and a volume of 10.0 cm^3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; A material that sinks in ethanol but floats in water&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;script&gt;
-  new AudioNavigator({videoId:&quot;DT9qg_zFyWA&quot;});
+var st1 = false;
+function toggleOne() {
+  st1 = !st1;
+  if (st1) {
+    $('#oneHint').show();
+    $('#toggleOne').val('hide');
+  }
+  else {
+    $('#oneHint').hide();
+    $('#toggleOne').val('show solution');
+  }
+}
 &lt;/script&gt;
 
-&lt;h1 id=&quot;test-1&quot;&gt;Test 1&lt;/h1&gt;
+&lt;p&gt;&lt;input id=&quot;toggleOne&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleOne()&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img id=&quot;oneHint&quot; src=&quot;../../../assets/2016-08-31-week-3-day-2-01032.png&quot; style=&quot;display:none&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;In this room next Wednesday at recitation time (6:30 pm - 7:50 pm)&lt;/li&gt;
-  &lt;li&gt;Covers chapter 1, 2, and however we’ve got in 3&lt;/li&gt;
-  &lt;li&gt;This evening’s recitation is a survey to get a sense of each student’s background and how it affects their performance
+  &lt;li&gt;A room measures 22 feet in width. What is the distance in meters? 1 in = 2.54 cm
     &lt;ul&gt;
-      &lt;li&gt;Bring a pencil&lt;/li&gt;
-      &lt;li&gt;5 bonus points&lt;/li&gt;
-      &lt;li&gt;Audio 0:02:42.008620&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 72m&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 4.7m&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1.0m&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 6.7m&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;clicker-question&quot;&gt;Clicker question&lt;/h2&gt;
+&lt;script&gt;
+var st2 = false;
+function toggleTwo() {
+  st2 = !st2;
+  if (st2) {
+    $('#twoHint').show();
+    $('#toggleTwo').val('hide');
+  }
+  else {
+    $('#twoHint').hide();
+    $('#toggleTwo').val('show solution');
+  }
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input id=&quot;toggleTwo&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleTwo()&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img id=&quot;twoHint&quot; src=&quot;../../../assets/2016-08-31-week-3-day-2-98096.png&quot; style=&quot;display:none&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Audio 0:05:36.915010&lt;/li&gt;
-  &lt;li&gt;4.21ft^3 to Liters&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-c7aa7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;nd-question&quot;&gt;2nd Question&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:11:49.252666&lt;/li&gt;
-  &lt;li&gt;How many atoms are in a sample of copper with volume of 0.475 cm^3 and a density of 8.96 g / cm^3?
+  &lt;li&gt;How many ounces of mercury are in 1.0 m^3 of mercury? Hint: 1 oz = 28.35 g.
     &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-91f17.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 6.5 * 10^6 oz&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 4.8 * 10^5 oz&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 5.2 * 10^4 oz&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 6.5 * 10^4 oz&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 48 oz&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Determine the mass of 2.5 cups of water if the density of water is 1.00 g/cm^3 and 1 cup = 240 mL
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 2.5 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 6.0 * 10^2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1.0 * 10^-2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 2.4 * 10^2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 1.0 * 10^2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A cube of aluminum (density = 2.7 g/mL) has a mass of 17.2 g. What is the edge length of the cube?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 6.34 cm&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 1.85 cm&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 2.58 cm&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 3.59 cm&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Which of the following is FALSE?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; The mole can be used to specify Avogadro’s number of anything&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Avogadro’s number, 6.022 * 10^23, is an exact number.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; The mole is equal to the number of atoms in exactly 12 g of carbon-12.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; The value of an element’s molar mass in grams per mole is numerically equal to the element’s atomic mass in amu.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Place the following types of electromagnetic radiation in order of decreasing energy
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; radio waves &amp;gt; infrared light &amp;gt; gamma rays&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; gamma rays &amp;gt; infrared light &amp;gt; radio waves&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; radio waves &amp;gt; gamma rays &amp;gt; infrared light&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; gamma rays &amp;gt; radio waves &amp;gt; infrared light&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Calculate the wavelength (in nm) of the blue light emitted by a mercury lamp with a frequency of 6.88 * 10^14 Hz.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 229 nm&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 436 nm&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 206 nm&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 485 nm&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 675 nm&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;How many moles of Kr are contained in 398 mg of Kr?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 4.75 * 10^-3 moles Kr&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 33.4 moles Kr&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 2.11 * 10^-4 moles Kr&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 2.99 * 10^-3 moles Kr&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 1.19 * 10^-4 moles Kr&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Calculate the mass (in kg) of 4.87 * 10^25 atoms of Zn
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 5.29 kg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 1.89 kg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 8.09 kg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1.24 kg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 1.09 kg&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h2&gt;
+&lt;script&gt;
+var answers = [&quot;b&quot;, &quot;d&quot;, &quot;b&quot;, &quot;b&quot;, &quot;b&quot;, &quot;b&quot;, &quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;a&quot;];
+function getAnswer(number) {
+  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
+}
+function validate() {
+  var any = false;
+  for (var i = 1; i &lt; 10; i++) {
+    var answer = getAnswer(i);
+    if (!answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
+      any = true;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
+    }
+  }
+  if (any) {
+    toastr.error(&quot;You did not answer every question!&quot;);
+  }
+  return !any;
+}
+function grade() {
+  if (!validate()) return;
+  var correct = 0;
+  for (var i = 1; i &lt; 11; i++) {
+    var answer = getAnswer(i);
+    if (answers[i-1] == answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
+      correct++;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
+    }
+  }
+  toastr.success(&quot;Your grade is &quot;+ ((correct/10) * 100).toFixed(2) + &quot; out of 100&quot;);
+}
+&lt;/script&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:18:47.526137&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;properties-of-waves&quot;&gt;Properties of Waves&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:19:09.721677&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-ee942.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Wavelength (λ) is the distance between identical points on successive waves.&lt;/li&gt;
-  &lt;li&gt;Amplitude is the vertical distance from the midline of a wave to the peak or trough.&lt;/li&gt;
-  &lt;li&gt;Audio 0:20:20.914304&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-d3c55.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Frequency (ν) is the number of waves that pass through a particular point in 1 second (Hz = 1 cycle/s).&lt;/li&gt;
-  &lt;li&gt;Audio 0:21:32.710413&lt;/li&gt;
-  &lt;li&gt;The speed (v) of the wave = λ x ν&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;light&quot;&gt;Light&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:23:42.023732&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-20a17.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;amplitude-and-wavelength&quot;&gt;Amplitude and Wavelength&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:24:52.722734&lt;/li&gt;
-  &lt;li&gt;Wavelength and amplitude are independent properties.
-    &lt;ul&gt;
-      &lt;li&gt;The wavelength of light determines its color (intensive physical property).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The amplitude, or intensity, determines its brightness (extensive physical property)
-    &lt;ul&gt;
-      &lt;li&gt;Brightness dependent on amplitude&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-7c4a7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;color&quot;&gt;Color&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:15.944132&lt;/li&gt;
-  &lt;li&gt;The color of light is determined by its wavelength or frequency.&lt;/li&gt;
-  &lt;li&gt;White light is a mixture of all the colors of visible light.
-    &lt;ul&gt;
-      &lt;li&gt;A spectrum&lt;/li&gt;
-      &lt;li&gt;Red Orange Yellow Green Blue Indigo Violet&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;When an object absorbs some of the wavelengths of white light and reflects others, it appears colored; the observed color is predominantly the colors reflected.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;maxwell&quot;&gt;Maxwell&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:23.185612&lt;/li&gt;
-  &lt;li&gt;Maxwell (1873), proposed that visible light consists of electromagnetic waves.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-bb539.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electromagnetic-spectrum&quot;&gt;Electromagnetic Spectrum&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:29:13.853883&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-f119a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;example-problem&quot;&gt;Example problem&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:30:56.499318&lt;/li&gt;
-  &lt;li&gt;An electromagnetic wave has a frequency of 6.0 x 10^4 Hz. Does this frequency fall in the visible region? Convert this frequency into wavelength (nm).
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-54430.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-question-1&quot;&gt;Clicker Question&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:34:13.178546&lt;/li&gt;
-  &lt;li&gt;What is the wave length of a wave with frequency 8.6 * 10^13 Hz?&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-810f9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;einstein-and-the-photoelectronic-effect&quot;&gt;Einstein and the Photoelectronic Effect&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:39:00.844561&lt;/li&gt;
-  &lt;li&gt;Hertz observed that when (some) light shines on a metal surface, electrons are produced from the surface.
-    &lt;ul&gt;
-      &lt;li&gt;The electrons emitted from the metal surface are photoelectrons.&lt;/li&gt;
-      &lt;li&gt;This phenomenon is called the photoelectric effect.&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-d3c74.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:40:20.734175
-    &lt;ol&gt;
-      &lt;li&gt;Number of electrons depends upon light intensity&lt;/li&gt;
-      &lt;li&gt;More Kinetic energy at higher frequency of light&lt;/li&gt;
-      &lt;li&gt;Emission has a frequency threshold, below which there are no electrons&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-16cda.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;explaining-the-photoelectric-effect&quot;&gt;Explaining the Photoelectric Effect&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:42:05.218727&lt;/li&gt;
-  &lt;li&gt;Classic theory explanation:
-    &lt;ul&gt;
-      &lt;li&gt;The photoelectric effect according to classic wave theory attributed the electrons’ being emitted from the metal surface to the light energy being transferred to the electrons.&lt;/li&gt;
-      &lt;li&gt;Classic theory states the following:
-        &lt;ul&gt;
-          &lt;li&gt;If the wavelength of light is made shorter or the light wave’s
-intensity is made brighter, more electrons should be ejected.&lt;/li&gt;
-          &lt;li&gt;Energy of a wave is directly proportional to its amplitude and its frequency.
-            &lt;ul&gt;
-              &lt;li&gt;Example: If a dim light is used there should be a lag time before electrons are emitted in order to give the electrons time to absorb enough energy.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;explaining-the-photoelectric-effect-1&quot;&gt;Explaining the Photoelectric Effect&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:42:13.093629&lt;/li&gt;
-  &lt;li&gt;Einstein’s explanation: Quantum theory
-    &lt;ul&gt;
-      &lt;li&gt;Experimental observations indicate the following:
-        &lt;ul&gt;
-          &lt;li&gt;A minimum frequency was needed before electrons would be emitted regardless of the intensity called the threshold frequency.&lt;/li&gt;
-          &lt;li&gt;High-frequency light from a dim source caused electron emission without any lag time.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;einsteins-idea-light-is-quantized&quot;&gt;Einstein’s idea: “Light Is Quantized.”&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:43:33.274758&lt;/li&gt;
-  &lt;li&gt;Ejection of electrons from a metal surface by light:
-    &lt;ul&gt;
-      &lt;li&gt;One photon at the threshold frequency gives the electron just enough energy for it to escape the atom.&lt;/li&gt;
-      &lt;li&gt;Binding energy, φ&lt;/li&gt;
-      &lt;li&gt;When irradiated with a shorter wavelength photon, the electron absorbs more energy than is necessary to escape.&lt;/li&gt;
-      &lt;li&gt;This excess energy becomes kinetic energy of the ejected electron.
-        &lt;ul&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-d5987.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Where (hυ) is a quantized packet of energy&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;explaining-the-photoelectric-effect-2&quot;&gt;Explaining the Photoelectric Effect&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Einstein’s explanation: Quantum theory
-    &lt;ul&gt;
-      &lt;li&gt;Einstein proposed that the light energy was delivered to the atoms in packets called quanta or photons.
-        &lt;ul&gt;
-          &lt;li&gt;Energy = (hυ)
-            &lt;ul&gt;
-              &lt;li&gt;hυ = quanta&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;The energy of a photon of light is directly proportional to its frequency.
-        &lt;ul&gt;
-          &lt;li&gt;E = hc/λ&lt;/li&gt;
-          &lt;li&gt;Or it is inversely proportional to its wavelength.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Symbols:
-        &lt;ul&gt;
-          &lt;li&gt;Planck’s Constant, (h) is a proportionality constant with a value of h = 6.626 × 10−34 J · s.&lt;/li&gt;
-          &lt;li&gt;Speed of light (c) value is 3.00 × 108 m/s&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;black-body-radiation&quot;&gt;Black Body Radiation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:46:37.258672&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-f06fe.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;If you heat something up in the dark, you can see it with infrared radiation&lt;/li&gt;
-  &lt;li&gt;“Black Body Problem” Solved by Planck in 1900
-“… an act of despair … I was ready to sacrifice any of my previous convictions about physics …”
-Energy (light) is emitted or absorbed in discrete units (quantum).&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-3cf4c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;vocab&quot;&gt;Vocab&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Wavelength&lt;/td&gt;
-      &lt;td&gt;the distance between identical points on successive waves&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;amplitude&lt;/td&gt;
-      &lt;td&gt;the vertical distance from the midline of a wave to the peak or trough&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;frequency&lt;/td&gt;
-      &lt;td&gt;the number of waves that pass through a particular point in 1 second (Hz = 1 cycle/s)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;photoelectric effect&lt;/td&gt;
-      &lt;td&gt;describes the phenomenon in which light shines on a metal surface and electrons are produced from the surface&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;threshold frequency&lt;/td&gt;
-      &lt;td&gt;minimum frequency needed before electrons are emitted&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;quanta (photons)&lt;/td&gt;
-      &lt;td&gt;the packets of energy that light travels with&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;planck’s constant (h)&lt;/td&gt;
-      &lt;td&gt;6.626 * 10^-34 J s&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;speed of light (c)&lt;/td&gt;
-      &lt;td&gt;3 * 10^8 m/s&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 31 Aug 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/08/31/week-3-day-2.html</link>
