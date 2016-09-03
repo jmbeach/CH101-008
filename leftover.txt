@@ -1,0 +1,11 @@
+## Wave Nature of Particles
+
++ ![](../../../assets/2016-09-02-week-3-day-3-82d87.png)
+
+## Electron Diffraction
+
++ ![](../../../assets/2016-09-02-week-3-day-3-3b5ae.png)
++ Transmission Electron Microscope
+  + ![](../../../assets/2016-09-02-week-3-day-3-f97f0.png)
++ If electrons behave only like particles, there should be only two bright spots on the target.
+  + ![](../../../assets/2016-09-02-week-3-day-3-ce383.png)

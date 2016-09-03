@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Sep 2016 09:15:32 -0500</pubDate>
-    <lastBuildDate>Fri, 02 Sep 2016 09:15:32 -0500</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2016 12:45:18 -0500</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2016 12:45:18 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -196,6 +196,359 @@ function grade() {
         <pubDate>Fri, 02 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/09/02/week-3-recitaion.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/02/week-3-recitaion.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 3 - Day 3</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2gl5z0&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-3-day-3.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;z11WHfPI_cE&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:12.758487&lt;/li&gt;
+  &lt;li&gt;MyLabs Plus
+    &lt;ul&gt;
+      &lt;li&gt;Troubles&lt;/li&gt;
+      &lt;li&gt;If you are still experiencing error messages, the problem is probably with your browser
+        &lt;ul&gt;
+          &lt;li&gt;Try clearing your cache and cookies&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;If your lab TA e-mails you that you can’t come to lab because you can’t use the homework site you will not be able to come
+        &lt;ul&gt;
+          &lt;li&gt;But if you follow “procedure” (not sure what procedure) you will be allowed to come (assuming the problem is actually with the Pearson site)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;test-1&quot;&gt;Test 1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Next Wednesday in our usual classroom at 6:30 PM
+    &lt;ul&gt;
+      &lt;li&gt;All you should bring is a pencil, calculator, and photo-ID&lt;/li&gt;
+      &lt;li&gt;Try to get here close to time
+        &lt;ul&gt;
+          &lt;li&gt;If you forget your photo ID, it’s fixable, but a nuisance&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Can’t leave the test before 7:05 PM even if you get through at 6:31 PM&lt;/li&gt;
+      &lt;li&gt;Should know all the constants we’ve used and the three formulas we’ve used&lt;/li&gt;
+      &lt;li&gt;Audio 0:09:21.043687
+        &lt;ul&gt;
+          &lt;li&gt;Anything in chapters 1, 2, or 3&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Not all of chapter 3 will be on the test&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;chapter-3---part-2&quot;&gt;Chapter 3 - Part 2&lt;/h1&gt;
+
+&lt;h2 id=&quot;black-body-problem-solved-by-planck-in-1900&quot;&gt;“Black Body Problem” Solved by Planck in 1900&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:13.134181&lt;/li&gt;
+  &lt;li&gt;“… an act of despair … I was ready to sacrifice any of my previous convictions about physics …”&lt;/li&gt;
+  &lt;li&gt;Energy (light) is emitted or absorbed in discrete units (quantum).&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-a2326.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:12:39.255151&lt;/li&gt;
+      &lt;li&gt;“One of the 7 or 8 numbers that define our universe”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;“a purely formal assumption … actually I did not think much about it…”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mystery-2-photoelectric-effect-solved-by-einstein-in-1905&quot;&gt;Mystery 2, “Photoelectric Effect” Solved by Einstein in 1905&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:59.822330&lt;/li&gt;
+  &lt;li&gt;“for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect” 1921
+    &lt;ul&gt;
+      &lt;li&gt;Light has both:
+        &lt;ol&gt;
+          &lt;li&gt;wave nature&lt;/li&gt;
+          &lt;li&gt;particle nature&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Photon is a “particle” of light
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:15:56.294916&lt;/li&gt;
+      &lt;li&gt;Photo electrons are emitted as soon as you turn the light on is explained by the photon description&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Predicted that KE would be linearly dependent upon frequency&lt;/li&gt;
+  &lt;li&gt;hv = KE + BE&lt;/li&gt;
+  &lt;li&gt;KE = hv - BE&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;example&quot;&gt;Example&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Audio 0:16:45.896720&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;When copper is bombarded with high-energy electrons, X rays are emitted. Calculate the energy (in joules) associated with the photons if the wavelength of the X rays is 0.154 nm&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-ab12f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-question&quot;&gt;Clicker Question&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:22:58.445126&lt;/li&gt;
+  &lt;li&gt;A photon has a wavelength of 624 nm. Calculate the energy of the photon in joules
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-0fb66.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Are there any extra reviews before the test?
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:27:22.163854&lt;/li&gt;
+      &lt;li&gt;Some of Wednesday’s lecture will be review&lt;/li&gt;
+      &lt;li&gt;Also, there’s practice on the MyLabsPlus website&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;emission-spectra&quot;&gt;Emission Spectra&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:28:51.812590&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-d8c48.png&quot; alt=&quot;Emission spectra&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Light had been thought of as a wave for a long time and now it’s being thought of as particles
+    &lt;ul&gt;
+      &lt;li&gt;People were asking why is light emitted and absorbed in fixed quantities?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;examples-of-spectra&quot;&gt;Examples of Spectra&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:30:24.253251&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-89007.png&quot; alt=&quot;Examples of spectra&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Each element has its own emission spectrum&lt;/li&gt;
+  &lt;li&gt;All of this points to atoms emitting and absorbing light / energy in discrete packets&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-bohr-model-of-the-atom&quot;&gt;The Bohr Model of the Atom&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:31:23.054768&lt;/li&gt;
+  &lt;li&gt;The nuclear model of the atom (Rutherford model) does not explain what structural changes occur when the atom gains or loses energy.
+    &lt;ul&gt;
+      &lt;li&gt;He hypothesized that only certain orbits are allowed and came up with a model which predicted what was observed&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Bohr developed a model of the atom to explain how the structure of the atom changes when it undergoes energy transitions.&lt;/li&gt;
+  &lt;li&gt;Bohr’s major idea was that the energy of the atom was quantized, and that the amount of energy in the atom was related to the electron’s position in the atom.
+    &lt;ul&gt;
+      &lt;li&gt;Quantized means that the atom could have only very specific amounts of energy.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bohrs-model&quot;&gt;Bohr’s Model&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:22.750198&lt;/li&gt;
+  &lt;li&gt;The electrons travel in orbits that are at a fixed distance from the nucleus.
+    &lt;ul&gt;
+      &lt;li&gt;Found different shapes of orbits&lt;/li&gt;
+      &lt;li&gt;Stationary states&lt;/li&gt;
+      &lt;li&gt;Therefore, the energy of the electron was proportional to the distance the orbit was from the nucleus.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Electrons emit radiation when they “jump” from an orbit with higher energy down to an orbit with lower energy.
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:32:58.969212&lt;/li&gt;
+      &lt;li&gt;The emitted radiation was a photon of light.&lt;/li&gt;
+      &lt;li&gt;The distance between the orbits determined the energy of the photon of light produced.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bohr-model-of-h-atoms&quot;&gt;Bohr Model of H Atoms&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:33:26.216675&lt;/li&gt;
+  &lt;li&gt;Shows how particles jump orbits&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-b600d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bohrs-model-of-the-atom-1913&quot;&gt;Bohr’s Model of the Atom (1913)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:33:46.737388
+    &lt;ol&gt;
+      &lt;li&gt;e- can only have specific (quantized) energy values&lt;/li&gt;
+      &lt;li&gt;light is emitted as e- and moves from one energy level to a lower energy level
+        &lt;ul&gt;
+          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-08ac8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;n (principal quantum number) = 1,2,3,…&lt;/li&gt;
+  &lt;li&gt;RH (Rydberg constant) = 2.18 x 10-18J
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-c6959.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;weakness-of-bohrs-model&quot;&gt;Weakness’ of Bohr’s Model&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:35:34.154227&lt;/li&gt;
+  &lt;li&gt;Only worked for Hydrogen, Li 2+, and Be 3+&lt;/li&gt;
+  &lt;li&gt;Only for a nucleus and one electron&lt;/li&gt;
+  &lt;li&gt;When charges are forced through curved path they emit radiation (Bermsstrahlung) so “orbits around nuclei are unstable”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;wave-behavior-properties-interference&quot;&gt;Wave Behavior Properties: Interference&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:55.247976&lt;/li&gt;
+  &lt;li&gt;Einstein says light has wave and particle properties&lt;/li&gt;
+  &lt;li&gt;Now we think maybe particles have wave properties&lt;/li&gt;
+  &lt;li&gt;The interaction between waves (e.g., electromagnetic, ocean) is called interference.&lt;/li&gt;
+  &lt;li&gt;Interference Types:
+    &lt;ul&gt;
+      &lt;li&gt;Constructive interference: waves that interact so that they make a larger wave are said to be in phase
+        &lt;ul&gt;
+          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-0d338.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Destructive interference: Waves that interact so that they cancel each other out are said to be out of phase
+        &lt;ul&gt;
+          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-9772a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;two-slit-interference&quot;&gt;Two-Slit Interference&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:38:15.810042&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-a7667.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Diffraction pattern
+    &lt;ul&gt;
+      &lt;li&gt;Either it goes through a slit or it doesn’t&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;wave-behavior-properties-diffraction&quot;&gt;Wave Behavior Properties: Diffraction&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:38:41.975443&lt;/li&gt;
+  &lt;li&gt;When traveling waves encounter an obstacle or opening in a barrier that is about the same size as the wavelength, they bend around it; this is called diffraction.
+    &lt;ul&gt;
+      &lt;li&gt;Traveling particles do not diffract&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The diffraction of light through two slits separated by a distance comparable to the wavelength results in an interference pattern of the diffracted waves.&lt;/li&gt;
+  &lt;li&gt;An interference pattern is a characteristic of all light waves.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-89af1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;wave-behavior-of-electrons&quot;&gt;Wave Behavior of Electrons&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:39:38.320960&lt;/li&gt;
+  &lt;li&gt;De Broglie proposed that particles could have wavelike character.&lt;/li&gt;
+  &lt;li&gt;De Broglie predicted that the wavelength of a particle was inversely proportional to its momentum.&lt;/li&gt;
+  &lt;li&gt;Because it is so small, the wave character of electrons is significant.&lt;/li&gt;
+  &lt;li&gt;De Broglie relation
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-afe2d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;example-problem&quot;&gt;Example problem&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:40:32.639227&lt;/li&gt;
+  &lt;li&gt;What are the de Broglie wavelengths (in nm) associated with an electron traveling at 6.0 * 10^5 ms-1 and a 52.5 g Ping-Pong ball traveling at 15.6 m/s?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-dac17.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;wave particle duality of light&lt;/td&gt;
+      &lt;td&gt;describes that light acts like a wave and a particle in different scenarios&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;photon&lt;/td&gt;
+      &lt;td&gt;particle of light&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;quantized&lt;/td&gt;
+      &lt;td&gt;Property of atoms meaning that the atom could have only very specific amounts of energy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;constructive interference (in phase)&lt;/td&gt;
+      &lt;td&gt;occurs when waves that interact so that they make a larger wave&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;destructive interference (out of phase)&lt;/td&gt;
+      &lt;td&gt;occurs when waves interact so that they cancel each other out&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;diffraction&lt;/td&gt;
+      &lt;td&gt;occurs when waves bend around an obstacle or opening in a barrier which is about the same size as the wavelength&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Fri, 02 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/09/02/week-3-day-3.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/02/week-3-day-3.html</guid>
         
         
       </item>
@@ -2828,145 +3181,6 @@ of solids.&lt;/li&gt;
         <pubDate>Wed, 17 Aug 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/08/17/week-1-day-1.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/17/week-1-day-1.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Syllabus</title>
-        <description>&lt;h1 id=&quot;general-chemistry&quot;&gt;General Chemistry&lt;/h1&gt;
-
-&lt;h2 id=&quot;ch-101-section-008&quot;&gt;CH 101 Section 008&lt;/h2&gt;
-
-&lt;h3 id=&quot;fall-2016-lecture&quot;&gt;Fall 2016, Lecture&lt;/h3&gt;
-
-&lt;h3 id=&quot;dr-martin-bakker&quot;&gt;Dr. Martin Bakker&lt;/h3&gt;
-
-&lt;h2 id=&quot;office-hours-and-contact-information&quot;&gt;Office Hours and Contact Information&lt;/h2&gt;
-
-&lt;p&gt;Dr. Martin G. Bakker E-mail: bakker@bama.ua.edu Phone: 348-9116&lt;/p&gt;
-
-&lt;p&gt;Office:   1030 Shelby Hall   Office Hours:  Monday 5:00-6:00 pm, Thursdays 2-3 pm  and 4:00-5:00 pm. Others times by appointment&lt;/p&gt;
-
-&lt;h2 id=&quot;prerequisites&quot;&gt;Prerequisites&lt;/h2&gt;
-
-&lt;p&gt;MATH 100&lt;/p&gt;
-
-&lt;h2 id=&quot;course-description&quot;&gt;Course Description&lt;/h2&gt;
-
-&lt;p&gt;Three lectures and one three-hour laboratory. Degree credit is not awarded for both CH 101 and CH 107 or for both CH 101 and CH 117. A survey of the fundamental facts, principles, and theories of general chemistry. Usually offered in the fall, spring, and summer semesters.&lt;/p&gt;
-
-&lt;h2 id=&quot;student-learning-outcomes&quot;&gt;Student Learning Outcomes&lt;/h2&gt;
-
-&lt;p&gt;The objective of this course is to introduce students to the principles that form the foundations of chemistry.  An understanding of the quantum mechanical model of atoms provides the basis for understanding atomic structure, which in turn predicts the physical and chemical properties of atoms, as illustrated in the periodic table of the elements.  This understanding provides the basis for understanding the nature of chemical bonds: ionic and covalent.  An understanding of chemical bonds in turn provides the basis for predicting the structures of molecules, and a qualitative understanding of chemical reactions.  A quantitative understanding of the energy of atoms and molecules will provide the basis for predicting the energy changes that occur in chemical reactions and the accompanying release or absorption of heat.  The last objective is to be able to quantitatively predict the properties of gases and understand how the speed of molecular motion relates to the chemical and physical properties of gases and gas mixtures.&lt;/p&gt;
-
-&lt;h2 id=&quot;required-texts&quot;&gt;Required Texts&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;TURNING TECH / NXT CLICKER (Required)&lt;/li&gt;
-  &lt;li&gt;TRO (CUSTOM) / Chemistry: Structure and Properties Package for University of Alabama, 1/e (Required)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exams-and-assignments&quot;&gt;Exams and Assignments&lt;/h2&gt;
-
-&lt;p&gt;Exams 1 – 3 will be given on Wednesday September 7th, October 5th and November 9th from 6:30 - 7:50 PM 127 Biology&lt;/p&gt;
-
-&lt;p&gt;Final Exam:  Monday.  December 5th, 2016 11:30 AM—2:00 PM 127 Biology&lt;/p&gt;
-
-&lt;h3 id=&quot;a-exams&quot;&gt;A. Exams&lt;/h3&gt;
-
-&lt;p&gt;You must bring your ACT card, driver’s license, or other photographic identification to all exams in order to receive a grade.  Students are strongly encouraged to take all regularly scheduled exams. However, should you have to miss one of these exams it will become your drop grade.  If you miss a second exam and can provide a written, reasonable excuse, you will be permitted to use your score (calculated as a percent) on the final exam as a makeup score for the test you missed.  &lt;em&gt;No make-up exams will be given&lt;/em&gt;.  No programmable calculators, or calculators that solve polynomial equations, language translators, pagers, cell phones or similar electronic devices are allowed.&lt;/p&gt;
-
-&lt;h3 id=&quot;b-quizzes&quot;&gt;B. Quizzes&lt;/h3&gt;
-
-&lt;p&gt;Quizzes will be given most every non-test week.  Electronic quizzes will be given either in the Wednesday afternoon recitation sessions or in the lecture classes using the Turning Point response units (“Clicker”).  The response units may be purchased in the SUPE Store (in the Ferguson Center).  It is your responsibility to make sure that your response unit is working, including its batteries, and you must bring it to every class meeting and recitation session.  Your lowest two or three quiz scores will be dropped, and the remainder will be used towards a maximum of 50 points; however, all quizzes will count toward your attendance points.  50% of a questions value will be attendance, 50% will be performance. &lt;em&gt;No make-up quizzes will be given&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;c-homework&quot;&gt;C. Homework&lt;/h3&gt;
-
-&lt;p&gt;Homework assignments will be submitted on the Web using MyLabsPlus.  The due dates are listed on the Web site. Typically about 15-20 problems will be assigned per chapter for a total of approximately 150 questions for the semester.  Each assignment will carry equal weight.  The instructions for logging in are available on BlackBoard Learn. Each assignment carry equal weight. Please check your textbook package for extra instructions.&lt;/p&gt;
-
-&lt;h2 id=&quot;grading-policy&quot;&gt;Grading Policy&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Assignment&lt;/th&gt;
-      &lt;th&gt;Points&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Exam1&lt;/td&gt;
-      &lt;td&gt;100&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Exam2&lt;/td&gt;
-      &lt;td&gt;100&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Exam3&lt;/td&gt;
-      &lt;td&gt;100&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;HW&lt;/td&gt;
-      &lt;td&gt;50&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Quizzes&lt;/td&gt;
-      &lt;td&gt;50&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;In-Class&lt;/td&gt;
-      &lt;td&gt;150&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Lab&lt;/td&gt;
-      &lt;td&gt;150&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Final&lt;/td&gt;
-      &lt;td&gt;700&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;grading-scale&quot;&gt;Grading Scale&lt;/h2&gt;
-
-&lt;p&gt;A = 90 – 100  B = 80 - 89   C = 70 -  79  D = 60 - 69  F &amp;lt; 60&lt;/p&gt;
-
-&lt;p&gt;Plus/Minus grading will be used.&lt;/p&gt;
-
-&lt;h2 id=&quot;policy-on-missed-exams--coursework&quot;&gt;Policy on Missed Exams &amp;amp; Coursework&lt;/h2&gt;
-
-&lt;h3 id=&quot;exams&quot;&gt;Exams&lt;/h3&gt;
-
-&lt;p&gt;Students are strongly encouraged to take all regularly scheduled exams. However, should you have to miss one of these exams it will become your drop grade.  If you miss a second exam and can provide a written, reasonable excuse, you will be permitted to use your score (calculated as a percent) on the final exam as a makeup score for the test you missed.  &lt;em&gt;No make-up exams will be given&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;quizzes&quot;&gt;Quizzes&lt;/h3&gt;
-
-&lt;p&gt;As there is a drop grade no &lt;em&gt;make-up quizzes will be given&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;outline-of-topics&quot;&gt;Outline of Topics&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Liquids, Solids and Intermolecular Forces&lt;/li&gt;
-  &lt;li&gt;Phase Diagrams and Crystalline Solids&lt;/li&gt;
-  &lt;li&gt;Solutions&lt;/li&gt;
-  &lt;li&gt;Chemical Kinetics&lt;/li&gt;
-  &lt;li&gt;Chemical Equilibrium&lt;/li&gt;
-  &lt;li&gt;Acids and Bases&lt;/li&gt;
-  &lt;li&gt;Aqueous Ionic Equilibrium&lt;/li&gt;
-  &lt;li&gt;Free Energy and Thermodynamics&lt;/li&gt;
-  &lt;li&gt;Electrochemistry&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;attendance-policy&quot;&gt;Attendance Policy&lt;/h2&gt;
-
-&lt;p&gt;Attendance is mandatory and will be taken in all class periods with the use of the Turning Point Response Unit.  Your number of attendances will count towards a maximum of 50 points for in-class performance/participation.  50% of each question will count towards attendance and 50% towards performance. There will be 5 drops given for absences, and so documentation for excused absences will only be necessary in the case of extended absences.  You will need to go to Blackboard to enter your clicker ID number. Please ensure that you enter your name also so that you can earn credit for clicker usage.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 14 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/08/14/syllabus.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/14/syllabus.html</guid>
         
         
       </item>
