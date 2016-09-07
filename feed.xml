@@ -6,9 +6,155 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Sep 2016 12:45:18 -0500</pubDate>
-    <lastBuildDate>Sat, 03 Sep 2016 12:45:18 -0500</lastBuildDate>
+    <pubDate>Wed, 07 Sep 2016 15:34:08 -0500</pubDate>
+    <lastBuildDate>Wed, 07 Sep 2016 15:34:08 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 4 - Day 1</title>
+        <description>&lt;p&gt;Last lecture before test 1!&lt;/p&gt;
+
+&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Test tonight
+    &lt;ul&gt;
+      &lt;li&gt;Only like 20 Questions&lt;/li&gt;
+      &lt;li&gt;Pencil, eraser, photo-ID&lt;/li&gt;
+      &lt;li&gt;Audio 0:00:31.902459&lt;/li&gt;
+      &lt;li&gt;No, no, no phones&lt;/li&gt;
+      &lt;li&gt;You should know all the prefixes
+        &lt;ul&gt;
+          &lt;li&gt;how many ml in a liter&lt;/li&gt;
+          &lt;li&gt;Any imperial to metric will be given&lt;/li&gt;
+          &lt;li&gt;12 in to a foot and 3 ft to a yard&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-question&quot;&gt;Clicker Question&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Find wavelength of electron with velocity of 1.87&lt;em&gt;10^7 m/s and mass of 9.11&lt;/em&gt;10^-31 kg&lt;/li&gt;
+  &lt;li&gt;Audio 0:10:28.871589&lt;/li&gt;
+  &lt;li&gt;.0388 nm&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-07-week-4-day-1-0a1c8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;wave-nature-of-particles&quot;&gt;Wave Nature of Particles&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:15:57.282705&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-82d87.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electron-diffraction&quot;&gt;Electron Diffraction&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:19:15.239273&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-3b5ae.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Transmission Electron Microscope
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-f97f0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If electrons behave only like particles, there should be only two bright spots on the target.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-ce383.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;trajectory-vs-probability&quot;&gt;Trajectory Vs Probability&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:21:20.562074&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-07-week-4-day-1-35a6e.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;If you know the forces acting on an object with classical trajectory, you can tell exactly where it will land&lt;/li&gt;
+      &lt;li&gt;With electrons, you can only know with a degree of certainty where it will be&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;uncertainty-principle-demonstration&quot;&gt;Uncertainty Principle Demonstration&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-07-week-4-day-1-c39ba.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;heisenbergs-uncertainty-principle&quot;&gt;Heisenberg’s Uncertainty Principle&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Heisenberg stated that the product of the uncertainties in both the position and speed of a particle was inversely proportional to its mass.
+    &lt;ul&gt;
+      &lt;li&gt;x = position, Δx = uncertainty in position&lt;/li&gt;
+      &lt;li&gt;v= velocity, Δv = uncertainty in velocity&lt;/li&gt;
+      &lt;li&gt;m=mass
+        &lt;ul&gt;
+          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-07-week-4-day-1-0243d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This means that the more accurately you know the position of a small particle, such as an electron, the less you know about its speed, and vice versa.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Stopped short for practice questions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;q1&quot;&gt;Q1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;An element has three stable isotopes with masses of 27.977 amu, 28.976 amu, and 29.973 amu. The heavier two isotopes have an abundance of 4.68 % and 3.09 %. What is the atomic mass of the element?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-07-week-4-day-1-e51b5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;q2&quot;&gt;Q2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rank in order of increasing mass
+    &lt;ul&gt;
+      &lt;li&gt;proton &amp;lt; neutron &amp;lt; electron&lt;/li&gt;
+      &lt;li&gt;proton &amp;lt; electron &amp;lt; neutron&lt;/li&gt;
+      &lt;li&gt;electron &amp;lt; neutron &amp;lt; proton&lt;/li&gt;
+      &lt;li&gt;electron &amp;lt; proton &amp;lt; neutron&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(answer is C)&lt;/p&gt;
+
+&lt;h2 id=&quot;q3&quot;&gt;Q3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How many protons, neutrons, and electrons are in isotope ^65_28X
+    &lt;ul&gt;
+      &lt;li&gt;36 neutrons, 29 protons, and 29 electrons&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;q4&quot;&gt;Q4&lt;/h2&gt;
+
+&lt;p&gt;When waves of equal amplitude from two sources are in phase when they interact, it is called =&amp;gt; constructive interference&lt;/p&gt;
+
+&lt;h2 id=&quot;q5&quot;&gt;Q5&lt;/h2&gt;
+
+&lt;p&gt;What is the frequency of an electron with wavelength 486.1 nm?
+  + &lt;img src=&quot;../../../assets/2016-09-07-week-4-day-1-ff6a6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/09/07/week-4-day-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/07/week-4-day-1.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 3 - Recitaion</title>
@@ -2893,294 +3039,6 @@ The average of three measured lengths; 6.64, 6.68 and 6.70?&lt;/li&gt;
         <pubDate>Fri, 19 Aug 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/08/19/week-1-day-2.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/19/week-1-day-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 1 - Day 1</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2fb8zs&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-1-day-1.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&quot;how-to-pass-ch101-the-high-school-version&quot;&gt;How to Pass CH101: the High School Version&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Pay attention, ask questions, complete your homework&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;how-to-pass-the-college-version&quot;&gt;How to pass the college version&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Do not take it in the summer&lt;/li&gt;
-  &lt;li&gt;Read ahead
-    &lt;ul&gt;
-      &lt;li&gt;You’ll read more new words than when taking a foreign language&lt;/li&gt;
-      &lt;li&gt;There is more material than anyone can memorize: you need to understand&lt;/li&gt;
-      &lt;li&gt;Seriously compounding: each new topic builds on previous ones&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;DO NOT GET BEHIND&lt;/li&gt;
-  &lt;li&gt;Go back over each days class
-    &lt;ul&gt;
-      &lt;li&gt;Reread text book to fix things that were unclear in class&lt;/li&gt;
-      &lt;li&gt;It’s up to you to learn the material&lt;/li&gt;
-      &lt;li&gt;Correct / amplify notes as needed&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Join a study group&lt;/li&gt;
-  &lt;li&gt;Do online homework “as we go”
-    &lt;ul&gt;
-      &lt;li&gt;Assigned homework is minimum set&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;10-12 hours a week out of class&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;Use the practice problems to test yourself
-        &lt;ul&gt;
-          &lt;li&gt;If you can’t work the practice problems with the textbook closed, then you won’t necessarily do well on the test&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Attempt the problems you can’t immediately see how to work&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Do much more than the minimum&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;my-labs-plus&quot;&gt;My Labs Plus&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;This is where you do your homework and pre-labs&lt;/li&gt;
-  &lt;li&gt;DO NOT USE THE CODE FOR THE LAB
-    &lt;ul&gt;
-      &lt;li&gt;You’ll be given that at your lab time&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;University of Alabama Login URL:  http://ua.mylabsplus.com
-    &lt;ul&gt;
-      &lt;li&gt;Students Username : MyBama ID (all lower case)&lt;/li&gt;
-      &lt;li&gt;Students Password : CWID&lt;/li&gt;
-      &lt;li&gt;Click on your course under the Fall 2016 tab&lt;/li&gt;
-      &lt;li&gt;Accept Terms of Agreement&lt;/li&gt;
-      &lt;li&gt;Input Access code (purchased from the bookstore), purchase Access Code, or choose Pay Later to receive 14 days of temporary access&lt;/li&gt;
-      &lt;li&gt;Your access code is good for 24 months&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;syllabus-overview&quot;&gt;Syllabus overview&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;How fast we cover a section depends on how well we perform to some degree&lt;/li&gt;
-  &lt;li&gt;Tests are not commutative in the sense that future tests will not ask the same exact questions
-    &lt;ul&gt;
-      &lt;li&gt;However knowledge of the previous test might be required to answer questions on future tests&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Office hours are Mondays 5-6, Thursdays 4-5
-    &lt;ul&gt;
-      &lt;li&gt;Don’t need an appointment&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;test-format&quot;&gt;Test Format&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Some questions will be vocabish “word” questions and have “word answers”&lt;/li&gt;
-  &lt;li&gt;Some questions ask you if a situation is reasonable&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-textbook&quot;&gt;The textbook&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The second edition&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;labs-do-not-meet-this-week&quot;&gt;Labs do not meet this week&lt;/h2&gt;
-
-&lt;h2 id=&quot;attendance&quot;&gt;Attendance&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Using your clicker at all gets you half a point&lt;/li&gt;
-  &lt;li&gt;Using it correctly or luckily gets you the other half&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tests&quot;&gt;Tests&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Need to bring an ID&lt;/li&gt;
-  &lt;li&gt;Labs can’t be programmable&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;there-will-not-be-recitation-this-evening&quot;&gt;There will not be recitation this evening&lt;/h2&gt;
-
-&lt;h1 id=&quot;chapter-1---atoms&quot;&gt;Chapter 1 - Atoms&lt;/h1&gt;
-
-&lt;h2 id=&quot;matter-from-the-particulate-point-of-view&quot;&gt;Matter from the Particulate Point of View&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Matter is composed of particles
-    &lt;ul&gt;
-      &lt;li&gt;Example: subatomic particles such as neutrons, protons, and electrons, atoms, and molecules
-        &lt;ul&gt;
-          &lt;li&gt;“We divide the universe into two types of stuff”&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;How the particles come together dictates the physical properties of matter
-    &lt;ul&gt;
-      &lt;li&gt;How do things transform&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Matter is defined as anything that has mass and occupies space (e.g., has volume)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;elements-molecules-and-mixtures-the-types-of-matter&quot;&gt;Elements, Molecules, and Mixtures: The Types of Matter&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Atoms&lt;/em&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Basic submicroscopic particles that constitute the
-fundamental building blocks of ordinary matter&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Molecules&lt;/em&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Substances formed when two or more atoms
-come together (bond) in specific geometric
-arrangements&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Atoms and molecules determine how matter behaves&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Chemistry&lt;/em&gt; is a discipline that seeks to understand
-matter and its properties, and the transformations
-that matter undergoes- particularly between
-molecules.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-classification-of-matter&quot;&gt;The Classification of Matter&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Matter can be classified according to
-    &lt;ul&gt;
-      &lt;li&gt;its &lt;em&gt;state&lt;/em&gt; — its physical form (i.e., solid, liquid, or gas) based on what properties it exhibits;&lt;/li&gt;
-      &lt;li&gt;its &lt;em&gt;composition&lt;/em&gt; or the types of particles&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The state of matter changes from solid to liquid to gas with increasing temperature&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-17-week-1-day-1-860db.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;solid-matter&quot;&gt;Solid Matter&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;In &lt;em&gt;solid matter&lt;/em&gt;, atoms or molecules pack
-close to each other in fixed locations.&lt;/li&gt;
-  &lt;li&gt;Although the atoms and molecules in a solid
-vibrate, they do not move around or past
-each other.&lt;/li&gt;
-  &lt;li&gt;Consequently, a solid has a fixed volume and
-rigid shape.
-    &lt;ul&gt;
-      &lt;li&gt;Ice, aluminum, and diamond are good examples
-of solids.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;liquid-matter&quot;&gt;Liquid Matter&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;In &lt;em&gt;liquid matter&lt;/em&gt;, atoms or molecules pack about as closely as they do in solid matter, but they are free to move relative to each other.&lt;/li&gt;
-  &lt;li&gt;Liquids have fixed volume but not a fixed shape.&lt;/li&gt;
-  &lt;li&gt;Liquids’ ability to flow makes them assume the shape of their container.
-    &lt;ul&gt;
-      &lt;li&gt;Water, alcohol, and gasoline are all substances that are liquids at room temperature.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;gaseous-matter&quot;&gt;Gaseous Matter&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;In gaseous matter, atoms or molecules have a lot of space between them.&lt;/li&gt;
-  &lt;li&gt;They are free to move relative to one another.&lt;/li&gt;
-  &lt;li&gt;Fill available space&lt;/li&gt;
-  &lt;li&gt;These qualities make gases &lt;em&gt;compressible&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;classification-of-matter-by-components&quot;&gt;Classification of Matter by Components&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Matter can be classified according to its composition: elements, compounds, and mixtures.&lt;/li&gt;
-  &lt;li&gt;a &lt;em&gt;pure substance&lt;/em&gt; is made up of only one component, and its composition is invariant&lt;/li&gt;
-  &lt;li&gt;a &lt;em&gt;mixture&lt;/em&gt; is a substance composed of two or more components in proportions that can vary from one sample to another&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-17-week-1-day-1-8a83d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;vocab&quot;&gt;Vocab&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;matter&lt;/td&gt;
-      &lt;td&gt;anything that has mass and occupies space (e.g. has volume)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;atoms&lt;/td&gt;
-      &lt;td&gt;Basic submicroscopic particles that constitute the fundamental building blocks of ordinary matter&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;molecules&lt;/td&gt;
-      &lt;td&gt;Substances formed when two or more atoms come together (bond) in specific geometric arrangements&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;chemistry&lt;/td&gt;
-      &lt;td&gt;a discipline that seeks to understand matter and its properties, and the transformations that matter undergoes- particularly between molecules&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;state&lt;/td&gt;
-      &lt;td&gt;physical form of matter based on what properties it exhibits (i.e. solid, liquid, or gas. Classifies matter)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;composition&lt;/td&gt;
-      &lt;td&gt;Classifies matter based on the types of particles in it&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;solid matter&lt;/td&gt;
-      &lt;td&gt;atoms and molecules in this type of matter pack close to each other in fixed locations&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;liquid matter&lt;/td&gt;
-      &lt;td&gt;type of matter in which atoms or molecules are packed closely, but they are free to move relative to each other&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;gaseous matter&lt;/td&gt;
-      &lt;td&gt;matter in which atoms or molecules have a lot of space between them&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;compressible&lt;/td&gt;
-      &lt;td&gt;Material which are like gases are said to be…&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;pure substance&lt;/td&gt;
-      &lt;td&gt;made up of only one component and its composition is invariant&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;mixture&lt;/td&gt;
-      &lt;td&gt;substance composed of two or more components in proportions that can vary from one sample to another&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Wed, 17 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/08/17/week-1-day-1.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/17/week-1-day-1.html</guid>
         
         
       </item>
