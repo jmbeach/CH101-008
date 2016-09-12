@@ -6,13 +6,806 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Sep 2016 16:51:32 -0500</pubDate>
-    <lastBuildDate>Wed, 07 Sep 2016 16:51:32 -0500</lastBuildDate>
+    <pubDate>Mon, 12 Sep 2016 14:35:54 -0500</pubDate>
+    <lastBuildDate>Mon, 12 Sep 2016 14:35:54 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
+        <title>Week 5 - Day 1</title>
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-5-day-1.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;MsGVk4aJ56I&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;end-of-chapter-3--beginning-of-chapter-4&quot;&gt;End of chapter 3 / Beginning of chapter 4&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2hp83r&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;anouncements&quot;&gt;Anouncements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Going over the clicker question from last class&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;schrodinger-wave-equation&quot;&gt;Schrodinger Wave Equation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:01:46.280749&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-are-the-allowed-values-of-quantum-numbers&quot;&gt;What are the allowed values of quantum numbers?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:02:40.811261&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;schrodinger-wave-equation---fnn-l-ml-ms&quot;&gt;Schrodinger Wave Equation Ψ = fn(n, l, ml, ms)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ψ = fn(n, l, ml, ms)&lt;/li&gt;
+  &lt;li&gt;principal quantum number n&lt;/li&gt;
+  &lt;li&gt;n = 1, 2, 3, 4, ….&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-d8592.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:05:02.318180&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-bd478.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;You are trying to find where the electron &lt;em&gt;probably&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;The sphere is 90% chance of where you can find the electron&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-l-quantum-number&quot;&gt;The l quantum number&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:07:39.803509&lt;/li&gt;
+  &lt;li&gt;controls shape of the space the electron can occupy&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-dab8c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;l--0-s-orbitals&quot;&gt;l = 0 (s orbitals)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-6e66a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;l--2-d-orbitals&quot;&gt;l = 2 (d orbitals)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:09:58.512569&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-51160.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:12:02.335350&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-429d4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;There are many orientations for different orbital shapes.
+    &lt;ul&gt;
+      &lt;li&gt;For l = 1 (dumbell), you have three m_l orientations&lt;/li&gt;
+      &lt;li&gt;For l = 2 (four balloons), 5 different orientations&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;schrodinger-wave-equation-1&quot;&gt;Schrodinger Wave Equation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:14:45.362121&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-8c7c9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Ψ= fn(n, l, ml, ms)&lt;/li&gt;
+  &lt;li&gt;spin quantum number ms&lt;/li&gt;
+  &lt;li&gt;ms = +1/2 or -1/2&lt;/li&gt;
+  &lt;li&gt;Stern-Gerlach&lt;/li&gt;
+  &lt;li&gt;Audio 0:15:13.028156&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-48892.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:16:48.075265&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-53d23.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-question&quot;&gt;Clicker question&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:18:00.445172&lt;/li&gt;
+  &lt;li&gt;Electrons in an orbital with l = 2 are in a/an?
+    &lt;ul&gt;
+      &lt;li&gt;A) d orbital&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;question-2&quot;&gt;Question 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:18:38.887100&lt;/li&gt;
+  &lt;li&gt;How many orbitals are allowed in a sublevel if the angular momentum quantum number for electrons in that sublevel is 3
+    &lt;ul&gt;
+      &lt;li&gt;If l = 3 what are possible m_l’s&lt;/li&gt;
+      &lt;li&gt;7&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;question-3&quot;&gt;Question 3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What is the maximum number of electrons in a atom that can have the following set of quantum numbers?
+    &lt;ul&gt;
+      &lt;li&gt;1&lt;/li&gt;
+      &lt;li&gt;Audio 0:22:52.890279&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;probability--radial-distribution-functions&quot;&gt;Probability &amp;amp; Radial Distribution Functions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:12.640771&lt;/li&gt;
+  &lt;li&gt;Ψ2 is the probability density
+    &lt;ul&gt;
+      &lt;li&gt;the probability of finding an electron at a particular point in space&lt;/li&gt;
+      &lt;li&gt;for s orbital: maximum at the nucleus?&lt;/li&gt;
+      &lt;li&gt;decreases as you move away from the nucleus&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;the Radial Distribution function represents the total probability at a certain distance from the nucleus
+    &lt;ul&gt;
+      &lt;li&gt;maximum at most probable radius&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;nodes&lt;/em&gt; in the functions are where the probability drops to 0
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-136f2.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;two-dimensional-standing-wave-with-radial-nodes&quot;&gt;Two Dimensional Standing wave with radial nodes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:28:08.691820&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-0f880.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;s-and-3s&quot;&gt;2s and 3s&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:29:43.309772&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-6e06b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Difference between probability density and the radial density&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;chapter-4---periodic-properties-of-the-elements&quot;&gt;Chapter 4 - Periodic Properties of the Elements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Audio 0:31:36.612589&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How do we add electrons to orbitals?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;schrodinger-wave-equation-2&quot;&gt;Schrodinger Wave Equation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:21.264224&lt;/li&gt;
+  &lt;li&gt;Ψ= fn(n, l, ml, ms)&lt;/li&gt;
+  &lt;li&gt;Existence (and energy) of electron in atom is described by its unique wave function Ψ.&lt;/li&gt;
+  &lt;li&gt;Pauli exclusion principle - no two electrons in an atom can have the same four quantum numbers.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-fe98a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:34:53.838546&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;schrodinger-wave-equation-3&quot;&gt;Schrodinger Wave Equation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Shell – electrons with the same value of n&lt;/li&gt;
+  &lt;li&gt;Subshell – electrons with the same values of n and l&lt;/li&gt;
+  &lt;li&gt;Orbital – electrons with the same values of n, l, and ml&lt;/li&gt;
+  &lt;li&gt;How many electrons can an orbital hold?
+    &lt;ul&gt;
+      &lt;li&gt;If n,l,and ml are fixed,then ms =1/2or-1/2 Ψ= (n, l, ml, 1/2)orΨ= (n, l, ml, -1/2)&lt;/li&gt;
+      &lt;li&gt;An orbital can hold 2 electrons&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:36:43.265603&lt;/li&gt;
+  &lt;li&gt;How many 2p orbitals are there in an atom?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-9e641.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-99816.png../../../assets/2016-09-12-week-5-day-1-99816.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;B&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;energy-of-orbitals-in-a-single-electron-atom&quot;&gt;Energy of orbitals in a single electron atom&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:39:54.807493&lt;/li&gt;
+  &lt;li&gt;Energy only depends on principle quantum number n&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-e2cd9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-e673a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;coulombs-law&quot;&gt;Coulomb’s Law&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:41:07.948707&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-10d5b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Coulomb’s law describes the attractions and repulsions between charged particles.
+    &lt;ul&gt;
+      &lt;li&gt;For like charges, the potential energy (E) is positive and decreases as the particles get farther apart as r increases.&lt;/li&gt;
+      &lt;li&gt;For opposite charges, the potential energy is negative and becomes more negative as the particles get closer together.&lt;/li&gt;
+      &lt;li&gt;The strength of the interaction increases as the size of the charges increases.
+        &lt;ul&gt;
+          &lt;li&gt;Electrons are more strongly attracted to a nucleus with a 2+ charge than to a nucleus with a 1+ charge.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;penetration--shielding&quot;&gt;Penetration &amp;amp; Shielding&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:42:15.187414
+&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-feeb8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:43:45.128001&lt;/li&gt;
+  &lt;li&gt;From radial distribution function: 2s orbital penetrates more deeply
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-8d592.png&quot; alt=&quot;&quot; /&gt;
+into 1s orbital than does 2p&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;the weaker penetration =&amp;gt; electrons in the 2p sublevel experience more repulsive force &amp;amp; are more shielded from nucleus (less attractive force)&lt;/li&gt;
+  &lt;li&gt;=&amp;gt;electrons in 2s sublevel lower E than in 2p&lt;/li&gt;
+  &lt;li&gt;Penetration causes the energies of sublevels in the same principal level to not be degenerate.&lt;/li&gt;
+  &lt;li&gt;In the fourth and fifth principal levels, the effects of penetration become so important that the s orbital lies lower in energy than the d orbitals of the previous principal level.&lt;/li&gt;
+  &lt;li&gt;The energy separations between one set of orbitals and the next become smaller beyond the 4s orbital.
+    &lt;ul&gt;
+      &lt;li&gt;The ordering can therefore vary among elements, causing variations in the electron configurations of the transition metals and their ions.&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-e3d72.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;general-energy-ordering-of-orbitals-for-multi-electron-atoms&quot;&gt;General Energy Ordering of Orbitals for Multi-electron Atoms&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:45:59.121493&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-c533a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electron-configurations&quot;&gt;Electron configurations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Electron configuration is how the electrons are distributed among the various atomic orbitals in an atom.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-d459e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;nodes&lt;/td&gt;
+      &lt;td&gt;parts of a probability density function where probability drops to zero&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;unique&lt;/td&gt;
+      &lt;td&gt;electrons’ existence in an atom is _&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pauli exclusion principle&lt;/td&gt;
+      &lt;td&gt;Says no two electrons in an atom can have the same four quantum numbers&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;shell&lt;/td&gt;
+      &lt;td&gt;electrons with the same value of n are in the same _&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;subshell&lt;/td&gt;
+      &lt;td&gt;electrons with the same values of n and l are in the same _&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;orbital&lt;/td&gt;
+      &lt;td&gt;electrons with the same values of n, l, and ml are in the same _&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Coulomb’s law&lt;/td&gt;
+      &lt;td&gt;says opposite charges attract and same charges repel&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;electron configuration&lt;/td&gt;
+      &lt;td&gt;how electrons are distributed among the various atomic orbitals in an atom&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Mon, 12 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/09/12/week-5-day-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/12/week-5-day-1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 4 - Day 2</title>
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-4-day-2.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;jDpNgDv-Gy0&quot;});
+&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2hp5fp&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;average was about a 68% for test 1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;ch-3---part-3&quot;&gt;Ch 3 - part 3&lt;/h1&gt;
+
+&lt;h2 id=&quot;phet-simulation&quot;&gt;Phet simulation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html&quot;&gt;standing waves&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:00:41.936541&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;applying-wave-theory&quot;&gt;Applying Wave Theory&lt;/h2&gt;
+
+&lt;h2 id=&quot;why-is-e--energy-quantized&quot;&gt;Why is e- energy quantized?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:01:44.988052&lt;/li&gt;
+  &lt;li&gt;De Broglie (1924) reasoned that e- is both particle and
+wave.
+    &lt;ul&gt;
+      &lt;li&gt;Electron is a particle but has wave properties&lt;/li&gt;
+      &lt;li&gt;Particles therefore must have both wave and particle properties
+        &lt;ul&gt;
+          &lt;li&gt;Audio 0:03:05.742985&lt;/li&gt;
+          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-010ea.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-7b94b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;schrodinger-wave-equation&quot;&gt;Schrodinger Wave Equation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:04:54.889022
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-bb7de.png&quot; alt=&quot;&quot; /&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Don’t have to know this&lt;/li&gt;
+          &lt;li&gt;H is an operator&lt;/li&gt;
+          &lt;li&gt;Audio 0:06:08.804355&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In 1926 Schrodinger wrote an equation that described both the particle and wave nature of the e&lt;/li&gt;
+  &lt;li&gt;H is called an “operator”: in this case taking the second derivative with respect to x, y, and z. E is the energy&lt;/li&gt;
+  &lt;li&gt;Solution is a wave function: Ψ&lt;/li&gt;
+  &lt;li&gt;Audio 0:06:34.389254
+    &lt;ol&gt;
+      &lt;li&gt;energy of e- is given by Ψ&lt;/li&gt;
+      &lt;li&gt;Ψ2 is the probability of finding e- in a volume of space&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A simple example of a wavefunction is:
+    &lt;ul&gt;
+      &lt;li&gt;Ψ=Asin(x)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;energy of e- is given by Ψ&lt;/li&gt;
+  &lt;li&gt;Audio 0:08:02.302205&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Ψ^2 is the probability&lt;/em&gt; of finding e- in a volume of space&lt;/li&gt;
+  &lt;li&gt;Audio 0:09:23.819222&lt;/li&gt;
+  &lt;li&gt;Schrodinger’s equation can only be solved exactly for simple systems (H atom). Must approximate its solution for multi- electron systems.
+    &lt;ul&gt;
+      &lt;li&gt;Our approximations though are good enough to work in practical application&lt;/li&gt;
+      &lt;li&gt;Horizon made it to Pluto for example&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quantum-numbers-the-solutions-from-the-wave-function-&quot;&gt;Quantum Numbers: The Solutions from the Wave Function, ψ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:06.144429&lt;/li&gt;
+  &lt;li&gt;Calculations show that the size, shape, and orientation in space of an orbital are determined by three integer terms in the wave function.
+    &lt;ul&gt;
+      &lt;li&gt;Quantize the energy of the electron&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;These integers (solutions) are called &lt;em&gt;quantum numbers&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;There are four quantum numbers:
+        &lt;ul&gt;
+          &lt;li&gt;Principal quantum number,n
+            &lt;ul&gt;
+              &lt;li&gt;Energy level&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Angular momentum quantum number, l
+        &lt;ul&gt;
+          &lt;li&gt;Orbital type&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Magnetic quantum number, ml
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:14:21.378733&lt;/li&gt;
+      &lt;li&gt;Position of orbital in an X-Y-Z plot&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Spin quantum number, ms
+    &lt;ul&gt;
+      &lt;li&gt;Orientation of the spin of the electron&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;These quantum numbers control how electrons are distributed in an atom&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;principal-quantum-number-n-the-energy-level&quot;&gt;Principal Quantum Number, n: The Energy Level&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:15:13.929935&lt;/li&gt;
+  &lt;li&gt;It characterizes the energy of the electron in a particular orbital.
+    &lt;ul&gt;
+      &lt;li&gt;It is Bohr’s energy level.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Values of n can be any whole number integer &amp;gt;= 1.&lt;/li&gt;
+  &lt;li&gt;It &lt;em&gt;determines the size (overall) and energy of an orbital&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;The larger the value of n, the more energy the orbital has.&lt;/li&gt;
+  &lt;li&gt;The larger the value of n, the larger the orbital.&lt;/li&gt;
+  &lt;li&gt;Audio 0:17:10.934989&lt;/li&gt;
+  &lt;li&gt;Energies are defined as being “negative.”
+    &lt;ul&gt;
+      &lt;li&gt;An electron’s energy is lowered (made more negative) as a result of its interaction with the nucleus of the atom.
+        &lt;ul&gt;
+          &lt;li&gt;An electron would have E = 0 when it escapes the atom.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;As n gets larger, the following occurs:
+        &lt;ul&gt;
+          &lt;li&gt;The amount of energy between orbitals gets smaller.&lt;/li&gt;
+          &lt;li&gt;The energy of the orbital becomes greater (less negative).&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-1ab1e.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Won’t have to memorize this, but will need to know the energy is about 1/n^2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Rydberg constant for hydrogen (R_h) is 2.10 * 10^-8 J&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;principal-energy-level-in&quot;&gt;Principal Energy Level in&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:18:47.513089&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-e49c7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;angular-momentum-quantum-number-l-the-orbital-quantum-number&quot;&gt;Angular Momentum Quantum Number, l: The Orbital Quantum Number&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:19:37.169700&lt;/li&gt;
+  &lt;li&gt;The angular momentum quantum number &lt;em&gt;determines the shape of the orbital&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;l can have integer values from 0 to (n – 1).
+        &lt;ul&gt;
+          &lt;li&gt;Ex n = 1
+            &lt;ul&gt;
+              &lt;li&gt;Only l=0 is allowed&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;n = 2
+            &lt;ul&gt;
+              &lt;li&gt;l = 0 or l = 1 are allowed&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Each value of l is designated by a particular letter that
+designates the shape of the orbital.
+    &lt;ul&gt;
+      &lt;li&gt;s orbitals are spherical.&lt;/li&gt;
+      &lt;li&gt;p orbitals are like two balloons tied at the knots (dumbbell shape).&lt;/li&gt;
+      &lt;li&gt;d orbitals are mainly like four balloons tied at the knots.&lt;/li&gt;
+      &lt;li&gt;f orbitals are mainly like eight balloons tied at the knots.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;magnetic-quantum-number-ml-the-position-or-orientation-quantum-number&quot;&gt;Magnetic Quantum Number, ml: The Position or Orientation Quantum Number&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:22:55.744076&lt;/li&gt;
+  &lt;li&gt;The magnetic quantum number is an integer that specifies the orientation of the orbital.
+    &lt;ul&gt;
+      &lt;li&gt;The direction in space the orbital is aligned relative to the other orbitals&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Values are integers from −l to +l.
+    &lt;ul&gt;
+      &lt;li&gt;Including zero&lt;/li&gt;
+      &lt;li&gt;Gives the number of orbitals of a particular shape
+        &lt;ul&gt;
+          &lt;li&gt;When l=2,the values of ml are−2,−1,0,+1,+2, which means there are five orbitals with l = 2.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;describing-an-orbital&quot;&gt;Describing an Orbital&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:24:11.173521&lt;/li&gt;
+  &lt;li&gt;Each set of n, l, and ml describes one orbital.&lt;/li&gt;
+  &lt;li&gt;Orbitals with the same value of n are in the
+same principal energy level.
+    &lt;ul&gt;
+      &lt;li&gt;Also called the principal shell&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Orbitals with the same values of n and l are said to be in the same sublevel.
+    &lt;ul&gt;
+      &lt;li&gt;Also called a subshell&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;illustration-of-energy-levels-and-sublevels&quot;&gt;Illustration of Energy Levels and Sublevels&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:25:57.120934&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-d77fb.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;energy-levels-and-sublevels&quot;&gt;Energy Levels and Sublevels&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:50.216152&lt;/li&gt;
+  &lt;li&gt;In general:
+    &lt;ul&gt;
+      &lt;li&gt;The number of sublevels within a level = n&lt;/li&gt;
+      &lt;li&gt;the number of orbitals within a level = 2l + 1&lt;/li&gt;
+      &lt;li&gt;The number of orbitals in a level = n^2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quantum-leaps&quot;&gt;Quantum Leaps&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:27:59.907574&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-19bd6.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;When  an electron falls from a higher to lower energy level, light is emitted
+        &lt;ul&gt;
+          &lt;li&gt;An unstable state is when an electron is sitting in a state greater than 1&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-does-the-quantum-mechanical-model-of-an-atom-explain-atomic-spectra&quot;&gt;How Does the Quantum Mechanical Model of an Atom Explain Atomic Spectra?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:29:26.973235&lt;/li&gt;
+  &lt;li&gt;Each wavelength in the spectrum of an atom corresponds to an electron transition between
+orbitals.&lt;/li&gt;
+  &lt;li&gt;When an electron is excited, it transitions from an orbital in a lower energy level to an orbital in a higher energy level.&lt;/li&gt;
+  &lt;li&gt;When an electron relaxes, it transitions from an orbital in a higher energy level to an orbital in a lower energy level.&lt;/li&gt;
+  &lt;li&gt;When an electron relaxes, a photon of light is released whose energy equals the energy difference between the orbitals.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;it-explains-electron-transitions&quot;&gt;It Explains Electron Transitions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:30:54.218927&lt;/li&gt;
+  &lt;li&gt;To transition to a higher energy state, the electron must gain the correct amount of energy corresponding to the difference in energy between the final and initial states.&lt;/li&gt;
+  &lt;li&gt;Electrons in high energy states are unstable and tend to lose energy and transition to lower energy states.&lt;/li&gt;
+  &lt;li&gt;Each line in the emission spectrum corresponds to the difference in energy between two energy states.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;it-predicts-the-spectrum-of-hydrogen&quot;&gt;It Predicts the Spectrum of Hydrogen&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:31:35.930644
+• For an electron in an energy state n, there are (n–1) energy states it can transition to. Therefore, it can generate (n – 1) lines.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;energy-transitions-in-hydrogen&quot;&gt;Energy Transitions in Hydrogen&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:20.175336&lt;/li&gt;
+  &lt;li&gt;The energy of a photon released is equal to the difference in energy between the two levels the electron is jumping between.&lt;/li&gt;
+  &lt;li&gt;It can be calculated by subtracting the energy of the initial state from the energy of the final state.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-e86c3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;Don’t have to memorize this, just remember the 1/n^2 part&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;transitions&quot;&gt;Transitions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-03973.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:36:02.535972&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;example-problem&quot;&gt;Example problem&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:37:09.180400&lt;/li&gt;
+  &lt;li&gt;Calculate the wavelength (in nm) of a photon emitted by a hydrogen atom when its electron drops from the n = 5 state to the n = 3 state.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-9ffd3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Calculate the wavelength of the light emitted by a
+hydrogen atom during a transition of its electron from the n = 4 to the n = 1 principal energy level. Recall that for hydrogen En = -2.18 * 10-18 J*(1/n2)&lt;/li&gt;
+  &lt;li&gt;Audio 0:44:32.880831
+A) 97.3 nm
+B) 82.6 nm
+C) 365 nm
+D) 0.612 nm
+E) 6.8 * 10-18 nm&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:45:56.374508&lt;/li&gt;
+  &lt;li&gt;It is possible to determine the ionization energy for
+hydrogen using the Bohr equation. Calculate the ionization
+energy for an atom of hydrogen, making the assumption
+that ionization is the transition from n=1 to n=infinity
+(RH=2.18 x 10-18 J)
+A) -2.18 × 10-18 J
+B) +2.18 × 10-18 J
+C) +4.59 × 10-18 J
+D) -4.59 × 10-18 J
+E) +4.36 × 10-18 J&lt;/li&gt;
+  &lt;li&gt;B&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;quantum numbers&lt;/td&gt;
+      &lt;td&gt;integer solutions to the wave functions (energy level n, orbital level l, magnetic quantum number m_l, and spin quantum number m_s)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;(quantum number) n&lt;/td&gt;
+      &lt;td&gt;quantum number which controls the size and energy of an orbital&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;(quantum number) l&lt;/td&gt;
+      &lt;td&gt;quantum number which controls the shape of the orbital&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;s orbital shape&lt;/td&gt;
+      &lt;td&gt;spherical&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;p orbital shape&lt;/td&gt;
+      &lt;td&gt;like two balloons tied at the knots&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;d orbital shape&lt;/td&gt;
+      &lt;td&gt;like four balloons tied together&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;f orbital shape&lt;/td&gt;
+      &lt;td&gt;like eight balloons tied together at the knots&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;m_l (quantum number)&lt;/td&gt;
+      &lt;td&gt;quantum number which controls the position or orientation of orbitals&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;sublevel (subshell)&lt;/td&gt;
+      &lt;td&gt;orbitals with the same values of n and l are said to be in the same _&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;excited&lt;/td&gt;
+      &lt;td&gt;An electron is said to be this when it transitions from an orbital of lower energy to an orbital of higher energy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;relaxes&lt;/td&gt;
+      &lt;td&gt;An electron is said to do this when it transitions from an orbital of higher to lower energy&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Fri, 09 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/09/09/week-4-day-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/09/week-4-day-2.html</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Week 4 - Day 1</title>
-        <description>&lt;p&gt;Last lecture before test 1!&lt;/p&gt;
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-4-day-1.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;0MOnuG2DncI&quot;});
+&lt;/script&gt;
+
+&lt;p&gt;Last lecture before test 1!&lt;/p&gt;
 
 &lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
 
@@ -2194,851 +2987,6 @@ may contain 10, 11, or 12 neutrons.&lt;/li&gt;
         <pubDate>Wed, 24 Aug 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/08/24/week-2-day-2.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/24/week-2-day-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 2 - Day 1</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2ffqnc&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-2-day-1.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;bZ0v2jVyHW8&quot;});
-&lt;/script&gt;
-
-&lt;h2 id=&quot;announcements&quot;&gt;Announcements&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sig figs are covered in appendix III&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;we-left-off&quot;&gt;We left off:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:01:29.531683&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;addition-or-subtraction---significant-figures&quot;&gt;Addition or Subtraction - Significant Figures&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The answer cannot have more digits to the right of the decimal point than any of the original numbers
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-19-week-1-day-2-c7ef7.png&quot; alt=&quot;&quot; /&gt;
-        &lt;ul&gt;
-          &lt;li&gt;1.1 has one sig fig after decimal&lt;/li&gt;
-          &lt;li&gt;round 90.432 to 90.4&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-19-week-1-day-2-6e28c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Look at sig figs in the given variables in the problem and have that many in your answer&lt;/li&gt;
-  &lt;li&gt;Do not round until the end of the calculation&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;significant-figures---multiplication-or-division&quot;&gt;Significant Figures - Multiplication or Division&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:03:48.566124&lt;/li&gt;
-  &lt;li&gt;The number of significant figures in the result is set by the original number that has the &lt;em&gt;smallest&lt;/em&gt; number of significant figures&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-bdeee.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;significant-figures---exact-numbers&quot;&gt;Significant Figures - Exact Numbers&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:05:48.200501&lt;/li&gt;
-  &lt;li&gt;Numbers from definitions or numbers of objects are considered to have an infinite number of significant figures
-The average of three measured lengths; 6.64, 6.68 and 6.70?&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-7a38e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Because 3 is an exact number
-    &lt;ul&gt;
-      &lt;li&gt;You don’t round to one sig fig because you ignore exact numbers when determining how many to round to&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;significant-figures---precision-vs-accuracy&quot;&gt;Significant Figures - Precision vs accuracy&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:08:18.238337&lt;/li&gt;
-  &lt;li&gt;Accuracy – how close a measurement is to the true value&lt;/li&gt;
-  &lt;li&gt;Precision – how close a set of measurements are to each other&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-618b1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.khanacademy.org/math/arithmetic-home/arith-review-decimals/arithmetic-significant-figures-tutorial/e/significant_figures_1&quot;&gt;test your ability&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;how-many-significant-figures-are-in-the-measurement-00005890g&quot;&gt;How many significant figures are in the measurement 0.0005890g?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:12:09.150335&lt;/li&gt;
-  &lt;li&gt;Answer: 4&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;what-answer-should-be-reported-with-the-correct-number-of-significant-figures-for-the-following-calculation--433621---3339--11900&quot;&gt;What answer should be reported, with the correct number of significant figures for the following calculation? =&amp;gt; (433.621 - 333.9) * 11.900&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The calculation yields 1186.6799
-    &lt;ul&gt;
-      &lt;li&gt;You round to three sig figs because 99.721 has three sig figs after you subtract 433.621 from 333.9. has the smallest amount of sig figs since you choose the smallest with multiplication&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:20:48.415419
-    &lt;ul&gt;
-      &lt;li&gt;Confused how 99.721 has 3 sig figs and 11.900 has five
-        &lt;ul&gt;
-          &lt;li&gt;I think it’s because we’ve subtracted and the way he explained it (I think) is that you start from the right most sig figs after the decimal and count up to it&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;our-current-understanding-of-the-structure-of-matter&quot;&gt;Our Current Understanding of the Structure of Matter&lt;/h1&gt;
-
-&lt;h2 id=&quot;early-ideas-about-the-building-blocks-of-matter&quot;&gt;Early Ideas about the Building Blocks of Matter&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:23:16.678865&lt;/li&gt;
-  &lt;li&gt;Leucippus (fifth century B.C.) and his student Democritus (460–370 B.C.) were the first to propose that matter was composed of small, indestructible particles.
-    &lt;ul&gt;
-      &lt;li&gt;Democritus wrote, “Nothing exists except atoms and empty space; everything else is opinion.”
-        &lt;ul&gt;
-          &lt;li&gt;He proposed that atoms existed in different shapes and sizes and moved randomly through empty space.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Plato and Aristotle did not embrace the atomic ideas of Leucippus and Democritus.
-    &lt;ul&gt;
-      &lt;li&gt;They held that matter had no smallest parts.&lt;/li&gt;
-      &lt;li&gt;They proposed that different substances were composed of various proportions of fire, air, earth, and water.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;early-building-blocks-of-matter-ideas&quot;&gt;Early Building Blocks of Matter Ideas&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:24:38.965354&lt;/li&gt;
-  &lt;li&gt;An English chemist, John Dalton (1766–1844) offered convincing evidence that supported the early atomic ideas of Leucippus and Democritus.
-    &lt;ul&gt;
-      &lt;li&gt;Dalton’s atomic theory of matter&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Modern Atomic Theory and Its Laws:
-    &lt;ul&gt;
-      &lt;li&gt;Law of conservation of mass&lt;/li&gt;
-      &lt;li&gt;Law of definite proportions&lt;/li&gt;
-      &lt;li&gt;Law of multiple proportions&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;john-dalton-and-the-atomic-theory&quot;&gt;John Dalton and the Atomic Theory&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;John Dalton and the Atomic Theory
-    &lt;ol&gt;
-      &lt;li&gt;Each element is composed of tiny indestructible particles called atoms.&lt;/li&gt;
-      &lt;li&gt;All atoms of a given element have the same mass and other properties that distinguish them from the atoms of other elements&lt;/li&gt;
-      &lt;li&gt;Atoms combine in simple whole-number ratios to form compounds&lt;/li&gt;
-      &lt;li&gt;Atoms of one element cannot change into atoms of another element. In a chemical reaction, atoms change only the way that they are bound together with other atoms.&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-law-of-conservation-of-mass&quot;&gt;The Law of Conservation of Mass&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:27:20.929720&lt;/li&gt;
-  &lt;li&gt;Antoine Lavoisier formulated the law of conservation of mass, which states the following:
-    &lt;ul&gt;
-      &lt;li&gt;In a chemical reaction, matter is neither created nor destroyed.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;When a chemical reaction occurs, the total mass of the substances involved in the reaction does not change.
-    &lt;ul&gt;
-      &lt;li&gt;This law is consistent with the idea that matter is composed of small, indestructible particles.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:28:53.424491&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-cafbd.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-law-of-definite-proportions&quot;&gt;The Law of Definite Proportions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:29:25.280225&lt;/li&gt;
-  &lt;li&gt;In 1797 a French chemist named Joseph Proust made observations on the composition of compounds&lt;/li&gt;
-  &lt;li&gt;He summarized his observations in the &lt;em&gt;law of definite proportions&lt;/em&gt;:
-    &lt;ul&gt;
-      &lt;li&gt;All samples of a given compound, regardless of their source or how they were prepared, have the same proportions of their constituent elements.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The law of definite proportions is sometimes called the law of constant composition.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;an-example-of-the-law-of-definite-proportions&quot;&gt;An Example of the Law of Definite Proportions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:02.047142&lt;/li&gt;
-  &lt;li&gt;The decomposition of 18.0 g of water (H2O) results in 16.0 g of oxygen (O2) and 2.0 g of hydrogen (H2)&lt;/li&gt;
-  &lt;li&gt;an oxygen-to-hydrogen mass ratio of 8:1.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-7e599.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;problem-solving-the-law-of-definite-proportions&quot;&gt;Problem Solving: The Law of Definite Proportions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:39.294000&lt;/li&gt;
-  &lt;li&gt;Two samples of carbon dioxide decompose into their constituent elements. One produces 25.6 g oxygen and 9.60 g carbon, the other 21.6 g oxygen, and 8.10 g carbon. Show that these results are consistent with the law of definite proportions.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-law-of-multiple-proportions&quot;&gt;The Law of Multiple Proportions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:34:08.719405&lt;/li&gt;
-  &lt;li&gt;In 1804, John Dalton published his law of multiple proportions:
-    &lt;ul&gt;
-      &lt;li&gt;When two elements (call them A and B) form two different compounds, the masses of element B that combine with 1 g of element A can be expressed as a ratio of small whole numbers.
-        &lt;ul&gt;
-          &lt;li&gt;When an atom of A combines with either one, two, three, or more atoms of B, the following molecular compounds are possible: AB1, AB2, AB3, etc.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:36:00.257154&lt;/li&gt;
-  &lt;li&gt;Carbon monoxide and carbon dioxide are two compounds composed of the same two elements: carbon and oxygen.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-23da8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;The mass ratio of oxygen to carbon in carbon dioxide is 2.67:1; therefore, 2.67 g of oxygen reacts with 1 g of carbon.&lt;/li&gt;
-      &lt;li&gt;In carbon monoxide, however, the mass ratio of oxygen to carbon is 1.33:1, or 1.33 g of oxygen to every 1 g of carbon.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The ratio of these two masses is itself a small whole number
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-c08d4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;problem-solving-the-law-of-multiple-proportions&quot;&gt;Problem Solving: The Law of Multiple Proportions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Nitrogen forms a number of compounds with oxygen. Measurements of the masses of nitrogen and oxygen that form upon decomposing these compounds show that nitrogen dioxide contains 2.28 g oxygen to every 1.00 g of nitrogen, while dinitrogen monoxide contains 0.570 g oxygen to every 1.00 g nitrogen. Show that the results are consistent with the law of multiple proportions:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-46ea2.png&quot; alt=&quot;&quot; /&gt;
-        &lt;ul&gt;
-          &lt;li&gt;4 is a small whole number which coincides with the law of multiple proportions&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;the-structure-of-the-atom&quot;&gt;The Structure of the Atom&lt;/h1&gt;
-
-&lt;h2 id=&quot;the-discovery-of-the-electron&quot;&gt;The Discovery of the Electron&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:41:57.987686&lt;/li&gt;
-  &lt;li&gt;From J. J. Thomson’s (1856–1940) cathode rays experiments, it was observed that
-    &lt;ul&gt;
-      &lt;li&gt;a beam of particles, called cathode rays, traveled from the negatively charged electrode (called the cathode) to the positively charged one (called the anode);&lt;/li&gt;
-      &lt;li&gt;the particles that compose the cathode ray have the following properties:
-        &lt;ul&gt;
-          &lt;li&gt;They travel in straight lines.&lt;/li&gt;
-          &lt;li&gt;They are independent of the composition of the material from which they originate (the cathode).&lt;/li&gt;
-          &lt;li&gt;They carry a negative electrical charge.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;J.J. Thomson was able to measure the charge-to-mass ratio of the cathode ray particles by deflecting them using electric and magnetic fields, as shown in the figure on the bottom of the next slide.
-    &lt;ul&gt;
-      &lt;li&gt;The value he measured was –1.76 × 103 coulombs per gram. © 2015 Pearson Education, Inc.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-a024e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:43:28.234010&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-68288.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Measured mass/charge of e-&lt;/li&gt;
-  &lt;li&gt;Audio 0:44:28.784923&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-c4d37.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;millikans-oil-drop-experiment-determining-the-charge-of-an-electron&quot;&gt;Millikan’s Oil Drop Experiment: Determining the Charge of an Electron&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:45:09.599076&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-db2e5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-f2945.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:45:42.474328&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-66a4b.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Calculated electron mass and hydrogen mass&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;millikans-oil-drop-experiment-the-charge-to-mass-ratio-for-an-electron&quot;&gt;Millikan’s Oil Drop Experiment: The Charge-to-Mass Ratio for an Electron&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Using data from
-    &lt;ul&gt;
-      &lt;li&gt;Millikan’s experiment (–1.60 × 10–19 C/electron);&lt;/li&gt;
-      &lt;li&gt;Thomson’s mass-to-charge ratio for electrons, it can be deducted that the mass of an electron is as follows:&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-17e9a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;mastering-chemistry-is-due-tomorrow-night&quot;&gt;Mastering chemistry is due tomorrow night!&lt;/h2&gt;
-
-&lt;h2 id=&quot;vocab&quot;&gt;Vocab&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;accuracy&lt;/td&gt;
-      &lt;td&gt;how close a measurement is to the true value&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;precision&lt;/td&gt;
-      &lt;td&gt;how close a set of measurements are to each other&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;atomic theory&lt;/td&gt;
-      &lt;td&gt;Explains the laws of the composition of matter and favors the existence of atoms&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;law of conservation of mass&lt;/td&gt;
-      &lt;td&gt;states that in a chemical reaction, matter is neither created nor destroyed&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;law of definite proportions&lt;/td&gt;
-      &lt;td&gt;states that all samples of a given compound, regardless of their source or how they were prepared, have the same proportions of their constituent elements&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Mon, 22 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/08/22/week-2-day-1.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/22/week-2-day-1.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 1 - Day 2</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2fb8jn&quot;&gt;Quizlet for terms in this lecture&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-1-day-2.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;9DLPuxi0ZKU&quot;});
-&lt;/script&gt;
-
-&lt;h1 id=&quot;some-online-homework-discussion&quot;&gt;Some online homework discussion&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:00:29.813843&lt;/li&gt;
-  &lt;li&gt;You log on to the &lt;a href=&quot;http://ua.mylabsplus.com&quot;&gt;MyLabsPlus&lt;/a&gt; website
-    &lt;ul&gt;
-      &lt;li&gt;Go to assignments
-        &lt;ul&gt;
-          &lt;li&gt;They are arranged in order&lt;/li&gt;
-          &lt;li&gt;Audio 0:01:13.422000&lt;/li&gt;
-          &lt;li&gt;They are due at midnight, but you get 1% per hour late off your score. So you aren’t SOL if you don’t get it right on time&lt;/li&gt;
-          &lt;li&gt;You get a drop on the homework&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Audio 0:03:18.888195
-        &lt;ul&gt;
-          &lt;li&gt;Speech about tax returns is actually about:
-            &lt;ul&gt;
-              &lt;li&gt;You have 5 freebies on the clicker questions
-                &lt;ul&gt;
-                  &lt;li&gt;absences&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-              &lt;li&gt;Same is true for the lab
-                &lt;ul&gt;
-                  &lt;li&gt;You get 2 absences
-                    &lt;ul&gt;
-                      &lt;li&gt;More starts penalties&lt;/li&gt;
-                    &lt;/ul&gt;
-                  &lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Audio 0:06:21.001575
-        &lt;ul&gt;
-          &lt;li&gt;Re-iterating
-            &lt;ul&gt;
-              &lt;li&gt;You get one drop grade in the class
-                &lt;ul&gt;
-                  &lt;li&gt;Shoot to make it the last test because it is the hardest&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Pre-labs are due mid-day the day before your lab
-        &lt;ul&gt;
-          &lt;li&gt;If you have a Monday lab, your pre-lab is due noon Sunday&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:09:10.406530
-    &lt;ul&gt;
-      &lt;li&gt;You have two attempts at getting multiple choice right in homework&lt;/li&gt;
-      &lt;li&gt;6 on numeric&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;chapter-1-notes-part-2&quot;&gt;Chapter 1 Notes Part 2&lt;/h1&gt;
-
-&lt;h2 id=&quot;classification-of-pure-substances&quot;&gt;Classification of Pure Substances&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Pure substances can be categorized into two types:
-    &lt;ul&gt;
-      &lt;li&gt;Elements&lt;/li&gt;
-      &lt;li&gt;Compounds&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;This categorization depends on whether or not they can be broken down (or decomposed) into simpler substances.&lt;/li&gt;
-  &lt;li&gt;An &lt;em&gt;element&lt;/em&gt; is a substance that cannot be chemically broken down into simpler substances.
-    &lt;ul&gt;
-      &lt;li&gt;Basic building blocks of matter&lt;/li&gt;
-      &lt;li&gt;Composed of single type of atom, like helium&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A &lt;em&gt;compound&lt;/em&gt; is a substance composed of two or more elements in fixed definite proportions.&lt;/li&gt;
-  &lt;li&gt;Most elements are chemically reactive and combine with other elements to form compounds.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;heterogeneous-mixture&quot;&gt;Heterogeneous Mixture&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A &lt;em&gt;heterogeneous mixture&lt;/em&gt; is one in which the composition varies from one region of the mixture to another.
-    &lt;ul&gt;
-      &lt;li&gt;Made of multiple substances, whose presence can be seen (example: a salt and sand mixture)
-        &lt;ul&gt;
-          &lt;li&gt;Portions of a sample of a heterogeneous mixture have different composition and properties.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;homogeneous-mixture&quot;&gt;Homogeneous Mixture&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A &lt;em&gt;homogeneous mixture&lt;/em&gt; is one made of multiple substances, but it appears to be one substance.&lt;/li&gt;
-  &lt;li&gt;All portions of a sample have the same composition and properties (like sweetened tea).&lt;/li&gt;
-  &lt;li&gt;Homogeneous mixtures have uniform compositions because the atoms or molecules that compose them mix uniformly.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-scientific-approach-to-knowledge&quot;&gt;The Scientific Approach to Knowledge&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:12:42.707245&lt;/li&gt;
-  &lt;li&gt;The approach to scientific knowledge is empirical&lt;/li&gt;
-  &lt;li&gt;It is based on observation and experimentation.&lt;/li&gt;
-  &lt;li&gt;The scientific method is a process for understanding nature by observing nature and its behavior through experimentation.&lt;/li&gt;
-  &lt;li&gt;Key characteristics of the scientific method
-    &lt;ul&gt;
-      &lt;li&gt;Observations&lt;/li&gt;
-      &lt;li&gt;Formulation of hypotheses&lt;/li&gt;
-      &lt;li&gt;Experimentation&lt;/li&gt;
-      &lt;li&gt;Formulation of laws and theories&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;observations&quot;&gt;Observations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Observations:
-    &lt;ul&gt;
-      &lt;li&gt;They are also known as data.&lt;/li&gt;
-      &lt;li&gt;They are the descriptions about the characteristics or behavior of nature.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Observations, verification of observations, and experimentation can lead scientists to formulate a hypothesis.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-scientific-approach-to-knowledge-1&quot;&gt;The Scientific Approach to Knowledge&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Scientists try to understand the universe through empirical knowledge gained through observation and experiment&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;gathering-empirical-knowledge--observation&quot;&gt;Gathering Empirical Knowledge ─ Observation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Some observations are descriptions of the characteristics or behavior of nature ─ qualitative&lt;/li&gt;
-  &lt;li&gt;Some observations compare a characteristic to a standard numerical scale ─ quantitative&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;from-observation-to-understanding&quot;&gt;From Observation to Understanding&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:15:58.585935&lt;/li&gt;
-  &lt;li&gt;Hypothesis – a tentative interpretation or explanation for an observation&lt;/li&gt;
-  &lt;li&gt;A good hypothesis is one that can be tested to be proved wrong!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;testing-ideas&quot;&gt;Testing Ideas&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:17:57.155168&lt;/li&gt;
-  &lt;li&gt;Ideas in science are tested with experiments&lt;/li&gt;
-  &lt;li&gt;An experiment is a set of highly controlled procedures designed to test whether an idea about nature is valid&lt;/li&gt;
-  &lt;li&gt;The experiment generates observations that will either validate or invalidate the idea&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;is-this-a-good-hypothesis&quot;&gt;Is this a good hypothesis?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:19:00.330922&lt;/li&gt;
-  &lt;li&gt;Yesterday, the phase of the moon was a crescent. I observed that it rained a lot yesterday.&lt;/li&gt;
-  &lt;li&gt;It also rained during the previous crescent moon.&lt;/li&gt;
-  &lt;li&gt;I hypothesize that crescent moons cause rain showers
-    &lt;ul&gt;
-      &lt;li&gt;The hypothesis is the ‘why?’&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;My answer: This is a good hypothesis because it can be tested and proved wrong&lt;/li&gt;
-  &lt;li&gt;Audio 0:21:04.453540&lt;/li&gt;
-  &lt;li&gt;Best answer: C
-    &lt;ul&gt;
-      &lt;li&gt;It’s a good hypothesis because it’s falsifiable&lt;/li&gt;
-      &lt;li&gt;Audio 0:23:23.754722&lt;/li&gt;
-      &lt;li&gt;Audio 0:25:56.261455&lt;/li&gt;
-      &lt;li&gt;Good reasons to understand the importance of hypothesis&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;from-specific-to-general-understanding&quot;&gt;From Specific to General Understanding&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:25.458523&lt;/li&gt;
-  &lt;li&gt;A &lt;em&gt;hypothesis&lt;/em&gt; is a potential explanation for a single or small number of observations&lt;/li&gt;
-  &lt;li&gt;A &lt;em&gt;scientific theory&lt;/em&gt; is a general explanation for why things in nature are the way they are and behave the way they do
-    &lt;ul&gt;
-      &lt;li&gt;Integrates a lot of different observations&lt;/li&gt;
-      &lt;li&gt;Lets us predict what’s happening in the universe&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;think-about-it&quot;&gt;Think about it&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Given what you just learned about the term “Theory”, what’s wrong with this statement:
-    &lt;ul&gt;
-      &lt;li&gt;“The theory of gravity is just a theory and therefore probably wrong”
-        &lt;ul&gt;
-          &lt;li&gt;Audio 0:27:55.076377&lt;/li&gt;
-          &lt;li&gt;By the time you get to calling things theories, they have been tested &lt;em&gt;a lot&lt;/em&gt;
-            &lt;ul&gt;
-              &lt;li&gt;The scientific method says you can’t prove anything, you can only disprove things&lt;/li&gt;
-              &lt;li&gt;You’ll have to explain exceptions to the theory at some point so a new theory will emerge&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;from-specific-to-general-observations&quot;&gt;From Specific to General Observations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A &lt;em&gt;scientific law&lt;/em&gt; is a statement that summarizes all past observations and predicts future observations
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Law of Conservation of Mass&lt;/em&gt; – “In a chemical reaction matter is neither created nor destroyed.”&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A scientific law allows you to predict future observations&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-19-week-1-day-2-a68b5.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:31:28.593326&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;relationships-between-pieces-of-the-scientific-method&quot;&gt;Relationships Between Pieces of the Scientific Method&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-19-week-1-day-2-9652f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-scientific-approach-to-knowledge-2&quot;&gt;The Scientific Approach to Knowledge&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;It is necessary to be careful with the information presented by an experimentalist who lacks theoretical principles… [he] gathers at random several facts and presents them as proofs… scientific knowledge without reasoning [theory] does not exist.”
-    &lt;ul&gt;
-      &lt;li&gt;J. le R. d’Alembert (1717-1783), from Nouvelles Experiences sur la Resistance des Fluids. Jombert, Paris (1997)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;D’Alembert was always surrounded by controversy. ….Unfortunately he carried [his]… pugnacity into his scientific research and once he had entered a controversy, he argued his cause with vigour and stubbornness. He closed his mind to the possibility that he might be wrong…
-    &lt;ul&gt;
-      &lt;li&gt;Thomas L. Hankins (1990). Jean D’Alembert: Science and the Enlightenment. Taylor &amp;amp; Francis. p. 236. ISBN 2881243991&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;why-is-scientific-measurement-important&quot;&gt;Why Is Scientific Measurement Important?&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Scientific data can be either qualifiable or quantifiable
-    &lt;ul&gt;
-      &lt;li&gt;Qualifiable data are observational
-        &lt;ul&gt;
-          &lt;li&gt;Subjective in nature&lt;/li&gt;
-          &lt;li&gt;Examples: color, shape&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Quantifiable data are measurable (empirical).
-    &lt;ul&gt;
-      &lt;li&gt;Objective in nature&lt;/li&gt;
-      &lt;li&gt;Uses equipment (e.g., glassware, balance, instrumentation) capable of generating empirical data with standardized &lt;em&gt;UNITS&lt;/em&gt;.
-        &lt;ul&gt;
-          &lt;li&gt;English system (e.g., inch, feet, etc.) – International System of Units (SI)&lt;/li&gt;
-          &lt;li&gt;Metric system&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;what-is-a-measurement&quot;&gt;What Is a Measurement?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:36:17.268476&lt;/li&gt;
-  &lt;li&gt;quantitative observation&lt;/li&gt;
-  &lt;li&gt;comparison to an agreed- upon standard&lt;/li&gt;
-  &lt;li&gt;every measurement has a number and a unit&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-19-week-1-day-2-bae0e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;significant-figures&quot;&gt;Significant Figures&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:37:46.810624&lt;/li&gt;
-  &lt;li&gt;No measurement can be more accurate than half the smallest division
-    &lt;ul&gt;
-      &lt;li&gt;Note: Tro says 1/10 of smallest division&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Often write +- to indicate this: 11+-1 mm, 1.1 +-0.3 cm&lt;/li&gt;
-  &lt;li&gt;No error range given? Then assume + half the least Significant Figure
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-19-week-1-day-2-5c1b1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:39:46.713576&lt;/li&gt;
-  &lt;li&gt;Any digit that is not zero is significant
-    &lt;ul&gt;
-      &lt;li&gt;1.234 kg 4 significant figures&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Zeros between nonzero digits are significant
-    &lt;ul&gt;
-      &lt;li&gt;606 m 3 significant figures&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Zeros to the left of the first nonzero digit are not significant
-    &lt;ul&gt;
-      &lt;li&gt;0.08 L 1 significant figure&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;If a number is greater than 1, then all zeros to the right of the decimal point are significant
-    &lt;ul&gt;
-      &lt;li&gt;2.0 mg 2 significant figures&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;If a number is less than 1, then only the zeros that are at the end and in the middle of the number are significant
-    &lt;ul&gt;
-      &lt;li&gt;0.004020 g 4 significant figures&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.khanacademy.org/math/arithmetic-home/arith-review-decimals/arithmetic-significant-figures-tutorial/e/significant_figures_1&quot;&gt;test your ability&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;how-many-significant-figures-are-in-each-of-the-following-measurements&quot;&gt;How many significant figures are in each of the following measurements?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:42:44.871665&lt;/li&gt;
-  &lt;li&gt;24 mL
-    &lt;ul&gt;
-      &lt;li&gt;2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;3001 g
-    &lt;ul&gt;
-      &lt;li&gt;4&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;0.0320 m^3
-    &lt;ul&gt;
-      &lt;li&gt;3&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;6.4 x 104 molecules
-    &lt;ul&gt;
-      &lt;li&gt;2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;560 kg
-    &lt;ul&gt;
-      &lt;li&gt;2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;rounding-rules-for-significant-figures&quot;&gt;Rounding Rules for Significant Figures&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:44:53.580413&lt;/li&gt;
-  &lt;li&gt;Digit being rounded &amp;gt; 5
-    &lt;ul&gt;
-      &lt;li&gt;Add 1 to least significant digit&lt;/li&gt;
-      &lt;li&gt;Result: 4.16 with 2 sig figs becomes 4.2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Digit being rounded &amp;lt; 5
-    &lt;ul&gt;
-      &lt;li&gt;Result: 4.14 with 2 sig figs becomes 4.1&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ROUND AT THE END OF THE PROBLEM&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;addition-or-subtraction---significant-figures&quot;&gt;Addition or Subtraction - Significant Figures&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The answer cannot have more digits to the right of the decimal point than any of the original numbers
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-19-week-1-day-2-c7ef7.png&quot; alt=&quot;&quot; /&gt;
-        &lt;ul&gt;
-          &lt;li&gt;1.1 has one sig fig after decimal&lt;/li&gt;
-          &lt;li&gt;round 90.432 to 90.4&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-19-week-1-day-2-6e28c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Look at sig figs in the given variables in the problem and have that many in your answer&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;vocab&quot;&gt;Vocab&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;element&lt;/td&gt;
-      &lt;td&gt;a substance that cannot be chemically broken down into simpler substances&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;compound&lt;/td&gt;
-      &lt;td&gt;a substance composed of two or more elements in fixed definite proportions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;heterogeneous mixture&lt;/td&gt;
-      &lt;td&gt;mixture in which the composition varies from one region of the mixture to another&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;homogeneous mixture&lt;/td&gt;
-      &lt;td&gt;mixture made of multiple substances, but it appears to be one substance&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;observations&lt;/td&gt;
-      &lt;td&gt;also known as data&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;hypothesis&lt;/td&gt;
-      &lt;td&gt;a tentative interpretation or explanation for an observation&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;qualitative&lt;/td&gt;
-      &lt;td&gt;type of observation which describe characteristics of something&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;quantitative&lt;/td&gt;
-      &lt;td&gt;type of observation which are compare a characteristic to a standard numerical scale&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;experiment&lt;/td&gt;
-      &lt;td&gt;a set of highly controlled procedures designed to test whether an idea about nature is valid&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;scientific theory&lt;/td&gt;
-      &lt;td&gt;a general explanation for why things in nature are the way they are and behave the way they do&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;scientific law&lt;/td&gt;
-      &lt;td&gt;a statement that summarizes all past observations and predicts future observations&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Law of Conservation of Mass&lt;/td&gt;
-      &lt;td&gt;In a chemical reaction matter is neither created nor destroyed&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Fri, 19 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/08/19/week-1-day-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/19/week-1-day-2.html</guid>
         
         
       </item>
