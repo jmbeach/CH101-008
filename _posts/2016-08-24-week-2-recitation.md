@@ -70,7 +70,7 @@ function toggleSix() {
   + <input name="7" type="radio" value="c"/> a compound
   + <input name="7" type="radio" value="d"/> an amorphous solution
   + <input name="7" type="radio" value="e"/> a heterogeneous mixture
-8. Calculate the mass of the air contained in a room that measures 2.50 m x 5.50 m x 3.00 m, given that the density of air is 1.29 g/dm^3 at 25 °C.
+8. Calculate the mass of the air contained in a room that measures 2.50 m x 5.50 m x 3.00 m, given that the density of air is 1.29 g/cm^3 at 25 °C.
   + <input name="8" type="radio" value="a"/> 3.13 x 10^-5 g
   + <input name="8" type="radio" value="b"/> 32.0 kg
   + <input name="8" type="radio" value="c"/> 53.2 kg
