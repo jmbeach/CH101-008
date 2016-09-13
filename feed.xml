@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Sep 2016 14:35:54 -0500</pubDate>
-    <lastBuildDate>Mon, 12 Sep 2016 14:35:54 -0500</lastBuildDate>
+    <pubDate>Tue, 13 Sep 2016 16:07:12 -0500</pubDate>
+    <lastBuildDate>Tue, 13 Sep 2016 16:07:12 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -348,6 +348,472 @@ into 1s orbital than does 2p&lt;/li&gt;
         <pubDate>Mon, 12 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/09/12/week-5-day-1.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/12/week-5-day-1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Test 1 - Review / Answers</title>
+        <description>&lt;h2 id=&quot;questions&quot;&gt;Questions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Calculate the energy of the red light emitted by a neon atom with a wavelength of 703.2 nm.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 3.54 * 10^-19 J&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 4.27 * 10^-19 J&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 2.34 * 10^-19 J&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 6.45 * 10^-19 J&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 2.83 * 10^-19 J&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+var st1 = false;
+function toggleOne() {
+  st1 = !st1;
+  if (st1) {
+    $('#oneHint').show();
+    $('#toggleOne').val('hide');
+  }
+  else {
+    $('#oneHint').hide();
+    $('#toggleOne').val('show solution');
+  }
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input id=&quot;toggleOne&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleOne()&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img id=&quot;oneHint&quot; src=&quot;../../../assets/2016-09-12-test-1-review-answers-6cf72.png&quot; style=&quot;display:none&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Because of the high heat and low humidity in the summer in Death Valley, California, a visitor requires about one quart of water for every two miles traveled on foot. Calculate the approximate number of liters required for a person to walk 25 kilometers in Death Valley
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 7.3 L&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 295 L&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 76 L&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 117 L&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+var st2 = false;
+function toggleTwo() {
+  st2 = !st2;
+  if (st2) {
+    $('#twoHint').show();
+    $('#toggleTwo').val('hide');
+  }
+  else {
+    $('#twoHint').hide();
+    $('#toggleTwo').val('show solution');
+  }
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input id=&quot;toggleTwo&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleTwo()&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img id=&quot;twoHint&quot; src=&quot;../../../assets/2016-09-12-test-1-review-answers-ca003.png&quot; style=&quot;display:none&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What decimal power does the abbreviation p represent
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1 * 10^6&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 1 * 10^9&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1 * 10^-1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1 * 10^-12&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 1 * 10^-15&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Which of the following represent isotopes:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-test-1-review-answers-7ba86.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 2.5 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 6.0 * 10^2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1.0 * 10^-2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 2.4 * 10^2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 1.0 * 10^2&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;script&gt;
+var st4 = false;
+function toggleFour() {
+  st4 = !st4;
+  if (st4) {
+    $('#fourHint').show();
+    $('#toggleFour').val('hide');
+  }
+  else {
+    $('#fourHint').hide();
+    $('#toggleFour').val('show solution');
+  }
+}
+&lt;/script&gt;
+
+    &lt;p&gt;&lt;input id=&quot;toggleFour&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleFour()&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;span id=&quot;fourHint&quot; style=&quot;display:none&quot;&gt;This is a confusingly worded question (my opinion). What the question is asking you to do is identify a pair of isotopes of the same element. One must understand that all variations of an element (even the most common) is an isotope. A pair of isotopes would be of the same element (meaning same atomic number / number of protons). The only options with the same atomic numbers are A and C which have an atomic number of 21.&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Meter is a measure of
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; length&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; temperature&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; mass&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; time&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; volume&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;What species is represented by the following information?
+    &lt;ul&gt;
+      &lt;li&gt;p+ = 12, n° = 14, e- = 10&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Si^4+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Mg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Ne&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Si&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; Mg^2+
+&lt;script&gt;
+var st6 = false;
+function toggleSix() {
+st6 = !st6;
+if (st6) {
+  $('#sixHint').show();
+  $('#toggleSix').val('hide');
+}
+else {
+  $('#sixHint').hide();
+  $('#toggleSix').val('show solution');
+}
+}
+&lt;/script&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;input id=&quot;toggleSix&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleSix()&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;span id=&quot;sixHint&quot; style=&quot;display:none&quot;&gt;To identify which element this information represents, you must look at the atomic number or the number of protons (p+). p+ = 12. We look at the periodic table and find that the element with atomic number 12 is magnesium (Mg). However, this is not the end of the problem. Neutrons do not affect the answer because the answers do not show isotopes, but electrons (e-) do affect the answer because some of the answers show a non-neutral charge. Because p+ = 12 and e- = 10, there are more positive charges than negative charges in the atom, making the overall charge 2+ (two more protons than neutrons). Therefore, the complete answer is Mg^2+&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;How many significant figures are there in the answer for the following problem?
+    &lt;ul&gt;
+      &lt;li&gt;34.2 + 0.6699 + 18?&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; one&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; two&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; three&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; four&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;script&gt;
+var st7 = false;
+function toggleSeven() {
+  st7 = !st7;
+  if (st7) {
+    $('#sevenHint').show();
+    $('#toggleSeven').val('hide');
+  }
+  else {
+    $('#sevenHint').hide();
+    $('#toggleSeven').val('show solution');
+  }
+}
+&lt;/script&gt;
+
+    &lt;p&gt;&lt;input id=&quot;toggleSeven&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleSeven()&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;span id=&quot;sevenHint&quot; style=&quot;display:none&quot;&gt;With addition and subtraction, the accuracy of the final answer can be no greater than the least accurate measurement. Because 18 is the least precise, the final answer will have only have no precision past the decimal making the number of significant digits 2 (answer would be 53)&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;How many atoms of oxygen are in 2.50 moles of SO_2?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 4.52 * 10^24&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 1.51 * 10^24&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 5.02 * 10^23&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 3.01 * 10^24&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 7.53 * 10^23&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;script&gt;
+var st8 = false;
+function toggleEight() {
+  st8 = !st8;
+  if (st8) {
+    $('#eightHint').show();
+    $('#toggleEight').val('hide');
+  }
+  else {
+    $('#eightHint').hide();
+    $('#toggleEight').val('show solution');
+  }
+}
+&lt;/script&gt;
+
+    &lt;p&gt;&lt;input id=&quot;toggleEight&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleEight()&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;span id=&quot;eightHint&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-09-12-test-1-review-answers-c178c.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Determine the velocity of a marble (m = 7.75 g) with a wavelength of 3.46 * 10^-33 m
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 40.5 m/s&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2.47 m/s&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 24.7 m/s&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 38.8 m/s&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 52.9 m/s&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;script&gt;
+var st9 = false;
+function toggleNine() {
+  st9 = !st9;
+  if (st9) {
+    $('#nineHint').show();
+    $('#toggleNine').val('hide');
+  }
+  else {
+    $('#nineHint').hide();
+    $('#toggleNine').val('show solution');
+  }
+}
+&lt;/script&gt;
+
+    &lt;p&gt;&lt;input id=&quot;toggleNine&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleNine()&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;span id=&quot;nineHint&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-09-12-test-1-review-answers-960af.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Calculate the mass (in g) of 2.0 * 10^24 atoms of Hg
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 3.9 * 10^2 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2.4 * 10^2 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 3.2 * 10^2 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1.5 * 10^2 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 6.5 * 10^2 g&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;script&gt;
+var st10 = false;
+function toggleten() {
+  st10 = !st10;
+  if (st10) {
+    $('#tenHint').show();
+    $('#toggleten').val('hide');
+  }
+  else {
+    $('#tenHint').hide();
+    $('#toggleten').val('show solution');
+  }
+}
+&lt;/script&gt;
+
+    &lt;p&gt;&lt;input id=&quot;toggleten&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleten()&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;span id=&quot;tenHint&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-09-12-test-1-review-answers-586af.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Determine the mass of an object that has a volume of 88.6 mL and a density of 7.77 g/mL.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 96.4 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 0.0877 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 11.4 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 80.8 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 688 g&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;script&gt;
+var st11 = false;
+function toggleeleven() {
+  st11 = !st11;
+  if (st11) {
+    $('#elevenHint').show();
+    $('#toggleeleven').val('hide');
+  }
+  else {
+    $('#elevenHint').hide();
+    $('#toggleeleven').val('show solution');
+  }
+}
+&lt;/script&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;input id=&quot;toggleeleven&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleeleven()&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;elevenHint&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-09-12-test-1-review-answers-662bb.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What species is represented by the following information?
+    &lt;ul&gt;
+      &lt;li&gt;p+ = 47, n° = 62, e- = 46&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Ag+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Nd&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Pd&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Ag&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; Pd+&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;script&gt;
+var st12 = false;
+function toggletwelve() {
+  st12 = !st12;
+  if (st12) {
+    $('#twelveHint').show();
+    $('#toggletwelve').val('hide');
+  }
+  else {
+    $('#twelveHint').hide();
+    $('#toggletwelve').val('show solution');
+  }
+}
+&lt;/script&gt;
+
+    &lt;p&gt;&lt;input id=&quot;toggletwelve&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggletwelve()&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;twelveHint&quot; style=&quot;display:none&quot;&gt;To identify which element this information represents, you must look at the atomic number or the number of protons (p+). p+ = 47. We look at the periodic table and find that the element with atomic number 47 is silver (Ag). However, this is not the end of the problem. Neutrons do not affect the answer because the answers do not show isotopes, but electrons (e-) do affect the answer because some of the answers show a non-neutral charge. Because p+ = 12 and e- = 10, there are more positive charges than negative charges in the atom, making the overall charge 2+ (two more protons than neutrons). Therefore, the complete answer is Mg^2+&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A wooden baseball bat is an example of
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; a compound&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; an element&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; a heterogeneous mixture&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; a homogeneous mixture&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;An atom of 32 P contains _ electrons
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 32&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 47&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 17&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 27&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 15&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;script&gt;
+var st14 = false;
+function togglefourteen() {
+  st14 = !st14;
+  if (st14) {
+    $('#fourteenHint').show();
+    $('#togglefourteen').val('hide');
+  }
+  else {
+    $('#fourteenHint').hide();
+    $('#togglefourteen').val('show solution');
+  }
+}
+&lt;/script&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;input id=&quot;togglefourteen&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;togglefourteen()&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;fourteenHint&quot; style=&quot;display:none&quot;&gt;The 32 doesn’t actually matter. What matters is the “P”. P is the element. After looking it up on the periodic table, you see that it’s atomic number is 15, meaning that it has 15 protons. Because we assume the atom is neutral, then it would have 15 electrons.&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Which of the following is an example of the law of multiple proportions?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A sample of chlorine is found to contain three times as much Cl-35  as Cl-37&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Two different compounds formed from carbon and oxygen have the following mass ratios: 1.33 g O: 1 g C and 2.66 g O: 1 g C.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Two different samples of table salt are found to have the same ratio of sodium to chlorine.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; The atomic mass of bromine is found to be 79.90 amu&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; Nitrogen dioxide always has a mass ratio of 2.28 g O: 1 g N&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The mass of a single arsenic atom is 1.244 * 10^-22 g. This is the same mass as
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1.244 * 10^-16 mg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 1.244 * 10^-25 kg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1.244 * 10^-28 μg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1.244 * 10^-31 ng&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Electromagnetic radiation with a wavelength of 640 nm appears as orange light to the human eye. The frequency of this light is _ s^-1.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 4.688 * 10^14&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 4.688 * 10^5&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1.920 * 10^2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1.920 * 10^11&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 2.133 * 10^-15&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;How much energy (in kJ) do 3.0 moles of photons, all with wavelength of 675 nm, contain?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 177 kJ&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 354 kJ&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 418 kJ&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 532 kJ&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 238 kJ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The density of air under ordinary conditions at 25°C is 1.19 g/L. How many kilograms of air are in a room that measures 10.0 ft x 11.0 ft and has an 10.0 ft ceiling? 1 in = 2.54cm; 1 L = 10^3 cm^3
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 3.32&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 0.138&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 3.71 * 10^4&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 0.0795&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 37.1&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Which of the following are examples of extensive properties?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; volume&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; color&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; density&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; temperature&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; solubility&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Gallium has an atomic mass of 69.723 amu. The Ga-69 (68.926 amu) is 60.111%. What is the amu of the other isotope?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 70.924 amu&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 70.932 amu&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 70.928 amu&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 70.928 amu&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+var answers = [&quot;e&quot;, &quot;a&quot;, &quot;d&quot;, &quot;b&quot;, &quot;a&quot;, &quot;e&quot;, &quot;b&quot;, &quot;d&quot;, &quot;c&quot;, &quot;e&quot;, &quot;e&quot;, &quot;a&quot;, &quot;c&quot;, &quot;e&quot;, &quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;d&quot;, &quot;e&quot;, &quot;a&quot;, &quot;a&quot;];
+function getAnswer(number) {
+  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
+}
+function validate() {
+  var any = false;
+  for (var i = 1; i &lt; 22; i++) {
+    var answer = getAnswer(i);
+    if (!answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
+      any = true;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
+    }
+  }
+  if (any) {
+    toastr.error(&quot;You did not answer every question!&quot;);
+  }
+  return !any;
+}
+function grade() {
+  if (!validate()) return;
+  var correct = 0;
+  for (var i = 1; i &lt; 22; i++) {
+    var answer = getAnswer(i);
+    if (answers[i-1] == answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
+      correct++;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
+    }
+  }
+  toastr.success(&quot;Your grade is &quot;+ ((correct/21) * 100).toFixed(2) + &quot; out of 100&quot;);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/09/12/test-1-review-answers.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/12/test-1-review-answers.html</guid>
         
         
       </item>
@@ -2629,364 +3095,6 @@ function grade() {
         <pubDate>Wed, 24 Aug 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/08/24/week-2-recitation.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/24/week-2-recitation.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 2 - Day 2</title>
-        <description>
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-2-day-2.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;NA3V6m3Kf1M&quot;});
-&lt;/script&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2fmjqw&quot;&gt;Quizlet for terms in this lecture&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:02:12.490025&lt;/li&gt;
-  &lt;li&gt;Recitation tonight
-    &lt;ul&gt;
-      &lt;li&gt;Going over practice problems&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Next Wednesday
-    &lt;ul&gt;
-      &lt;li&gt;Placement exam&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;millikans-oil-drop-experiment-the-charge-to-mass-ratio-for-an-electron&quot;&gt;Millikan’s Oil Drop Experiment: The Charge-to-Mass Ratio for an Electron&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:03:42.054463&lt;/li&gt;
-  &lt;li&gt;Using data from
-    &lt;ul&gt;
-      &lt;li&gt;Millikan’s experiment (–1.60 × 10–19 C/electron);&lt;/li&gt;
-      &lt;li&gt;Thomson’s mass-to-charge ratio for electrons, it can be deducted that the mass of an electron is as follows:&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-22-week-2-day-1-17e9a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;radioactivity&quot;&gt;Radioactivity&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:04:08.902546&lt;/li&gt;
-  &lt;li&gt;Some elements: Uranium, Radium, Thorium emit high energy radiation: alpha, beta, gamma rays
-    &lt;ul&gt;
-      &lt;li&gt;Gave the basis for what is in atoms&lt;/li&gt;
-      &lt;li&gt;Audio 0:05:35.336223&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-4160c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;Audio 0:06:11.521979&lt;/li&gt;
-      &lt;li&gt;Alpha is positively charged&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-518b0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;Audio 0:06:28.313205&lt;/li&gt;
-      &lt;li&gt;Beta is negatively&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-d5ffe.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;Gamma is neutrally charged&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-2774d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-8dff6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;putting-the-pieces-together&quot;&gt;Putting the pieces together:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:07:20.979240&lt;/li&gt;
-  &lt;li&gt;Beta particles: negatively charged = electrons&lt;/li&gt;
-  &lt;li&gt;Alpha particles: positively charged
-Ernest Rutherford showed that these are chemically part of helium atoms&lt;/li&gt;
-  &lt;li&gt;Audio 0:07:58.216800&lt;/li&gt;
-  &lt;li&gt;Gamma Rays: like light and X-rays, only more energy&lt;/li&gt;
-  &lt;li&gt;So where are the Electrons and the Positive Charge in an atom?&lt;/li&gt;
-  &lt;li&gt;Audio 0:08:27.289910&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-978fa.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-ultimate-undergraduate-research-project&quot;&gt;The Ultimate Undergraduate Research Project&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:09:44.109094&lt;/li&gt;
-  &lt;li&gt;(as carried out by Ernest Marsden under the direction of Johannes Gieger and Ernest Rutherford)
-Rutherford’s Experimental Design&lt;/li&gt;
-  &lt;li&gt;Audio 0:10:06.370006&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-cd4e0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:11:02.745604&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-aa4da.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;thomsons-model-predicts&quot;&gt;Thomson’s Model Predicts:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Multiple collisions, small deflections&lt;/li&gt;
-  &lt;li&gt;Rutherford on the large deflections:&lt;/li&gt;
-  &lt;li&gt;’.. About as credible as if you had fired a 15- inch [artillery] shell at a piece of paper and it came back and hit you.’&lt;/li&gt;
-  &lt;li&gt;Audio 0:12:11.955108&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-729b8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:12:34.844121&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-44c24.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:12:53.542528&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-67a34.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-55409.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:13:40.032752&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-d6d03.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:14:53.573853&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-15fb7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ernest-rutherford-baron-nelson-bsc-dsc-canterbury-college-university-of-new-zealand&quot;&gt;Ernest Rutherford, Baron Nelson, BSc, DSc, Canterbury College, University of New Zealand&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:15:04.348832&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-8ea75.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-1ded6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;building-on-the-rutherford-atomic-model-the-nuclear-atom-model&quot;&gt;Building on the Rutherford Atomic Model: The Nuclear Atom Model&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:16:11.946000&lt;/li&gt;
-  &lt;li&gt;The nuclear theory of the atom has three basic parts
-    &lt;ol&gt;
-      &lt;li&gt;Most of the atom’s mass and all of its positive charge are contained in a small core called a nucleus.&lt;/li&gt;
-      &lt;li&gt;Most of the volume of the atom is empty space, throughout which tiny, negatively charged electrons are dispersed.&lt;/li&gt;
-      &lt;li&gt;There are many negatively charged electrons outside the nucleus as there are positively charged particles (named protons) within the nucleus, so that the atom is electrically neutral.&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;protons-and-neutrons&quot;&gt;Protons (and Neutrons)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:17:40.279234&lt;/li&gt;
-  &lt;li&gt;Had bare proton (nucleus of hydrogen) Charge of alpha particle x 2 proton&lt;/li&gt;
-  &lt;li&gt;Mass of alpha particle x 4 proton&lt;/li&gt;
-  &lt;li&gt;So must be something else in the nucleus
-    &lt;ul&gt;
-      &lt;li&gt;Neutron&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;chadwicks-experiment-1932&quot;&gt;Chadwick’s Experiment (1932)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:18:21.136318&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-dc3d7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-atoms-subatomic-particles&quot;&gt;The Atom’s Subatomic Particles&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:20:04.055851&lt;/li&gt;
-  &lt;li&gt;All atoms are composed of the same subatomic particles:
-    &lt;ul&gt;
-      &lt;li&gt;Protons&lt;/li&gt;
-      &lt;li&gt;Neutrons&lt;/li&gt;
-      &lt;li&gt;Electrons&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Protons and neutrons have nearly identical masses
-    &lt;ul&gt;
-      &lt;li&gt;The mass of the proton is 1.67262 * 10^-27 kg&lt;/li&gt;
-      &lt;li&gt;The mass of the neutron is 1.67493 × 10^–27 kg.&lt;/li&gt;
-      &lt;li&gt;The mass of the electron is 9.1 × 10^31 kg.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The charge of the proton and the charge of the electron are equal in magnitude but opposite in sign. The neutron has no charge.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;subatomic-particles&quot;&gt;Subatomic Particles&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:21:17.788117&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-21e48.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;elements-defined-by-their-numbers-of-protons&quot;&gt;Elements: Defined by Their Numbers of Protons&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The most important number to the identity of an atom is the number of protons in its nucleus.&lt;/li&gt;
-  &lt;li&gt;The number of protons defines the element.&lt;/li&gt;
-  &lt;li&gt;The number of protons in an atom’s nucleus is its
-atomic number and is given the symbol Z.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;isotopes-elements-with-varied-number-of-neutrons&quot;&gt;Isotopes: Elements with Varied Number of Neutrons&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:24:33.380011&lt;/li&gt;
-  &lt;li&gt;All atoms of a given element have the same number of protons; however, they do not necessarily have the same number of neutrons.
-    &lt;ul&gt;
-      &lt;li&gt;Example:
-        &lt;ul&gt;
-          &lt;li&gt;All neon atoms contain 10 protons, but they
-may contain 10, 11, or 12 neutrons.&lt;/li&gt;
-          &lt;li&gt;All three types of neon atoms exist, and each has a slightly different mass.&lt;/li&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-8bce3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Atoms with the same number of protons but a different number of neutrons are called isotopes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;isotopes-representation&quot;&gt;Isotopes: Representation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:45.772174&lt;/li&gt;
-  &lt;li&gt;The sum of the number of neutrons and protons in an atom is its mass number and is represented by the symbol A.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-30c5e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;X is the chemical symbol, A is the mass number, and Z is the atomic number.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;isotopes-representation-1&quot;&gt;Isotopes: Representation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:28:13.708943&lt;/li&gt;
-  &lt;li&gt;A second common notation for isotopes is the chemical symbol (or chemical name) followed by a dash and the mass number of the isotope.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-c40c3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;isotopes-varied-number-of-neutrons&quot;&gt;Isotopes: Varied Number of Neutrons&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:28:56.545513&lt;/li&gt;
-  &lt;li&gt;The relative amount of each different isotope in a naturally occurring sample of a given element is roughly constant.&lt;/li&gt;
-  &lt;li&gt;The percentages are called the natural abundance of the isotopes.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-0dec3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-question&quot;&gt;Clicker Question&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:59.698445&lt;/li&gt;
-  &lt;li&gt;What is the atomic number (Z), mass number (A), of chlorine with 18 neutrons?&lt;/li&gt;
-  &lt;li&gt;Z = 17, A = 35 (or 17 + 18)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ions-charged-atoms-losing-and-gaining-electrons&quot;&gt;Ions: Charged Atoms Losing and Gaining Electrons&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:34:19.624557&lt;/li&gt;
-  &lt;li&gt;The number of electrons in a neutral atom is equal to the number of protons in its nucleus (designated by its atomic number Z).&lt;/li&gt;
-  &lt;li&gt;In chemical changes, however, atoms can lose or gain electrons and become charged particles called ions.
-    &lt;ul&gt;
-      &lt;li&gt;Positively charged ions are called cations.
-        &lt;ul&gt;
-          &lt;li&gt;Metal elements, such as Na+, form cations.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Negatively charged ions are called anions.
-        &lt;ul&gt;
-          &lt;li&gt;Nonmetal elements, such as F–, form anions.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;atomic-mass-the-average-mass-of-an-elements-atoms&quot;&gt;Atomic Mass: The Average Mass of an Element’s Atoms&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:36:03.449187&lt;/li&gt;
-  &lt;li&gt;Atomic mass is sometimes called the atomic weight or standard atomic weight.&lt;/li&gt;
-  &lt;li&gt;The atomic mass of each element is directly beneath the element’s symbol in the periodic table.&lt;/li&gt;
-  &lt;li&gt;The atomic mass of an element represents the average mass of the isotopes that compose that element
-    &lt;ul&gt;
-      &lt;li&gt;It is a weighted value based on the element’s natural abundance of each isotope.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-812c2.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:36:29.805279&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-38b17.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;mass-spectrometry-measuring-the-mass-of-atoms-and-molecules&quot;&gt;Mass Spectrometry: Measuring the Mass of Atoms and Molecules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The masses of atoms and the percent abundances of isotopes of elements are measured using mass spectrometry—a technique that separates particles according to their mass.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-24-week-2-day-2-1b873.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;atomic-mass-problem&quot;&gt;Atomic Mass: Problem&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Naturally occurring chlorine consists of 75.77% chlorine-35 atoms (mass 34.97 amu) and 24.23% chlorine-37 atoms (mass 36.97 amu).&lt;/li&gt;
-  &lt;li&gt;Calculate chlorine’s atomic mass.&lt;/li&gt;
-  &lt;li&gt;Audio 0:39:29.943281&lt;/li&gt;
-  &lt;li&gt;75.77 % / 100 % * 34.97 amu + 24.23%/100% * 36.97 amu&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;vocab&quot;&gt;Vocab&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;term&lt;/th&gt;
-      &lt;th&gt;definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;atomic number&lt;/td&gt;
-      &lt;td&gt;number of protons in an atom’s nucleus (Z)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;isotopes&lt;/td&gt;
-      &lt;td&gt;atoms with the same number of protons but a different number of neutrons&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;mass number&lt;/td&gt;
-      &lt;td&gt;the sum of the number of neutrons and protons in an atom&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;natural abundance&lt;/td&gt;
-      &lt;td&gt;the relative amount of each different isotope in a naturally occurring sample of a given element (it is roughly constant)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;atomic structure&lt;/td&gt;
-      &lt;td&gt;highly condensed mass in nucleus with mostly empty space in electron cloud&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;nucleus&lt;/td&gt;
-      &lt;td&gt;the small core of an atom (contains most of it’s mass and the positive charge)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;protons&lt;/td&gt;
-      &lt;td&gt;positively charged particles (in the nucleus of an atom)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;cations&lt;/td&gt;
-      &lt;td&gt;positively charged ions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;anions&lt;/td&gt;
-      &lt;td&gt;negatively charged ions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;mass spectrometry&lt;/td&gt;
-      &lt;td&gt;technique that separates particles according to their mass&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Wed, 24 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/08/24/week-2-day-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/24/week-2-day-2.html</guid>
         
         
       </item>
