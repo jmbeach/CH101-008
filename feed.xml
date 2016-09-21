@@ -6,13 +6,33 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Sep 2016 14:36:21 -0500</pubDate>
-    <lastBuildDate>Wed, 21 Sep 2016 14:36:21 -0500</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2016 15:31:25 -0500</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2016 15:31:25 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Week 6 - Day 2</title>
-        <description>&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-6-day-2.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;wcSKlHMmc50&quot;});
+&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2jbzxn&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:00:20.125734&lt;/li&gt;
@@ -569,23 +589,23 @@ meaning more than, are used.
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;hypochlorite&lt;/td&gt;
-      &lt;td&gt;CIO^-&lt;/td&gt;
+      &lt;td&gt;ClO^-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;chlorite&lt;/td&gt;
-      &lt;td&gt;CIO_2^-&lt;/td&gt;
+      &lt;td&gt;ClO_2^-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;chlorate&lt;/td&gt;
-      &lt;td&gt;CIO_3^-&lt;/td&gt;
+      &lt;td&gt;ClO_3^-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;perchlorate&lt;/td&gt;
-      &lt;td&gt;CIO_3^-&lt;/td&gt;
+      &lt;td&gt;ClO_4^-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;permanganate&lt;/td&gt;
-      &lt;td&gt;MnO_4&lt;/td&gt;
+      &lt;td&gt;MnO_4^-&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;sulfite&lt;/td&gt;
@@ -627,7 +647,23 @@ meaning more than, are used.
     
       <item>
         <title>Week 6 - Day 1</title>
-        <description>&lt;ul&gt;
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-6-day-1.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;FE-thqutRRM&quot;});
+&lt;/script&gt;
+
+&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2jbobo&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -652,6 +688,7 @@ meaning more than, are used.
           &lt;li&gt;E) Mg&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
+      &lt;li&gt;Solution: Look for the biggest jump in ionization energy. That will tell you where it has a stable configuration (eight electrons). Since the sixth ionization energy is the highest, we can conclude that this is where we reach a stable configuration. Since we are told that our element is on the third period (row), we know that every time we remove an electron, we are going to the left across the periodic table, so we are moving towards neon. If you start at neon and count five spaces to the right, you’ll land on P. &lt;a href=&quot;https://answers.yahoo.com/question/index?qid=20140502143306AAYClJs&quot;&gt;Another explanation here&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Answer is C&lt;/li&gt;
@@ -811,32 +848,43 @@ may actually be endothermic (+) taking energy.
       &lt;li&gt;More malleable and ductile, better conductor, and easier to ionize&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Metallic character decreases left to right across a period
-the right
-•  Metalliccharacterincreasesdownthecolumn.
-–  Nonmetals found at the top of the middle main group
-elements and metals found at the bottom&lt;/p&gt;
+  &lt;li&gt;Metallic character decreases left to right across a period
+the right&lt;/li&gt;
+  &lt;li&gt;Metallic character increases down the column.
+    &lt;ul&gt;
+      &lt;li&gt;Nonmetals found at the top of the middle main group
+elements and metals found at the bottom&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Audio 0:16:25.235247
-Metallic Elements:
-•  Ionizationenergydecreasesdownthecolumn.
-–  Very low ionization energies
-•  Good reducing agents; easy to oxidize
-•  Very reactive; not found uncombined in nature
-•  React with nonmetals to form salts
-•  Compounds generally soluble in water; therefore metal ions are found in seawater.
-•  Electronaffinitydecreasesdownthecolumn.
-metals generally have smaller first ionization energies and nonmetals generally have larger electron affinities.&lt;/li&gt;
-  &lt;li&gt;Audio 0:18:19.520679
-Metallic Elements:
-•  Quantum-mechanicspredictsthattheatom’smetallic character should
-–  increase down a column because the valence electrons are not held as strongly;
-–  decrease across a period because the valence electrons are held more strongly and the electron affinity increases.
-•  Atomicradiusincreasesdownthecolumn.
-•  Meltingpointdecreasesdownthecolumn.
-–  MP for metals are generally low
-•  Densityincreasesdownthecolumn. –  Except K&lt;/li&gt;
+Metallic Elements:&lt;/li&gt;
+  &lt;li&gt;Ionization energy decreases down the column.&lt;/li&gt;
+  &lt;li&gt;Very low ionization energies
+    +  Good reducing agents; easy to oxidize
+    +  Very reactive; not found uncombined in nature
+    +  React with nonmetals to form salts
+    +  Compounds generally soluble in water; therefore metal ions are found in seawater.&lt;/li&gt;
+  &lt;li&gt;Electron affinity decreases down the column.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;metals&lt;/em&gt; generally have smaller first ionization energies and nonmetals generally have larger electron affinities.&lt;/li&gt;
+  &lt;li&gt;Audio 0:18:19.520679&lt;/li&gt;
+  &lt;li&gt;Metallic Elements:&lt;/li&gt;
+  &lt;li&gt;Quantum-mechanics predicts that the atom’s metallic character should
+    &lt;ul&gt;
+      &lt;li&gt;increase down a column because the valence electrons are not held as strongly;&lt;/li&gt;
+      &lt;li&gt;decrease across a period because the valence electrons are held more strongly and the electron affinity increases.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Atomic radius increases down the column.&lt;/li&gt;
+  &lt;li&gt;Melting point decreases down the column.
+    &lt;ul&gt;
+      &lt;li&gt;MP for metals are generally low&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Density increases down the column.
+    &lt;ul&gt;
+      &lt;li&gt;Except K&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;chapter-5---molecules-and-compounds&quot;&gt;Chapter 5 - Molecules and Compounds&lt;/h2&gt;
@@ -848,52 +896,77 @@ Metallic Elements:
 &lt;h2 id=&quot;elements-to-molecules&quot;&gt;Elements to Molecules&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Audio 0:20:15.784877
-•  Whentwoormoreelementscombine,amolecule can be formed.
-–  Elements can be the same.
-•  The molecular compound of oxygen, O2
-–  Elements can be different.
-•  The molecular compound of water, H2O
-•  Moleculesarecompounds.
-•  Thegreatdiversityofsubstancesthatwefindinnature is a direct result of the ability of elements to form many different compounds.&lt;/li&gt;
+  &lt;li&gt;Audio 0:20:15.784877&lt;/li&gt;
+  &lt;li&gt;When two or more elements combine,a molecule can be formed.
+    &lt;ul&gt;
+      &lt;li&gt;Elements can be the same.
+        &lt;ul&gt;
+          &lt;li&gt;The molecular compound of oxygen, O2&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Elements can be different.
+        &lt;ul&gt;
+          &lt;li&gt;The molecular compound of water, H2O&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Molecules are compounds.&lt;/li&gt;
+  &lt;li&gt;The great diversity of substances that we find in nature is a direct result of the ability of elements to form many different compounds.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;hydrogen-oxygen-and-water&quot;&gt;Hydrogen, Oxygen, and Water&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Audio 0:21:35.856576
-•  Thedramaticdifferencebetweentheelementshydrogen and oxygen and the compound water is typical of the differences between elements and the compounds that they form.
-•  Whentwoormoreelementscombinetoforma compound, an entirely new substance results.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-a257a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:21:35.856576&lt;/li&gt;
+  &lt;li&gt;The dramatic difference between the elements hydrogen and oxygen and the compound water is typical of the differences between elements and the compounds that they form.&lt;/li&gt;
+  &lt;li&gt;When two or more elements combine to form a compound, an entirely new substance results.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-a257a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;law-of-definite-proportion-formation-of-molecules&quot;&gt;Law of Definite Proportion: Formation of Molecules&lt;/h2&gt;
-&lt;p&gt;•  Ahydrogen–oxygenmixturecanhaveanyproportionsof hydrogen and oxygen gas.
-•  Water(H2O)hasadefiniteproportionofhydrogentooxygen. –  A water molecule always is composed of two hydrogen
+
+&lt;ul&gt;
+  &lt;li&gt;A hydrogen–oxygen mixture can have any proportions of hydrogen and oxygen gas.&lt;/li&gt;
+  &lt;li&gt;Water(H2O) has a definite proportion of hydrogen to oxygen.
+    &lt;ul&gt;
+      &lt;li&gt;A water molecule always is composed of two hydrogen
 atoms to every one oxygen atom.
-•  A ratio of 2 hydrogen atoms : 1 oxygen atom
-+ &lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-1bcfb.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+        &lt;ul&gt;
+          &lt;li&gt;A ratio of 2 hydrogen atoms : 1 oxygen atom
+            &lt;ul&gt;
+              &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-1bcfb.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;chemical-bonds&quot;&gt;Chemical Bonds&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Audio 0:23:56.779753
-•  compounds are made of atoms held
-together by chemical bonds
-•  bonds are forces of attraction between
-atoms
-•  the attraction is electrostatic: between protons and electrons&lt;/li&gt;
+  &lt;li&gt;Audio 0:23:56.779753&lt;/li&gt;
+  &lt;li&gt;compounds are made of atoms held
+together by &lt;em&gt;chemical bonds&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;bonds are forces of attraction between
+atoms&lt;/li&gt;
+  &lt;li&gt;the attraction is electrostatic: between protons and electrons&lt;/li&gt;
   &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-6c2f1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;chemical-bonds-1&quot;&gt;Chemical Bonds&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Audio 0:25:19.627791
-•  the length of a bond is determined by the balance of various electrostatic forces
-•  attraction between electrons and nuclei
-•  repulsion between nuclei
-•  repulsion between electrons&lt;/li&gt;
+  &lt;li&gt;Audio 0:25:19.627791&lt;/li&gt;
+  &lt;li&gt;the length of a bond is determined by the balance of various electrostatic forces&lt;/li&gt;
+  &lt;li&gt;attraction between electrons and nuclei&lt;/li&gt;
+  &lt;li&gt;repulsion between nuclei&lt;/li&gt;
+  &lt;li&gt;repulsion between electrons&lt;/li&gt;
   &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-1a60f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1042,29 +1115,29 @@ compounds, ionic and covalent&lt;/li&gt;
 &lt;h2 id=&quot;lewis-theory-predictions-for-ionic-bonding&quot;&gt;Lewis Theory Predictions for Ionic Bonding&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Audio 0:44:41.987239
-•  Lewis theory predicts the number of electrons a metal atom should lose or a nonmetal atom should gain in order to attain a stable electron arrangement.
-–  The octet rule
-•  Octet rule (guideline) allows us to predict the
-–  formulas of ionic compounds that result;
-–  relative strengths of the resulting ionic bonds based on Coulomb’s law.&lt;/li&gt;
+  &lt;li&gt;Audio 0:44:41.987239&lt;/li&gt;
+  &lt;li&gt;Lewis theory predicts the number of electrons a metal atom should lose or a nonmetal atom should gain in order to attain a stable electron arrangement.
++The octet rule&lt;/li&gt;
+  &lt;li&gt;Octet rule (guideline) allows us to predict the
++formulas of ionic compounds that result;
++relative strengths of the resulting ionic bonds based on Coulomb’s law.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;octet-rule-a-guideline-for-molecule-formation-1&quot;&gt;Octet Rule: A Guideline for Molecule Formation&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Audio 0:45:49.850342
-•  Exceptions to the octet rule:
-–  H, Li, Be, and B attain an electron configuration like that of He.
-•  He can have ONLY two valence electrons, a duet.
-•  Li loses its one valence electron.
-•  H shares orgainsoneelectron.
-–  Though it commonly loses its one electron to become H+
-•  BelosestwoelectronstobecomeBe2+.
-–  Though it commonly shares its two electrons in covalent bonds, resulting
-in four valence electrons
-•  BlosesthreeelectronstobecomeB3+.
-–  Though it commonly shares its three electrons in covalent bonds, resulting in six valence electrons&lt;/li&gt;
+  &lt;li&gt;Audio 0:45:49.850342&lt;/li&gt;
+  &lt;li&gt;Exceptions to the octet rule:&lt;/li&gt;
+  &lt;li&gt;H, Li, Be, and B attain an electron configuration like that of He.&lt;/li&gt;
+  &lt;li&gt;He can have ONLY two valence electrons, a duet.&lt;/li&gt;
+  &lt;li&gt;Li loses its one valence electron.&lt;/li&gt;
+  &lt;li&gt;H shares orgainsoneelectron.
++Though it commonly loses its one electron to become H+&lt;/li&gt;
+  &lt;li&gt;BelosestwoelectronstobecomeBe2+.
++Though it commonly shares its two electrons in covalent bonds, resulting
+in four valence electrons&lt;/li&gt;
+  &lt;li&gt;BlosesthreeelectronstobecomeB3+.
++Though it commonly shares its three electrons in covalent bonds, resulting in six valence electrons&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;energetics-of-ionic-bond-formation-using-nacl-as-an-example&quot;&gt;Energetics of Ionic Bond Formation: Using NaCl as an Example&lt;/h2&gt;
