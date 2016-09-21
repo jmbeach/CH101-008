@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Sep 2016 14:16:02 -0500</pubDate>
-    <lastBuildDate>Wed, 21 Sep 2016 14:16:02 -0500</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2016 14:36:21 -0500</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2016 14:36:21 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -627,7 +627,11 @@ meaning more than, are used.
     
       <item>
         <title>Week 6 - Day 1</title>
-        <description>&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2jbobo&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:00:10.820314&lt;/li&gt;
@@ -725,7 +729,7 @@ may actually be endothermic (+) taking energy.
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Halogens have the highest EA for any period&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-58a37.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-58a37.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;periodic-trend-electron-affinities-ea-for-main-group-elements-1&quot;&gt;Periodic Trend: Electron Affinities (EA) for Main-Group Elements&lt;/h2&gt;
@@ -796,7 +800,7 @@ may actually be endothermic (+) taking energy.
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:15:52.518767&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-0ae2c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-0ae2c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;periodic-trend-metallic-character-1&quot;&gt;Periodic Trend: Metallic Character&lt;/h2&gt;
@@ -860,7 +864,7 @@ Metallic Elements:
   &lt;li&gt;Audio 0:21:35.856576
 •  Thedramaticdifferencebetweentheelementshydrogen and oxygen and the compound water is typical of the differences between elements and the compounds that they form.
 •  Whentwoormoreelementscombinetoforma compound, an entirely new substance results.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-a257a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-a257a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;law-of-definite-proportion-formation-of-molecules&quot;&gt;Law of Definite Proportion: Formation of Molecules&lt;/h2&gt;
@@ -868,7 +872,7 @@ Metallic Elements:
 •  Water(H2O)hasadefiniteproportionofhydrogentooxygen. –  A water molecule always is composed of two hydrogen
 atoms to every one oxygen atom.
 •  A ratio of 2 hydrogen atoms : 1 oxygen atom
-+ &lt;img src=&quot;assets/2016-09-19-week-6-day-1-1bcfb.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
++ &lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-1bcfb.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;chemical-bonds&quot;&gt;Chemical Bonds&lt;/h2&gt;
 
@@ -879,7 +883,7 @@ together by chemical bonds
 •  bonds are forces of attraction between
 atoms
 •  the attraction is electrostatic: between protons and electrons&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-6c2f1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-6c2f1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;chemical-bonds-1&quot;&gt;Chemical Bonds&lt;/h2&gt;
@@ -890,7 +894,7 @@ atoms
 •  attraction between electrons and nuclei
 •  repulsion between nuclei
 •  repulsion between electrons&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-1a60f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-1a60f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;bond-types&quot;&gt;Bond Types&lt;/h2&gt;
@@ -910,14 +914,14 @@ compounds, ionic and covalent&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Audio 0:29:06.260194&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-e199c.png&quot; alt=&quot;&quot; /&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-e199c.png&quot; alt=&quot;&quot; /&gt;
     &lt;ul&gt;
       &lt;li&gt;We draw a dash to denote a covalent bond between atoms in the structural model&lt;/li&gt;
       &lt;li&gt;ball and stick starts to show us how it really looks in 3d space&lt;/li&gt;
       &lt;li&gt;space-filling model shows it more accurately in terms of how they bond&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-2e0d0.png&quot; alt=&quot;&quot; /&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-2e0d0.png&quot; alt=&quot;&quot; /&gt;
     &lt;ul&gt;
       &lt;li&gt;Audio 0:31:23.554938&lt;/li&gt;
     &lt;/ul&gt;
@@ -962,7 +966,7 @@ compounds, ionic and covalent&lt;/li&gt;
   &lt;li&gt;Other elements occur as polyatomic molecules
     &lt;ul&gt;
       &lt;li&gt;P4, S8, Se8&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-7f0cb.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-7f0cb.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -979,7 +983,7 @@ compounds, ionic and covalent&lt;/li&gt;
   &lt;/li&gt;
   &lt;li&gt;The Ionic compound NaCl
     &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-1707d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-1707d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Audio 0:37:35.867163&lt;/li&gt;
@@ -996,7 +1000,7 @@ compounds, ionic and covalent&lt;/li&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:38:32.534553&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-79b3d.png&quot; alt=&quot;&quot; /&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-79b3d.png&quot; alt=&quot;&quot; /&gt;
     &lt;ul&gt;
       &lt;li&gt;Aluminum likes to lose three electrons
         &lt;ul&gt;
@@ -1068,12 +1072,12 @@ in four valence electrons
 &lt;ul&gt;
   &lt;li&gt;Audio 0:47:21.944874
 The ionization energy of the metal is endothermic.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-ada36.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-ada36.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;The electron affinity of the nonmetal is exothermic.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-1841b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-1841b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;Generally, the ionization energy of the metal is larger than the electron affinity of the nonmetal; therefore, the formation of the ionic compound should be endothermic.&lt;/li&gt;
   &lt;li&gt;But the heat of formation of most ionic compounds is exothermic and generally large.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-39ae6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-39ae6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
@@ -1154,7 +1158,27 @@ The ionization energy of the metal is endothermic.&lt;/li&gt;
     
       <item>
         <title>Week 5 - Day 3</title>
-        <description>&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-5-day-3.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;TAvpLPAtFwI&quot;});
+&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2jbmf7&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:00:39.475037&lt;/li&gt;
@@ -1166,7 +1190,7 @@ The ionization energy of the metal is endothermic.&lt;/li&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:03:02.434400&lt;/li&gt;
-  &lt;li&gt;Metallicelementsmakeupthemajorityoftheelementsin the periodic table.
+  &lt;li&gt;Metallic elements make up the majority of the elements in the periodic table.
     &lt;ul&gt;
       &lt;li&gt;Alkali Metals:
         &lt;ul&gt;
@@ -1180,11 +1204,14 @@ The ionization energy of the metal is endothermic.&lt;/li&gt;
       &lt;/li&gt;
       &lt;li&gt;Alkaline Earth Metals:
         &lt;ul&gt;
-          &lt;li&gt;They have two more electrons than the previous noble gas and occupy the second column.
-•  In their reactions, the alkaline earth metals lose two electrons, and the resulting electron configuration is the same as that of a noble gas.
-–  Forming a cation with a 2+ charge&lt;/li&gt;
+          &lt;li&gt;They have two more electrons than the previous noble gas and occupy the second column.&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In their reactions, the alkaline earth metals lose two electrons, and the resulting electron configuration is the same as that of a noble gas.
+    &lt;ul&gt;
+      &lt;li&gt;Forming a cation with a 2+ charge&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -1204,7 +1231,7 @@ The ionization energy of the metal is endothermic.&lt;/li&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:08:00.666264&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-4cbdf.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-4cbdf.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;gaining-or-losing-electrons&quot;&gt;Gaining or Losing Electrons&lt;/h2&gt;
@@ -1222,14 +1249,14 @@ The ionization energy of the metal is endothermic.&lt;/li&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:13:44.899521&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-b284d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-b284d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;electron-configuration-and-elemental-properties-noble-gases&quot;&gt;Electron Configuration and Elemental Properties: Noble Gases&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:14:56.898668&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-115ec.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-115ec.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;The noble gases have eight valence electrons.
     &lt;ul&gt;
       &lt;li&gt;Except for He, which has only two electrons&lt;/li&gt;
@@ -1246,28 +1273,35 @@ The ionization energy of the metal is endothermic.&lt;/li&gt;
 &lt;h2 id=&quot;electron-configuration-and-ion-formation&quot;&gt;Electron Configuration and Ion Formation&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Audio 0:15:50.407566
-•  Ion formation can be predicted by an element’s location in the periodic table.
-•  These atoms form ions that will result in an electron configuration that is the same as that of the nearest noble gas.
-•  Metals form cations (positively charged atoms).
-–  Alkali metals (group 1A) form only +1 cations.
-–  Alkaline earth metals (group 2A) form only +2 cations.
-–  Transition, inner transition, and p-block metals form a variety of charged cations.
-•  Nonmetals form anions (negatively charged atoms).
-–  Halogens (group 7A) usually gain one electron to form –1 anions. –  Other nonmetals can form a variety of charged anions.&lt;/li&gt;
+  &lt;li&gt;Audio 0:15:50.407566&lt;/li&gt;
+  &lt;li&gt;Ion formation can be predicted by an element’s location in the periodic table.&lt;/li&gt;
+  &lt;li&gt;These atoms form ions that will result in an electron configuration that is the same as that of the nearest noble gas.&lt;/li&gt;
+  &lt;li&gt;Metals form cations (positively charged atoms).
+    &lt;ul&gt;
+      &lt;li&gt;Alkali metals (group 1A) form only +1 cations.&lt;/li&gt;
+      &lt;li&gt;Alkaline earth metals (group 2A) form only +2 cations.&lt;/li&gt;
+      &lt;li&gt;Transition, inner transition, and p-block metals form a variety of charged cations.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Nonmetals form anions (negatively charged atoms).&lt;/li&gt;
+  &lt;li&gt;Halogens (group 7A) usually gain one electron to form –1 anions.
+    &lt;ul&gt;
+      &lt;li&gt;Other nonmetals can form a variety of charged anions.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;electron-configuration-and-ion-formation-elements-that-form-ions-with-predictable-charges&quot;&gt;Electron Configuration and Ion Formation: Elements that Form Ions with Predictable Charges&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-ad3f2.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-ad3f2.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;effective-nuclear-charge-and-the-screening-effect&quot;&gt;Effective Nuclear Charge and the Screening Effect&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:17:40.420403&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-b703a.png&quot; alt=&quot;&quot; /&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-b703a.png&quot; alt=&quot;&quot; /&gt;
     &lt;ul&gt;
       &lt;li&gt;Nuclear charge minus core electrons&lt;/li&gt;
     &lt;/ul&gt;
@@ -1286,7 +1320,7 @@ The ionization energy of the metal is endothermic.&lt;/li&gt;
       &lt;li&gt;Electrons in the same energy level contribute to screening, but since their contribution is so small, they are not part of the calculation.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-98828.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-98828.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;periodic-trends-atomic-radii-and-effective-nuclear-charge&quot;&gt;Periodic Trends: Atomic Radii and Effective Nuclear Charge&lt;/h2&gt;
@@ -1297,7 +1331,7 @@ The ionization energy of the metal is endothermic.&lt;/li&gt;
   &lt;li&gt;Van der Waals radius = nonbonding&lt;/li&gt;
   &lt;li&gt;Covalent radius = bonding radius&lt;/li&gt;
   &lt;li&gt;Atomic radius is an average radius of an atom based on measuring large numbers of compounds.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-a9a7a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-a9a7a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;periodic-trends-atomic-radii-and-effective-nuclear-charge-1&quot;&gt;Periodic Trends: Atomic Radii and Effective Nuclear Charge&lt;/h2&gt;
@@ -1315,7 +1349,7 @@ The ionization energy of the metal is endothermic.&lt;/li&gt;
       &lt;li&gt;Valence shell farther from nucleus&lt;/li&gt;
       &lt;li&gt;Effective nuclear charge fairly constant (expansion
 mostly due to increasing n)&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-9a6c9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-9a6c9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -1336,36 +1370,48 @@ mostly due to increasing n)&lt;/li&gt;
 &lt;h2 id=&quot;summarizing-atomic-radii-trend-for-main--group-elements-1&quot;&gt;Summarizing Atomic Radii Trend for Main- Group Elements&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Audio 0:26:14.499563
-•  The larger the effective nuclear charge an electron experiences, the stronger the attraction it will have for the nucleus.
-–  The closer their average distance will be to the nucleus, the stronger the attraction the valence electrons have for the nucleus.
-–  Traversing across a period increases the effective nuclear charge on the valence electrons.
-–  Quantum-mechanics predicts that the atoms should get smaller across a period.&lt;/li&gt;
+  &lt;li&gt;Audio 0:26:14.499563&lt;/li&gt;
+  &lt;li&gt;The larger the effective nuclear charge an electron experiences, the stronger the attraction it will have for the nucleus.
+    &lt;ul&gt;
+      &lt;li&gt;The closer their average distance will be to the nucleus, the stronger the attraction the valence electrons have for the nucleus.&lt;/li&gt;
+      &lt;li&gt;Traversing across a period increases the effective nuclear charge on the valence electrons.&lt;/li&gt;
+      &lt;li&gt;Quantum-mechanics predicts that the atoms should get smaller across a period.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;summarizing-atomic-radii-trend-for-transition-elements&quot;&gt;Summarizing Atomic Radii Trend for Transition Elements&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Audio 0:26:56.496332
-•  Atomsinthesamegroupincreaseinsizedown the column.
-•  Atomicradiioftransitionmetalsareroughlythesame size across the d block.
-–  Much less difference than across main group elements
-–  Valence shell ns2, not the (n − 1)d electrons
-–  Effective nuclear charge on the ns2 electrons approximately the same&lt;/li&gt;
+  &lt;li&gt;Audio 0:26:56.496332&lt;/li&gt;
+  &lt;li&gt;Atoms in the same group increase in size down the column.&lt;/li&gt;
+  &lt;li&gt;Atomic radii of transition metals are roughly the same size across the d block.
+    &lt;ul&gt;
+      &lt;li&gt;Much less difference than across main group elements&lt;/li&gt;
+      &lt;li&gt;Valence shell ns2, not the (n − 1)d electrons&lt;/li&gt;
+      &lt;li&gt;Effective nuclear charge on the ns2 electrons approximately the same&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;ions-magnetic-properties&quot;&gt;Ions: Magnetic Properties&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Audio 0:27:41.873967
-•  Electron configurations that result in unpaired electrons mean that the atom or ion will have a net magnetic field; this is called
+  &lt;li&gt;Audio 0:27:41.873967&lt;/li&gt;
+  &lt;li&gt;Electron configurations that result in unpaired electrons mean that the atom or ion will have a net magnetic field; this is called
 paramagnetism.
-–  Will be attracted to a magnetic field&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-f8333.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Will be attracted to a magnetic field&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-f8333.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;Electron configurations that result in all paired electrons mean that the atom or ion will have no magnetic field; this is called
 diamagnetism.
-–  Slightly repelled by a magnetic field&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-af5dc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Slightly repelled by a magnetic field&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-af5dc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;radii-of-atoms-and-their-ions-cations&quot;&gt;Radii of Atoms and Their Ions: Cations&lt;/h2&gt;
@@ -1379,7 +1425,7 @@ diamagnetism.
   &lt;/li&gt;
   &lt;li&gt;Traversing down a group increases the (n − 1) level, causing the cations to get larger.&lt;/li&gt;
   &lt;li&gt;Traversing to the right across a period increases the effective nuclear charge for &lt;em&gt;isoelectronic&lt;/em&gt; cations, causing the cations to get smaller.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-dda34.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-dda34.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;Audio 0:32:15.588321&lt;/li&gt;
   &lt;li&gt;isoelectronic = same number of electrons&lt;/li&gt;
 &lt;/ul&gt;
@@ -1392,7 +1438,7 @@ diamagnetism.
   &lt;li&gt;Addition of electrons increases repulsion in valence shell without compensating increase in effective nuclear charge&lt;/li&gt;
   &lt;li&gt;The result is that the anion is larger than the atom. Traversing down a group increases the n level, causing the anions to get larger.&lt;/li&gt;
   &lt;li&gt;Traversing to the left across a period decreases the effective nuclear charge for isoelectronic anions, causing the anions to get &lt;em&gt;larger&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-02958.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-02958.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;oposite of what happens with cations&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1411,15 +1457,19 @@ diamagnetism.
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:37:37.889283&lt;/li&gt;
-  &lt;li&gt;Ionization Energy (IE):
-•  It is the minimum energy needed to remove an electron from an atom or ion in the gas phase.
-•  It is an endothermic process (requires the input of energy to remove the electron)
-–  Valence electron easiest to remove, lowest IE
-•  First ionization energy = energy to remove electron from neutral atom –  All atoms have first ionization energy.
-M(g) + IE1 èM1+(g) + 1 e–
-•  Second IE = energy to remove from 1+ ion, etc. M+1(g) + IE2 è M2+(g) + 1 e–&lt;/li&gt;
+  &lt;li&gt;Ionization Energy (IE):&lt;/li&gt;
+  &lt;li&gt;It is the minimum energy needed to remove an electron from an atom or ion in the gas phase.&lt;/li&gt;
+  &lt;li&gt;It is an endothermic process (requires the input of energy to remove the electron)
+    &lt;ul&gt;
+      &lt;li&gt;Valence electron easiest to remove, lowest IE&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;First ionization energy = energy to remove electron from neutral atom –  All atoms have first ionization energy.
+M(g) + IE1 èM1+(g) + 1 e–&lt;/li&gt;
+  &lt;li&gt;Second IE = energy to remove from 1+ ion, etc. M+1(g)&lt;/li&gt;
+  &lt;li&gt;IE2 è M2+(g) + 1 e–&lt;/li&gt;
   &lt;li&gt;Audio 0:39:07.357544&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-6c154.png&quot; alt=&quot;&quot; /&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-6c154.png&quot; alt=&quot;&quot; /&gt;
     &lt;ul&gt;
       &lt;li&gt;increases as you go across the periodic table&lt;/li&gt;
       &lt;li&gt;Charge shrinks the nucleus, takes more energy to remove the charge&lt;/li&gt;
@@ -1431,14 +1481,20 @@ M(g) + IE1 èM1+(g) + 1 e–
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:40:38.726742
-Ionization Energy (IE):
-•  The larger the effective nuclear charge on the electron to be removed,
-the more energy it takes to remove it.
-•  The farther the most probable distance the electron is from the nucleus, the less energy it takes to remove it.
-•  Trend:
-–  First IE decreases down the group.
-•  Valence electron is farther from nucleus.
-–  First IE generally increases across the period. •  Effective nuclear charge increases.&lt;/li&gt;
+Ionization Energy (IE):&lt;/li&gt;
+  &lt;li&gt;The larger the effective nuclear charge on the electron to be removed,
+the more energy it takes to remove it.&lt;/li&gt;
+  &lt;li&gt;The farther the most probable distance the electron is from the nucleus, the less energy it takes to remove it.&lt;/li&gt;
+  &lt;li&gt;Trend:
+    &lt;ul&gt;
+      &lt;li&gt;First IE decreases down the group.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Valence electron is farther from nucleus.
+    &lt;ul&gt;
+      &lt;li&gt;First IE generally increases across the period. + Effective nuclear charge increases.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;periodic-trend-ionization-energy-potential-2&quot;&gt;Periodic Trend: Ionization Energy (Potential)&lt;/h2&gt;
@@ -1446,10 +1502,10 @@ the more energy it takes to remove it.
 &lt;ul&gt;
   &lt;li&gt;Audio 0:40:54.665440&lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-1e357.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-1e357.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;Audio 0:42:14.239301&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-6c154.png&quot; alt=&quot;&quot; /&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-6c154.png&quot; alt=&quot;&quot; /&gt;
     &lt;ul&gt;
       &lt;li&gt;Nitrogen has three unpaired electrons, the next electron has to go down an orbital which will make it a little easier to remove the last electron in oxygen to get to nitrogen.&lt;/li&gt;
     &lt;/ul&gt;
@@ -1473,7 +1529,7 @@ the more energy it takes to remove it.
   &lt;/li&gt;
   &lt;li&gt;B has smaller first ionization energy than Be due to electron position: 2p for B and 2s for Be.
 The electron in 2p orbitals has more shielding (i.e., lower effective nuclear charge) and therefore requires less energy for its removal than an electron in a 2s orbital.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-edc55.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-edc55.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;trends-of-second-and-successive-ionization-energies&quot;&gt;Trends of Second and Successive Ionization Energies&lt;/h2&gt;
@@ -1481,13 +1537,13 @@ The electron in 2p orbitals has more shielding (i.e., lower effective nuclear ch
 &lt;ul&gt;
   &lt;li&gt;Audio 0:44:46.840846&lt;/li&gt;
   &lt;li&gt;They depend on the number of valence electrons an element has.
-–  ionization energies increase dramatically in going from valence to core electrons
-•  Removal of each successive electron costs more energy.
+–  ionization energies increase dramatically in going from valence to core electrons&lt;/li&gt;
+  &lt;li&gt;Removal of each successive electron costs more energy.
 –  Shrinkage in size due to having more protons than electrons
-–  Outer electrons closer to the nucleus; therefore harder to remove
-•  There’s a regular increase in energy for each successive valence electron.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-dd344.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-af312.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+–  Outer electrons closer to the nucleus; therefore harder to remove&lt;/li&gt;
+  &lt;li&gt;There’s a regular increase in energy for each successive valence electron.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-dd344.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-af312.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
@@ -1510,31 +1566,19 @@ IE6 = 22,200&lt;/p&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;alkali metals&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;elements which have one more electron than the previous noble gas and occupy the first&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;alkaline Earth Metals&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;elements which have two more electrons than the previous noble gas and occupy the second column&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;metalloids&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;nonmetals&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;metals form cations&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;nonmetals form anions&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;an element whose properties are between those of metals and solid nonmetals&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;effective nuclear charge&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;a net positive charge that is attracting a particular electron&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;decreases&lt;/td&gt;
@@ -1553,24 +1597,20 @@ IE6 = 22,200&lt;/p&gt;
       &lt;td&gt;same number of electrons&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;traversing down the periodic table, anions get larger or smaller?&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;traversing down the periodic table, cations get larger or smaller?&lt;/td&gt;
+      &lt;td&gt;larger&lt;/td&gt;
+      &lt;td&gt;traversing down the periodic table, atoms get larger or smaller?&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;ionization energy&lt;/td&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;the minimum energy needed to remove an electron from an atom or ion in the gas phase&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;smaller&lt;/td&gt;
       &lt;td&gt;IE _ down the group&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;IE _ across the period&lt;/td&gt;
+      &lt;td&gt;larger&lt;/td&gt;
+      &lt;td&gt;IE _ across the period to the right&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1584,7 +1624,23 @@ IE6 = 22,200&lt;/p&gt;
     
       <item>
         <title>Week 5 - Day 2</title>
-        <description>&lt;ul&gt;
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-5-day-2.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;hIByJPu4fTo&quot;});
+&lt;/script&gt;
+
+&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2jbja3&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
