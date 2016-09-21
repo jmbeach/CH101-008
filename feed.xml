@@ -6,9 +6,1919 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Sep 2016 16:07:12 -0500</pubDate>
-    <lastBuildDate>Tue, 13 Sep 2016 16:07:12 -0500</lastBuildDate>
+    <pubDate>Wed, 21 Sep 2016 14:16:02 -0500</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2016 14:16:02 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 6 - Day 2</title>
+        <description>&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:20.125734&lt;/li&gt;
+  &lt;li&gt;Homework issue
+    &lt;ul&gt;
+      &lt;li&gt;Electron configurations
+        &lt;ul&gt;
+          &lt;li&gt;There are differences sometimes in the order of writing them.&lt;/li&gt;
+          &lt;li&gt;You get five or six freebies
+            &lt;ul&gt;
+              &lt;li&gt;If you’ve checked the electron configuration and it says you’re wrong, it may be the way the website works.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:02:01.735946&lt;/li&gt;
+  &lt;li&gt;Real world is complicated
+    &lt;ul&gt;
+      &lt;li&gt;He isn’t going to tell us anything that is &lt;em&gt;wrong&lt;/em&gt; but everything we’re learning is a really watered-down, simplified version of the truth&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;energetics-of-ionic-bond-formation-using-nacl-as-an-example&quot;&gt;Energetics of Ionic Bond Formation: Using NaCl as an Example&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:05:03.029702
+    &lt;ul&gt;
+      &lt;li&gt;Where we left off
+The ionization energy of the metal is endothermic.&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-ada36.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The electron affinity of the nonmetal is exothermic.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-1841b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Generally, the ionization energy of the metal is larger than the electron affinity of the nonmetal; therefore, the formation of the ionic compound should be endothermic.&lt;/li&gt;
+  &lt;li&gt;But the heat of formation of most ionic compounds is exothermic and generally large.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-39ae6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;crystal-lattice-and-lattice-energy-of-nacl&quot;&gt;Crystal Lattice and Lattice Energy of NaCl&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:05:58.951668
+    &lt;ul&gt;
+      &lt;li&gt;Part of the energy formula in the previous slide does not add up because it does not account for the lattice shape of the compound&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Lattice energy
+    &lt;ul&gt;
+      &lt;li&gt;The extra stability that accompanies the formation of the crystal lattice is measured as the &lt;em&gt;lattice energy&lt;/em&gt;.
+        &lt;ul&gt;
+          &lt;li&gt;Audio 0:07:54.475155&lt;/li&gt;
+          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-21f4e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;It is the energy released when the solid crystal forms from separate ions in the gas state.
+        &lt;ul&gt;
+          &lt;li&gt;Always exothermic&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Lattice energy is measured directly but is calculated from knowledge of other processes.&lt;/li&gt;
+      &lt;li&gt;It depends directly on the size of charges and inversely on distance between ions.&lt;/li&gt;
+      &lt;li&gt;(Coulomb’s law)&lt;/li&gt;
+      &lt;li&gt;Audio 0:09:53.359903&lt;/li&gt;
+      &lt;li&gt;The most stable lattice is a very difficult calculation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ionic-bonding-model-versus-reality&quot;&gt;Ionic Bonding Model versus Reality&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:10:12.809739&lt;/li&gt;
+  &lt;li&gt;implies that the positions of the ions in the crystal lattice are critical to the stability of the structure.&lt;/li&gt;
+  &lt;li&gt;predicts that moving ions out of position should therefore be difficult, and ionic solids should be hard.
+    &lt;ul&gt;
+      &lt;li&gt;Ionic solids are relatively hard compared to most molecular solids.
+        &lt;ul&gt;
+          &lt;li&gt;If you’ve ever touched a crystal, this is obvious&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;implies that if the ions are displaced from their position in the crystal lattice, repulsive forces should occur.
+    &lt;ul&gt;
+      &lt;li&gt;this predicts that the crystal will become unstable and break apart. Theory predicts that ionic solids will be brittle.
+        &lt;ul&gt;
+          &lt;li&gt;If you strike a crystal with a hammer, it will shatter because it becomes unstable
+            &lt;ul&gt;
+              &lt;li&gt;The same is not true for metals&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Ionic solids are brittle. When struck, they shatter.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:13:21.487007&lt;/li&gt;
+  &lt;li&gt;implies that, in the ionic solid, the ions are locked in position and cannot move around.&lt;/li&gt;
+  &lt;li&gt;predicts that ionic solids should not conduct electricity.
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:12:23.638218&lt;/li&gt;
+      &lt;li&gt;To conduct electricity, a material must have charged particles that are able to flow through the material.&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Ionic solids do not conduct electricity&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;implies that, in the liquid state or when dissolved in water, the ions will have the ability to move around.
+predicts that both a liquid ionic compound and an ionic compound dissolved in water should conduct electricity.
+    &lt;ul&gt;
+      &lt;li&gt;Ionic compounds conduct electricity in the liquid state or when dissolved in water.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conductivity-of-nacl&quot;&gt;Conductivity of NaCl&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:14:19.003024&lt;/li&gt;
+  &lt;li&gt;In NaCl(s), the ions are stuck in position and not able to move to the charged rods.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-e98fc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In NaCl(aq), the ions are separated and are able to move to the charged rods.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-da3f7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ionic-bonding-and-the-crystal-lattice&quot;&gt;Ionic Bonding and the Crystal Lattice&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:14:34.266075&lt;/li&gt;
+  &lt;li&gt;The extra energy that is released comes from the formation of a structure in which every cation is surrounded by anions and vice versa.
+    &lt;ul&gt;
+      &lt;li&gt;This structure is called a &lt;em&gt;crystal lattice&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The crystal lattice is held together by the electrostatic attraction of the cations for all the surrounding anions.
+    &lt;ul&gt;
+      &lt;li&gt;Electrostatic attraction is a nondirectional force.
+        &lt;ul&gt;
+          &lt;li&gt;Therefore, there is &lt;em&gt;no ionic molecule&lt;/em&gt;.
+            &lt;ul&gt;
+              &lt;li&gt;The chemical formula is an empirical formula, simply giving the ratio of ions based on charge balance.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The crystal lattice maximizes the attractions between cations and anions leading to the most stable arrangement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ionic-compounds&quot;&gt;Ionic Compounds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:16:15.553827&lt;/li&gt;
+  &lt;li&gt;Ionic compounds are composed of cations (metals) and anions (nonmetals) bound together by ionic bonds.
+    &lt;ul&gt;
+      &lt;li&gt;Examples of ionic compounds:
+        &lt;ul&gt;
+          &lt;li&gt;NaBr, Al2(CO3)3, CaHPO4, and MgSO4&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The basic unit of an ionic compound is the formula unit, the smallest, electrically neutral collection of ions.
+    &lt;ul&gt;
+      &lt;li&gt;Example:
+        &lt;ul&gt;
+          &lt;li&gt;The ionic compound table salt, with the &lt;em&gt;formula unit&lt;/em&gt; NaCl, is composed of Na+ and Cl+ions in a one-to-one ratio.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Summarizing Ionic Compound Formulas
+    &lt;ul&gt;
+      &lt;li&gt;Ionic compounds always contain positive and negative ions.&lt;/li&gt;
+      &lt;li&gt;In a chemical formula, the sum of the charges of the positive ions (cations) must equal the sum of the charges of the negative ions (anions).&lt;/li&gt;
+      &lt;li&gt;The formula of an ionic compound reflects the smallest whole-number ratio of ions.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;nomenclature-naming-compounds&quot;&gt;Nomenclature: Naming Compounds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:18:01.496531&lt;/li&gt;
+  &lt;li&gt;Organic compounds: predominantly carbon Usually plus H, O, N, S&lt;/li&gt;
+  &lt;li&gt;Inorganic compounds: everything else&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ionic Compounds: Cation followed by anion +-ide
+## Naming Ionic Compounds&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:19:25.857435&lt;/li&gt;
+  &lt;li&gt;Ionic compounds can be categorized into two types, depending on the metal in the compound.&lt;/li&gt;
+  &lt;li&gt;The first type contains a metal whose charge is invariant from one compound to another.&lt;/li&gt;
+  &lt;li&gt;Whenever the metal in this first type of compound forms an ion, the ion always has the same charge.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-82ff6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:21:00.382017&lt;/li&gt;
+  &lt;li&gt;Metals with invariant charges
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-7e536.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;common nonmetal anions
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-76073.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;naming-binary-ionic-compounds-of-type-i-cations&quot;&gt;Naming Binary Ionic Compounds of Type I Cations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:22:33.873986&lt;/li&gt;
+  &lt;li&gt;Binary compounds contain only two different elements. The names of binary ionic compounds take the following form:&lt;/li&gt;
+  &lt;li&gt;For example, the name for KCl consists of the name of the cation, potassium, followed by the base name of the anion, chlor, with the ending -ide.
+    &lt;ul&gt;
+      &lt;li&gt;KCl is potassium chloride.
+        &lt;ul&gt;
+          &lt;li&gt;We know potasium is +1, we know Cl is -1, so we don’t have to write it&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The name for CaO consists of the name of the cation, calcium,
+followed by the base name of the anion, ox, with the ending -ide.
+    &lt;ul&gt;
+      &lt;li&gt;CaO is calcium oxide.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;chemical-nomenclature&quot;&gt;Chemical Nomenclature&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:49.504979&lt;/li&gt;
+  &lt;li&gt;Ionic Compounds
+    &lt;ul&gt;
+      &lt;li&gt;often a metal + nonmetal&lt;/li&gt;
+      &lt;li&gt;anion (nonmetal), add “ide” to element name&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-38f84.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Write the formula for calcium nitride
+    &lt;ul&gt;
+      &lt;li&gt;Ca_3N_2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;lewis-structure-model-representing-a-substances-valence-electrons&quot;&gt;Lewis Structure Model: Representing a Substance’s Valence Electrons&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:31.209408&lt;/li&gt;
+  &lt;li&gt;The Lewis Model:
+    &lt;ul&gt;
+      &lt;li&gt;Valence electrons are represented as dots.
+        &lt;ul&gt;
+          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-b7090.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Lewis electron-dot structures (Lewis structures) depict the structural formula with its valence electrons.&lt;/li&gt;
+  &lt;li&gt;Audio 0:27:52.445649&lt;/li&gt;
+  &lt;li&gt;Lewis structures focus on valence electrons because chemical bonding involves the transfer or sharing of valence electrons between two or more atoms.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;octet-rule-a-guideline-for-molecule-formation&quot;&gt;Octet Rule: A Guideline for Molecule Formation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:28:08.406107&lt;/li&gt;
+  &lt;li&gt;When atoms bond, they tend to gain, lose, or share electrons to give a noble gas–like configuration.
+    &lt;ul&gt;
+      &lt;li&gt;ns2np6&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Nonmetals: period 2 elements must obey the octet rule (i.e., eight valence electrons around each atom in the molecule).&lt;/li&gt;
+  &lt;li&gt;Exceptions to the octet rule: Expanded octets
+    &lt;ul&gt;
+      &lt;li&gt;(Sometimes octet rule doesn’t work)&lt;/li&gt;
+      &lt;li&gt;Audio 0:29:09.248458&lt;/li&gt;
+      &lt;li&gt;They involve the nonmetal elements located in period 3 and below.&lt;/li&gt;
+      &lt;li&gt;Nonmetals (period 3 on down in the periodic table) follow the octet rule when they are not the center atom.
+        &lt;ul&gt;
+          &lt;li&gt;The center atom is the atom in the molecule that the other elements individually bond (attach) to.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;When they are the center atom, they can accommodate more than eight electrons.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Using empty valence d orbitals that are predicted by quantum theory&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;multivalent-metals-naming-type-ii-ionic-compounds&quot;&gt;Multivalent Metals: Naming Type II Ionic Compounds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:30:05.304852&lt;/li&gt;
+  &lt;li&gt;The metals in this category tend to have multiple charges (i.e., multivalent cations):&lt;/li&gt;
+  &lt;li&gt;Their charge cannot be predicted as in the case of most representative elements and must be noted in their name.&lt;/li&gt;
+  &lt;li&gt;Transition and inner transition metals
+    &lt;ul&gt;
+      &lt;li&gt;Iron (Fe) forms a 2+ cation in some of its compounds and a 3+ cation in others.
+        &lt;ul&gt;
+          &lt;li&gt;FeSO4: Here iron is a +2 cation (Fe2+).&lt;/li&gt;
+          &lt;li&gt;Fe2(SO4)3: Here iron is a +3 cation (Fe3+).&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Many of the p-block metals
+    &lt;ul&gt;
+      &lt;li&gt;Not all p-block metals are multivalent.&lt;/li&gt;
+      &lt;li&gt;Some main-group metals, such as Pb, Tl, and Sn, form more than one type of cation.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;type-ii-cation&quot;&gt;Type II Cation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:31:26.941062&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-99d12.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;naming-type-ii-binary-ionic-compounds-example-crbr3&quot;&gt;Naming Type II Binary Ionic Compounds— Example: CrBr3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:36.900613&lt;/li&gt;
+  &lt;li&gt;To name CrBr_3, cation + total anion charge = 0
+    &lt;ul&gt;
+      &lt;li&gt;Cr charge + 3(Br+charge) = 0&lt;/li&gt;
+      &lt;li&gt;Since each Br has a –1 charge, then
+        &lt;ul&gt;
+          &lt;li&gt;Cr charge + 3(–1) = 0&lt;/li&gt;
+          &lt;li&gt;Cr charge + (–3) = 0&lt;/li&gt;
+          &lt;li&gt;Cr = +3&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Hence, the cation Cr3+ is called chromium(III), and Br^- is called bromide.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The name for CrBr3 is chromium(III) bromide.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;polyatomic-ions&quot;&gt;Polyatomic Ions&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:33:44.947274&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;oxyanions&quot;&gt;Oxyanions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:09.654184&lt;/li&gt;
+  &lt;li&gt;Most polyatomic ions are &lt;em&gt;oxyanions&lt;/em&gt;, anions containing oxygen and another element.&lt;/li&gt;
+  &lt;li&gt;Noticethatwhenaseriesofoxyanionscontainsdifferent numbers of oxygen atoms, the oxyanions are named according to the number of oxygen atoms in the ion.&lt;/li&gt;
+  &lt;li&gt;Iftherearetwoionsintheseries,
+    &lt;ul&gt;
+      &lt;li&gt;the one with more oxygen atoms has the ending -ate; and
++the one with fewer has the ending -ite.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Forexample,
+    &lt;ul&gt;
+      &lt;li&gt;NO3+is nitrate SO_4^2+ is sulfate&lt;/li&gt;
+      &lt;li&gt;NO2+is nitrite SO_3^2+ is sulfite&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If there are more than two ions in the series, then the prefixes hypo-, meaning less than, and per-,
+meaning more than, are used.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-d4a48.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;naming-ionic-compounds-containing-polyatomic-ions&quot;&gt;Naming Ionic Compounds Containing Polyatomic Ions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:49.401712&lt;/li&gt;
+  &lt;li&gt;Ionic compounds that contain a polyatomic ion rather than a simple anion (e.g., Cl–) are named in the same manner as binary ionic compounds, except that the name of the polyatomic ion used.
+    &lt;ul&gt;
+      &lt;li&gt;For example, NaNO2 is named according to
+        &lt;ul&gt;
+          &lt;li&gt;its cation, Na+, sodium; and&lt;/li&gt;
+          &lt;li&gt;its polyatomic anion, NO2–, nitrite.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Hence, NaNO2 is sodium nitrite.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;common-polyatomic-ions&quot;&gt;Common Polyatomic Ions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-d5e7f.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;You should memorize this&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;chemical-nomenclature-1&quot;&gt;Chemical Nomenclature&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:41:08.609726&lt;/li&gt;
+  &lt;li&gt;Ionic Compounds/Polyatomic Anion&lt;/li&gt;
+  &lt;li&gt;BaSO4 barium sulfate&lt;/li&gt;
+  &lt;li&gt;KMnO4 potassium permanganate Mg(OH)2 magnesium hydroxide&lt;/li&gt;
+  &lt;li&gt;KNO3 potassium nitrate&lt;/li&gt;
+  &lt;li&gt;(NH4)3PO4 ammonium phosphate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Copper(II) phosphate’s formula
+    &lt;ul&gt;
+      &lt;li&gt;Cu_3(PO_4)2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;hydrated-ionic-compounds&quot;&gt;Hydrated Ionic Compounds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:44:52.355986&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Hydrates&lt;/em&gt; are ionic compounds containing a specific number of water molecules associated with each formula unit.&lt;/li&gt;
+  &lt;li&gt;Some ionic compounds have multiple hydrates&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;hydrates&quot;&gt;Hydrates&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Common hydrate prefixes
+    &lt;ul&gt;
+      &lt;li&gt;hemi = 1⁄2&lt;/li&gt;
+      &lt;li&gt;mono = 1&lt;/li&gt;
+      &lt;li&gt;di = 2&lt;/li&gt;
+      &lt;li&gt;tri=3&lt;/li&gt;
+      &lt;li&gt;tetra = 4&lt;/li&gt;
+      &lt;li&gt;penta = 5&lt;/li&gt;
+      &lt;li&gt;hexa = 6&lt;/li&gt;
+      &lt;li&gt;hepta = 7&lt;/li&gt;
+      &lt;li&gt;octa = 8&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Other common hydrated ionic compounds and their names are as follows:
+    &lt;ul&gt;
+      &lt;li&gt;CaSO4 +1⁄2H2O is called calcium sulfate hemihydrate.&lt;/li&gt;
+      &lt;li&gt;BaCl2 +6H2O is called barium chloride hexahydrate.&lt;/li&gt;
+      &lt;li&gt;CuSO4 +6H2O is called copper sulfate hexahydrate.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lattice energy&lt;/td&gt;
+      &lt;td&gt;the extra stability that accompanies the formation of the crystal lattice&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ionic solid properties&lt;/td&gt;
+      &lt;td&gt;relatively hard and brittle and don’t conduct electricity&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;crystal lattice&lt;/td&gt;
+      &lt;td&gt;structre in which every cation is surrounded by anions and vice versa&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;binary compounds&lt;/td&gt;
+      &lt;td&gt;compounds containing only two different elements&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;formula unit&lt;/td&gt;
+      &lt;td&gt;empirical formulla of any ionic compound which is the lowest whole number ratio of ions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;oxyanions&lt;/td&gt;
+      &lt;td&gt;anions containing oxygen and another element&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;acetate formula&lt;/td&gt;
+      &lt;td&gt;C_2H_3O_2^-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;carbonate&lt;/td&gt;
+      &lt;td&gt;CO_3^2-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;hydrogen carbonate&lt;/td&gt;
+      &lt;td&gt;HCO_3^-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;hydroxide&lt;/td&gt;
+      &lt;td&gt;OH^-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;nitrite&lt;/td&gt;
+      &lt;td&gt;NO_2^-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;chromate&lt;/td&gt;
+      &lt;td&gt;CrO_4^2-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;dichromate&lt;/td&gt;
+      &lt;td&gt;Cr_2O_7^2-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;phosphate&lt;/td&gt;
+      &lt;td&gt;PO_4^3-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;hydrogen phosphate&lt;/td&gt;
+      &lt;td&gt;HPO_4^2-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;dihydrogen phosphate&lt;/td&gt;
+      &lt;td&gt;H_2PO_4^-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ammonium&lt;/td&gt;
+      &lt;td&gt;NH_4^+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;hypochlorite&lt;/td&gt;
+      &lt;td&gt;CIO^-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;chlorite&lt;/td&gt;
+      &lt;td&gt;CIO_2^-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;chlorate&lt;/td&gt;
+      &lt;td&gt;CIO_3^-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;perchlorate&lt;/td&gt;
+      &lt;td&gt;CIO_3^-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;permanganate&lt;/td&gt;
+      &lt;td&gt;MnO_4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;sulfite&lt;/td&gt;
+      &lt;td&gt;SO_3^2-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;hydrogen sulfite&lt;/td&gt;
+      &lt;td&gt;HSO_3^-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;sulfate&lt;/td&gt;
+      &lt;td&gt;SO_4^2-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;hydrogen sulfate&lt;/td&gt;
+      &lt;td&gt;HSO_4^-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;cyanide&lt;/td&gt;
+      &lt;td&gt;CN^-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;peroxide&lt;/td&gt;
+      &lt;td&gt;O_2^2-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;hydrates&lt;/td&gt;
+      &lt;td&gt;ionic compounds containing a specific number of water molecules associated with each formula unit&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Wed, 21 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/09/21/week-6-day-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/21/week-6-day-2.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 6 - Day 1</title>
+        <description>&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:10.820314&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;where-we-left-off&quot;&gt;Where we left off&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:01:22.152319&lt;/li&gt;
+  &lt;li&gt;What period 3 element has the following ionization energies (all in kJ/mol)?
+    &lt;ul&gt;
+      &lt;li&gt;IE1 = 1012 IE2 = 1900 IE3= 2910 IE4= 4960 IE5= 6270 IE6 = 22,200
+        &lt;ul&gt;
+          &lt;li&gt;A) Si&lt;/li&gt;
+          &lt;li&gt;B) S&lt;/li&gt;
+          &lt;li&gt;C) P&lt;/li&gt;
+          &lt;li&gt;D) Cl&lt;/li&gt;
+          &lt;li&gt;E) Mg&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Answer is C&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Which of the following correctly illustrates the valence electron configuration of sulfur (S)?
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:04:19.132251&lt;/li&gt;
+      &lt;li&gt;Looking at the periodic table you can see that the electron configuration is [Ne] 3s^2 3p^4&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:04:44.233596&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Place the following in order of decreasing IE_1.
+    &lt;ul&gt;
+      &lt;li&gt;Cs, Mg, Ar
+        &lt;ul&gt;
+          &lt;li&gt;Ar &amp;gt; Mg &amp;gt; Cs&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Audio 0:06:27.831790&lt;/li&gt;
+      &lt;li&gt;Ionization energy increases toward the top right of the periodic table.
+        &lt;ul&gt;
+          &lt;li&gt;You can instantly see this and know it has to be Ar first&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;periodic-trend-electron-affinities-ea-for-main-group-elements&quot;&gt;Periodic Trend: Electron Affinities (EA) for Main-Group Elements&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:07:24.054226&lt;/li&gt;
+  &lt;li&gt;Electron Affinity:
+    &lt;ul&gt;
+      &lt;li&gt;It is the energy associated with the addition of an electron to the valence shell of an atom that is in the gas phase.
+        &lt;ul&gt;
+          &lt;li&gt;M(g)+1e− →M1−(g)+EA&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;It is defined as exothermic (−) the release of energy. But
+may actually be endothermic (+) taking energy.
+    &lt;ul&gt;
+      &lt;li&gt;Some alkali earth metals’ and all noble gases’ electron affinities are endothermic.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The more energy that is released, the larger the electron affinity.
+    &lt;ul&gt;
+      &lt;li&gt;The more negative the number, the larger the EA.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;periodic-trend-electron-affinities-ea&quot;&gt;Periodic Trend: Electron Affinities (EA)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:08:45.799510&lt;/li&gt;
+  &lt;li&gt;General Trend for Main-Group Elements
+    &lt;ul&gt;
+      &lt;li&gt;EA increases across a period.
+        &lt;ul&gt;
+          &lt;li&gt;EA becomes more negative from left to right.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Halogens have the highest EA for any period&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-58a37.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;periodic-trend-electron-affinities-ea-for-main-group-elements-1&quot;&gt;Periodic Trend: Electron Affinities (EA) for Main-Group Elements&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:10:58.796812&lt;/li&gt;
+  &lt;li&gt;Summarizing Electron Affinity for Main-Group Elements
+    &lt;ul&gt;
+      &lt;li&gt;Most groups (columns) of the periodic table do not exhibit any definite trend in electron affinity.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Among the group 1A metals, however, electron affinity becomes more positive as we move down the column (adding an electron becomes less exothermic).
+    &lt;ul&gt;
+      &lt;li&gt;Alkali metals (group 1A) decrease electron affinity down the column.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Generally irregular increase in EA from second period to third period
+    &lt;ul&gt;
+      &lt;li&gt;Group 5A generally has lower EA than expected because extra electron must pair up.&lt;/li&gt;
+      &lt;li&gt;Groups 2A and 8A generally have very low EA because added electron goes into higher energy level or sublevel.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Electron affinity generally becomes more negative (adding an electron becomes more exothermic) as we move to the right across a period (row) in the periodic table.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;characteristics-of-metals-versus-nonmetals&quot;&gt;Characteristics of Metals versus Nonmetals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:24.155206&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Metals&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Nonmetals&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;malleable and ductile&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;brittle in solid State&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;shiny&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;dull&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;conduct heat and electricity&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;insulator&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;basic&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;acidic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;form cations&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;form anions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;lose electrons in reactions&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;gain electrons in reactions&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;periodic-trend-metallic-character&quot;&gt;Periodic Trend: Metallic Character&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:15:52.518767&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-0ae2c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;periodic-trend-metallic-character-1&quot;&gt;Periodic Trend: Metallic Character&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Metallic character is how closely an element’s properties match the ideal properties of a metal
+    &lt;ul&gt;
+      &lt;li&gt;More malleable and ductile, better conductor, and easier to ionize&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Metallic character decreases left to right across a period
+the right
+•  Metalliccharacterincreasesdownthecolumn.
+–  Nonmetals found at the top of the middle main group
+elements and metals found at the bottom&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:16:25.235247
+Metallic Elements:
+•  Ionizationenergydecreasesdownthecolumn.
+–  Very low ionization energies
+•  Good reducing agents; easy to oxidize
+•  Very reactive; not found uncombined in nature
+•  React with nonmetals to form salts
+•  Compounds generally soluble in water; therefore metal ions are found in seawater.
+•  Electronaffinitydecreasesdownthecolumn.
+metals generally have smaller first ionization energies and nonmetals generally have larger electron affinities.&lt;/li&gt;
+  &lt;li&gt;Audio 0:18:19.520679
+Metallic Elements:
+•  Quantum-mechanicspredictsthattheatom’smetallic character should
+–  increase down a column because the valence electrons are not held as strongly;
+–  decrease across a period because the valence electrons are held more strongly and the electron affinity increases.
+•  Atomicradiusincreasesdownthecolumn.
+•  Meltingpointdecreasesdownthecolumn.
+–  MP for metals are generally low
+•  Densityincreasesdownthecolumn. –  Except K&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;chapter-5---molecules-and-compounds&quot;&gt;Chapter 5 - Molecules and Compounds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:19:47.042558&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;elements-to-molecules&quot;&gt;Elements to Molecules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:15.784877
+•  Whentwoormoreelementscombine,amolecule can be formed.
+–  Elements can be the same.
+•  The molecular compound of oxygen, O2
+–  Elements can be different.
+•  The molecular compound of water, H2O
+•  Moleculesarecompounds.
+•  Thegreatdiversityofsubstancesthatwefindinnature is a direct result of the ability of elements to form many different compounds.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;hydrogen-oxygen-and-water&quot;&gt;Hydrogen, Oxygen, and Water&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:21:35.856576
+•  Thedramaticdifferencebetweentheelementshydrogen and oxygen and the compound water is typical of the differences between elements and the compounds that they form.
+•  Whentwoormoreelementscombinetoforma compound, an entirely new substance results.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-a257a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;law-of-definite-proportion-formation-of-molecules&quot;&gt;Law of Definite Proportion: Formation of Molecules&lt;/h2&gt;
+&lt;p&gt;•  Ahydrogen–oxygenmixturecanhaveanyproportionsof hydrogen and oxygen gas.
+•  Water(H2O)hasadefiniteproportionofhydrogentooxygen. –  A water molecule always is composed of two hydrogen
+atoms to every one oxygen atom.
+•  A ratio of 2 hydrogen atoms : 1 oxygen atom
++ &lt;img src=&quot;assets/2016-09-19-week-6-day-1-1bcfb.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;chemical-bonds&quot;&gt;Chemical Bonds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:56.779753
+•  compounds are made of atoms held
+together by chemical bonds
+•  bonds are forces of attraction between
+atoms
+•  the attraction is electrostatic: between protons and electrons&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-6c2f1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;chemical-bonds-1&quot;&gt;Chemical Bonds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:25:19.627791
+•  the length of a bond is determined by the balance of various electrostatic forces
+•  attraction between electrons and nuclei
+•  repulsion between nuclei
+•  repulsion between electrons&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-1a60f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bond-types&quot;&gt;Bond Types&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:27:02.736420&lt;/li&gt;
+  &lt;li&gt;two general types of bonding between atoms found in
+compounds, ionic and covalent&lt;/li&gt;
+  &lt;li&gt;ionic bonds result when electrons have been transferred between atoms, resulting in oppositely charged ions that attract each other
+    &lt;ul&gt;
+      &lt;li&gt;generally metal atoms bonded to nonmetal atoms&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;covalent bonds result when two atoms share some of their electrons
+    &lt;ul&gt;
+      &lt;li&gt;generally found when nonmetal atoms bonded together&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:29:06.260194&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-e199c.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;We draw a dash to denote a covalent bond between atoms in the structural model&lt;/li&gt;
+      &lt;li&gt;ball and stick starts to show us how it really looks in 3d space&lt;/li&gt;
+      &lt;li&gt;space-filling model shows it more accurately in terms of how they bond&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-2e0d0.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:31:23.554938&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:32:33.081289&lt;/li&gt;
+  &lt;li&gt;A molecular formula shows the exact number of atoms of each element in the smallest unit of a substance&lt;/li&gt;
+  &lt;li&gt;An empirical formula shows the simplest whole-number ratio of the atoms in a substance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;molecular&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;principal&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;H2O&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;H2O&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;C6H12O6&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;CH2O&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;O3&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;O&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;N2H4&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;NH2&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;molecular-elements&quot;&gt;Molecular Elements&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:57.015297&lt;/li&gt;
+  &lt;li&gt;Certain elements occur as 2 atom molecules&lt;/li&gt;
+  &lt;li&gt;Other elements occur as polyatomic molecules
+    &lt;ul&gt;
+      &lt;li&gt;P4, S8, Se8&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-7f0cb.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ionic-compounds&quot;&gt;Ionic Compounds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:11.710564&lt;/li&gt;
+  &lt;li&gt;ionic compounds consist of a combination of cations and anions
+    &lt;ul&gt;
+      &lt;li&gt;the formula is always the same as the empirical formula&lt;/li&gt;
+      &lt;li&gt;the sum of the charges on the cation(s) and anion(s) in each formula unit must equal zero&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The Ionic compound NaCl
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-1707d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:37:35.867163&lt;/li&gt;
+  &lt;li&gt;metals + nonmetals&lt;/li&gt;
+  &lt;li&gt;no individual molecule units, instead have a 3-dimensional array of cations and anions made of formula units&lt;/li&gt;
+  &lt;li&gt;many contain polyatomic ions
+    &lt;ul&gt;
+      &lt;li&gt;several atoms attached together in one ion&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;formulae-of-ionic-compounds&quot;&gt;Formulae of Ionic Compounds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:38:32.534553&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-79b3d.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Aluminum likes to lose three electrons
+        &lt;ul&gt;
+          &lt;li&gt;Al^3+&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Oxygen likes to gain two electrons
+        &lt;ul&gt;
+          &lt;li&gt;O^2-&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:42:57.146045&lt;/li&gt;
+  &lt;li&gt;What is the correct formula for the binary compound formed from sodium and nitrogen
+    &lt;ul&gt;
+      &lt;li&gt;Na_3N
+        &lt;ul&gt;
+          &lt;li&gt;You have to put sodium first&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;octet-rule-a-guideline-for-molecule-formation&quot;&gt;Octet Rule: A Guideline for Molecule Formation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:43:41.584886&lt;/li&gt;
+  &lt;li&gt;Atoms prefer to have a filled valence shell meaning 8 valence electrons&lt;/li&gt;
+  &lt;li&gt;Also expressed as: atoms prefer to have the same valence electron configuration as nearest noble gas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;lewis-theory-predictions-for-ionic-bonding&quot;&gt;Lewis Theory Predictions for Ionic Bonding&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:44:41.987239
+•  Lewis theory predicts the number of electrons a metal atom should lose or a nonmetal atom should gain in order to attain a stable electron arrangement.
+–  The octet rule
+•  Octet rule (guideline) allows us to predict the
+–  formulas of ionic compounds that result;
+–  relative strengths of the resulting ionic bonds based on Coulomb’s law.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;octet-rule-a-guideline-for-molecule-formation-1&quot;&gt;Octet Rule: A Guideline for Molecule Formation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:45:49.850342
+•  Exceptions to the octet rule:
+–  H, Li, Be, and B attain an electron configuration like that of He.
+•  He can have ONLY two valence electrons, a duet.
+•  Li loses its one valence electron.
+•  H shares orgainsoneelectron.
+–  Though it commonly loses its one electron to become H+
+•  BelosestwoelectronstobecomeBe2+.
+–  Though it commonly shares its two electrons in covalent bonds, resulting
+in four valence electrons
+•  BlosesthreeelectronstobecomeB3+.
+–  Though it commonly shares its three electrons in covalent bonds, resulting in six valence electrons&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;energetics-of-ionic-bond-formation-using-nacl-as-an-example&quot;&gt;Energetics of Ionic Bond Formation: Using NaCl as an Example&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:47:21.944874
+The ionization energy of the metal is endothermic.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-ada36.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;The electron affinity of the nonmetal is exothermic.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-1841b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Generally, the ionization energy of the metal is larger than the electron affinity of the nonmetal; therefore, the formation of the ionic compound should be endothermic.&lt;/li&gt;
+  &lt;li&gt;But the heat of formation of most ionic compounds is exothermic and generally large.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-19-week-6-day-1-39ae6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Term&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;electron affinity&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;energy associated with the addition of an electron to the valence shell of an atom in the gas phase&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;metal properties&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;malleable, ductile, shiny, conduct heat and electricity, form cations, lose electrons in reactions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;nonmetal properties&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;brittle, dull, insulating, acidic, form anions, gain electrons in reactions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;oxidization&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;losing electrons in reactions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;reduction&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;gaining electrons in reactions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;metallic character&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;how closely an element’s properties match the ideal properties of a metal&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;decreases left to right and increases down&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;metallic character _ the period table (increases or decreases and left to right or up or down)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ionic bonds&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;result when electrons have been transferred between atoms, resulting in oppositely&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;covalent bonds&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;when two atoms share some of their electrons&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;molecular formula&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;shows the exact number of atoms of each element in the smallest unit of a substance&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;empirical formula&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;shows the simplest whole-number ratio of the atoms in a substance&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;polyatomic ions&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;several atoms attached together in one ion&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;octet rule&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;says atoms gain or lose electrons so that they have a nobel gas configuration&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;duet&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;atom with only two valence electrons&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Mon, 19 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/09/19/week-6-day-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/19/week-6-day-1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 5 - Day 3</title>
+        <description>&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:39.475037&lt;/li&gt;
+  &lt;li&gt;Scores got changed up, but now they’re changed back to what they were originally&lt;/li&gt;
+  &lt;li&gt;Ch 4 homework due next week&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electron-configuration-and-elemental-properties-the-metals&quot;&gt;Electron Configuration and Elemental Properties: The Metals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:03:02.434400&lt;/li&gt;
+  &lt;li&gt;Metallicelementsmakeupthemajorityoftheelementsin the periodic table.
+    &lt;ul&gt;
+      &lt;li&gt;Alkali Metals:
+        &lt;ul&gt;
+          &lt;li&gt;They have one more electron than the previous noble gas and occupy the first column.&lt;/li&gt;
+          &lt;li&gt;In their reactions, the alkali metals lose one electron, and the resulting electron configuration is the same as that of a noble gas.
+            &lt;ul&gt;
+              &lt;li&gt;Forming a cation with a 1+ charge&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Alkaline Earth Metals:
+        &lt;ul&gt;
+          &lt;li&gt;They have two more electrons than the previous noble gas and occupy the second column.
+•  In their reactions, the alkaline earth metals lose two electrons, and the resulting electron configuration is the same as that of a noble gas.
+–  Forming a cation with a 2+ charge&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:06:10.831608&lt;/li&gt;
+  &lt;li&gt;Give the number of core electrons for Cd
+    &lt;ul&gt;
+      &lt;li&gt;Cd atomic # is 48, but based on it’s position on the periodic table, the d, valence electrons are not core, so the answer is 46&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;metallic-behavior-and-electron-configuration&quot;&gt;Metallic Behavior and Electron Configuration&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:08:00.666264&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-4cbdf.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gaining-or-losing-electrons&quot;&gt;Gaining or Losing Electrons&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:09:07.638465&lt;/li&gt;
+  &lt;li&gt;Electrons want to be in the lowest lying orbital that has a vacancy&lt;/li&gt;
+  &lt;li&gt;If that is on another atom: electron transfers and get an ion&lt;/li&gt;
+  &lt;li&gt;Orbitals shrink across periodic table as nuclear charge increases across periodic table&lt;/li&gt;
+  &lt;li&gt;For metals: energy of orbitals is (generally) higher than surrounding matter: lose electrons and make cations&lt;/li&gt;
+  &lt;li&gt;For non-metals: energy of orbital is (generally) lower than surrounding matter: gain electrons and make anions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;orbital-blocks-and-their-position-in-the-periodic-table&quot;&gt;Orbital Blocks and Their Position in the Periodic Table&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:44.899521&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-b284d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electron-configuration-and-elemental-properties-noble-gases&quot;&gt;Electron Configuration and Elemental Properties: Noble Gases&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:14:56.898668&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-115ec.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;The noble gases have eight valence electrons.
+    &lt;ul&gt;
+      &lt;li&gt;Except for He, which has only two electrons&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;They are especially nonreactive.
+    &lt;ul&gt;
+      &lt;li&gt;He and Ne are practically inert.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The reason the noble gases are so nonreactive is that the electron configuration of the noble gases is especially stable.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electron-configuration-and-ion-formation&quot;&gt;Electron Configuration and Ion Formation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:15:50.407566
+•  Ion formation can be predicted by an element’s location in the periodic table.
+•  These atoms form ions that will result in an electron configuration that is the same as that of the nearest noble gas.
+•  Metals form cations (positively charged atoms).
+–  Alkali metals (group 1A) form only +1 cations.
+–  Alkaline earth metals (group 2A) form only +2 cations.
+–  Transition, inner transition, and p-block metals form a variety of charged cations.
+•  Nonmetals form anions (negatively charged atoms).
+–  Halogens (group 7A) usually gain one electron to form –1 anions. –  Other nonmetals can form a variety of charged anions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electron-configuration-and-ion-formation-elements-that-form-ions-with-predictable-charges&quot;&gt;Electron Configuration and Ion Formation: Elements that Form Ions with Predictable Charges&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-ad3f2.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;effective-nuclear-charge-and-the-screening-effect&quot;&gt;Effective Nuclear Charge and the Screening Effect&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:17:40.420403&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-b703a.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Nuclear charge minus core electrons&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;effective-nuclear-charge&quot;&gt;Effective Nuclear Charge&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:18:34.927551&lt;/li&gt;
+  &lt;li&gt;The effective nuclear charge is a net positive charge that is attracting a particular electron.&lt;/li&gt;
+  &lt;li&gt;Core electrons efficiently shield electrons in the outermost principal energy level from nuclear charge.&lt;/li&gt;
+  &lt;li&gt;Outermost electrons in the valence shell do not efficiently shield one another from nuclear charge.&lt;/li&gt;
+  &lt;li&gt;Z is the nuclear charge, and S is the number of electrons in lower energy levels.
+    &lt;ul&gt;
+      &lt;li&gt;Electrons in the same energy level contribute to screening, but since their contribution is so small, they are not part of the calculation.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-98828.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;periodic-trends-atomic-radii-and-effective-nuclear-charge&quot;&gt;Periodic Trends: Atomic Radii and Effective Nuclear Charge&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:20.485159&lt;/li&gt;
+  &lt;li&gt;There are several methods for measuring the radius of an atom,and they give slightly different numbers.&lt;/li&gt;
+  &lt;li&gt;Van der Waals radius = nonbonding&lt;/li&gt;
+  &lt;li&gt;Covalent radius = bonding radius&lt;/li&gt;
+  &lt;li&gt;Atomic radius is an average radius of an atom based on measuring large numbers of compounds.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-a9a7a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;periodic-trends-atomic-radii-and-effective-nuclear-charge-1&quot;&gt;Periodic Trends: Atomic Radii and Effective Nuclear Charge&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:21:45.986365&lt;/li&gt;
+  &lt;li&gt;Atomic radius decreases across a period (left to right). –  Adding electrons to the same valence shell
+    &lt;ul&gt;
+      &lt;li&gt;Effective nuclear charge increases.&lt;/li&gt;
+      &lt;li&gt;Valence shell held closer&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Atomic radius increases down a group.
+    &lt;ul&gt;
+      &lt;li&gt;Valence shell farther from nucleus&lt;/li&gt;
+      &lt;li&gt;Effective nuclear charge fairly constant (expansion
+mostly due to increasing n)&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-9a6c9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;summarizing-atomic-radii-trend-for-main--group-elements&quot;&gt;Summarizing Atomic Radii Trend for Main- Group Elements&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:25:24.843667&lt;/li&gt;
+  &lt;li&gt;The size of an atom is related to the distance the valence electrons are from the nucleus.
+    &lt;ul&gt;
+      &lt;li&gt;The larger the orbital an electron is in, the farther its most probable distance will be from the nucleus, and the less attraction it will have for the nucleus.&lt;/li&gt;
+      &lt;li&gt;Traversing down a group adds a principal energy level, and the larger the principal energy level an orbital is in, the larger its volume.&lt;/li&gt;
+      &lt;li&gt;Quantum-mechanics predicts that the atoms should get larger down a column.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;summarizing-atomic-radii-trend-for-main--group-elements-1&quot;&gt;Summarizing Atomic Radii Trend for Main- Group Elements&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:14.499563
+•  The larger the effective nuclear charge an electron experiences, the stronger the attraction it will have for the nucleus.
+–  The closer their average distance will be to the nucleus, the stronger the attraction the valence electrons have for the nucleus.
+–  Traversing across a period increases the effective nuclear charge on the valence electrons.
+–  Quantum-mechanics predicts that the atoms should get smaller across a period.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;summarizing-atomic-radii-trend-for-transition-elements&quot;&gt;Summarizing Atomic Radii Trend for Transition Elements&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:56.496332
+•  Atomsinthesamegroupincreaseinsizedown the column.
+•  Atomicradiioftransitionmetalsareroughlythesame size across the d block.
+–  Much less difference than across main group elements
+–  Valence shell ns2, not the (n − 1)d electrons
+–  Effective nuclear charge on the ns2 electrons approximately the same&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ions-magnetic-properties&quot;&gt;Ions: Magnetic Properties&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:27:41.873967
+•  Electron configurations that result in unpaired electrons mean that the atom or ion will have a net magnetic field; this is called
+paramagnetism.
+–  Will be attracted to a magnetic field&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-f8333.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Electron configurations that result in all paired electrons mean that the atom or ion will have no magnetic field; this is called
+diamagnetism.
+–  Slightly repelled by a magnetic field&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-af5dc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;radii-of-atoms-and-their-ions-cations&quot;&gt;Radii of Atoms and Their Ions: Cations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:30:05.119746&lt;/li&gt;
+  &lt;li&gt;Cation radius is smaller than its corresponding atom radius.
+    &lt;ul&gt;
+      &lt;li&gt;Loose electrons experiencing small effective nuclear charge; remaining electrons those experiencing a larger effective nuclear charge&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Traversing down a group increases the (n − 1) level, causing the cations to get larger.&lt;/li&gt;
+  &lt;li&gt;Traversing to the right across a period increases the effective nuclear charge for &lt;em&gt;isoelectronic&lt;/em&gt; cations, causing the cations to get smaller.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-dda34.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:32:15.588321&lt;/li&gt;
+  &lt;li&gt;isoelectronic = same number of electrons&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;radii-of-atoms-and-their-ions-anions&quot;&gt;Radii of Atoms and Their Ions: Anions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:32.478937&lt;/li&gt;
+  &lt;li&gt;When atoms form anions, electrons are added to the valence shell.&lt;/li&gt;
+  &lt;li&gt;Addition of electrons increases repulsion in valence shell without compensating increase in effective nuclear charge&lt;/li&gt;
+  &lt;li&gt;The result is that the anion is larger than the atom. Traversing down a group increases the n level, causing the anions to get larger.&lt;/li&gt;
+  &lt;li&gt;Traversing to the left across a period decreases the effective nuclear charge for isoelectronic anions, causing the anions to get &lt;em&gt;larger&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-02958.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;oposite of what happens with cations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Place the following in order of increasing radius
+    &lt;ul&gt;
+      &lt;li&gt;Br-, Na+, Rb+&lt;/li&gt;
+      &lt;li&gt;Na+, Rb+, Br-&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;periodic-trend-ionization-energy-potential&quot;&gt;Periodic Trend: Ionization Energy (Potential)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:37:37.889283&lt;/li&gt;
+  &lt;li&gt;Ionization Energy (IE):
+•  It is the minimum energy needed to remove an electron from an atom or ion in the gas phase.
+•  It is an endothermic process (requires the input of energy to remove the electron)
+–  Valence electron easiest to remove, lowest IE
+•  First ionization energy = energy to remove electron from neutral atom –  All atoms have first ionization energy.
+M(g) + IE1 èM1+(g) + 1 e–
+•  Second IE = energy to remove from 1+ ion, etc. M+1(g) + IE2 è M2+(g) + 1 e–&lt;/li&gt;
+  &lt;li&gt;Audio 0:39:07.357544&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-6c154.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;increases as you go across the periodic table&lt;/li&gt;
+      &lt;li&gt;Charge shrinks the nucleus, takes more energy to remove the charge&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;periodic-trend-ionization-energy-potential-1&quot;&gt;Periodic Trend: Ionization Energy (Potential)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:40:38.726742
+Ionization Energy (IE):
+•  The larger the effective nuclear charge on the electron to be removed,
+the more energy it takes to remove it.
+•  The farther the most probable distance the electron is from the nucleus, the less energy it takes to remove it.
+•  Trend:
+–  First IE decreases down the group.
+•  Valence electron is farther from nucleus.
+–  First IE generally increases across the period. •  Effective nuclear charge increases.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;periodic-trend-ionization-energy-potential-2&quot;&gt;Periodic Trend: Ionization Energy (Potential)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:40:54.665440&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-1e357.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:42:14.239301&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-6c154.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Nitrogen has three unpaired electrons, the next electron has to go down an orbital which will make it a little easier to remove the last electron in oxygen to get to nitrogen.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;first-ionization-energy-exceptions-to-the-trend&quot;&gt;First Ionization Energy: Exceptions to the Trend&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:43:42.531942&lt;/li&gt;
+  &lt;li&gt;GENERAL trend for first ionization energy of main-group elements is that as you go across a period, ionization energy increases.
+    &lt;ul&gt;
+      &lt;li&gt;Exceptions: 2A to 3A and 5A to 6A&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Exceptions are usually a result of
+    &lt;ul&gt;
+      &lt;li&gt;the type of orbital (s, p, d, or f) and its shielding ability;&lt;/li&gt;
+      &lt;li&gt;repulsion factors associated with electrons occupying degenerate orbitals (i.e., p orbitals).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;B has smaller first ionization energy than Be due to electron position: 2p for B and 2s for Be.
+The electron in 2p orbitals has more shielding (i.e., lower effective nuclear charge) and therefore requires less energy for its removal than an electron in a 2s orbital.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-edc55.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;trends-of-second-and-successive-ionization-energies&quot;&gt;Trends of Second and Successive Ionization Energies&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:44:46.840846&lt;/li&gt;
+  &lt;li&gt;They depend on the number of valence electrons an element has.
+–  ionization energies increase dramatically in going from valence to core electrons
+•  Removal of each successive electron costs more energy.
+–  Shrinkage in size due to having more protons than electrons
+–  Outer electrons closer to the nucleus; therefore harder to remove
+•  There’s a regular increase in energy for each successive valence electron.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-dd344.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-09-16-week-5-day-3-af312.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
+
+&lt;p&gt;What period 3 element has the following ionization energies (all in kJ/mol)?
+IE1 = 1012 IE2 = 1900 IE3= 2910 IE4= 4960
+IE5= 6270
+A) Si B) S C) P D) Cl E) Mg
+IE6 = 22,200&lt;/p&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;alkali metals&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;alkaline Earth Metals&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;metalloids&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;nonmetals&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;metals form cations&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;nonmetals form anions&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;effective nuclear charge&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;decreases&lt;/td&gt;
+      &lt;td&gt;Atomic radius _ across a period (left to right)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;paramagnetism&lt;/td&gt;
+      &lt;td&gt;something which is _ will be attracted to a magnetic field&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;diamagnetism&lt;/td&gt;
+      &lt;td&gt;something which is _ will be slightly repelled by a magnetic field&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;isoelectronic&lt;/td&gt;
+      &lt;td&gt;same number of electrons&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;traversing down the periodic table, anions get larger or smaller?&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;traversing down the periodic table, cations get larger or smaller?&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ionization energy&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;IE _ down the group&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;IE _ across the period&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Fri, 16 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/09/16/week-5-day-3.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/16/week-5-day-3.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 5 - Day 2</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2jbja3&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the maximum number of electrons in a atom that can have the following set of quantum numbers?&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;n = 4, l=3, m_l = 4, m_s = +1/2&lt;/li&gt;
+      &lt;li&gt;A&lt;/li&gt;
+      &lt;li&gt;It’s an illegal configuration&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;orbital-diagrams&quot;&gt;Orbital Diagrams&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:02:47.403928&lt;/li&gt;
+  &lt;li&gt;we often represent an orbital as a square and the electrons in that orbital as arrows
+    &lt;ul&gt;
+      &lt;li&gt;the direction of the arrow represents the spin of the electron&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-f8e97.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electron-configuration-for-multi-electron-atoms&quot;&gt;Electron Configuration for Multi-electron Atoms&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:03:39.319084&lt;/li&gt;
+  &lt;li&gt;Aufbau Principle
+    &lt;ul&gt;
+      &lt;li&gt;Energy levels and sublevels fill from lowest energy to highest&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-c8363.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Orbitals that are in the same sublevel have the same energy&lt;/li&gt;
+  &lt;li&gt;There can be no more than two electrons per orbital
+    &lt;ul&gt;
+      &lt;li&gt;Pauli exclusion principle&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-31b45.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-you-fill-up-orbitals&quot;&gt;How you fill up orbitals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:05:03.542404&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-b06ba.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;summarizing-the-filling-of-electrons-in&quot;&gt;Summarizing the Filling of Electrons in&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:10:29.597607&lt;/li&gt;
+  &lt;li&gt;Atomic Orbitals&lt;/li&gt;
+  &lt;li&gt;Electrons occupy orbitals so as to minimize the energy of the atom; therefore, lower energy orbitals fill before higher energy orbitals.
+    &lt;ul&gt;
+      &lt;li&gt;Orbitals fill in the following order:
+        &lt;ul&gt;
+          &lt;li&gt;1s2s2p3s3p4s3d4p5s4d5p6s.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Orbitals can hold no more than two electrons each. When two electrons occupy the same orbital, their spins are opposite.
+    &lt;ul&gt;
+      &lt;li&gt;This is another way of expressing the Pauli exclusion principle (no two electrons in one atom can have the same four quantum numbers).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;order-of-subshell-filling-in-ground-state-electron-configurations&quot;&gt;Order of Subshell Filling in Ground State Electron Configurations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:05.347386&lt;/li&gt;
+  &lt;li&gt;start by drawing a diagram putting each energy shell on
+a row and listing the subshells, (s, p, d, f), for that shell in order of energy, (left-to-right)&lt;/li&gt;
+  &lt;li&gt;next, draw arrows through the diagonals, looping back to the next diagonal each time&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-3bbc6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;order-of-orbitals-filling-in-multi-electron-atom&quot;&gt;Order of orbitals (filling) in multi-electron atom&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:08.640348&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-dc6b3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;1s &amp;lt; 2s &amp;lt; 2p &amp;lt; 3s &amp;lt; 3p &amp;lt; 4s &amp;lt; 3d &amp;lt; 4p &amp;lt; 5s &amp;lt; 4d &amp;lt; 5p &amp;lt; 6s
+    &lt;ul&gt;
+      &lt;li&gt;Smallest n+l. For equal n+l, largest l&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electron-configuration-short-cut&quot;&gt;Electron configuration Short Cut&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:14:32.615145&lt;/li&gt;
+  &lt;li&gt;Ge: 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p2&lt;/li&gt;
+  &lt;li&gt;easier: [Ar] 4s2 3d10 4p2&lt;/li&gt;
+  &lt;li&gt;i.e. write [last noble gas] remainder of orbitals,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;example--write-the-ground-state-electron-configuration-and-orbital-diagram-and-of-magnesium&quot;&gt;Example – Write the Ground State Electron Configuration and Orbital Diagram and of Magnesium.&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:16:50.900804&lt;/li&gt;
+  &lt;li&gt;How many electrons in Magnesium?
+    &lt;ul&gt;
+      &lt;li&gt;12&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;so need boxes for n=1, n=2 and n=3&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-40b93.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:22:03.927929&lt;/li&gt;
+  &lt;li&gt;Give the ground state electron configuration for Sr (Z=38)
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:22:55.093958&lt;/li&gt;
+      &lt;li&gt;Look at periodic table. Rightmost element before Sr.
+        &lt;ul&gt;
+          &lt;li&gt;Find Kr&lt;/li&gt;
+          &lt;li&gt;It is the second element past Kr, so it is Kr 5s2&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;finding-patterns-the-periodic-law-and-the-periodic-table&quot;&gt;Finding Patterns: The Periodic Law and the Periodic Table&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:15.808183&lt;/li&gt;
+  &lt;li&gt;In 1869, Mendeleev noticed that certain groups of elements had similar properties.&lt;/li&gt;
+  &lt;li&gt;He found that when elements were listed in order of increasing mass, these similar properties recurred in a periodic pattern.&lt;/li&gt;
+  &lt;li&gt;To be periodic means to exhibit a repeating pattern.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-periodic-law&quot;&gt;The Periodic Law&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:52.707876&lt;/li&gt;
+  &lt;li&gt;Mendeleev summarized these observations in the &lt;em&gt;periodic law&lt;/em&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;When the elements are arranged in order of increasing mass, certain sets of properties recur periodically.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Note: Mendeleev ignored some of data, e.g. atomic mass of Te &amp;gt; atomic mass of l&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mendeleevs-periodic-table&quot;&gt;Mendeleev’s Periodic Table&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:28:14.871013&lt;/li&gt;
+  &lt;li&gt;Mendeleev’s periodic table
+    &lt;ul&gt;
+      &lt;li&gt;organized known elements of the time in a table format.
+        &lt;ul&gt;
+          &lt;li&gt;He arranged the rows so that elements with similar properties would fall in the same vertical columns.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;contained some gaps, which allowed him to predict the existence (and even the properties) of yet undiscovered elements.
+        &lt;ul&gt;
+          &lt;li&gt;Mendeleev predicted the existence of an element he called eka-silicon.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-1a382.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-modern-periodic-table-its-format&quot;&gt;The Modern Periodic Table: Its Format&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:29:46.955888&lt;/li&gt;
+  &lt;li&gt;The elements are listed in order of increasing atomic number rather than increasing relative mass as they were in Mendeleev’s periodic table.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-2b7cd.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Rows of the table are referred to as periods (or just plain rows).&lt;/li&gt;
+  &lt;li&gt;Columns in the table are referred to as groups or a family.
+    &lt;ul&gt;
+      &lt;li&gt;Elements in a group or family have similar properties.&lt;/li&gt;
+      &lt;li&gt;NOTE: Mendeleev’s periodic law predicts pattern but does NOT explain why the patterns or similarity in properties occurs.
+        &lt;ul&gt;
+          &lt;li&gt;Quantum theory explains the why&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;modern-periodic-table&quot;&gt;Modern Periodic Table&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:31:45.843466&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-04649.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;core-electrons-valence-electrons-and-the-periodic-table&quot;&gt;Core Electrons, Valence Electrons, and the Periodic Table&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:14.303407&lt;/li&gt;
+  &lt;li&gt;The group number corresponds to the number of electrons in last (unfilled valence shell)
+    &lt;ul&gt;
+      &lt;li&gt;valence electrons&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The length of each “block” is the maximum number of
+electrons the sublevel can hold.&lt;/li&gt;
+  &lt;li&gt;The period number corresponds to the principal energy level of the valence electrons.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-215b9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;orbital-blocks-and-their-position-in-the-periodic-table&quot;&gt;Orbital blocks and their position in the periodic table&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-01bf4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;transition-and-inner-transition-metals&quot;&gt;Transition and Inner Transition Metals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:11.820224&lt;/li&gt;
+  &lt;li&gt;Transition metals (d block) and inner transition metals (f block) exhibit trends differing from those of main-group elements (s block and p block).
+    &lt;ul&gt;
+      &lt;li&gt;Because of sublevel splitting, the 4s sublevel is lower in energy than the 3d sublevel; therefore, the 4s orbital fills before the 3d orbital.&lt;/li&gt;
+      &lt;li&gt;The difference in energy is not large.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Some of the transition metals have irregular electron configurations in which the ns only partially fills before the (n − 1)d or doesn’t fill at all.
+    &lt;ul&gt;
+      &lt;li&gt;Therefore, their electron configuration must be found experimentally.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;examples-of-transition-and-inner-transition-metals-electron-configurations&quot;&gt;Examples of Transition and Inner Transition Metals’ Electron Configurations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:43.269485&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-9ee7f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Remember chromium and copper&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Give the ground state electron configuration for Br-
+    &lt;ul&gt;
+      &lt;li&gt;[Ar]4s2 3d10 4p6&lt;/li&gt;
+      &lt;li&gt;has one more electron than normal because the sign is negative so 4p6&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electron-configuration-and-elemental-properties&quot;&gt;Electron Configuration and Elemental Properties&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:42:21.308974&lt;/li&gt;
+  &lt;li&gt;The properties of the elements follow a periodic pattern.
+    &lt;ul&gt;
+      &lt;li&gt;Elements in the same column have similar properties.&lt;/li&gt;
+      &lt;li&gt;The elements in a period show a pattern that repeats.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The quantum-mechanical model explains this because the number of valence electrons and the types of orbitals they occupy are also periodic.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-1e006.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electron-configuration-and-elemental-properties-the-metals&quot;&gt;Electron Configuration and Elemental Properties: The Metals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:44:26.334942&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Aufbau principle&lt;/td&gt;
+      &lt;td&gt;says energy levels and sublevels fill from lowest energy to highest&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Hund’s rule&lt;/td&gt;
+      &lt;td&gt;says every orbital in a subshell is singly occupied with one electron before any one orbital is doubly occupied, and all electrons in singly occupied orbitals have the same spin&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;periodic law&lt;/td&gt;
+      &lt;td&gt;says that when the elements are arranged in order of increasing mass, certain sets of properties recur periodically&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;periods&lt;/td&gt;
+      &lt;td&gt;rows of the periodic table&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;groups (family)&lt;/td&gt;
+      &lt;td&gt;Columns in the periodic table&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;transition metals&lt;/td&gt;
+      &lt;td&gt;d block of the periodic table&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;inner transition metals&lt;/td&gt;
+      &lt;td&gt;f block of the periodic table&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Wed, 14 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/09/14/week-5-day-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/14/week-5-day-2.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 5 - Day 1</title>
@@ -1954,1147 +3864,6 @@ function grade() {
         <pubDate>Fri, 02 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/09/02/week-3-day-3.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/02/week-3-day-3.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 3 - Day 2</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2gas0u&quot;&gt;Quizlet on terms from this lecture&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-3-day-2.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;DT9qg_zFyWA&quot;});
-&lt;/script&gt;
-
-&lt;h1 id=&quot;test-1&quot;&gt;Test 1&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;In this room next Wednesday at recitation time (6:30 pm - 7:50 pm)&lt;/li&gt;
-  &lt;li&gt;Covers chapter 1, 2, and however we’ve got in 3&lt;/li&gt;
-  &lt;li&gt;This evening’s recitation is a survey to get a sense of each student’s background and how it affects their performance
-    &lt;ul&gt;
-      &lt;li&gt;Bring a pencil&lt;/li&gt;
-      &lt;li&gt;5 bonus points&lt;/li&gt;
-      &lt;li&gt;Audio 0:02:42.008620&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-question&quot;&gt;Clicker question&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:05:36.915010&lt;/li&gt;
-  &lt;li&gt;4.21ft^3 to Liters&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-c7aa7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;nd-question&quot;&gt;2nd Question&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:11:49.252666&lt;/li&gt;
-  &lt;li&gt;How many atoms are in a sample of copper with volume of 0.475 cm^3 and a density of 8.96 g / cm^3?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-91f17.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;chapter-3&quot;&gt;Chapter 3&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:18:47.526137&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;properties-of-waves&quot;&gt;Properties of Waves&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:19:09.721677&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-ee942.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Wavelength (λ) is the distance between identical points on successive waves.&lt;/li&gt;
-  &lt;li&gt;Amplitude is the vertical distance from the midline of a wave to the peak or trough.&lt;/li&gt;
-  &lt;li&gt;Audio 0:20:20.914304&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-d3c55.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Frequency (ν) is the number of waves that pass through a particular point in 1 second (Hz = 1 cycle/s).&lt;/li&gt;
-  &lt;li&gt;Audio 0:21:32.710413&lt;/li&gt;
-  &lt;li&gt;The speed (v) of the wave = λ x ν&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;light&quot;&gt;Light&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:23:42.023732&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-20a17.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;amplitude-and-wavelength&quot;&gt;Amplitude and Wavelength&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:24:52.722734&lt;/li&gt;
-  &lt;li&gt;Wavelength and amplitude are independent properties.
-    &lt;ul&gt;
-      &lt;li&gt;The wavelength of light determines its color (intensive physical property).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The amplitude, or intensity, determines its brightness (extensive physical property)
-    &lt;ul&gt;
-      &lt;li&gt;Brightness dependent on amplitude&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-7c4a7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;color&quot;&gt;Color&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:15.944132&lt;/li&gt;
-  &lt;li&gt;The color of light is determined by its wavelength or frequency.&lt;/li&gt;
-  &lt;li&gt;White light is a mixture of all the colors of visible light.
-    &lt;ul&gt;
-      &lt;li&gt;A spectrum&lt;/li&gt;
-      &lt;li&gt;Red Orange Yellow Green Blue Indigo Violet&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;When an object absorbs some of the wavelengths of white light and reflects others, it appears colored; the observed color is predominantly the colors reflected.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;maxwell&quot;&gt;Maxwell&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:23.185612&lt;/li&gt;
-  &lt;li&gt;Maxwell (1873), proposed that visible light consists of electromagnetic waves.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-bb539.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electromagnetic-spectrum&quot;&gt;Electromagnetic Spectrum&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:29:13.853883&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-f119a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;example-problem&quot;&gt;Example problem&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:30:56.499318&lt;/li&gt;
-  &lt;li&gt;An electromagnetic wave has a frequency of 6.0 x 10^4 Hz. Does this frequency fall in the visible region? Convert this frequency into wavelength (nm).
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-54430.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-question-1&quot;&gt;Clicker Question&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:34:13.178546&lt;/li&gt;
-  &lt;li&gt;What is the wave length of a wave with frequency 8.6 * 10^13 Hz?&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-810f9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;einstein-and-the-photoelectronic-effect&quot;&gt;Einstein and the Photoelectronic Effect&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:39:00.844561&lt;/li&gt;
-  &lt;li&gt;Hertz observed that when (some) light shines on a metal surface, electrons are produced from the surface.
-    &lt;ul&gt;
-      &lt;li&gt;The electrons emitted from the metal surface are photoelectrons.&lt;/li&gt;
-      &lt;li&gt;This phenomenon is called the photoelectric effect.&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-d3c74.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:40:20.734175
-    &lt;ol&gt;
-      &lt;li&gt;Number of electrons depends upon light intensity&lt;/li&gt;
-      &lt;li&gt;More Kinetic energy at higher frequency of light&lt;/li&gt;
-      &lt;li&gt;Emission has a frequency threshold, below which there are no electrons&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-16cda.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;explaining-the-photoelectric-effect&quot;&gt;Explaining the Photoelectric Effect&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:42:05.218727&lt;/li&gt;
-  &lt;li&gt;Classic theory explanation:
-    &lt;ul&gt;
-      &lt;li&gt;The photoelectric effect according to classic wave theory attributed the electrons’ being emitted from the metal surface to the light energy being transferred to the electrons.&lt;/li&gt;
-      &lt;li&gt;Classic theory states the following:
-        &lt;ul&gt;
-          &lt;li&gt;If the wavelength of light is made shorter or the light wave’s
-intensity is made brighter, more electrons should be ejected.&lt;/li&gt;
-          &lt;li&gt;Energy of a wave is directly proportional to its amplitude and its frequency.
-            &lt;ul&gt;
-              &lt;li&gt;Example: If a dim light is used there should be a lag time before electrons are emitted in order to give the electrons time to absorb enough energy.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;explaining-the-photoelectric-effect-1&quot;&gt;Explaining the Photoelectric Effect&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:42:13.093629&lt;/li&gt;
-  &lt;li&gt;Einstein’s explanation: Quantum theory
-    &lt;ul&gt;
-      &lt;li&gt;Experimental observations indicate the following:
-        &lt;ul&gt;
-          &lt;li&gt;A minimum frequency was needed before electrons would be emitted regardless of the intensity called the threshold frequency.&lt;/li&gt;
-          &lt;li&gt;High-frequency light from a dim source caused electron emission without any lag time.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;einsteins-idea-light-is-quantized&quot;&gt;Einstein’s idea: “Light Is Quantized.”&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:43:33.274758&lt;/li&gt;
-  &lt;li&gt;Ejection of electrons from a metal surface by light:
-    &lt;ul&gt;
-      &lt;li&gt;One photon at the threshold frequency gives the electron just enough energy for it to escape the atom.&lt;/li&gt;
-      &lt;li&gt;Binding energy, φ&lt;/li&gt;
-      &lt;li&gt;When irradiated with a shorter wavelength photon, the electron absorbs more energy than is necessary to escape.&lt;/li&gt;
-      &lt;li&gt;This excess energy becomes kinetic energy of the ejected electron.
-        &lt;ul&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-d5987.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Where (hυ) is a quantized packet of energy&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;explaining-the-photoelectric-effect-2&quot;&gt;Explaining the Photoelectric Effect&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Einstein’s explanation: Quantum theory
-    &lt;ul&gt;
-      &lt;li&gt;Einstein proposed that the light energy was delivered to the atoms in packets called quanta or photons.
-        &lt;ul&gt;
-          &lt;li&gt;Energy = (hυ)
-            &lt;ul&gt;
-              &lt;li&gt;hυ = quanta&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;The energy of a photon of light is directly proportional to its frequency.
-        &lt;ul&gt;
-          &lt;li&gt;E = hc/λ&lt;/li&gt;
-          &lt;li&gt;Or it is inversely proportional to its wavelength.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Symbols:
-        &lt;ul&gt;
-          &lt;li&gt;Planck’s Constant, (h) is a proportionality constant with a value of h = 6.626 × 10−34 J · s.&lt;/li&gt;
-          &lt;li&gt;Speed of light (c) value is 3.00 × 108 m/s&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;black-body-radiation&quot;&gt;Black Body Radiation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:46:37.258672&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-f06fe.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;If you heat something up in the dark, you can see it with infrared radiation&lt;/li&gt;
-  &lt;li&gt;“Black Body Problem” Solved by Planck in 1900
-“… an act of despair … I was ready to sacrifice any of my previous convictions about physics …”
-Energy (light) is emitted or absorbed in discrete units (quantum).&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-3cf4c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;vocab&quot;&gt;Vocab&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Wavelength&lt;/td&gt;
-      &lt;td&gt;the distance between identical points on successive waves&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;amplitude&lt;/td&gt;
-      &lt;td&gt;the vertical distance from the midline of a wave to the peak or trough&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;frequency&lt;/td&gt;
-      &lt;td&gt;the number of waves that pass through a particular point in 1 second (Hz = 1 cycle/s)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;photoelectric effect&lt;/td&gt;
-      &lt;td&gt;describes the phenomenon in which light shines on a metal surface and electrons are produced from the surface&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;threshold frequency&lt;/td&gt;
-      &lt;td&gt;minimum frequency needed before electrons are emitted&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;quanta (photons)&lt;/td&gt;
-      &lt;td&gt;the packets of energy that light travels with&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;planck’s constant (h)&lt;/td&gt;
-      &lt;td&gt;6.626 * 10^-34 J s&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;speed of light (c)&lt;/td&gt;
-      &lt;td&gt;3 * 10^8 m/s&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Wed, 31 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/08/31/week-3-day-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/31/week-3-day-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 3 - Day 1</title>
-        <description>
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-3-day-1.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;HUV71IVwULM&quot;});
-&lt;/script&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2g0nv3&quot;&gt;Quizlet for terms in this lecture&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;announcements&quot;&gt;Announcements&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;If you’ve had an error while trying to do the pre-lab before the assignment was due, you will not be penalized and you will be able to participate in the lab&lt;/li&gt;
-  &lt;li&gt;If you go to recitation, you’ll see a grade, but you won’t actually get a grade for it, it’s just to let you know how you did&lt;/li&gt;
-  &lt;li&gt;Blackboard isn’t trustable in terms of what your actual grade is&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;energy-of-matter&quot;&gt;Energy of Matter&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:01:00.206391&lt;/li&gt;
-  &lt;li&gt;all matter possesses energy&lt;/li&gt;
-  &lt;li&gt;energy is classified as either kinetic or potential&lt;/li&gt;
-  &lt;li&gt;energy can be converted from one form to another&lt;/li&gt;
-  &lt;li&gt;when matter undergoes a chemical or physical change, the amount of energy in the matter changes as well&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;energy-of-matter---kinetic&quot;&gt;Energy of Matter - Kinetic&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:02:50.452505&lt;/li&gt;
-  &lt;li&gt;Kinetic energy is energy of motion
-    &lt;ul&gt;
-      &lt;li&gt;motion of the atoms, molecules, and subatomic particles&lt;/li&gt;
-      &lt;li&gt;thermal (heat) energy is a form of kinetic energy because it is caused by molecular motion&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;energy-of-matter---potential&quot;&gt;Energy of Matter - Potential&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:04:28.166741&lt;/li&gt;
-  &lt;li&gt;potential energy is energy that is stored in the matter
-    &lt;ul&gt;
-      &lt;li&gt;due to the composition of the matter and its position in the universe&lt;/li&gt;
-      &lt;li&gt;chemical potential energy arises from electrostatic forces between atoms, molecules, and subatomic particles&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;conversion-of-energy&quot;&gt;Conversion of Energy&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:04:55.558320&lt;/li&gt;
-  &lt;li&gt;Can interconvert kinetic energy and potential energy&lt;/li&gt;
-  &lt;li&gt;whatever process that converts energy from one type or form to another, the total amount of energy remains the same
-    &lt;ul&gt;
-      &lt;li&gt;Law of Conservation of Energy&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;spontaneous-processes&quot;&gt;Spontaneous Processes&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:05:47.137848&lt;/li&gt;
-  &lt;li&gt;materials that possess high potential energy are less stable&lt;/li&gt;
-  &lt;li&gt;processes in nature tend to occur on their own when the result is material(s) with lower total potential energy
-    &lt;ul&gt;
-      &lt;li&gt;processes that result in materials with higher total potential energy can occur, but generally will not happen without input of energy from an outside source&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;when a process results in materials with less potential energy at the end than there was at the beginning, the difference in energy is released into the environment
-    &lt;ul&gt;
-      &lt;li&gt;Released as heat&lt;/li&gt;
-      &lt;li&gt;Can be used to drive your car, heat your house, cool your house, etc&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-bbffd.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:08:24.475547&lt;/li&gt;
-      &lt;li&gt;Potential becomes kinetic energy which becomes heat&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;potential-to-kinetic-energy&quot;&gt;Potential to Kinetic Energy&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:09:14.128456&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-37e38.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Gasoline burns, heat comes out tailpipe, but also propels car forward&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;properties-of-matter&quot;&gt;Properties of Matter&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:09:54.800676&lt;/li&gt;
-  &lt;li&gt;physical properties are the characteristics of matter that can be changed without changing its composition
-    &lt;ul&gt;
-      &lt;li&gt;characteristics that are directly observable&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;chemical properties are the characteristics that determine how the composition of matter changes as a result of contact with other matter or the influence of energy
-    &lt;ul&gt;
-      &lt;li&gt;characteristics that describe the behavior of matter&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;convert-1729-f-to-degrees-celsius&quot;&gt;Convert 172.9 F to degrees Celsius&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:14:51.677292&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-d592c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;dimensional-analysis-method-of-solving-problems&quot;&gt;Dimensional Analysis Method of Solving Problems&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:17:11.366509
-    &lt;ol&gt;
-      &lt;li&gt;Determine which unit conversion factor(s) are needed&lt;/li&gt;
-      &lt;li&gt;Carry units through calculation&lt;/li&gt;
-      &lt;li&gt;If all units cancel except for the desired unit(s), then the problem was solved correctly.&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;ex-how-many-ml-are-in-163-l&quot;&gt;Ex: How many mL are in 1.63 L?&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-c6215.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;ex-the-speed-of-sound-in-air-is-about-343-ms-what-is-this-speed-in-miles-per-hour-1-mile--1609-km&quot;&gt;Ex: The speed of sound in air is about 343 m/s. What is this speed in miles per hour? (1 mile = 1.609 km)&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:20:52.486829&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-284d5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;what-is-a-mole&quot;&gt;What is a Mole?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:23:59.232240&lt;/li&gt;
-  &lt;li&gt;A mole is a scientist’s “baker’s dozen.”
-    &lt;ul&gt;
-      &lt;li&gt;When we count large numbers of objects, we often use units such as
-        &lt;ul&gt;
-          &lt;li&gt;1 dozen objects = 12 objects&lt;/li&gt;
-          &lt;li&gt;1 gross objects = 144 objects.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A mole (mol) of anything contains 6.02214 × 1023 pieces.
-    &lt;ul&gt;
-      &lt;li&gt;Examples:
-        &lt;ul&gt;
-          &lt;li&gt;1 mol of marbles corresponds to 6.02214 × 1023 marbles.&lt;/li&gt;
-          &lt;li&gt;1 mol of sand grains corresponds to 6.02214 × 1023 sand grains.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;This number is Avogadro’s number.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-mole&quot;&gt;The Mole&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:54.511808&lt;/li&gt;
-  &lt;li&gt;The second, and more fundamental, thing to understand about the mole is how it gets its specific value.&lt;/li&gt;
-  &lt;li&gt;The value of the mole is equal to the number of atoms in exactly 12 grams of pure C-12.&lt;/li&gt;
-  &lt;li&gt;12 g C = 1 mol C atoms = 6.022×10^23 C atoms&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;mole-conversions-atoms-to-moles-or-moles-to-atoms&quot;&gt;Mole Conversions: Atoms to Moles or Moles to Atoms&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:28:02.694268&lt;/li&gt;
-  &lt;li&gt;Converting between number of moles and number of atoms is similar to converting between dozens of eggs and number of eggs.&lt;/li&gt;
-  &lt;li&gt;For atoms, you use the conversion factor 1 mol atoms = 6.022 × 1023 atoms.&lt;/li&gt;
-  &lt;li&gt;The conversion factors take the following forms:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-ef8de.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;converting-between-mass-and-moles&quot;&gt;Converting between Mass and Moles&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:28:55.905682&lt;/li&gt;
-  &lt;li&gt;The molar mass of any element is the conversion factor between the mass (in grams) of that element and the amount (in moles) of that element.&lt;/li&gt;
-  &lt;li&gt;Example:
-    &lt;ul&gt;
-      &lt;li&gt;12.01 g C atoms = 1 mol C atoms&lt;/li&gt;
-      &lt;li&gt;or 12.01 g C atoms/1 mol C atoms&lt;/li&gt;
-      &lt;li&gt;or 1 mol C atoms/12.01 g C atoms&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;mass-to-moles-to-number-of-particles-the-conceptual-plan&quot;&gt;Mass to Moles to Number of Particles: The Conceptual Plan&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:30:08.760686&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-2a75f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;converting-between-mass-and-moles-1&quot;&gt;Converting between Mass and Moles&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:31:09.351315&lt;/li&gt;
-  &lt;li&gt;How many copper atoms are in a copper penny with a mass of 3.10 g?
-(Assume that the penny is composed of pure copper: Molar Mass of Copper: 63.55 g/mol)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ex-converting-mass-and-moles&quot;&gt;Ex: Converting mass and moles&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;How many copper atoms are in a copper penny with a mass of 3.10 g? Mollar mass of Copper is 63.55g/mol&lt;/li&gt;
-  &lt;li&gt;Audio 0:33:32.001193&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-8b01e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;li-atoms&quot;&gt;Li atoms&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;How many lithium atoms are in 97.9 grams of Lithium. The molar mass of Lithium is 6.94 g / mol&lt;/li&gt;
-  &lt;li&gt;Audio 0:35:39.657032&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-f952f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;converting-between-particles-and-mass&quot;&gt;Converting between Particles and Mass&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:39:03.568008&lt;/li&gt;
-  &lt;li&gt;An aluminum sphere contains 8.55 * 10^22 aluminum atoms. What is the sphere’s radius in cm? Density of aluminum is 2.7 g/cm^3
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-29-week-3-day-1-d1567.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;vocab&quot;&gt;Vocab&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;kinetic energy&lt;/td&gt;
-      &lt;td&gt;energy of motion&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;potential energy&lt;/td&gt;
-      &lt;td&gt;energy that is stored in matter&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;law of conservation of energy&lt;/td&gt;
-      &lt;td&gt;says you cannot create or destroy energy&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;physical properties&lt;/td&gt;
-      &lt;td&gt;properties that can be changed without changing matter’s composition&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;chemical properties&lt;/td&gt;
-      &lt;td&gt;properties of matter which determine how the composition of matter changes when it contacts other matter&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;mole (Avogadro’s number)&lt;/td&gt;
-      &lt;td&gt;6.022 * 10^23 of anything&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Mon, 29 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/08/29/week-3-day-1.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/29/week-3-day-1.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 2 - Day 3</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2ftv1j&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-2-day-3.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;c4nrM7v6-Cg&quot;});
-&lt;/script&gt;
-
-&lt;h2 id=&quot;announcements&quot;&gt;Announcements&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:00:46.589362&lt;/li&gt;
-  &lt;li&gt;Sound is garbage today. His mic was broken. I’ll sit closer next time&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;rounding-rules&quot;&gt;Rounding Rules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:01:40.912711&lt;/li&gt;
-  &lt;li&gt;&amp;lt; 5 round down&lt;/li&gt;
-  &lt;li&gt;&amp;gt; 5 round up&lt;/li&gt;
-  &lt;li&gt;exactly 5 ?
-    &lt;ul&gt;
-      &lt;li&gt;Missed what he said&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;chapter-2---measurement-problem-solving-and-the-mole-concept&quot;&gt;Chapter 2 - Measurement, Problem Solving, and the Mole Concept&lt;/h1&gt;
-
-&lt;h2 id=&quot;the-standard-units&quot;&gt;The Standard Units&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:02:06.373427&lt;/li&gt;
-  &lt;li&gt;Scientists have agreed on a set of international standard units for comparing all our measurements called the SI units
-    &lt;ul&gt;
-      &lt;li&gt;Système International = International System&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:02:50.788800&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-a59cd.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:05:08.029693&lt;/li&gt;
-  &lt;li&gt;Matter - anything that occupies space and has mass.
-    &lt;ul&gt;
-      &lt;li&gt;mass – measure of the quantity of matter
-        &lt;ul&gt;
-          &lt;li&gt;SI unit of mass is the kilogram (kg)&lt;/li&gt;
-          &lt;li&gt;1kg=1000g=1x10^3 g&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;weight – force that gravity exerts on an object&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-8e475.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;mass&quot;&gt;Mass&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:06:06.450576&lt;/li&gt;
-  &lt;li&gt;kg
-    &lt;ul&gt;
-      &lt;li&gt;about 2 lbs 3 oz&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;length&quot;&gt;Length&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:06:35.376924&lt;/li&gt;
-  &lt;li&gt;SI unit = meter
-    &lt;ul&gt;
-      &lt;li&gt;3.37 inches longer than a yard&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:07:38.776888&lt;/li&gt;
-  &lt;li&gt;Memorize the prefixes!&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-ec143.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;gimli-glider&quot;&gt;Gimli Glider:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:11:07.232754&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.cbc.ca/player/Digital+Archives/Science+and+Technology/Measurement/ID/1434886244/&quot;&gt;Metric conversion error&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;chemistry-in-action&quot;&gt;Chemistry In Action&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:13:15.114556&lt;/li&gt;
-  &lt;li&gt;On 9/23/99, $125,000,000 Mars Climate Orbiter entered Mars’ atmosphere 100 km lower than planned and was destroyed by heat.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-bf24b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;“This is going to be the cautionary tale that will be embedded into introduction to the metric system in elementary school, high school, and college science courses till the end of time.”&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;volume&quot;&gt;Volume&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:14:22.485803&lt;/li&gt;
-  &lt;li&gt;Volume – SI derived unit for volume is cubic meter (m^3)&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-22b94.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;extensive-and-intensive-properties&quot;&gt;Extensive and Intensive Properties&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:17:51.208624&lt;/li&gt;
-  &lt;li&gt;An extensive property of a material depends upon how much matter is is being considered.
-    &lt;ul&gt;
-      &lt;li&gt;mass&lt;/li&gt;
-      &lt;li&gt;length&lt;/li&gt;
-      &lt;li&gt;volume&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;An intensive property of a material does not depend
-upon how much matter is being considered.
-    &lt;ul&gt;
-      &lt;li&gt;density&lt;/li&gt;
-      &lt;li&gt;temperature&lt;/li&gt;
-      &lt;li&gt;color&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;question-1&quot;&gt;Question 1&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Which of the following is an example of an intensive property
-    &lt;ul&gt;
-      &lt;li&gt;Temperature&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;density&quot;&gt;Density&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:22:15.274916&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-5e9bd.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Density is
-    &lt;ul&gt;
-      &lt;li&gt;an INTENSIVE physical property.
-        &lt;ul&gt;
-          &lt;li&gt;The physical property does not depend on amount of substance.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The physical properties of mass and volume that determine a substance’s density are EXTENSIVE.
-    &lt;ul&gt;
-      &lt;li&gt;Extensive physical properties are dependent on amount.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Densities of liquids and gases are affected by temperature.&lt;/li&gt;
-  &lt;li&gt;Audio 0:23:13.252741&lt;/li&gt;
-  &lt;li&gt;Density – SI derived unit for density is kg/m^3
-    &lt;ul&gt;
-      &lt;li&gt;1 g/cm^3 = 1 g/mL = 1000 kg/m^3&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;density = mass / volume
-    &lt;ul&gt;
-      &lt;li&gt;d = m/V&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ex-1&quot;&gt;Ex 1&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Piece of platinum with mass of 96.5g and a volume of 4.49 cm^3. Find the density of platinum&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-139ac.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ex-2&quot;&gt;Ex 2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:36.209585&lt;/li&gt;
-  &lt;li&gt;Mercury has a density of 13.534 g/cm^3. A sample of mercury has a volume of 24 cm^3. Find the mass of the sample&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-4482f.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:29:40.010633&lt;/li&gt;
-  &lt;li&gt;For equal volumes, denser object has larger mass&lt;/li&gt;
-  &lt;li&gt;For equal masses, denser object has smaller volume&lt;/li&gt;
-  &lt;li&gt;Heating an object generally causes it to expand, therefore the density changes with temperature
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-4f96b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;comparison-of-the-three-temperature-scales&quot;&gt;Comparison of the Three Temperature scales&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:34:02.968553&lt;/li&gt;
-  &lt;li&gt;25 C = 77 F = 298 K
-    &lt;ul&gt;
-      &lt;li&gt;Celsius is what we use&lt;/li&gt;
-      &lt;li&gt;Water freezes at 0 C and boils at 100.
-        &lt;ul&gt;
-          &lt;li&gt;Logical. Fahrenheit isn’t&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;F to C =&amp;gt; (9/5) * degrees Celsius + 32&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;scientific-notation&quot;&gt;Scientific Notation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:38:13.441616&lt;/li&gt;
-  &lt;li&gt;The number of atoms in 12 g of carbon: 602,200,000,000,000,000,000,000
-    &lt;ul&gt;
-      &lt;li&gt;6.022 * 10^3 atoms&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:39:05.792632&lt;/li&gt;
-  &lt;li&gt;The mass of a single carbon atom in grams
-    &lt;ul&gt;
-      &lt;li&gt;0.0000000000000000000000199&lt;/li&gt;
-      &lt;li&gt;1.99*10^-23&lt;/li&gt;
-      &lt;li&gt;N * 10^n
-        &lt;ul&gt;
-          &lt;li&gt;N is a number between 1 and 10&lt;/li&gt;
-          &lt;li&gt;n is a positive or negative integer&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:40:49.588209&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-a4a6b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;scientific-notation---multiplication-and-devision&quot;&gt;Scientific Notation - Multiplication and devision&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:43:12.438956&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-eef67.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;energy-changes-in-matter&quot;&gt;Energy Changes in Matter&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:45:25.068840&lt;/li&gt;
-  &lt;li&gt;changes in matter, both physical and chemical, result in the matter either gaining or releasing energy&lt;/li&gt;
-  &lt;li&gt;energy is the capacity to do work&lt;/li&gt;
-  &lt;li&gt;work is the action of a force applied across a distance
-    &lt;ul&gt;
-      &lt;li&gt;a force is a push or a pull on an object&lt;/li&gt;
-      &lt;li&gt;electrostatic force is the push or pull on objects that have an electrical charge&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-26-week-2-day-3-d9bc3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;energy-of-matter&quot;&gt;Energy of Matter&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:47:25.068840&lt;/li&gt;
-  &lt;li&gt;all matter possesses energy&lt;/li&gt;
-  &lt;li&gt;energy is classified as either kinetic or potential&lt;/li&gt;
-  &lt;li&gt;energy can be converted from one form to another&lt;/li&gt;
-  &lt;li&gt;when matter undergoes a chemical or physical change, the amount of energy in the matter changes as well&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;vocab&quot;&gt;Vocab&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Term&lt;/td&gt;
-      &lt;td&gt;Definition&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;mass&lt;/td&gt;
-      &lt;td&gt;measure of quantity of matter&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;weight&lt;/td&gt;
-      &lt;td&gt;force that gravity exerts on an object&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;extensive property&lt;/td&gt;
-      &lt;td&gt;property of a material which depends upon how much matter is is being considered&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;intensive property&lt;/td&gt;
-      &lt;td&gt;property of a material which does not depend upon how much matter is being considered&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;energy&lt;/td&gt;
-      &lt;td&gt;capacity to do work&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Fri, 26 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/08/26/week-2-day-3.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/26/week-2-day-3.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 2 - Recitation</title>
-        <description>&lt;h2 id=&quot;questions&quot;&gt;Questions&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;How are gases different from solids and liquids?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Gases can only be made up of atoms.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; The particles in a gas attract each other much more strongly than in solids and liquids&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Gases are compressible&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Gases are colorless&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Correctly report the result of the following computation
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 4&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 3.7&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 3.72&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 3.716&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 3.7162
-&lt;span style=&quot;display:none&quot;&gt;It looks like 1.6 would be the smallest but you wait until you are actually performing the devision to determine which is the smallest&lt;/span&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;An atom which has lost an electron is
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; a cation&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; unlikely to be found in homogeneous mixtures&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; electrically neutral&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; likely to behave exactly like the parent atom&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; an anion&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Determine the number of protons, neutrons and electrons in the following: &lt;img src=&quot;../../../assets/2016-08-24-week-2-recitation-eccb1.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; p = 18, n = 18, e = 22&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; p = 18, n = 22, e = 18&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; p = 22, n = 18, e = 18&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; p = 18, n = 22, e = 40&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; p = 40, n = 22, e = 18&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Calculate the atomic mass of element “X” if it has 2 naturally occurring isotopes with the following masses and natural abundances
-    &lt;ul&gt;
-      &lt;li&gt;X-107  106.90509 amu  51.84%&lt;/li&gt;
-      &lt;li&gt;X-109  108.90476 amu  48.46%
-        &lt;ul&gt;
-          &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 107.90 amu&lt;/li&gt;
-          &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 108.00 amu&lt;/li&gt;
-          &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 107.79 amu&lt;/li&gt;
-          &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 108.32 amu&lt;/li&gt;
-          &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 108.19 amu&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A new compound was recently discovered and found to have an atomic weight of 342.38 amu. This element has two isotopes, the lighter of which has a mass of 340.91 amu and an abundance of 68.322%. What is the mass of the heavier isotope?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 350.21&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 345.55&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 348&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 108.32 amu&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 108.19 amu&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;script&gt;
-var st = false;
-function toggleSix() {
-  st = !st;
-  if (st) {
-    $('#sixHint').show();
-    $('#toggleSix').val('hide');
-  }
-  else {
-    $('#sixHint').hide();
-    $('#toggleSix').val('show solution');
-  }
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input id=&quot;toggleSix&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleSix()&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img id=&quot;sixHint&quot; src=&quot;../../../assets/2016-08-24-week-2-recitation-2cb30.png&quot; style=&quot;display:none&quot; /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Two or more substances in variable proportions, where the composition is variable throughout are
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; a solution&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; a homogeneous mixture&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; a compound&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; an amorphous solution&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; a heterogeneous mixture&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Calculate the mass of the air contained in a room that measures 2.50 m x 5.50 m x 3.00 m, given that the density of air is 1.29 g/cm^3 at 25 °C.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 3.13 x 10^-5 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 32.0 kg&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 53.2 kg&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 53.2 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 32.0 g&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Three students measure the density of copper (density of copper 8.92 g/cm^3) and obtain the following results:&lt;/p&gt;
-
-    &lt;table&gt;
-      &lt;thead&gt;
-        &lt;tr&gt;
-          &lt;th&gt;Student A&lt;/th&gt;
-          &lt;th&gt;Student B&lt;/th&gt;
-          &lt;th&gt;Student C&lt;/th&gt;
-        &lt;/tr&gt;
-      &lt;/thead&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;7.99 g/cm^3&lt;/td&gt;
-          &lt;td&gt;8.91 g/cm^3&lt;/td&gt;
-          &lt;td&gt;6.50 g/cm^3&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt;7.98 g/cm^3&lt;/td&gt;
-          &lt;td&gt;8.90 g/cm^3&lt;/td&gt;
-          &lt;td&gt;6.90 g/cm^3&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-          &lt;td&gt;8.01 g/cm^3&lt;/td&gt;
-          &lt;td&gt;8.92 g/cm^3&lt;/td&gt;
-          &lt;td&gt;7.20 g/cm^3&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Which student is precise but not accurate?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Students A and B&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Student A&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Student C&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Student B&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; Students B and C&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script&gt;
-var answers = [&quot;c&quot;, &quot;c&quot;, &quot;a&quot;, &quot;b&quot;, &quot;e&quot;, &quot;b&quot;, &quot;e&quot;, &quot;c&quot;, &quot;b&quot;];
-function getAnswer(number) {
-  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
-}
-function validate() {
-  var any = false;
-  for (var i = 1; i &lt; 10; i++) {
-    var answer = getAnswer(i);
-    if (!answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
-      any = true;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
-    }
-  }
-  if (any) {
-    toastr.error(&quot;You did not answer every question!&quot;);
-  }
-  return !any;
-}
-function grade() {
-  if (!validate()) return;
-  var correct = 0;
-  for (var i = 1; i &lt; 10; i++) {
-    var answer = getAnswer(i);
-    if (answers[i-1] == answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
-      correct++;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
-    }
-  }
-  toastr.success(&quot;Your grade is &quot;+ ((correct/9) * 100).toFixed(2) + &quot; out of 100&quot;);
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 24 Aug 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/08/24/week-2-recitation.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/08/24/week-2-recitation.html</guid>
         
         
       </item>
