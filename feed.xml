@@ -6,9 +6,1333 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Sep 2016 15:31:25 -0500</pubDate>
-    <lastBuildDate>Wed, 21 Sep 2016 15:31:25 -0500</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2016 15:20:51 -0500</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2016 15:20:51 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 7 - Day 3</title>
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-7-day-3.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;Udy4_F5rpNY&quot;});
+&lt;/script&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2l40gx&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Left off on formal charge&lt;/li&gt;
+  &lt;li&gt;Test 2 next Wednesday
+    &lt;ul&gt;
+      &lt;li&gt;Chapters 4 - 6
+        &lt;ul&gt;
+          &lt;li&gt;Just where we left off&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Same rules as last time
+        &lt;ul&gt;
+          &lt;li&gt;Bring photo id&lt;/li&gt;
+          &lt;li&gt;bring pencil&lt;/li&gt;
+          &lt;li&gt;non-programmable calculator&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-3b922.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;ch-6-continued-pt-2&quot;&gt;Ch 6 continued (pt 2)&lt;/h1&gt;
+
+&lt;h2 id=&quot;example-formal-charge-so2&quot;&gt;Example: Formal Charge, SO2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:06:38.049121&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-c0d17.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Formal charges: located on “appropriate atoms”&lt;/li&gt;
+      &lt;li&gt;Audio 0:10:37.025317&lt;/li&gt;
+      &lt;li&gt;Per atom, to calculate formal charge, you take the valence electrons minus the electrons on it minus the number of pairs on it.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-assigning-formal-charges&quot;&gt;Practice Problem Assigning Formal Charges&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:40.335303&lt;/li&gt;
+  &lt;li&gt;OCN-&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-59e5e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;rules-of-resonance-structures&quot;&gt;Rules of Resonance Structures&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:19:11.165662&lt;/li&gt;
+  &lt;li&gt;Resonance structures must have the same connectivity.
+    &lt;ul&gt;
+      &lt;li&gt;Only electron positions can change.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Resonance structures must have the same number of electrons.&lt;/li&gt;
+  &lt;li&gt;Second row elements have a maximum of eight electrons.
+    &lt;ul&gt;
+      &lt;li&gt;Bonding and nonbonding&lt;/li&gt;
+      &lt;li&gt;Third row can have expanded octet&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Formal charges must total the same.
+    &lt;ul&gt;
+      &lt;li&gt;Better structures have fewer formal charges.&lt;/li&gt;
+      &lt;li&gt;Better structures have smaller formal charges.&lt;/li&gt;
+      &lt;li&gt;Better structures have the negative formal charge on the more electronegative atom.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;expanded-octets-odd-electron-and-other-species-the-exceptions-to-the-octet-rule&quot;&gt;Expanded Octets, Odd-Electron, and Other Species: The Exceptions to the Octet “Rule”&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:21:06.805441&lt;/li&gt;
+  &lt;li&gt;The exceptions:&lt;/li&gt;
+  &lt;li&gt;Expanded octets:
+    &lt;ul&gt;
+      &lt;li&gt;Molecules or ions with more than eight electrons around an atom&lt;/li&gt;
+      &lt;li&gt;Involve the nonmetal elements located in the 3rd period
+and below&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Nonmetals (3rd period down in the periodic table) follow the
+octet rule when they are not the “center” atom.
+    &lt;ul&gt;
+      &lt;li&gt;The center atom is the atom in the molecule where the
+other elements individually bond to (attach).&lt;/li&gt;
+      &lt;li&gt;When they are the center atom, they can accommodate more than eight electrons.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Using empty valence d orbitals that are predicted by
+quantum theory&lt;/li&gt;
+  &lt;li&gt;Odd-electron species (free radicals or radicals):&lt;/li&gt;
+  &lt;li&gt;Molecules or ions with an odd number of electrons
+    &lt;ul&gt;
+      &lt;li&gt;Legitimate Lewis structures cannot be written for they do not meet the “octet rule” as required by the Lewis model.&lt;/li&gt;
+      &lt;li&gt;Example: NO
+        &lt;ul&gt;
+          &lt;li&gt;Has 11 valence electrons&lt;/li&gt;
+          &lt;li&gt;Distribution of 11 electrons cannot meet the criteria under the Lewis model.&lt;/li&gt;
+          &lt;li&gt;NO does exist as a molecule.
+            &lt;ul&gt;
+              &lt;li&gt;The Lewis model is not sophisticated enough to work for an odd number of electron compounds.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:22:20.060270&lt;/li&gt;
+  &lt;li&gt;Incomplete octets:
+    &lt;ul&gt;
+      &lt;li&gt;Elements (specifically metalloids and H atom) whose tendency is not to have a complete octet
+        &lt;ul&gt;
+          &lt;li&gt;H can only accompany two electrons (duet).&lt;/li&gt;
+          &lt;li&gt;Boron (metalloid)
+            &lt;ul&gt;
+              &lt;li&gt;Prefer 6 electrons than 8 electrons&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-94170.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What is the formal charge on the sulfur for best structure for the sulfate anion, SO4^2-?
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:27:21.796062&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-ef25e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;Most people said plus 2, but the answer is actually 0&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bond-energies&quot;&gt;Bond Energies&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:36.686918&lt;/li&gt;
+  &lt;li&gt;Chemical reactions involve breaking bonds in
+reactant molecules and making new bonds to
+create the products.&lt;/li&gt;
+  &lt;li&gt;The change in energy for a reaction can be
+estimated by comparing the cost of breaking old
+bonds to the energy released from making new
+bonds.&lt;/li&gt;
+  &lt;li&gt;The amount of energy, in the gaseous state, that it
+takes to break one mole of a bond in a compound is called the bond energy.&lt;/li&gt;
+  &lt;li&gt;Audio 0:34:03.982413&lt;/li&gt;
+  &lt;li&gt;The energy change required to break a particular bond in one mole of gaseous molecules is the bond energy&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-02de3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;trends-in-bond-energies&quot;&gt;Trends in Bond Energies&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:20.771621&lt;/li&gt;
+  &lt;li&gt;In general, the more electrons two atoms share, the
+stronger the covalent bond.
+    &lt;ul&gt;
+      &lt;li&gt;For comparison of bonds between like atoms&lt;/li&gt;
+      &lt;li&gt;C≡C (837 kJ) &amp;gt; C═C (611 kJ) &amp;gt; C—C (347 kJ)&lt;/li&gt;
+      &lt;li&gt;C≡N (891 kJ) &amp;gt; C ═ N (615 kJ) &amp;gt; C—N (305 kJ)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In general, the shorter the covalent bond, the stronger
+the bond.
+    &lt;ul&gt;
+      &lt;li&gt;For comparison of bonds between like atoms&lt;/li&gt;
+      &lt;li&gt;Br—F (237 kJ) &amp;gt; Br—Cl (218 kJ) &amp;gt; Br—Br (193 kJ)&lt;/li&gt;
+      &lt;li&gt;Bonds get weaker down the column.&lt;/li&gt;
+      &lt;li&gt;Bonds get stronger across the period.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;average-bond-energies&quot;&gt;Average Bond Energies&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-537b9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;covalent-bonding-model-versus-reality-for-bond-strength&quot;&gt;Covalent Bonding: Model versus Reality for Bond Strength&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:39:20.498710&lt;/li&gt;
+  &lt;li&gt;Lewis theory predicts that the more electrons two atoms
+share, the stronger the bond.
+    &lt;ul&gt;
+      &lt;li&gt;Single bond &amp;lt; Double bond &amp;lt; Triple bond&lt;/li&gt;
+      &lt;li&gt;Lewis theory would predict that double bonds are twice as strong as single bonds, but the reality is they are less than twice as strong.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Bond strength&lt;/em&gt; is measured by how much energy must be
+added into the bond to break it in half.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;covalent-bonding-model-versus-reality-for-bond-length&quot;&gt;Covalent Bonding: Model versus Reality for Bond Length&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:40:57.263317&lt;/li&gt;
+  &lt;li&gt;Lewis theory predicts that the more electrons two atoms share, the shorter the bond should be.
+    &lt;ul&gt;
+      &lt;li&gt;When comparing bonds to like atoms&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Bond length is determined by measuring the distance between the nuclei of bonded atoms.&lt;/li&gt;
+  &lt;li&gt;In general, triple bonds are shorter than double bonds, and double bonds are shorter than single bonds.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-e6a78.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bond-lengths&quot;&gt;Bond Lengths&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:42:20.387950&lt;/li&gt;
+  &lt;li&gt;The distance between the nuclei of bonded atoms is
+called the bond length.&lt;/li&gt;
+  &lt;li&gt;Because the actual bond length depends on the other
+atoms around the bond, we often use the average
+bond length.
+    &lt;ul&gt;
+      &lt;li&gt;Averaged for similar bonds from many compounds&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-9dd7b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;bond energy&lt;/td&gt;
+      &lt;td&gt;the amount of energy, in the gaseous state, that it takes to break one mole of a bond in a compound&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;bond strength&lt;/td&gt;
+      &lt;td&gt;measured by how much energy must be added into the bond to break it in half&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;bond length&lt;/td&gt;
+      &lt;td&gt;determined by measuring the distance between the nuclei of bonded atoms&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;as bonds get longer they get _&lt;/td&gt;
+      &lt;td&gt;weaker&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;bonds get _ down a column and _ across a period&lt;/td&gt;
+      &lt;td&gt;weaker / stronger&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Fri, 30 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/09/30/week-7-day-3.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/30/week-7-day-3.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 7 - Day 2</title>
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-7-day-2.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;2uPgaNgRUms&quot;});
+&lt;/script&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2l4077&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No recitation tonight&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;ch-6---lecture-1-chemical-bonding-i&quot;&gt;Ch 6 - Lecture 1 (Chemical Bonding I)&lt;/h1&gt;
+
+&lt;h2 id=&quot;covalent-bonding-model-vs-reality&quot;&gt;Covalent Bonding Model vs. Reality&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:01:17.116824&lt;/li&gt;
+  &lt;li&gt;molecular compounds have low melting points and boiling
+points
+    &lt;ul&gt;
+      &lt;li&gt;MP generally &amp;lt; 300°C&lt;/li&gt;
+      &lt;li&gt;molecular compounds are found in all 3 states at room
+temperature&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;melting and boiling involve breaking the attractions
+between the molecules, but not the bonds between the
+atoms
+    &lt;ul&gt;
+      &lt;li&gt;the covalent bonds are strong&lt;/li&gt;
+      &lt;li&gt;the attractions between the molecules are generally weak&lt;/li&gt;
+      &lt;li&gt;the polarity of the covalent bonds influences the strength of the intermolecular attractions&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;intermolecular-attractions-vs-bonding&quot;&gt;Intermolecular Attractions vs. Bonding&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-a1912.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;covalent-bonding-model-vs-reality-1&quot;&gt;Covalent Bonding Model vs. Reality&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:03:16.295803&lt;/li&gt;
+  &lt;li&gt;some molecular solids are brittle and hard, but many are soft and waxy&lt;/li&gt;
+  &lt;li&gt;the kind and strength of the intermolecular
+attractions varies based on many factors&lt;/li&gt;
+  &lt;li&gt;the covalent bonds are not broken
+molecular compounds do not conduct electricity in the
+liquid state&lt;/li&gt;
+  &lt;li&gt;molecular acids conduct electricity when dissolved in
+water, but not in the solid state&lt;/li&gt;
+  &lt;li&gt;in molecular solids, there are no charged particles around
+to allow the material to conduct&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;when dissolved in water, molecular acids are ionized, and have the ability to move through the structure and
+therefore conduct electricity&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:04:17.779258&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-540ad.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;polar-covalent-bonding&quot;&gt;Polar Covalent Bonding&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:05:06.884522&lt;/li&gt;
+  &lt;li&gt;Covalent bonding between unlike atoms results in unequal sharing of the electrons.
+    &lt;ul&gt;
+      &lt;li&gt;One atom pulls the electrons in the bond closer to
+its side.&lt;/li&gt;
+      &lt;li&gt;One end of the bond has larger electron density than
+the other.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The result is a polar covalent bond.
+    &lt;ul&gt;
+      &lt;li&gt;Bond polarity&lt;/li&gt;
+      &lt;li&gt;The end with the larger electron density gets a partial
+negative charge.&lt;/li&gt;
+      &lt;li&gt;The end that is electron deficient gets a partial positive charge.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electronegativity-en&quot;&gt;Electronegativity (EN)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:06:39.736104&lt;/li&gt;
+  &lt;li&gt;A measure of an elements ability to pull electrons toward it&lt;/li&gt;
+  &lt;li&gt;An empirical scale drawn from measured properties of many
+molecules&lt;/li&gt;
+  &lt;li&gt;provides “rule of thumb” to predict molecular properties&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electronegativity&quot;&gt;Electronegativity&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:07:30.692317&lt;/li&gt;
+  &lt;li&gt;The ability of an atom to attract bonding electrons to itself is called &lt;em&gt;electronegativity&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;An empirical scale drawn from measured properties of many molecules&lt;/li&gt;
+  &lt;li&gt;provides “rule of thumb” to predict molecular properties&lt;/li&gt;
+  &lt;li&gt;The larger the difference in electronegativity, the more polar the bond.
+    &lt;ul&gt;
+      &lt;li&gt;Negative end toward more electronegative atom&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:07:45.217060&lt;/li&gt;
+  &lt;li&gt;Scale defined so Fluorine is the most electronegative,
+Francium the least&lt;/li&gt;
+  &lt;li&gt;Increases across a period (left to right) and decreases
+down a group (top to bottom)
+    &lt;ul&gt;
+      &lt;li&gt;Noble gas atoms are not assigned EN values.&lt;/li&gt;
+      &lt;li&gt;Opposite of atomic size trend&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-6c0e6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;Audio 0:09:56.193372&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-b7aeb.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electronegativity-example&quot;&gt;Electronegativity Example&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:11:11.916765&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-0419e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bond-dipole-moments&quot;&gt;Bond Dipole Moments&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:11:29.357496&lt;/li&gt;
+  &lt;li&gt;Dipole moment, µ, is a measure of bond polarity.
+    &lt;ul&gt;
+      &lt;li&gt;A dipole is a material with a + and − end.&lt;/li&gt;
+      &lt;li&gt;It is directly proportional to the size of the partial charges (q) and directly proportional to the distance (r) between them.
+        &lt;ul&gt;
+          &lt;li&gt;µ (dipole moment) = (q)(r)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Measured in Debyes, D&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Generally, the more electrons two atoms share and the larger the atoms are, the larger the dipole moment.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-7f268.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electronegativity-difference-and-bond-type&quot;&gt;Electronegativity Difference and Bond Type&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:12.370573&lt;/li&gt;
+  &lt;li&gt;If the difference in electronegativity between bonded
+atoms is 0, the bond is pure covalent.
+    &lt;ul&gt;
+      &lt;li&gt;Equal sharing of the atoms in the bond&lt;/li&gt;
+      &lt;li&gt;If the difference in electronegativity between bonded atoms is 0.1 to 0.4, the bond is nonpolar covalent.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If the difference in electronegativity between bonded
+atoms is 0.5 to 1.9, the bond is polar covalent.
+    &lt;ul&gt;
+      &lt;li&gt;Unequal sharing of electrons between the atoms in
+the bond&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If the difference in electronegativity between bonded
+atoms is larger than or equal to 2.0, the bond is ionic.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;percent-ionic-character&quot;&gt;Percent Ionic Character&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:15:43.076694&lt;/li&gt;
+  &lt;li&gt;The percent ionic character is the percentage of a bond’s measured dipole moment compared to what it would be if the electrons were completely transferred.&lt;/li&gt;
+  &lt;li&gt;The percent ionic character indicates the degree to which the electron is transferred.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-419d5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-structure-i-octet-rule&quot;&gt;Molecular Structure I: Octet Rule&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:16:44.675983&lt;/li&gt;
+  &lt;li&gt;Generally eight electrons in valence shell&lt;/li&gt;
+  &lt;li&gt;exceptions for H, Li, (2 electrons) and Be
+and B (only 2 and 3 electrons)&lt;/li&gt;
+  &lt;li&gt;“Octet Expansion”: S, P, etc where can
+have more than 8 electrons when central
+atom&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;writing-lewis-structures-for-molecular-compounds&quot;&gt;Writing Lewis Structures for Molecular Compounds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:17:58.111765&lt;/li&gt;
+  &lt;li&gt;Write the correct skeletal structure for the molecule.
+    &lt;ul&gt;
+      &lt;li&gt;The less electronegative atom in the molecule is usually the center atom.
+        &lt;ul&gt;
+          &lt;li&gt;Simple molecules have a “center” atom to which all of the other atoms in the molecules are attached (bonded) to.
+            &lt;ul&gt;
+              &lt;li&gt;For example, for CO2, the center atom is C, so both O atoms are attached to the carbon atom.
+                &lt;ul&gt;
+                  &lt;li&gt;Audio 0:18:55.177204&lt;/li&gt;
+                  &lt;li&gt;O–C–O&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;The more electronegative atoms are usually terminal (attached to the center atom).
+        &lt;ul&gt;
+          &lt;li&gt;Hydrogen atoms are always in the terminal position.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Determine the total number of valence electrons each atom brings to form the
+molecule.
+    &lt;ul&gt;
+      &lt;li&gt;Examples:
+        &lt;ul&gt;
+          &lt;li&gt;For the molecule H–Br: H atom brings 1 electron and Br atoms brings 7 electrons for a total 8 electrons&lt;/li&gt;
+          &lt;li&gt;In polyatomic ions, the charge on the ion also must be accounted. For the polyatomic ion NO2 –, a total of 18 electrons are brought in: 5 electrons from N, total 12 from O (2 oxygen atoms × 2), and 2 from the 2+ charge.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;writing-lewis-structures-for-molecular-compounds-1&quot;&gt;Writing Lewis Structures for Molecular Compounds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:36.268038&lt;/li&gt;
+  &lt;li&gt;Distribute the electrons among the atoms in the molecule giving octets (or duets in the case of hydrogen) to as many atoms as possible.
+    &lt;ul&gt;
+      &lt;li&gt;The best practice is to place two electrons around an atom at a time.
+        &lt;ul&gt;
+          &lt;li&gt;Bonding pairs: electrons between two atoms&lt;/li&gt;
+          &lt;li&gt;Nonbonding or lone pairs: electrons not participating in bonding but complete the atom’s “octet”&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;The total number of electrons brought in must be accounted for in the Lewis structure and must not violate any criteria (i.e., H atoms can only have single bonds or two electrons total).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If any atoms lack an octet, form double or triple bonds as necessary to give
+them octets.
+    &lt;ul&gt;
+      &lt;li&gt;Atoms that can multiple bond with each other or to themselves are as follows:
+        &lt;ul&gt;
+          &lt;li&gt;Double bond (4 electrons or two pairs of electrons between atoms): C, O, N, S, &amp;amp; P&lt;/li&gt;
+          &lt;li&gt;Triple bond (6 electrons or three pairs of electrons between atoms): C,O, N, &amp;amp; S&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-writing-lewis-structures-for-polyatomic-ions&quot;&gt;Practice Problem Writing Lewis Structures for Polyatomic Ions&lt;/h2&gt;
+
+&lt;p&gt;NH4+&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:57.666020&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-94b06.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O3&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-8b4db.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;resonance-and-formal-charges&quot;&gt;Resonance and Formal Charges&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:31:22.898676&lt;/li&gt;
+  &lt;li&gt;Two additional concepts to write the best
+possible Lewis structures for a large number
+of compounds&lt;/li&gt;
+  &lt;li&gt;The concepts are:
+    &lt;ul&gt;
+      &lt;li&gt;Resonance, used when two or more valid Lewis structures can be drawn for the same compound&lt;/li&gt;
+      &lt;li&gt;Formal charge, an electron bookkeeping system that allows us to discriminate between alternative Lewis structures&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;resonance&quot;&gt;Resonance&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:45.308690&lt;/li&gt;
+  &lt;li&gt;Lewis theory localizes the electrons between the atoms that are bonding
+together.&lt;/li&gt;
+  &lt;li&gt;Extensions of Lewis theory suggest that there is some degree of
+delocalization of the electrons; the concept is called resonance.
+    &lt;ul&gt;
+      &lt;li&gt;Delocalization of charge helps to stabilize the molecule.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;When there is more than one Lewis structure for a molecule that differ only in the position of the electrons, they are called resonance structures.
+    &lt;ul&gt;
+      &lt;li&gt;The actual molecule is a combination of the resonance forms—a resonance hybrid.&lt;/li&gt;
+      &lt;li&gt;The molecule does not resonate between the two forms, though we often draw it that way.
+        &lt;ul&gt;
+          &lt;li&gt;Example: O3 molecule&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-41ac8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-9d45a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Resonance hybrid: Just as the offspring of two different dog breeds is a hybrid that is intermediate between the two breeds (a), the structure of a resonance hybrid is intermediate between that of the contributing resonance structures (b).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ex&quot;&gt;Ex&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:38:19.039491&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-bc865.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker&quot;&gt;Clicker&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:38:59.721909&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-b3ab7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Draw the Lewis structure for CO3^2- including any valid resonance structures.
+    &lt;ul&gt;
+      &lt;li&gt;two single bonds and one double bond&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;formal-charge&quot;&gt;Formal Charge&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:42:50.124155&lt;/li&gt;
+  &lt;li&gt;Are all Resonance Structures equally good?
+    &lt;ul&gt;
+      &lt;li&gt;NO&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;so how do we decide which to give more weight?&lt;/li&gt;
+  &lt;li&gt;Audio 0:43:41.519126&lt;/li&gt;
+  &lt;li&gt;charge an atom would have if all bonding electrons are shared equally between the bonded atoms.
+{(# of valence electrons) + (# of nonbonding electrons)- (1/2 × # of bonding electrons)}
+    &lt;ol&gt;
+      &lt;li&gt;The sum of all formal charges in a neutral molecule must be zero.&lt;/li&gt;
+      &lt;li&gt;The sum of all formal charges in an ion must equal the charge of the ion.&lt;/li&gt;
+      &lt;li&gt;Small (or zero) formal charges on individual atoms are better than large ones.&lt;/li&gt;
+      &lt;li&gt;When formal charge cannot be avoided, negative formal charge should reside on the most electronegative atom.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:44:42.818811&lt;/li&gt;
+  &lt;li&gt;Example: The molecule HF has 0 (zero) formal charge.
+    &lt;ul&gt;
+      &lt;li&gt;The formal charge on H atom: Formal charge = 1 − [0 + ½ (2)] = 0&lt;/li&gt;
+      &lt;li&gt;The formal charge on F atom: Formal charge = 7 − [6 + ½ (2)] = 0&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-b79d6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;empirical formula&lt;/td&gt;
+      &lt;td&gt;simplest whole-number ratio of the atoms of elements in a compound&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;molecular compounds have _ melting points and boiling points&lt;/td&gt;
+      &lt;td&gt;low&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;polar covalent bond&lt;/td&gt;
+      &lt;td&gt;results from covalent bonding between unlike atoms results in unequal sharing of the electrons&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;electronegativity&lt;/td&gt;
+      &lt;td&gt;the ability of an atom to attract bonding electrons to itself&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;electronegativity _ across a period&lt;/td&gt;
+      &lt;td&gt;increases left to right&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;electronegativity _ down a group&lt;/td&gt;
+      &lt;td&gt;decreases&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;dipole moment (µ)&lt;/td&gt;
+      &lt;td&gt;measure of bond polarity (= q * r)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;pure covalent&lt;/td&gt;
+      &lt;td&gt;the bond is this when the difference in electronegativity between bonded atoms is 0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;nonpolar covalent&lt;/td&gt;
+      &lt;td&gt;if the difference in electronegativity between bonded atoms is 0.1 to 0.4, the bond is&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;percent ionic character&lt;/td&gt;
+      &lt;td&gt;the percentage of a bond’s measured dipole moment compared to what it would be if the electrons were completely transferred&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;resonance&lt;/td&gt;
+      &lt;td&gt;when two or more valid Lewis structures can be drawn for the same compound&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;formal charge&lt;/td&gt;
+      &lt;td&gt;an electron bookkeeping system that allows us to discriminate between alternative Lewis structures&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;resonance structures&lt;/td&gt;
+      &lt;td&gt;when there is more than one Lewis structure for a molecule that differ only in the position of the electrons&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;formal charge&lt;/td&gt;
+      &lt;td&gt;charge an atom would have if all bonding electrons are shared equally between the bonded atoms&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Wed, 28 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/09/28/week-7-day-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/28/week-7-day-2.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 7 - Day 1</title>
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-7-day-1.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;nrOZN74kUpU&quot;});
+&lt;/script&gt;
+
+&lt;h2 id=&quot;mass-percent-as-a-conversion-factor&quot;&gt;Mass Percent as a Conversion Factor&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Audio 0:01:05.568971&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;the mass percent tells you the mass of a constituent element in 100 g of the compound&lt;/li&gt;
+  &lt;li&gt;the fact that CCl2F2 is 58.64% Cl by mass means that 100 g of CCl2F2 contains 58.64 g Cl&lt;/li&gt;
+  &lt;li&gt;this can be used as a conversion factor&lt;/li&gt;
+  &lt;li&gt;100 g CCl2F2 : 58.64 g Cl&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-formulas&quot;&gt;Molecular Formulas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:01:54.462456&lt;/li&gt;
+  &lt;li&gt;The molecular formula is a multiple of the empirical formula&lt;/li&gt;
+  &lt;li&gt;Molecular Mass is the same multiple of the mass of the empirical formula&lt;/li&gt;
+  &lt;li&gt;Benzene:&lt;/li&gt;
+  &lt;li&gt;Empirical Formula: CH
+    &lt;ul&gt;
+      &lt;li&gt;13.02 amu, 13.02 g/mol&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Molecular Formula: C6H6 which is 6xCH
+    &lt;ul&gt;
+      &lt;li&gt;78.11 amu, 78.11 g/mol&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;determining-a-chemical-formula-from-experimental-data&quot;&gt;Determining a Chemical Formula from Experimental Data&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:03:56.552943
+Empirical Formula:&lt;/li&gt;
+  &lt;li&gt;Simplest whole-number ratio of the atoms of elements in a compound&lt;/li&gt;
+  &lt;li&gt;Can be determined from elemental analysis&lt;/li&gt;
+  &lt;li&gt;Masses of elements formed when a compound is decomposed, or that react together to form a compound&lt;/li&gt;
+  &lt;li&gt;Combustion analysis&lt;/li&gt;
+  &lt;li&gt;(Mass) Percent composition
+    Note: An empirical formula represents a ratio of atoms or a ratio of moles of atoms, not a ratio of masses.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;finding-an-empirical-formula&quot;&gt;Finding an Empirical Formula&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:05:56.439211
+    &lt;ol&gt;
+      &lt;li&gt;Convert the percentages to grams.
+        &lt;ul&gt;
+          &lt;li&gt;a)  If not given, assume you start with 100 g of the compound.&lt;/li&gt;
+          &lt;li&gt;b)  Example: 24.5% C means 24.5 g C.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Convert mass (grams) to moles.
+a)  Use molar mass of each element.
+b)  Example: 24.5 g C × (1 mol C/12.01 grams) = 2.00 mol C&lt;/li&gt;
+      &lt;li&gt;Divide all by the smallest number of moles to obtain the atom- to-atom ratio for each of the elements in the compound.
+a)  If the result is within 0.1 of a whole number, round to the whole number.&lt;/li&gt;
+      &lt;li&gt;Multiply all mole ratios by a number to make all whole numbers.
+a)  If ratio is .5, multiply all by 2; if the ratio is .33 or .67, multiply all by 3; and so on.
+b) Skip if already whole numbers.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;example&quot;&gt;Example&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What is the empirical formula of a substance that contains 5.28 g of C, 1.11 g of H, and 3.52 g of O?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A) C2H5O
+B) C2H4O2
+C) C2H4O3
+D) C3H4O4&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Answer is A&lt;/li&gt;
+  &lt;li&gt;Audio 0:11:13.430592&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;combustion-analysis&quot;&gt;Combustion Analysis&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A common technique for analyzing compounds is to burn a known mass of compound and weigh the amounts of product made.&lt;/li&gt;
+  &lt;li&gt;This is generally used for organic compounds containing C, H, or O.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-26-week-7-day-1-010b3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:22:35.779419&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ex: you combust 11.5 g ethanol and collect 22.0 g CO2 and 13.5 g H2O.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;By knowing the mass of the product and composition of constituent element in the product, the original amount of constituent element can be determined.&lt;/li&gt;
+  &lt;li&gt;All the original C forms CO2, the original H forms H2O, and the original mass of O is found by subtraction.&lt;/li&gt;
+  &lt;li&gt;Once the masses of all the constituent elements in the original compound have been determined, the empirical formula can be found.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker&quot;&gt;Clicker&lt;/h2&gt;
+
+&lt;p&gt;what is the empirical formula of the compound with the following composition?
+2.1 % H, 65.3 % O, 32.6% S (H: 1.008, O: 16, S: 32.06)
++ C2H5O&lt;/p&gt;
+
+&lt;h2 id=&quot;example-516--find-the-molecular-formula-of-butanedione&quot;&gt;Example 5.16 + Find the molecular formula of butanedione&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Given: emp. form. = C2H3O; MM = 86.09 g/mol&lt;/li&gt;
+  &lt;li&gt;Find: molecular formula
+    &lt;ul&gt;
+      &lt;li&gt;C4H6O2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;combustion-analysis-clicker&quot;&gt;Combustion analysis clicker&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:34.156694&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-26-week-7-day-1-7b024.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;carbon-bonding&quot;&gt;Carbon Bonding&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:39:10.776833&lt;/li&gt;
+  &lt;li&gt;carbon atoms bond almost exclusively covalently
+    &lt;ul&gt;
+      &lt;li&gt;compounds with ionic bonding C are generally inorganic&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;when C bonds, it forms 4 covalent bonds&lt;/li&gt;
+  &lt;li&gt;4 single bonds, 2 double bonds, 1 triple + 1
+single, etc.&lt;/li&gt;
+  &lt;li&gt;carbon can form limitless chains of C atoms, both straight and branched, and rings of C atoms&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-26-week-7-day-1-1049a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;classifying-organic-compounds&quot;&gt;Classifying Organic Compounds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;there are two main
+categories of organic compounds, hydrocarbons and functionalized hydrocarbons&lt;/li&gt;
+  &lt;li&gt;hydrocarbons contain only C and H&lt;/li&gt;
+  &lt;li&gt;most fuels are mixtures of hydrocarbons&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-26-week-7-day-1-266e3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;classifying-hydrocarbons&quot;&gt;Classifying Hydrocarbons&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:41:37.320899&lt;/li&gt;
+  &lt;li&gt;hydrocarbons containing only single
+bonds are called alkanes&lt;/li&gt;
+  &lt;li&gt;hydrocarbons containing one or more
+C=C are called alkenes&lt;/li&gt;
+  &lt;li&gt;hydrocarbons containing one or more
+C=C are called alkynes&lt;/li&gt;
+  &lt;li&gt;hydrocarbons containing C6 “benzene” ring are called aromatic&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-26-week-7-day-1-6ad67.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;naming-straight-chain-hydrocarbons&quot;&gt;Naming Straight Chain Hydrocarbons&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Base name to indicate the number of carbons in the chain&lt;/li&gt;
+  &lt;li&gt;suffix to indicate class and position of multiple bonds suffix –ane for alkane, –ene for alkene, –yne for alkyne&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;img src=&quot;../../../assets/2016-09-26-week-7-day-1-82ecd.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-26-week-7-day-1-12d05.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 26 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/09/26/week-7-day-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/26/week-7-day-1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 6 - Day 3</title>
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-6-day-3.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;PJpwKsezpPs&quot;});
+&lt;/script&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2l3zie&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Clicker lightning round&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;What is TiCO_3?
+    &lt;ul&gt;
+      &lt;li&gt;Titanium (II) carbonate&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:01:48.045761&lt;/li&gt;
+  &lt;li&gt;Give the formula for sodium perchlorate
+    &lt;ul&gt;
+      &lt;li&gt;NaClO_4&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Give the name for NaSO_3
+    &lt;ul&gt;
+      &lt;li&gt;sodium bisulfite
+        &lt;ul&gt;
+          &lt;li&gt;(SO_3 = sulfite)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Give the name for KMnO_4
+    &lt;ul&gt;
+      &lt;li&gt;Potassium permanganate&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;covalent-bonding&quot;&gt;Covalent Bonding&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:04:33.001883&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;covalent-bonding-bonding-and-lone-pair-electrons&quot;&gt;Covalent Bonding: Bonding and Lone Pair Electrons&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:05:07.718537&lt;/li&gt;
+  &lt;li&gt;Electrons that are shared by atoms are called bonding pairs.&lt;/li&gt;
+  &lt;li&gt;Electrons that are not shared by atoms but belong to a particular atom are called
+lone pairs.&lt;/li&gt;
+  &lt;li&gt;Also known as nonbonding pairs&lt;/li&gt;
+  &lt;li&gt;Audio 0:06:48.740545&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-733d5.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;The top and bottom electrons on the O atom are lone pairs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;single-covalent-bonds&quot;&gt;Single Covalent Bonds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:07:48.556923&lt;/li&gt;
+  &lt;li&gt;When two atoms share one pair of electrons, the result is called a single covalent bond.&lt;/li&gt;
+  &lt;li&gt;Two electrons&lt;/li&gt;
+  &lt;li&gt;One atom may use more than one single bond to fulfill
+its octet.&lt;/li&gt;
+  &lt;li&gt;To different atoms +  H only duet&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-44f81.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-d9df4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;double-covalent-bond&quot;&gt;Double Covalent Bond&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:09:16.705706&lt;/li&gt;
+  &lt;li&gt;When two atoms share two pairs of electrons, the result is called a double covalent bond.&lt;/li&gt;
+  &lt;li&gt;Four electrons between the two atoms
+    &lt;ul&gt;
+      &lt;li&gt;Example: O2&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-6c063.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:10:33.321892&lt;/li&gt;
+  &lt;li&gt;Elements that can double-bond with each other and themselves are C, N, O, S, and P&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;triple-covalent-bond&quot;&gt;Triple Covalent Bond&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:11:13.222743&lt;/li&gt;
+  &lt;li&gt;When two atoms share three pairs of electrons, the result is called a &lt;em&gt;triple covalent bond&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Six electrons between the two atoms
+    &lt;ul&gt;
+      &lt;li&gt;Example: N2&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-d5e5a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Elements that can triple-bond with each other and themselves are C, N, O, and S.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;covalent-bonding-model-versus-reality&quot;&gt;Covalent Bonding: Model versus Reality&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:08.879773&lt;/li&gt;
+  &lt;li&gt;Lewis theory&lt;/li&gt;
+  &lt;li&gt;implies that some combinations should be stable,
+  whereas others should not.
+    +  Stable combinations result in “octets.”&lt;/li&gt;
+  &lt;li&gt;allows us to predict the formulas of molecules of covalently bonded substances.
+    +  Hydrogen and the halogens are all diatomic molecular elements, as predicted by Lewis theory.
+    +  Oxygen generally forms either two single bonds or a double bond in its molecular compounds.
+    &lt;ul&gt;
+      &lt;li&gt;There are some stable compounds in which oxygen has one single bond and another in which it has a triple bond, but it still has an octet.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;covalent-bonding-model-versus-reality-1&quot;&gt;Covalent Bonding: Model versus Reality&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:14:51.981353&lt;/li&gt;
+  &lt;li&gt;Lewis theory of covalent bonding&lt;/li&gt;
+  &lt;li&gt;implies that the attractions between atoms are
+&lt;em&gt;directional&lt;/em&gt;.
+    +  The shared electrons are most stable between the
+bonding atoms.&lt;/li&gt;
+  &lt;li&gt;predicts that covalently bonded compounds will be found as individual molecules.
+    +  Rather than an array like ionic compounds
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Compounds of nonmetals are made of individual molecule units&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-compounds-formulas-and-names&quot;&gt;Molecular Compounds: Formulas and Names&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:16:15.133336&lt;/li&gt;
+  &lt;li&gt;Molecular compounds are composed of two or more nonmetals.&lt;/li&gt;
+  &lt;li&gt;The formula for a molecular compound cannot readily be determined from its constituent elements because the same combination of elements may form many different molecular compounds, each with a different formula.&lt;/li&gt;
+  &lt;li&gt;Nitrogen and oxygen form all of the following unique molecular compounds:
+    &lt;ul&gt;
+      &lt;li&gt;NO, NO2, N2O, N2O3, N2O4, and N2O5.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-compounds&quot;&gt;Molecular Compounds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:17:43.500253&lt;/li&gt;
+  &lt;li&gt;Names of Molecular Compounds:&lt;/li&gt;
+  &lt;li&gt;Write the name of the element with the smallest group number first.&lt;/li&gt;
+  &lt;li&gt;If the two elements lie in the same group, then write the element with the greatest row number first.&lt;/li&gt;
+  &lt;li&gt;The prefixes given to each element indicate the number of atoms present.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;binary-molecular-compounds&quot;&gt;Binary Molecular Compounds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:18:59.257994&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-4da3e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;These prefixes are the same as those used in hydrates:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Prefix&lt;/th&gt;
+      &lt;th&gt;Number&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;mono&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;di&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;tri&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;tetra&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;penta&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;hexa&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;hepta&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;octa&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;nona&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;deca&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If there is only one atom of the first element in the formula, the prefix mono- is normally omitted&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-compounds-1&quot;&gt;Molecular Compounds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:34.443243&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;molecule&lt;/td&gt;
+      &lt;td&gt;name&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;HI&lt;/td&gt;
+      &lt;td&gt;hydrogen iodide&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;NF_3&lt;/td&gt;
+      &lt;td&gt;nitrogen trifluoride&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SO_2&lt;/td&gt;
+      &lt;td&gt;suffer dioxide&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;N_2Cl_4&lt;/td&gt;
+      &lt;td&gt;dinitrogen tetrachloride&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;NO_2&lt;/td&gt;
+      &lt;td&gt;nitrogen dioxide&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;N_2O&lt;/td&gt;
+      &lt;td&gt;dinitrogen monoxide&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;mass&quot;&gt;Mass&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:26.555568&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Molecular mass&lt;/em&gt; (or molecular weight) is the sum of the atomic masses (in amu) in a molecule&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-abe79.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;another-molecular-mass-example&quot;&gt;Another Molecular Mass Example&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:25:48.242857&lt;/li&gt;
+  &lt;li&gt;What is the Molecular Mass of C3H8O ?&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-d7aac.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-question&quot;&gt;Clicker question&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Find the molecular weight of  urea (CH4N2O)
+    &lt;ul&gt;
+      &lt;li&gt;(All but 1% got it right)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;using-molar-mass-to-count-molecules-by-weighing&quot;&gt;Using Molar Mass to Count Molecules by Weighing&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:28:43.992973&lt;/li&gt;
+  &lt;li&gt;Molar mass in combination with Avogadro’s number can be used to determine the number of atoms in a given mass of the element.&lt;/li&gt;
+  &lt;li&gt;Use molar mass to convert to the amount in moles. Then use Avogadro’s number to convert to number of molecules.
+    + &lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-937f5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;using-molecular-mass&quot;&gt;Using Molecular Mass&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:39:35.097586&lt;/li&gt;
+  &lt;li&gt;How many H atoms are in 72.5 g of C3H8O ?&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Mass percent composition&lt;/em&gt; of an element in a compound =
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-44554.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;n is the number of moles of the element in 1 mole of the compound&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-65070.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:42:11.330892&lt;/li&gt;
+  &lt;li&gt;What is the mass percent of Ca in CaCl2&lt;/li&gt;
+  &lt;li&gt;CaCl2 (Ca = 40.08, Cl = 35.45)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:44:25.808433&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;term&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;bonding pairs&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Electrons that are shared by atoms&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;lone pairs (nonbonding pairs)&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Electrons that are not shared by atoms but belong to a particular atom&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;single covalent bond&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;when two atoms share one pair of electrons&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;double covalent bond&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;when two atoms share two pairs of electrons&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;triple covalent bond&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;when two atoms share three pairs of electrons&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Fri, 23 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/09/23/week-6-day-3.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/23/week-6-day-3.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 6 - Day 2</title>
@@ -641,6 +1965,211 @@ meaning more than, are used.
         <pubDate>Wed, 21 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/09/21/week-6-day-2.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/21/week-6-day-2.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 5 - Recitation (1st for test 2)</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Determine the energy change associated with the transition from n = 2 to n = 5 in the hydrogen atom.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; -2.18 * 10^-19 J&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; +6.54*10^-19 J&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; +4.58 * 10^-19 J&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; -1.53 * 10^-19 J&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; +3.76 * 10^-19 J&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+var st1 = false;
+function toggleOne() {
+  st1 = !st1;
+  if (st1) {
+    $('#oneHint').show();
+    $('#toggleOne').val('hide');
+  }
+  else {
+    $('#oneHint').hide();
+    $('#toggleOne').val('show solution');
+  }
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input id=&quot;toggleOne&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleOne()&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img id=&quot;oneHint&quot; src=&quot;../../../assets/2016-09-21-week-5-recitation-1st-for-test-2-2b45b.png&quot; style=&quot;display:none&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It is possible to determine the ionization energy for hydrogen using the Bohr equation. Calculate the ionization energy (in kJ) for a mole of hydrogen atoms, making the assumption that ionization is the transition from n - 1 to n = infinity.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 7.62 * 10^3 kJ&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2.76 * 10^3 kJ&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1.31 * 10^3 kJ&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 3.62 * 10^3 kJ&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 5.33 * 10^3 kJ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+var st2 = false;
+function toggleTwo() {
+  st2 = !st2;
+  if (st2) {
+    $('#twoHint').show();
+    $('#toggleTwo').val('hide');
+  }
+  else {
+    $('#twoHint').hide();
+    $('#toggleTwo').val('show solution');
+  }
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input id=&quot;toggleTwo&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleTwo()&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img id=&quot;twoHint&quot; src=&quot;../../../assets/2016-09-21-week-5-recitation-1st-for-test-2-e546b.png&quot; style=&quot;display:none&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Determine the end (final) value of n in a hydrogen atom transition, if the electron starts in n = 1 and the atom absorbs a photon of light with an energy of 2.044 * 10^-18 J
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 4&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 5&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 6&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;How many different values of l are possible in the third principal level?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 0&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 4&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Give the ground state electron configuration for Pb
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; [Xe]6s2 6p2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; [Xe]6s2 5d10 6p2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; [Xe]6s2 5f14 6d10 6p2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; [Xe]6s2 4f14 5d10 6p2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; [Xe]6s2 4f14 5d10 6s2 6p2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Choose the valence orbital diagram that represents the ground state of Zn
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-5-recitation-1st-for-test-2-8a736.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Give the possible values for ml for a p orbital
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 0, 1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; -1, 0, 1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1, 2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; -2, -1, 0, 1, 2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Describe the shape of a p orbital
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; spherical&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; dumbbell shaped&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; three lobes&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; four lobes&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; eight lobes&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;No two electrons can have the same four quantum numbers is known as the
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Pauli exclusion principle&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Hund’s rule&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Aufbau principle&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Heisenberg uncertainty principle&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Choose the orbital diagram that represents the ground state of N
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-5-recitation-1st-for-test-2-f633f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Predict the charge that a calcium ion would have
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 6-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 3+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 1+&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Which of the following statements is true?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; An orbital that penetrates into the region occupied by core electrons is less shielded from nuclear charge than an orbital that does not penetrate and therefore has a lower energy&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; An orbital that penetrates into the region occupied by core electrons is more shielded from nuclear charge than an orbital that does not penetrate and therefore has a lower energy&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; It is possible for two electrons in the same atom to have identical values for all four quantum numbers&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Two electrons in the same orbital can have the same spin&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; None of the above are true&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+var answers = [&quot;c&quot;, &quot;c&quot;, &quot;b&quot;, &quot;c&quot;, &quot;d&quot;, &quot;a&quot;, &quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;a&quot;, &quot;d&quot;, &quot;a&quot;];
+function getAnswer(number) {
+  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
+}
+function validate() {
+  var any = false;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (!answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
+      any = true;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
+    }
+  }
+  if (any) {
+    toastr.error(&quot;You did not answer every question!&quot;);
+  }
+  return !any;
+}
+function grade() {
+  if (!validate()) return;
+  var correct = 0;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (answers[i-1] == answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
+      correct++;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
+    }
+  }
+  toastr.success(&quot;Your grade is &quot;+ ((correct/answers.length) * 100).toFixed(2) + &quot; out of 100&quot;);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/09/21/week-5-recitation-1st-for-test-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/21/week-5-recitation-1st-for-test-2.html</guid>
         
         
       </item>
@@ -2387,1612 +3916,6 @@ into 1s orbital than does 2p&lt;/li&gt;
         <pubDate>Mon, 12 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/09/12/week-5-day-1.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/12/week-5-day-1.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Test 1 - Review / Answers</title>
-        <description>&lt;h2 id=&quot;questions&quot;&gt;Questions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Calculate the energy of the red light emitted by a neon atom with a wavelength of 703.2 nm.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 3.54 * 10^-19 J&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 4.27 * 10^-19 J&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 2.34 * 10^-19 J&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 6.45 * 10^-19 J&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 2.83 * 10^-19 J&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script&gt;
-var st1 = false;
-function toggleOne() {
-  st1 = !st1;
-  if (st1) {
-    $('#oneHint').show();
-    $('#toggleOne').val('hide');
-  }
-  else {
-    $('#oneHint').hide();
-    $('#toggleOne').val('show solution');
-  }
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input id=&quot;toggleOne&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleOne()&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img id=&quot;oneHint&quot; src=&quot;../../../assets/2016-09-12-test-1-review-answers-6cf72.png&quot; style=&quot;display:none&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Because of the high heat and low humidity in the summer in Death Valley, California, a visitor requires about one quart of water for every two miles traveled on foot. Calculate the approximate number of liters required for a person to walk 25 kilometers in Death Valley
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 7.3 L&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 295 L&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 76 L&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 117 L&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script&gt;
-var st2 = false;
-function toggleTwo() {
-  st2 = !st2;
-  if (st2) {
-    $('#twoHint').show();
-    $('#toggleTwo').val('hide');
-  }
-  else {
-    $('#twoHint').hide();
-    $('#toggleTwo').val('show solution');
-  }
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input id=&quot;toggleTwo&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleTwo()&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img id=&quot;twoHint&quot; src=&quot;../../../assets/2016-09-12-test-1-review-answers-ca003.png&quot; style=&quot;display:none&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What decimal power does the abbreviation p represent
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1 * 10^6&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 1 * 10^9&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1 * 10^-1&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1 * 10^-12&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 1 * 10^-15&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Which of the following represent isotopes:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-test-1-review-answers-7ba86.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 2.5 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 6.0 * 10^2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1.0 * 10^-2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 2.4 * 10^2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 1.0 * 10^2&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;script&gt;
-var st4 = false;
-function toggleFour() {
-  st4 = !st4;
-  if (st4) {
-    $('#fourHint').show();
-    $('#toggleFour').val('hide');
-  }
-  else {
-    $('#fourHint').hide();
-    $('#toggleFour').val('show solution');
-  }
-}
-&lt;/script&gt;
-
-    &lt;p&gt;&lt;input id=&quot;toggleFour&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleFour()&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;span id=&quot;fourHint&quot; style=&quot;display:none&quot;&gt;This is a confusingly worded question (my opinion). What the question is asking you to do is identify a pair of isotopes of the same element. One must understand that all variations of an element (even the most common) is an isotope. A pair of isotopes would be of the same element (meaning same atomic number / number of protons). The only options with the same atomic numbers are A and C which have an atomic number of 21.&lt;/span&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Meter is a measure of
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; length&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; temperature&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; mass&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; time&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; volume&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;What species is represented by the following information?
-    &lt;ul&gt;
-      &lt;li&gt;p+ = 12, n° = 14, e- = 10&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Si^4+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Mg&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Ne&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Si&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; Mg^2+
-&lt;script&gt;
-var st6 = false;
-function toggleSix() {
-st6 = !st6;
-if (st6) {
-  $('#sixHint').show();
-  $('#toggleSix').val('hide');
-}
-else {
-  $('#sixHint').hide();
-  $('#toggleSix').val('show solution');
-}
-}
-&lt;/script&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;&lt;input id=&quot;toggleSix&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleSix()&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;span id=&quot;sixHint&quot; style=&quot;display:none&quot;&gt;To identify which element this information represents, you must look at the atomic number or the number of protons (p+). p+ = 12. We look at the periodic table and find that the element with atomic number 12 is magnesium (Mg). However, this is not the end of the problem. Neutrons do not affect the answer because the answers do not show isotopes, but electrons (e-) do affect the answer because some of the answers show a non-neutral charge. Because p+ = 12 and e- = 10, there are more positive charges than negative charges in the atom, making the overall charge 2+ (two more protons than neutrons). Therefore, the complete answer is Mg^2+&lt;/span&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;How many significant figures are there in the answer for the following problem?
-    &lt;ul&gt;
-      &lt;li&gt;34.2 + 0.6699 + 18?&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; one&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; two&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; three&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; four&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;script&gt;
-var st7 = false;
-function toggleSeven() {
-  st7 = !st7;
-  if (st7) {
-    $('#sevenHint').show();
-    $('#toggleSeven').val('hide');
-  }
-  else {
-    $('#sevenHint').hide();
-    $('#toggleSeven').val('show solution');
-  }
-}
-&lt;/script&gt;
-
-    &lt;p&gt;&lt;input id=&quot;toggleSeven&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleSeven()&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;span id=&quot;sevenHint&quot; style=&quot;display:none&quot;&gt;With addition and subtraction, the accuracy of the final answer can be no greater than the least accurate measurement. Because 18 is the least precise, the final answer will have only have no precision past the decimal making the number of significant digits 2 (answer would be 53)&lt;/span&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;How many atoms of oxygen are in 2.50 moles of SO_2?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 4.52 * 10^24&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 1.51 * 10^24&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 5.02 * 10^23&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 3.01 * 10^24&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 7.53 * 10^23&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;script&gt;
-var st8 = false;
-function toggleEight() {
-  st8 = !st8;
-  if (st8) {
-    $('#eightHint').show();
-    $('#toggleEight').val('hide');
-  }
-  else {
-    $('#eightHint').hide();
-    $('#toggleEight').val('show solution');
-  }
-}
-&lt;/script&gt;
-
-    &lt;p&gt;&lt;input id=&quot;toggleEight&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleEight()&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;span id=&quot;eightHint&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-09-12-test-1-review-answers-c178c.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Determine the velocity of a marble (m = 7.75 g) with a wavelength of 3.46 * 10^-33 m
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 40.5 m/s&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2.47 m/s&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 24.7 m/s&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 38.8 m/s&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 52.9 m/s&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;script&gt;
-var st9 = false;
-function toggleNine() {
-  st9 = !st9;
-  if (st9) {
-    $('#nineHint').show();
-    $('#toggleNine').val('hide');
-  }
-  else {
-    $('#nineHint').hide();
-    $('#toggleNine').val('show solution');
-  }
-}
-&lt;/script&gt;
-
-    &lt;p&gt;&lt;input id=&quot;toggleNine&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleNine()&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;span id=&quot;nineHint&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-09-12-test-1-review-answers-960af.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Calculate the mass (in g) of 2.0 * 10^24 atoms of Hg
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 3.9 * 10^2 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2.4 * 10^2 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 3.2 * 10^2 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1.5 * 10^2 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 6.5 * 10^2 g&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;script&gt;
-var st10 = false;
-function toggleten() {
-  st10 = !st10;
-  if (st10) {
-    $('#tenHint').show();
-    $('#toggleten').val('hide');
-  }
-  else {
-    $('#tenHint').hide();
-    $('#toggleten').val('show solution');
-  }
-}
-&lt;/script&gt;
-
-    &lt;p&gt;&lt;input id=&quot;toggleten&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleten()&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;span id=&quot;tenHint&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-09-12-test-1-review-answers-586af.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Determine the mass of an object that has a volume of 88.6 mL and a density of 7.77 g/mL.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 96.4 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 0.0877 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 11.4 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 80.8 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 688 g&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;script&gt;
-var st11 = false;
-function toggleeleven() {
-  st11 = !st11;
-  if (st11) {
-    $('#elevenHint').show();
-    $('#toggleeleven').val('hide');
-  }
-  else {
-    $('#elevenHint').hide();
-    $('#toggleeleven').val('show solution');
-  }
-}
-&lt;/script&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;input id=&quot;toggleeleven&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleeleven()&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span id=&quot;elevenHint&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-09-12-test-1-review-answers-662bb.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What species is represented by the following information?
-    &lt;ul&gt;
-      &lt;li&gt;p+ = 47, n° = 62, e- = 46&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Ag+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Nd&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Pd&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Ag&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; Pd+&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;script&gt;
-var st12 = false;
-function toggletwelve() {
-  st12 = !st12;
-  if (st12) {
-    $('#twelveHint').show();
-    $('#toggletwelve').val('hide');
-  }
-  else {
-    $('#twelveHint').hide();
-    $('#toggletwelve').val('show solution');
-  }
-}
-&lt;/script&gt;
-
-    &lt;p&gt;&lt;input id=&quot;toggletwelve&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggletwelve()&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;twelveHint&quot; style=&quot;display:none&quot;&gt;To identify which element this information represents, you must look at the atomic number or the number of protons (p+). p+ = 47. We look at the periodic table and find that the element with atomic number 47 is silver (Ag). However, this is not the end of the problem. Neutrons do not affect the answer because the answers do not show isotopes, but electrons (e-) do affect the answer because some of the answers show a non-neutral charge. Because p+ = 12 and e- = 10, there are more positive charges than negative charges in the atom, making the overall charge 2+ (two more protons than neutrons). Therefore, the complete answer is Mg^2+&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A wooden baseball bat is an example of
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; a compound&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; an element&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; a heterogeneous mixture&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; a homogeneous mixture&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;An atom of 32 P contains _ electrons
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 32&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 47&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 17&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 27&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 15&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;script&gt;
-var st14 = false;
-function togglefourteen() {
-  st14 = !st14;
-  if (st14) {
-    $('#fourteenHint').show();
-    $('#togglefourteen').val('hide');
-  }
-  else {
-    $('#fourteenHint').hide();
-    $('#togglefourteen').val('show solution');
-  }
-}
-&lt;/script&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;input id=&quot;togglefourteen&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;togglefourteen()&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span id=&quot;fourteenHint&quot; style=&quot;display:none&quot;&gt;The 32 doesn’t actually matter. What matters is the “P”. P is the element. After looking it up on the periodic table, you see that it’s atomic number is 15, meaning that it has 15 protons. Because we assume the atom is neutral, then it would have 15 electrons.&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Which of the following is an example of the law of multiple proportions?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A sample of chlorine is found to contain three times as much Cl-35  as Cl-37&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Two different compounds formed from carbon and oxygen have the following mass ratios: 1.33 g O: 1 g C and 2.66 g O: 1 g C.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Two different samples of table salt are found to have the same ratio of sodium to chlorine.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; The atomic mass of bromine is found to be 79.90 amu&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; Nitrogen dioxide always has a mass ratio of 2.28 g O: 1 g N&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The mass of a single arsenic atom is 1.244 * 10^-22 g. This is the same mass as
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1.244 * 10^-16 mg&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 1.244 * 10^-25 kg&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1.244 * 10^-28 μg&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1.244 * 10^-31 ng&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Electromagnetic radiation with a wavelength of 640 nm appears as orange light to the human eye. The frequency of this light is _ s^-1.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 4.688 * 10^14&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 4.688 * 10^5&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1.920 * 10^2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1.920 * 10^11&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 2.133 * 10^-15&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;How much energy (in kJ) do 3.0 moles of photons, all with wavelength of 675 nm, contain?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 177 kJ&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 354 kJ&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 418 kJ&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 532 kJ&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 238 kJ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The density of air under ordinary conditions at 25°C is 1.19 g/L. How many kilograms of air are in a room that measures 10.0 ft x 11.0 ft and has an 10.0 ft ceiling? 1 in = 2.54cm; 1 L = 10^3 cm^3
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 3.32&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 0.138&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 3.71 * 10^4&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 0.0795&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 37.1&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Which of the following are examples of extensive properties?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; volume&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; color&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; density&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; temperature&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; solubility&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Gallium has an atomic mass of 69.723 amu. The Ga-69 (68.926 amu) is 60.111%. What is the amu of the other isotope?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 70.924 amu&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 70.932 amu&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 70.928 amu&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 70.928 amu&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script&gt;
-var answers = [&quot;e&quot;, &quot;a&quot;, &quot;d&quot;, &quot;b&quot;, &quot;a&quot;, &quot;e&quot;, &quot;b&quot;, &quot;d&quot;, &quot;c&quot;, &quot;e&quot;, &quot;e&quot;, &quot;a&quot;, &quot;c&quot;, &quot;e&quot;, &quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;d&quot;, &quot;e&quot;, &quot;a&quot;, &quot;a&quot;];
-function getAnswer(number) {
-  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
-}
-function validate() {
-  var any = false;
-  for (var i = 1; i &lt; 22; i++) {
-    var answer = getAnswer(i);
-    if (!answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
-      any = true;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
-    }
-  }
-  if (any) {
-    toastr.error(&quot;You did not answer every question!&quot;);
-  }
-  return !any;
-}
-function grade() {
-  if (!validate()) return;
-  var correct = 0;
-  for (var i = 1; i &lt; 22; i++) {
-    var answer = getAnswer(i);
-    if (answers[i-1] == answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
-      correct++;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
-    }
-  }
-  toastr.success(&quot;Your grade is &quot;+ ((correct/21) * 100).toFixed(2) + &quot; out of 100&quot;);
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 12 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/09/12/test-1-review-answers.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/12/test-1-review-answers.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 4 - Day 2</title>
-        <description>
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-4-day-2.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;jDpNgDv-Gy0&quot;});
-&lt;/script&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2hp5fp&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;average was about a 68% for test 1&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;ch-3---part-3&quot;&gt;Ch 3 - part 3&lt;/h1&gt;
-
-&lt;h2 id=&quot;phet-simulation&quot;&gt;Phet simulation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-a-string_en.html&quot;&gt;standing waves&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:00:41.936541&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;applying-wave-theory&quot;&gt;Applying Wave Theory&lt;/h2&gt;
-
-&lt;h2 id=&quot;why-is-e--energy-quantized&quot;&gt;Why is e- energy quantized?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:01:44.988052&lt;/li&gt;
-  &lt;li&gt;De Broglie (1924) reasoned that e- is both particle and
-wave.
-    &lt;ul&gt;
-      &lt;li&gt;Electron is a particle but has wave properties&lt;/li&gt;
-      &lt;li&gt;Particles therefore must have both wave and particle properties
-        &lt;ul&gt;
-          &lt;li&gt;Audio 0:03:05.742985&lt;/li&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-010ea.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-7b94b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;schrodinger-wave-equation&quot;&gt;Schrodinger Wave Equation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:04:54.889022
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-bb7de.png&quot; alt=&quot;&quot; /&gt;
-        &lt;ul&gt;
-          &lt;li&gt;Don’t have to know this&lt;/li&gt;
-          &lt;li&gt;H is an operator&lt;/li&gt;
-          &lt;li&gt;Audio 0:06:08.804355&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In 1926 Schrodinger wrote an equation that described both the particle and wave nature of the e&lt;/li&gt;
-  &lt;li&gt;H is called an “operator”: in this case taking the second derivative with respect to x, y, and z. E is the energy&lt;/li&gt;
-  &lt;li&gt;Solution is a wave function: Ψ&lt;/li&gt;
-  &lt;li&gt;Audio 0:06:34.389254
-    &lt;ol&gt;
-      &lt;li&gt;energy of e- is given by Ψ&lt;/li&gt;
-      &lt;li&gt;Ψ2 is the probability of finding e- in a volume of space&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A simple example of a wavefunction is:
-    &lt;ul&gt;
-      &lt;li&gt;Ψ=Asin(x)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;energy of e- is given by Ψ&lt;/li&gt;
-  &lt;li&gt;Audio 0:08:02.302205&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Ψ^2 is the probability&lt;/em&gt; of finding e- in a volume of space&lt;/li&gt;
-  &lt;li&gt;Audio 0:09:23.819222&lt;/li&gt;
-  &lt;li&gt;Schrodinger’s equation can only be solved exactly for simple systems (H atom). Must approximate its solution for multi- electron systems.
-    &lt;ul&gt;
-      &lt;li&gt;Our approximations though are good enough to work in practical application&lt;/li&gt;
-      &lt;li&gt;Horizon made it to Pluto for example&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quantum-numbers-the-solutions-from-the-wave-function-&quot;&gt;Quantum Numbers: The Solutions from the Wave Function, ψ&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:12:06.144429&lt;/li&gt;
-  &lt;li&gt;Calculations show that the size, shape, and orientation in space of an orbital are determined by three integer terms in the wave function.
-    &lt;ul&gt;
-      &lt;li&gt;Quantize the energy of the electron&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;These integers (solutions) are called &lt;em&gt;quantum numbers&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;There are four quantum numbers:
-        &lt;ul&gt;
-          &lt;li&gt;Principal quantum number,n
-            &lt;ul&gt;
-              &lt;li&gt;Energy level&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Angular momentum quantum number, l
-        &lt;ul&gt;
-          &lt;li&gt;Orbital type&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Magnetic quantum number, ml
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:14:21.378733&lt;/li&gt;
-      &lt;li&gt;Position of orbital in an X-Y-Z plot&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Spin quantum number, ms
-    &lt;ul&gt;
-      &lt;li&gt;Orientation of the spin of the electron&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;These quantum numbers control how electrons are distributed in an atom&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;principal-quantum-number-n-the-energy-level&quot;&gt;Principal Quantum Number, n: The Energy Level&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:15:13.929935&lt;/li&gt;
-  &lt;li&gt;It characterizes the energy of the electron in a particular orbital.
-    &lt;ul&gt;
-      &lt;li&gt;It is Bohr’s energy level.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Values of n can be any whole number integer &amp;gt;= 1.&lt;/li&gt;
-  &lt;li&gt;It &lt;em&gt;determines the size (overall) and energy of an orbital&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;The larger the value of n, the more energy the orbital has.&lt;/li&gt;
-  &lt;li&gt;The larger the value of n, the larger the orbital.&lt;/li&gt;
-  &lt;li&gt;Audio 0:17:10.934989&lt;/li&gt;
-  &lt;li&gt;Energies are defined as being “negative.”
-    &lt;ul&gt;
-      &lt;li&gt;An electron’s energy is lowered (made more negative) as a result of its interaction with the nucleus of the atom.
-        &lt;ul&gt;
-          &lt;li&gt;An electron would have E = 0 when it escapes the atom.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;As n gets larger, the following occurs:
-        &lt;ul&gt;
-          &lt;li&gt;The amount of energy between orbitals gets smaller.&lt;/li&gt;
-          &lt;li&gt;The energy of the orbital becomes greater (less negative).&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-1ab1e.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Won’t have to memorize this, but will need to know the energy is about 1/n^2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Rydberg constant for hydrogen (R_h) is 2.10 * 10^-8 J&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;principal-energy-level-in&quot;&gt;Principal Energy Level in&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:18:47.513089&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-e49c7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;angular-momentum-quantum-number-l-the-orbital-quantum-number&quot;&gt;Angular Momentum Quantum Number, l: The Orbital Quantum Number&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:19:37.169700&lt;/li&gt;
-  &lt;li&gt;The angular momentum quantum number &lt;em&gt;determines the shape of the orbital&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;l can have integer values from 0 to (n – 1).
-        &lt;ul&gt;
-          &lt;li&gt;Ex n = 1
-            &lt;ul&gt;
-              &lt;li&gt;Only l=0 is allowed&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;n = 2
-            &lt;ul&gt;
-              &lt;li&gt;l = 0 or l = 1 are allowed&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Each value of l is designated by a particular letter that
-designates the shape of the orbital.
-    &lt;ul&gt;
-      &lt;li&gt;s orbitals are spherical.&lt;/li&gt;
-      &lt;li&gt;p orbitals are like two balloons tied at the knots (dumbbell shape).&lt;/li&gt;
-      &lt;li&gt;d orbitals are mainly like four balloons tied at the knots.&lt;/li&gt;
-      &lt;li&gt;f orbitals are mainly like eight balloons tied at the knots.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;magnetic-quantum-number-ml-the-position-or-orientation-quantum-number&quot;&gt;Magnetic Quantum Number, ml: The Position or Orientation Quantum Number&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:22:55.744076&lt;/li&gt;
-  &lt;li&gt;The magnetic quantum number is an integer that specifies the orientation of the orbital.
-    &lt;ul&gt;
-      &lt;li&gt;The direction in space the orbital is aligned relative to the other orbitals&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Values are integers from −l to +l.
-    &lt;ul&gt;
-      &lt;li&gt;Including zero&lt;/li&gt;
-      &lt;li&gt;Gives the number of orbitals of a particular shape
-        &lt;ul&gt;
-          &lt;li&gt;When l=2,the values of ml are−2,−1,0,+1,+2, which means there are five orbitals with l = 2.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;describing-an-orbital&quot;&gt;Describing an Orbital&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:24:11.173521&lt;/li&gt;
-  &lt;li&gt;Each set of n, l, and ml describes one orbital.&lt;/li&gt;
-  &lt;li&gt;Orbitals with the same value of n are in the
-same principal energy level.
-    &lt;ul&gt;
-      &lt;li&gt;Also called the principal shell&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Orbitals with the same values of n and l are said to be in the same sublevel.
-    &lt;ul&gt;
-      &lt;li&gt;Also called a subshell&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;illustration-of-energy-levels-and-sublevels&quot;&gt;Illustration of Energy Levels and Sublevels&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:25:57.120934&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-d77fb.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;energy-levels-and-sublevels&quot;&gt;Energy Levels and Sublevels&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:50.216152&lt;/li&gt;
-  &lt;li&gt;In general:
-    &lt;ul&gt;
-      &lt;li&gt;The number of sublevels within a level = n&lt;/li&gt;
-      &lt;li&gt;the number of orbitals within a level = 2l + 1&lt;/li&gt;
-      &lt;li&gt;The number of orbitals in a level = n^2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quantum-leaps&quot;&gt;Quantum Leaps&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:27:59.907574&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-19bd6.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;When  an electron falls from a higher to lower energy level, light is emitted
-        &lt;ul&gt;
-          &lt;li&gt;An unstable state is when an electron is sitting in a state greater than 1&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;how-does-the-quantum-mechanical-model-of-an-atom-explain-atomic-spectra&quot;&gt;How Does the Quantum Mechanical Model of an Atom Explain Atomic Spectra?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:29:26.973235&lt;/li&gt;
-  &lt;li&gt;Each wavelength in the spectrum of an atom corresponds to an electron transition between
-orbitals.&lt;/li&gt;
-  &lt;li&gt;When an electron is excited, it transitions from an orbital in a lower energy level to an orbital in a higher energy level.&lt;/li&gt;
-  &lt;li&gt;When an electron relaxes, it transitions from an orbital in a higher energy level to an orbital in a lower energy level.&lt;/li&gt;
-  &lt;li&gt;When an electron relaxes, a photon of light is released whose energy equals the energy difference between the orbitals.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;it-explains-electron-transitions&quot;&gt;It Explains Electron Transitions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:30:54.218927&lt;/li&gt;
-  &lt;li&gt;To transition to a higher energy state, the electron must gain the correct amount of energy corresponding to the difference in energy between the final and initial states.&lt;/li&gt;
-  &lt;li&gt;Electrons in high energy states are unstable and tend to lose energy and transition to lower energy states.&lt;/li&gt;
-  &lt;li&gt;Each line in the emission spectrum corresponds to the difference in energy between two energy states.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;it-predicts-the-spectrum-of-hydrogen&quot;&gt;It Predicts the Spectrum of Hydrogen&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:31:35.930644
-• For an electron in an energy state n, there are (n–1) energy states it can transition to. Therefore, it can generate (n – 1) lines.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;energy-transitions-in-hydrogen&quot;&gt;Energy Transitions in Hydrogen&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:20.175336&lt;/li&gt;
-  &lt;li&gt;The energy of a photon released is equal to the difference in energy between the two levels the electron is jumping between.&lt;/li&gt;
-  &lt;li&gt;It can be calculated by subtracting the energy of the initial state from the energy of the final state.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-e86c3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;Don’t have to memorize this, just remember the 1/n^2 part&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;transitions&quot;&gt;Transitions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-03973.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:36:02.535972&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;example-problem&quot;&gt;Example problem&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:37:09.180400&lt;/li&gt;
-  &lt;li&gt;Calculate the wavelength (in nm) of a photon emitted by a hydrogen atom when its electron drops from the n = 5 state to the n = 3 state.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-09-week-4-day-2-9ffd3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Calculate the wavelength of the light emitted by a
-hydrogen atom during a transition of its electron from the n = 4 to the n = 1 principal energy level. Recall that for hydrogen En = -2.18 * 10-18 J*(1/n2)&lt;/li&gt;
-  &lt;li&gt;Audio 0:44:32.880831
-A) 97.3 nm
-B) 82.6 nm
-C) 365 nm
-D) 0.612 nm
-E) 6.8 * 10-18 nm&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:45:56.374508&lt;/li&gt;
-  &lt;li&gt;It is possible to determine the ionization energy for
-hydrogen using the Bohr equation. Calculate the ionization
-energy for an atom of hydrogen, making the assumption
-that ionization is the transition from n=1 to n=infinity
-(RH=2.18 x 10-18 J)
-A) -2.18 × 10-18 J
-B) +2.18 × 10-18 J
-C) +4.59 × 10-18 J
-D) -4.59 × 10-18 J
-E) +4.36 × 10-18 J&lt;/li&gt;
-  &lt;li&gt;B&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;quantum numbers&lt;/td&gt;
-      &lt;td&gt;integer solutions to the wave functions (energy level n, orbital level l, magnetic quantum number m_l, and spin quantum number m_s)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;(quantum number) n&lt;/td&gt;
-      &lt;td&gt;quantum number which controls the size and energy of an orbital&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;(quantum number) l&lt;/td&gt;
-      &lt;td&gt;quantum number which controls the shape of the orbital&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;s orbital shape&lt;/td&gt;
-      &lt;td&gt;spherical&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;p orbital shape&lt;/td&gt;
-      &lt;td&gt;like two balloons tied at the knots&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;d orbital shape&lt;/td&gt;
-      &lt;td&gt;like four balloons tied together&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;f orbital shape&lt;/td&gt;
-      &lt;td&gt;like eight balloons tied together at the knots&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;m_l (quantum number)&lt;/td&gt;
-      &lt;td&gt;quantum number which controls the position or orientation of orbitals&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;sublevel (subshell)&lt;/td&gt;
-      &lt;td&gt;orbitals with the same values of n and l are said to be in the same _&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;excited&lt;/td&gt;
-      &lt;td&gt;An electron is said to be this when it transitions from an orbital of lower energy to an orbital of higher energy&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;relaxes&lt;/td&gt;
-      &lt;td&gt;An electron is said to do this when it transitions from an orbital of higher to lower energy&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Fri, 09 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/09/09/week-4-day-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/09/week-4-day-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 4 - Day 1</title>
-        <description>
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-4-day-1.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;0MOnuG2DncI&quot;});
-&lt;/script&gt;
-
-&lt;p&gt;Last lecture before test 1!&lt;/p&gt;
-
-&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Test tonight
-    &lt;ul&gt;
-      &lt;li&gt;Only like 20 Questions&lt;/li&gt;
-      &lt;li&gt;Pencil, eraser, photo-ID&lt;/li&gt;
-      &lt;li&gt;Audio 0:00:31.902459&lt;/li&gt;
-      &lt;li&gt;No, no, no phones&lt;/li&gt;
-      &lt;li&gt;You should know all the prefixes
-        &lt;ul&gt;
-          &lt;li&gt;how many ml in a liter&lt;/li&gt;
-          &lt;li&gt;Any imperial to metric will be given&lt;/li&gt;
-          &lt;li&gt;12 in to a foot and 3 ft to a yard&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-question&quot;&gt;Clicker Question&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Find wavelength of electron with velocity of 1.87&lt;em&gt;10^7 m/s and mass of 9.11&lt;/em&gt;10^-31 kg&lt;/li&gt;
-  &lt;li&gt;Audio 0:10:28.871589&lt;/li&gt;
-  &lt;li&gt;.0388 nm&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-07-week-4-day-1-0a1c8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;wave-nature-of-particles&quot;&gt;Wave Nature of Particles&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:15:57.282705&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-82d87.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electron-diffraction&quot;&gt;Electron Diffraction&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:19:15.239273&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-3b5ae.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Transmission Electron Microscope
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-f97f0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;If electrons behave only like particles, there should be only two bright spots on the target.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-ce383.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;trajectory-vs-probability&quot;&gt;Trajectory Vs Probability&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:21:20.562074&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-07-week-4-day-1-35a6e.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;If you know the forces acting on an object with classical trajectory, you can tell exactly where it will land&lt;/li&gt;
-      &lt;li&gt;With electrons, you can only know with a degree of certainty where it will be&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;uncertainty-principle-demonstration&quot;&gt;Uncertainty Principle Demonstration&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-07-week-4-day-1-c39ba.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;heisenbergs-uncertainty-principle&quot;&gt;Heisenberg’s Uncertainty Principle&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Heisenberg stated that the product of the uncertainties in both the position and speed of a particle was inversely proportional to its mass.
-    &lt;ul&gt;
-      &lt;li&gt;x = position, Δx = uncertainty in position&lt;/li&gt;
-      &lt;li&gt;v= velocity, Δv = uncertainty in velocity&lt;/li&gt;
-      &lt;li&gt;m=mass
-        &lt;ul&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-07-week-4-day-1-0243d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;This means that the more accurately you know the position of a small particle, such as an electron, the less you know about its speed, and vice versa.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Stopped short for practice questions&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;q1&quot;&gt;Q1&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;An element has three stable isotopes with masses of 27.977 amu, 28.976 amu, and 29.973 amu. The heavier two isotopes have an abundance of 4.68 % and 3.09 %. What is the atomic mass of the element?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-07-week-4-day-1-e51b5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;q2&quot;&gt;Q2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Rank in order of increasing mass
-    &lt;ul&gt;
-      &lt;li&gt;proton &amp;lt; neutron &amp;lt; electron&lt;/li&gt;
-      &lt;li&gt;proton &amp;lt; electron &amp;lt; neutron&lt;/li&gt;
-      &lt;li&gt;electron &amp;lt; neutron &amp;lt; proton&lt;/li&gt;
-      &lt;li&gt;electron &amp;lt; proton &amp;lt; neutron&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;(answer is C)&lt;/p&gt;
-
-&lt;h2 id=&quot;q3&quot;&gt;Q3&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;How many protons, neutrons, and electrons are in isotope ^65_28X
-    &lt;ul&gt;
-      &lt;li&gt;36 neutrons, 29 protons, and 29 electrons&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;q4&quot;&gt;Q4&lt;/h2&gt;
-
-&lt;p&gt;When waves of equal amplitude from two sources are in phase when they interact, it is called =&amp;gt; constructive interference&lt;/p&gt;
-
-&lt;h2 id=&quot;q5&quot;&gt;Q5&lt;/h2&gt;
-
-&lt;p&gt;What is the frequency of an electron with wavelength 486.1 nm?
-  + &lt;img src=&quot;../../../assets/2016-09-07-week-4-day-1-ff6a6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 07 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/09/07/week-4-day-1.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/07/week-4-day-1.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 3 - Recitaion</title>
-        <description>&lt;h2 id=&quot;density-table&quot;&gt;Density table&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-08-31-week-3-day-2-bce8f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;questions&quot;&gt;Questions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Which of the following has the largest density?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A material that has a mass of 10.0 g and a volume of 2.00 L&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; A material that has a mass of 6.13 g and a volume of 5 mL&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; A material that has a mass of 5 g and a volume of 10.0 cm^3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; A material that sinks in ethanol but floats in water&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script&gt;
-var st1 = false;
-function toggleOne() {
-  st1 = !st1;
-  if (st1) {
-    $('#oneHint').show();
-    $('#toggleOne').val('hide');
-  }
-  else {
-    $('#oneHint').hide();
-    $('#toggleOne').val('show solution');
-  }
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input id=&quot;toggleOne&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleOne()&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img id=&quot;oneHint&quot; src=&quot;../../../assets/2016-08-31-week-3-day-2-01032.png&quot; style=&quot;display:none&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A room measures 22 feet in width. What is the distance in meters? 1 in = 2.54 cm
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 72m&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 4.7m&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1.0m&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 6.7m&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script&gt;
-var st2 = false;
-function toggleTwo() {
-  st2 = !st2;
-  if (st2) {
-    $('#twoHint').show();
-    $('#toggleTwo').val('hide');
-  }
-  else {
-    $('#twoHint').hide();
-    $('#toggleTwo').val('show solution');
-  }
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input id=&quot;toggleTwo&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleTwo()&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img id=&quot;twoHint&quot; src=&quot;../../../assets/2016-08-31-week-3-day-2-98096.png&quot; style=&quot;display:none&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;How many ounces of mercury are in 1.0 m^3 of mercury? Hint: 1 oz = 28.35 g.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 6.5 * 10^6 oz&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 4.8 * 10^5 oz&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 5.2 * 10^4 oz&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 6.5 * 10^4 oz&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 48 oz&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Determine the mass of 2.5 cups of water if the density of water is 1.00 g/cm^3 and 1 cup = 240 mL
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 2.5 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 6.0 * 10^2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1.0 * 10^-2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 2.4 * 10^2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 1.0 * 10^2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A cube of aluminum (density = 2.7 g/mL) has a mass of 17.2 g. What is the edge length of the cube?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 6.34 cm&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 1.85 cm&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 2.58 cm&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 3.59 cm&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Which of the following is FALSE?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; The mole can be used to specify Avogadro’s number of anything&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Avogadro’s number, 6.022 * 10^23, is an exact number.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; The mole is equal to the number of atoms in exactly 12 g of carbon-12.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; The value of an element’s molar mass in grams per mole is numerically equal to the element’s atomic mass in amu.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Place the following types of electromagnetic radiation in order of decreasing energy
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; radio waves &amp;gt; infrared light &amp;gt; gamma rays&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; gamma rays &amp;gt; infrared light &amp;gt; radio waves&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; radio waves &amp;gt; gamma rays &amp;gt; infrared light&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; gamma rays &amp;gt; radio waves &amp;gt; infrared light&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Calculate the wavelength (in nm) of the blue light emitted by a mercury lamp with a frequency of 6.88 * 10^14 Hz.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 229 nm&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 436 nm&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 206 nm&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 485 nm&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 675 nm&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;How many moles of Kr are contained in 398 mg of Kr?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 4.75 * 10^-3 moles Kr&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 33.4 moles Kr&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 2.11 * 10^-4 moles Kr&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 2.99 * 10^-3 moles Kr&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 1.19 * 10^-4 moles Kr&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Calculate the mass (in kg) of 4.87 * 10^25 atoms of Zn
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 5.29 kg&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 1.89 kg&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 8.09 kg&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1.24 kg&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 1.09 kg&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script&gt;
-var answers = [&quot;b&quot;, &quot;d&quot;, &quot;b&quot;, &quot;b&quot;, &quot;b&quot;, &quot;b&quot;, &quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;a&quot;];
-function getAnswer(number) {
-  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
-}
-function validate() {
-  var any = false;
-  for (var i = 1; i &lt; 10; i++) {
-    var answer = getAnswer(i);
-    if (!answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
-      any = true;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
-    }
-  }
-  if (any) {
-    toastr.error(&quot;You did not answer every question!&quot;);
-  }
-  return !any;
-}
-function grade() {
-  if (!validate()) return;
-  var correct = 0;
-  for (var i = 1; i &lt; 11; i++) {
-    var answer = getAnswer(i);
-    if (answers[i-1] == answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
-      correct++;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
-    }
-  }
-  toastr.success(&quot;Your grade is &quot;+ ((correct/10) * 100).toFixed(2) + &quot; out of 100&quot;);
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 02 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/09/02/week-3-recitaion.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/02/week-3-recitaion.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 3 - Day 3</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2gl5z0&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-3-day-3.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;z11WHfPI_cE&quot;});
-&lt;/script&gt;
-
-&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:00:12.758487&lt;/li&gt;
-  &lt;li&gt;MyLabs Plus
-    &lt;ul&gt;
-      &lt;li&gt;Troubles&lt;/li&gt;
-      &lt;li&gt;If you are still experiencing error messages, the problem is probably with your browser
-        &lt;ul&gt;
-          &lt;li&gt;Try clearing your cache and cookies&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;If your lab TA e-mails you that you can’t come to lab because you can’t use the homework site you will not be able to come
-        &lt;ul&gt;
-          &lt;li&gt;But if you follow “procedure” (not sure what procedure) you will be allowed to come (assuming the problem is actually with the Pearson site)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;test-1&quot;&gt;Test 1&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Next Wednesday in our usual classroom at 6:30 PM
-    &lt;ul&gt;
-      &lt;li&gt;All you should bring is a pencil, calculator, and photo-ID&lt;/li&gt;
-      &lt;li&gt;Try to get here close to time
-        &lt;ul&gt;
-          &lt;li&gt;If you forget your photo ID, it’s fixable, but a nuisance&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Can’t leave the test before 7:05 PM even if you get through at 6:31 PM&lt;/li&gt;
-      &lt;li&gt;Should know all the constants we’ve used and the three formulas we’ve used&lt;/li&gt;
-      &lt;li&gt;Audio 0:09:21.043687
-        &lt;ul&gt;
-          &lt;li&gt;Anything in chapters 1, 2, or 3&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Not all of chapter 3 will be on the test&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;chapter-3---part-2&quot;&gt;Chapter 3 - Part 2&lt;/h1&gt;
-
-&lt;h2 id=&quot;black-body-problem-solved-by-planck-in-1900&quot;&gt;“Black Body Problem” Solved by Planck in 1900&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:12:13.134181&lt;/li&gt;
-  &lt;li&gt;“… an act of despair … I was ready to sacrifice any of my previous convictions about physics …”&lt;/li&gt;
-  &lt;li&gt;Energy (light) is emitted or absorbed in discrete units (quantum).&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-a2326.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:12:39.255151&lt;/li&gt;
-      &lt;li&gt;“One of the 7 or 8 numbers that define our universe”&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;“a purely formal assumption … actually I did not think much about it…”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;mystery-2-photoelectric-effect-solved-by-einstein-in-1905&quot;&gt;Mystery 2, “Photoelectric Effect” Solved by Einstein in 1905&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:13:59.822330&lt;/li&gt;
-  &lt;li&gt;“for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect” 1921
-    &lt;ul&gt;
-      &lt;li&gt;Light has both:
-        &lt;ol&gt;
-          &lt;li&gt;wave nature&lt;/li&gt;
-          &lt;li&gt;particle nature&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Photon is a “particle” of light
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:15:56.294916&lt;/li&gt;
-      &lt;li&gt;Photo electrons are emitted as soon as you turn the light on is explained by the photon description&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Predicted that KE would be linearly dependent upon frequency&lt;/li&gt;
-  &lt;li&gt;hv = KE + BE&lt;/li&gt;
-  &lt;li&gt;KE = hv - BE&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;example&quot;&gt;Example&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Audio 0:16:45.896720&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;When copper is bombarded with high-energy electrons, X rays are emitted. Calculate the energy (in joules) associated with the photons if the wavelength of the X rays is 0.154 nm&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-ab12f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-question&quot;&gt;Clicker Question&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:22:58.445126&lt;/li&gt;
-  &lt;li&gt;A photon has a wavelength of 624 nm. Calculate the energy of the photon in joules
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-0fb66.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Are there any extra reviews before the test?
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:27:22.163854&lt;/li&gt;
-      &lt;li&gt;Some of Wednesday’s lecture will be review&lt;/li&gt;
-      &lt;li&gt;Also, there’s practice on the MyLabsPlus website&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;emission-spectra&quot;&gt;Emission Spectra&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:28:51.812590&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-d8c48.png&quot; alt=&quot;Emission spectra&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Light had been thought of as a wave for a long time and now it’s being thought of as particles
-    &lt;ul&gt;
-      &lt;li&gt;People were asking why is light emitted and absorbed in fixed quantities?&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;examples-of-spectra&quot;&gt;Examples of Spectra&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:30:24.253251&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-89007.png&quot; alt=&quot;Examples of spectra&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Each element has its own emission spectrum&lt;/li&gt;
-  &lt;li&gt;All of this points to atoms emitting and absorbing light / energy in discrete packets&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-bohr-model-of-the-atom&quot;&gt;The Bohr Model of the Atom&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:31:23.054768&lt;/li&gt;
-  &lt;li&gt;The nuclear model of the atom (Rutherford model) does not explain what structural changes occur when the atom gains or loses energy.
-    &lt;ul&gt;
-      &lt;li&gt;He hypothesized that only certain orbits are allowed and came up with a model which predicted what was observed&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Bohr developed a model of the atom to explain how the structure of the atom changes when it undergoes energy transitions.&lt;/li&gt;
-  &lt;li&gt;Bohr’s major idea was that the energy of the atom was quantized, and that the amount of energy in the atom was related to the electron’s position in the atom.
-    &lt;ul&gt;
-      &lt;li&gt;Quantized means that the atom could have only very specific amounts of energy.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;bohrs-model&quot;&gt;Bohr’s Model&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:22.750198&lt;/li&gt;
-  &lt;li&gt;The electrons travel in orbits that are at a fixed distance from the nucleus.
-    &lt;ul&gt;
-      &lt;li&gt;Found different shapes of orbits&lt;/li&gt;
-      &lt;li&gt;Stationary states&lt;/li&gt;
-      &lt;li&gt;Therefore, the energy of the electron was proportional to the distance the orbit was from the nucleus.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Electrons emit radiation when they “jump” from an orbit with higher energy down to an orbit with lower energy.
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:32:58.969212&lt;/li&gt;
-      &lt;li&gt;The emitted radiation was a photon of light.&lt;/li&gt;
-      &lt;li&gt;The distance between the orbits determined the energy of the photon of light produced.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;bohr-model-of-h-atoms&quot;&gt;Bohr Model of H Atoms&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:33:26.216675&lt;/li&gt;
-  &lt;li&gt;Shows how particles jump orbits&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-b600d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;bohrs-model-of-the-atom-1913&quot;&gt;Bohr’s Model of the Atom (1913)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:33:46.737388
-    &lt;ol&gt;
-      &lt;li&gt;e- can only have specific (quantized) energy values&lt;/li&gt;
-      &lt;li&gt;light is emitted as e- and moves from one energy level to a lower energy level
-        &lt;ul&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-08ac8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;n (principal quantum number) = 1,2,3,…&lt;/li&gt;
-  &lt;li&gt;RH (Rydberg constant) = 2.18 x 10-18J
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-c6959.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;weakness-of-bohrs-model&quot;&gt;Weakness’ of Bohr’s Model&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:35:34.154227&lt;/li&gt;
-  &lt;li&gt;Only worked for Hydrogen, Li 2+, and Be 3+&lt;/li&gt;
-  &lt;li&gt;Only for a nucleus and one electron&lt;/li&gt;
-  &lt;li&gt;When charges are forced through curved path they emit radiation (Bermsstrahlung) so “orbits around nuclei are unstable”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;wave-behavior-properties-interference&quot;&gt;Wave Behavior Properties: Interference&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:36:55.247976&lt;/li&gt;
-  &lt;li&gt;Einstein says light has wave and particle properties&lt;/li&gt;
-  &lt;li&gt;Now we think maybe particles have wave properties&lt;/li&gt;
-  &lt;li&gt;The interaction between waves (e.g., electromagnetic, ocean) is called interference.&lt;/li&gt;
-  &lt;li&gt;Interference Types:
-    &lt;ul&gt;
-      &lt;li&gt;Constructive interference: waves that interact so that they make a larger wave are said to be in phase
-        &lt;ul&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-0d338.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Destructive interference: Waves that interact so that they cancel each other out are said to be out of phase
-        &lt;ul&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-9772a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;two-slit-interference&quot;&gt;Two-Slit Interference&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:38:15.810042&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-a7667.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Diffraction pattern
-    &lt;ul&gt;
-      &lt;li&gt;Either it goes through a slit or it doesn’t&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;wave-behavior-properties-diffraction&quot;&gt;Wave Behavior Properties: Diffraction&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:38:41.975443&lt;/li&gt;
-  &lt;li&gt;When traveling waves encounter an obstacle or opening in a barrier that is about the same size as the wavelength, they bend around it; this is called diffraction.
-    &lt;ul&gt;
-      &lt;li&gt;Traveling particles do not diffract&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The diffraction of light through two slits separated by a distance comparable to the wavelength results in an interference pattern of the diffracted waves.&lt;/li&gt;
-  &lt;li&gt;An interference pattern is a characteristic of all light waves.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-89af1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;wave-behavior-of-electrons&quot;&gt;Wave Behavior of Electrons&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:39:38.320960&lt;/li&gt;
-  &lt;li&gt;De Broglie proposed that particles could have wavelike character.&lt;/li&gt;
-  &lt;li&gt;De Broglie predicted that the wavelength of a particle was inversely proportional to its momentum.&lt;/li&gt;
-  &lt;li&gt;Because it is so small, the wave character of electrons is significant.&lt;/li&gt;
-  &lt;li&gt;De Broglie relation
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-afe2d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;example-problem&quot;&gt;Example problem&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:40:32.639227&lt;/li&gt;
-  &lt;li&gt;What are the de Broglie wavelengths (in nm) associated with an electron traveling at 6.0 * 10^5 ms-1 and a 52.5 g Ping-Pong ball traveling at 15.6 m/s?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-02-week-3-day-3-dac17.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;wave particle duality of light&lt;/td&gt;
-      &lt;td&gt;describes that light acts like a wave and a particle in different scenarios&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;photon&lt;/td&gt;
-      &lt;td&gt;particle of light&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;quantized&lt;/td&gt;
-      &lt;td&gt;Property of atoms meaning that the atom could have only very specific amounts of energy&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;constructive interference (in phase)&lt;/td&gt;
-      &lt;td&gt;occurs when waves that interact so that they make a larger wave&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;destructive interference (out of phase)&lt;/td&gt;
-      &lt;td&gt;occurs when waves interact so that they cancel each other out&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;diffraction&lt;/td&gt;
-      &lt;td&gt;occurs when waves bend around an obstacle or opening in a barrier which is about the same size as the wavelength&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Fri, 02 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/09/02/week-3-day-3.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/02/week-3-day-3.html</guid>
         
         
       </item>
