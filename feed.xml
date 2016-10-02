@@ -6,9 +6,39 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Oct 2016 15:20:51 -0500</pubDate>
-    <lastBuildDate>Sun, 02 Oct 2016 15:20:51 -0500</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2016 15:39:30 -0500</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2016 15:39:30 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Test 2 Prep</title>
+        <description>&lt;p&gt;Test 2 is on chapters 4 - 6. Here are my suggestions for preparing for the exam. Look at the notes for weeks 5 - 8.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Work Recitation Questions
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/09/21/week-5-recitation-1st-for-test-2.html&quot;&gt;Recitation from Week 5&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;I will try to get Week 7’s up tonight or tomorrow.&lt;/li&gt;
+      &lt;li&gt;Week 8, Dr. Bakker was sick&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Work the clicker questions from lectures from weeks 5 - 8&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/Jared_Beach/folders/ch-101-test-2&quot;&gt;Study these Quizlets&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;This includes the names of compounds you need to know from Chapter 5.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Work the problems at the end of chapters 4 - 6 and post questions to our &lt;a href=&quot;https://www.facebook.com/groups/1808499582716052/&quot;&gt;Facebook Group&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Good luck on the exam!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/10/02/test-2-prep.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/02/test-2-prep.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 7 - Day 3</title>
@@ -3574,348 +3604,6 @@ electrons the sublevel can hold.&lt;/li&gt;
         <pubDate>Wed, 14 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/09/14/week-5-day-2.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/14/week-5-day-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 5 - Day 1</title>
-        <description>
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-5-day-1.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;MsGVk4aJ56I&quot;});
-&lt;/script&gt;
-
-&lt;h1 id=&quot;end-of-chapter-3--beginning-of-chapter-4&quot;&gt;End of chapter 3 / Beginning of chapter 4&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2hp83r&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;anouncements&quot;&gt;Anouncements&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Going over the clicker question from last class&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;schrodinger-wave-equation&quot;&gt;Schrodinger Wave Equation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:01:46.280749&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;what-are-the-allowed-values-of-quantum-numbers&quot;&gt;What are the allowed values of quantum numbers?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:02:40.811261&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;schrodinger-wave-equation---fnn-l-ml-ms&quot;&gt;Schrodinger Wave Equation Ψ = fn(n, l, ml, ms)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ψ = fn(n, l, ml, ms)&lt;/li&gt;
-  &lt;li&gt;principal quantum number n&lt;/li&gt;
-  &lt;li&gt;n = 1, 2, 3, 4, ….&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-d8592.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:05:02.318180&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-bd478.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;You are trying to find where the electron &lt;em&gt;probably&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;The sphere is 90% chance of where you can find the electron&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-l-quantum-number&quot;&gt;The l quantum number&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:07:39.803509&lt;/li&gt;
-  &lt;li&gt;controls shape of the space the electron can occupy&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-dab8c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;l--0-s-orbitals&quot;&gt;l = 0 (s orbitals)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-6e66a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;l--2-d-orbitals&quot;&gt;l = 2 (d orbitals)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:09:58.512569&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-51160.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:12:02.335350&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-429d4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;There are many orientations for different orbital shapes.
-    &lt;ul&gt;
-      &lt;li&gt;For l = 1 (dumbell), you have three m_l orientations&lt;/li&gt;
-      &lt;li&gt;For l = 2 (four balloons), 5 different orientations&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;schrodinger-wave-equation-1&quot;&gt;Schrodinger Wave Equation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:14:45.362121&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-8c7c9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Ψ= fn(n, l, ml, ms)&lt;/li&gt;
-  &lt;li&gt;spin quantum number ms&lt;/li&gt;
-  &lt;li&gt;ms = +1/2 or -1/2&lt;/li&gt;
-  &lt;li&gt;Stern-Gerlach&lt;/li&gt;
-  &lt;li&gt;Audio 0:15:13.028156&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-48892.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:16:48.075265&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-53d23.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-question&quot;&gt;Clicker question&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:18:00.445172&lt;/li&gt;
-  &lt;li&gt;Electrons in an orbital with l = 2 are in a/an?
-    &lt;ul&gt;
-      &lt;li&gt;A) d orbital&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;question-2&quot;&gt;Question 2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:18:38.887100&lt;/li&gt;
-  &lt;li&gt;How many orbitals are allowed in a sublevel if the angular momentum quantum number for electrons in that sublevel is 3
-    &lt;ul&gt;
-      &lt;li&gt;If l = 3 what are possible m_l’s&lt;/li&gt;
-      &lt;li&gt;7&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;question-3&quot;&gt;Question 3&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What is the maximum number of electrons in a atom that can have the following set of quantum numbers?
-    &lt;ul&gt;
-      &lt;li&gt;1&lt;/li&gt;
-      &lt;li&gt;Audio 0:22:52.890279&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;probability--radial-distribution-functions&quot;&gt;Probability &amp;amp; Radial Distribution Functions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:23:12.640771&lt;/li&gt;
-  &lt;li&gt;Ψ2 is the probability density
-    &lt;ul&gt;
-      &lt;li&gt;the probability of finding an electron at a particular point in space&lt;/li&gt;
-      &lt;li&gt;for s orbital: maximum at the nucleus?&lt;/li&gt;
-      &lt;li&gt;decreases as you move away from the nucleus&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;the Radial Distribution function represents the total probability at a certain distance from the nucleus
-    &lt;ul&gt;
-      &lt;li&gt;maximum at most probable radius&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;nodes&lt;/em&gt; in the functions are where the probability drops to 0
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-136f2.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;two-dimensional-standing-wave-with-radial-nodes&quot;&gt;Two Dimensional Standing wave with radial nodes&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:28:08.691820&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-0f880.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;s-and-3s&quot;&gt;2s and 3s&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:29:43.309772&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-6e06b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Difference between probability density and the radial density&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;chapter-4---periodic-properties-of-the-elements&quot;&gt;Chapter 4 - Periodic Properties of the Elements&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Audio 0:31:36.612589&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;How do we add electrons to orbitals?&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;schrodinger-wave-equation-2&quot;&gt;Schrodinger Wave Equation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:21.264224&lt;/li&gt;
-  &lt;li&gt;Ψ= fn(n, l, ml, ms)&lt;/li&gt;
-  &lt;li&gt;Existence (and energy) of electron in atom is described by its unique wave function Ψ.&lt;/li&gt;
-  &lt;li&gt;Pauli exclusion principle - no two electrons in an atom can have the same four quantum numbers.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-fe98a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:34:53.838546&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;schrodinger-wave-equation-3&quot;&gt;Schrodinger Wave Equation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Shell – electrons with the same value of n&lt;/li&gt;
-  &lt;li&gt;Subshell – electrons with the same values of n and l&lt;/li&gt;
-  &lt;li&gt;Orbital – electrons with the same values of n, l, and ml&lt;/li&gt;
-  &lt;li&gt;How many electrons can an orbital hold?
-    &lt;ul&gt;
-      &lt;li&gt;If n,l,and ml are fixed,then ms =1/2or-1/2 Ψ= (n, l, ml, 1/2)orΨ= (n, l, ml, -1/2)&lt;/li&gt;
-      &lt;li&gt;An orbital can hold 2 electrons&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:36:43.265603&lt;/li&gt;
-  &lt;li&gt;How many 2p orbitals are there in an atom?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-9e641.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-99816.png../../../assets/2016-09-12-week-5-day-1-99816.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;B&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;energy-of-orbitals-in-a-single-electron-atom&quot;&gt;Energy of orbitals in a single electron atom&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:39:54.807493&lt;/li&gt;
-  &lt;li&gt;Energy only depends on principle quantum number n&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-e2cd9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-e673a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;coulombs-law&quot;&gt;Coulomb’s Law&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:41:07.948707&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-10d5b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Coulomb’s law describes the attractions and repulsions between charged particles.
-    &lt;ul&gt;
-      &lt;li&gt;For like charges, the potential energy (E) is positive and decreases as the particles get farther apart as r increases.&lt;/li&gt;
-      &lt;li&gt;For opposite charges, the potential energy is negative and becomes more negative as the particles get closer together.&lt;/li&gt;
-      &lt;li&gt;The strength of the interaction increases as the size of the charges increases.
-        &lt;ul&gt;
-          &lt;li&gt;Electrons are more strongly attracted to a nucleus with a 2+ charge than to a nucleus with a 1+ charge.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;penetration--shielding&quot;&gt;Penetration &amp;amp; Shielding&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:42:15.187414
-&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-feeb8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:43:45.128001&lt;/li&gt;
-  &lt;li&gt;From radial distribution function: 2s orbital penetrates more deeply
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-8d592.png&quot; alt=&quot;&quot; /&gt;
-into 1s orbital than does 2p&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;the weaker penetration =&amp;gt; electrons in the 2p sublevel experience more repulsive force &amp;amp; are more shielded from nucleus (less attractive force)&lt;/li&gt;
-  &lt;li&gt;=&amp;gt;electrons in 2s sublevel lower E than in 2p&lt;/li&gt;
-  &lt;li&gt;Penetration causes the energies of sublevels in the same principal level to not be degenerate.&lt;/li&gt;
-  &lt;li&gt;In the fourth and fifth principal levels, the effects of penetration become so important that the s orbital lies lower in energy than the d orbitals of the previous principal level.&lt;/li&gt;
-  &lt;li&gt;The energy separations between one set of orbitals and the next become smaller beyond the 4s orbital.
-    &lt;ul&gt;
-      &lt;li&gt;The ordering can therefore vary among elements, causing variations in the electron configurations of the transition metals and their ions.&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-e3d72.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;general-energy-ordering-of-orbitals-for-multi-electron-atoms&quot;&gt;General Energy Ordering of Orbitals for Multi-electron Atoms&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:45:59.121493&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-c533a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electron-configurations&quot;&gt;Electron configurations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Electron configuration is how the electrons are distributed among the various atomic orbitals in an atom.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-12-week-5-day-1-d459e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;nodes&lt;/td&gt;
-      &lt;td&gt;parts of a probability density function where probability drops to zero&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;unique&lt;/td&gt;
-      &lt;td&gt;electrons’ existence in an atom is _&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Pauli exclusion principle&lt;/td&gt;
-      &lt;td&gt;Says no two electrons in an atom can have the same four quantum numbers&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;shell&lt;/td&gt;
-      &lt;td&gt;electrons with the same value of n are in the same _&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;subshell&lt;/td&gt;
-      &lt;td&gt;electrons with the same values of n and l are in the same _&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;orbital&lt;/td&gt;
-      &lt;td&gt;electrons with the same values of n, l, and ml are in the same _&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Coulomb’s law&lt;/td&gt;
-      &lt;td&gt;says opposite charges attract and same charges repel&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;electron configuration&lt;/td&gt;
-      &lt;td&gt;how electrons are distributed among the various atomic orbitals in an atom&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Mon, 12 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/09/12/week-5-day-1.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/12/week-5-day-1.html</guid>
         
         
       </item>
