@@ -6,9 +6,684 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Oct 2016 15:39:30 -0500</pubDate>
-    <lastBuildDate>Sun, 02 Oct 2016 15:39:30 -0500</lastBuildDate>
+    <pubDate>Mon, 03 Oct 2016 14:26:06 -0500</pubDate>
+    <lastBuildDate>Mon, 03 Oct 2016 14:26:06 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 8 - Day 1 (Chapter 6 - Pt. 3)</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2larmb&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-8-day-1.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;1c5QAu8EXig&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2nd Test on Wednesday
+    &lt;ul&gt;
+      &lt;li&gt;On material from the end of the last test until what we get to Wednesday&lt;/li&gt;
+      &lt;li&gt;Anything you were asked on the first test, you are expected to know
+        &lt;ul&gt;
+          &lt;li&gt;Although you won’t be asked explicit questions from it&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Similar format to what we saw on the first test&lt;/li&gt;
+      &lt;li&gt;You will not be allowed to leave until 7:10&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Audio 0:05:34.960803&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Choose the best Lewis structure for SeO4^2-&lt;/li&gt;
+  &lt;li&gt;Add up valence electrons and get 6 + 4(6)+ 2 = 32 electrons
+    &lt;ul&gt;
+      &lt;li&gt;Means 16 pairs&lt;/li&gt;
+      &lt;li&gt;This can be drawn 5 different ways.&lt;/li&gt;
+      &lt;li&gt;We can determine that the best solution is the one with two double bonds and the double bonds horizontal&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=RNdLF0SP8Z8&quot;&gt;Video&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;chapter-6-pt-2&quot;&gt;Chapter 6 Pt 2&lt;/h1&gt;
+
+&lt;h1 id=&quot;vsepr-valence-shell-electron-pair-repulsion-a-method-of-predicting-geometry&quot;&gt;VSEPR Valence Shell Electron Pair Repulsion a Method of Predicting Geometry&lt;/h1&gt;
+
+&lt;h2 id=&quot;vsepr-theory-and-molecular-geometries-structure-determines-properties&quot;&gt;VSEPR Theory and Molecular Geometries Structure Determines Properties&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:08:34.357376&lt;/li&gt;
+  &lt;li&gt;Structure of Compounds Determines Their Properties&lt;/li&gt;
+  &lt;li&gt;Properties of molecular substances depend on the structure of the molecule.&lt;/li&gt;
+  &lt;li&gt;The structure includes many factors:
+    &lt;ul&gt;
+      &lt;li&gt;The skeletal arrangement of the atoms&lt;/li&gt;
+      &lt;li&gt;The kind of bonding between the atoms&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ionic, polar covalent, or covalent&lt;/li&gt;
+  &lt;li&gt;The shape of the molecule&lt;/li&gt;
+  &lt;li&gt;Bonding theory predicts the shapes of molecules.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-molecular-geometry&quot;&gt;What is Molecular Geometry?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:08:43.125118&lt;/li&gt;
+  &lt;li&gt;Molecules are three-dimensional objects.&lt;/li&gt;
+  &lt;li&gt;Molecular geometries:
+    &lt;ul&gt;
+      &lt;li&gt;Describe the shape of a molecule with terms that relate to geometric figures&lt;/li&gt;
+      &lt;li&gt;Have characteristic “corners” that indicate the positions of the surrounding atoms around a central atom in the center of the geometric figure&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Have characteristic angles that are called &lt;em&gt;bond angles&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;lewis-theory&quot;&gt;Lewis Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:09:38.911219&lt;/li&gt;
+  &lt;li&gt;Lewis theory predicts there are regions of electron density in an atom. +  These regions of electron density should repel each other
+because the regions are negatively charged.
+    &lt;ul&gt;
+      &lt;li&gt;Some regions result from placing shared pairs of valence electrons between bonding nuclei.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Other regions result from placing unshared valence electrons on a single nuclei.&lt;/li&gt;
+  &lt;li&gt;These regions are called “electron groups”&lt;/li&gt;
+  &lt;li&gt;Audio 0:10:23.928591&lt;/li&gt;
+  &lt;li&gt;This idea can then be extended to predict the shapes of the molecules.
+    &lt;ul&gt;
+      &lt;li&gt;The position of atoms surrounding a central atom will be determined by where the bonding electron groups are.&lt;/li&gt;
+      &lt;li&gt;The positions of the electron groups will be determined by trying to minimize repulsions between them.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vsepr-valence-shell-electron-pair-repulsion-theory&quot;&gt;VSEPR (Valence Shell Electron Pair Repulsion) Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:10:57.562360&lt;/li&gt;
+  &lt;li&gt;Electron groups around the central atom will be most stable when they are as far apart as possible.
+    &lt;ul&gt;
+      &lt;li&gt;This is the basis for VSEPR (valence shell electron pair repulsion) theory.&lt;/li&gt;
+      &lt;li&gt;Because electrons are negatively charged, they should be most stable when they are separated as much as possible.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The resulting geometric arrangement will allow us to predict the shapes and bond angles in the molecule.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-46823.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electron-groups&quot;&gt;Electron Groups&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:11:58.852503&lt;/li&gt;
+  &lt;li&gt;The Lewis structure predicts the number of valence
+electron pairs around the central atoms.&lt;/li&gt;
+  &lt;li&gt;Each lone pair of electrons constitutes one electron group
+on a central atom.&lt;/li&gt;
+  &lt;li&gt;Each bond constitutes one electron group on a central
+atom, regardless of whether it is single, double, or triple.&lt;/li&gt;
+  &lt;li&gt;Example: NO2&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-f3c14.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;There are three electron groups on N:
+        &lt;ul&gt;
+          &lt;li&gt;Three lone pairs&lt;/li&gt;
+          &lt;li&gt;One single bond&lt;/li&gt;
+          &lt;li&gt;One double bond&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electron-group-geometry&quot;&gt;Electron Group Geometry&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:41.207985&lt;/li&gt;
+  &lt;li&gt;There are five basic arrangements of electron groups around a
+central atom.
+    &lt;ul&gt;
+      &lt;li&gt;Arrangements are as follows:&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Linear, trigonal planar, tetrahedral, bipyramidal, and octahedral&lt;/li&gt;
+  &lt;li&gt;Based on a maximum of six bonding electron groups
+    &lt;ul&gt;
+      &lt;li&gt;Though there may be more than six on very large atoms, it is very rare.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Each of these five basic arrangements results in five different basic
+electron geometries.
+    &lt;ul&gt;
+      &lt;li&gt;In order for the molecular shape and bond angles to be a “perfect” geometric figure, all the electron groups must be bonds and all the bonds must be equivalent.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;For molecules that exhibit resonance, it doesn’t matter which resonance form you use as the electron geometry will be the same&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;valence-shell-electron-pair-repulsion-vsepr-model&quot;&gt;Valence shell electron pair repulsion (VSEPR) model:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:14:33.045667
+| Class | # of atoms bonded to central atom | # lone pairs on central atom | arrangements of electron groups | molecular geometry |
+| — | — | — | — | — |
+| AB2 | 2 | 0 | &lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-7de9a.png&quot; alt=&quot;&quot; /&gt; | &lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-1f41a.png&quot; alt=&quot;&quot; /&gt; |&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;beryllium-chloride&quot;&gt;Beryllium Chloride&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:15:20.954184&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-70f71.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Beryllium has two valence electrons&lt;/li&gt;
+      &lt;li&gt;Linear molecule&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;carbon-dioxide&quot;&gt;Carbon dioxide&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-90170.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Double bonds but still linear&lt;/li&gt;
+      &lt;li&gt;VSEPR says the Oxygens want to be as far away from each-other as possible&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vsepr&quot;&gt;VSEPR&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:16:30.584774&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Class&lt;/th&gt;
+      &lt;th&gt;# of atoms bonded to central atom&lt;/th&gt;
+      &lt;th&gt;# lone pairs on central atom&lt;/th&gt;
+      &lt;th&gt;arrangement of electron groups&lt;/th&gt;
+      &lt;th&gt;molecular geometry&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AB2&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;linear&lt;/td&gt;
+      &lt;td&gt;linear&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AB3&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;trigonal planar &lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-c6e22.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;trigonal planar &lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-f3864.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To minimize electron repulsion, the atoms form a trigonal planar (or are 120 degrees angled from each-other)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;boron-trifluoride&quot;&gt;Boron Trifluoride&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:17:18.718797&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-352d6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;more-complicated&quot;&gt;More complicated&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-7a47f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vsepr-1&quot;&gt;VSEPR&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:19:31.975550&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Class&lt;/th&gt;
+      &lt;th&gt;# of atoms bonded to central atom&lt;/th&gt;
+      &lt;th&gt;# lone pairs on central atom&lt;/th&gt;
+      &lt;th&gt;arrangement of electron groups&lt;/th&gt;
+      &lt;th&gt;molecular geometry&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AB2&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;linear&lt;/td&gt;
+      &lt;td&gt;linear&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AB3&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;trigonal planar&lt;/td&gt;
+      &lt;td&gt;trigonal planar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AB4&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;tetrahedral &lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-2c165.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;tetrahedral &lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-951ea.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;tetrahedral is most common&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-edcf3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vsepr-trigonal&quot;&gt;VSEPR (trigonal)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:21:35.070764&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Class&lt;/th&gt;
+      &lt;th&gt;# of atoms bonded to central atom&lt;/th&gt;
+      &lt;th&gt;# lone pairs on central atom&lt;/th&gt;
+      &lt;th&gt;arrangement of electron groups&lt;/th&gt;
+      &lt;th&gt;molecular geometry&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AB2&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;linear&lt;/td&gt;
+      &lt;td&gt;linear&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AB3&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;trigonal planar&lt;/td&gt;
+      &lt;td&gt;trigonal planar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AB4&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;tetrahedral&lt;/td&gt;
+      &lt;td&gt;tetrahedral&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AB5&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;trigonal bipyramidal &lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-ff92f.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;trigonal bipyramidal &lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-660fe.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;phosphorus-pentachloride&quot;&gt;Phosphorus Pentachloride&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-27bc6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;five-electron-groups-trigonal-bipyramidal&quot;&gt;Five Electron Groups: Trigonal Bipyramidal&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:20.082880
+Electron Geometry&lt;/li&gt;
+  &lt;li&gt;When there are five electron groups around the central atom, they will occupy
+positions in the shape of two tetrahedral that are base to base with the central
+atom in the center of the shared bases.
+    &lt;ul&gt;
+      &lt;li&gt;This results in the electron groups taking a trigonal bipyramidal geometry.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The positions above and below the central atom are called the
+axial positions.
+    &lt;ul&gt;
+      &lt;li&gt;The bond angle between axial and equatorial positions is 90°.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The positions in the same base plane as the central atom are called
+the equatorial positions.
+    &lt;ul&gt;
+      &lt;li&gt;The bond angle between equatorial positions is 120°.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-dc1e6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vsepr-2&quot;&gt;VSEPR&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Class&lt;/th&gt;
+      &lt;th&gt;# of atoms bonded to central atom&lt;/th&gt;
+      &lt;th&gt;# lone pairs on central atom&lt;/th&gt;
+      &lt;th&gt;arrangement of electron groups&lt;/th&gt;
+      &lt;th&gt;molecular geometry&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AB2&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;linear&lt;/td&gt;
+      &lt;td&gt;linear&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AB3&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;trigonal planar&lt;/td&gt;
+      &lt;td&gt;trigonal planar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AB4&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;tetrahedral&lt;/td&gt;
+      &lt;td&gt;tetrahedral&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AB5&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;trigonal bipyramidal&lt;/td&gt;
+      &lt;td&gt;trigonal bipyramidal&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AB6&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+      &lt;td&gt;octahedral &lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-78114.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;octahedral &lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-5c9dd.png&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;sulfur-hexafluoride&quot;&gt;Sulfur Hexafluoride&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-6de20.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;octahedral-electron-geometry&quot;&gt;Octahedral Electron Geometry&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;When there are six electron groups around the central atom, they will occupy positions in the shape of two square-base pyramids that are base-to-base with the central atom in the center of the shared bases.&lt;/li&gt;
+  &lt;li&gt;This results in the electron groups taking an octahedral geometry.
+    &lt;ul&gt;
+      &lt;li&gt;It is called octahedral because the geometric figure has eight sides.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;All positions are equivalent.
+    &lt;ul&gt;
+      &lt;li&gt;The bond angle is 90°.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;hcn-example-what-is-the-molecular-geometry&quot;&gt;HCN example. What is the molecular geometry?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-28b39.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:31:55.556328&lt;/li&gt;
+  &lt;li&gt;Determine the electron geometry (eg) and the molecular geometry (mg) of CO3^2-
+    &lt;ul&gt;
+      &lt;li&gt;A) eg = tetrahedral, mg = tetrahedral&lt;/li&gt;
+      &lt;li&gt;B) eg = tetrahedral, mg = trigonal pyramidal&lt;/li&gt;
+      &lt;li&gt;C) eg = trigonal planar, mg = bent&lt;/li&gt;
+      &lt;li&gt;D) eg = trigonal planar, mg = trigonal planar&lt;/li&gt;
+      &lt;li&gt;E) eg = tetrahedral, mg = trigonal planar&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p id=&quot;clicker2&quot; style=&quot;display:none&quot;&gt;Answer = D&lt;/p&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; id=&quot;btnClicker2&quot; onclick=&quot;$('#clicker2').toggle();&quot; value=&quot;Show Answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;electron-pair-geometry-versus-molecular-geometry&quot;&gt;Electron Pair Geometry versus Molecular Geometry&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The actual geometry of the molecule may be different from the electron geometry.&lt;/li&gt;
+  &lt;li&gt;When the electron groups are attached to atoms of different size,
+or when the bonding to one atom is different from the bonding to
+another, this will affect the molecular geometry around the central
+atom.&lt;/li&gt;
+  &lt;li&gt;Lone pairs affect the molecular geometry.&lt;/li&gt;
+  &lt;li&gt;Lone pair groups: Occupy space on the central atom but are not
+“seen” as points on the molecular geometry&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bent-molecular-geometry-derivative-of-trigonal-planar-electron-geometry&quot;&gt;Bent Molecular Geometry: Derivative of Trigonal Planar Electron Geometry&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:33:48.975493&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-5105d.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;bent&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;When there are three electron groups around the central atom, and one of them is a lone pair, the resulting shape of the molecule is called a trigonal planar-bent shape.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pyramidal-and-bent-molecular-geometries-derivatives-of-tetrahedral-electron-geometry&quot;&gt;Pyramidal and Bent Molecular Geometries: Derivatives of Tetrahedral Electron Geometry&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:54.926890&lt;/li&gt;
+  &lt;li&gt;When there are four electron groups around the central atom, and one is a lone pair, the result is called a pyramidal shape because it is a triangular-base pyramid with the central atom at the apex.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-13ffe.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pyramidal-and-bent-molecular-geometries-derivatives-of-tetrahedral-electron-geometry-1&quot;&gt;Pyramidal and Bent Molecular Geometries: Derivatives of Tetrahedral Electron Geometry&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:35:07.965087&lt;/li&gt;
+  &lt;li&gt;When there are four electron groups around the central atom, and two are lone pairs, the result is called a tetrahedral-bent shape.
+    &lt;ul&gt;
+      &lt;li&gt;It is planar.&lt;/li&gt;
+      &lt;li&gt;To a first approximation: trigonal planar-bent shape&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-e0295.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;effect-of-lone-pairs-on-molecular-structure&quot;&gt;Effect of Lone Pairs on Molecular Structure&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:21.514009&lt;/li&gt;
+  &lt;li&gt;The bonding electrons are shared by two atoms, so some of the negative charge is removed from the central atom.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-cfa24.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Relative sizes of repulsive force interactions are as follows:&lt;/li&gt;
+  &lt;li&gt;Lone	pair	to	Lone	pair	&amp;gt;	Lone	pair	to	Bonding	pair	&amp;gt;	Bonding	pair	to	Bonding	pair&lt;/li&gt;
+  &lt;li&gt;Audio 0:37:42.812819&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-3e84a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;derivatives-of-the-trigonal-bipyramidal-electron-geometry&quot;&gt;Derivatives of the Trigonal Bipyramidal Electron Geometry&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:40:22.114199&lt;/li&gt;
+  &lt;li&gt;When there are five electron groups around the central atom, and some are lone pairs, they will occupy the equatorial positions because there is more room.
+    &lt;ul&gt;
+      &lt;li&gt;The bond angles between equatorial positions are less than 120°.&lt;/li&gt;
+      &lt;li&gt;The bond angles between axial and equatorial positions are less than 90°.&lt;/li&gt;
+      &lt;li&gt;Linear = 180° axial to axial.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;When there are five electron groups around the central atom, and one is a lone pair, the result is called the &lt;em&gt;seesaw shape or sawhorse (aka distorted tetrahedron)&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-ad908.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;derivatives-of-the-trigonal-bipyramidal-electron-geometry-1&quot;&gt;Derivatives of the Trigonal Bipyramidal Electron Geometry&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:42:44.020369&lt;/li&gt;
+  &lt;li&gt;When there are five electron groups around the central atom, and two are lone pairs, the result is &lt;em&gt;T-shaped&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-93dc0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;derivatives-of-the-trigonal-bipyramidal-electron-geometry-2&quot;&gt;Derivatives of the Trigonal Bipyramidal Electron Geometry&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When there are five electron groups around the central atom, and three are lone pairs, the result is Linear&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-0ff6e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;derivatives-of-the-octahedral-geometry&quot;&gt;Derivatives of the Octahedral Geometry&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:43:51.697546&lt;/li&gt;
+  &lt;li&gt;When there are six electron groups around the central atom, and some are lone pairs, each even number lone pair will take a position opposite the previous lone pair.&lt;/li&gt;
+  &lt;li&gt;When there are six electron groups around the central atom, and one is a lone pair, the result is called a &lt;em&gt;square pyramid shape&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;The bond angles between axial and equatorial positions are less than 90°.&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-6a9c0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:44:31.634918&lt;/li&gt;
+  &lt;li&gt;When there are six electron groups around the central atom, and some are lone pairs, each even number lone pair will take a position
+opposite the previous lone pair.&lt;/li&gt;
+  &lt;li&gt;When there are six electron groups around the central atom, and two are lone pairs, the result is called a &lt;em&gt;square planar shape&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;The bond angles between equatorial positions are 90°&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-3c84f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;table-65&quot;&gt;Table 6.5&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-03-week-8-day-1-e0102.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Need to know by wednesday
+# Vocab&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;bond angles&lt;/td&gt;
+      &lt;td&gt;characteristic angles of molecular bonding&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;VSEPR (valence shell electron pair repulsion)&lt;/td&gt;
+      &lt;td&gt;Says that electron groups around the central atom will be most stable when they are as far away as possible&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;trigonal bipyramidal geometry&lt;/td&gt;
+      &lt;td&gt;when you have five atoms bonded to the central atom, you get this geometry&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;axial&lt;/td&gt;
+      &lt;td&gt;the positions above and below the central atom are called this type of position&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;equatorial positions&lt;/td&gt;
+      &lt;td&gt;positions in the same plane as the central atom&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;octahedral geometry&lt;/td&gt;
+      &lt;td&gt;molecular shape with eight sides&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;trigonal planar-bent shape&lt;/td&gt;
+      &lt;td&gt;shape that forms when there are three electron groups around the central atom and one of them is a lone pair&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;pyramidal shape&lt;/td&gt;
+      &lt;td&gt;when there are four electron groups around the central atom and one is a lone pair&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;tetrahedral-bent shape&lt;/td&gt;
+      &lt;td&gt;shape formed when there are four electron groups around the central atom and two are lone pairs&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;bonding force sizes&lt;/td&gt;
+      &lt;td&gt;Lone	pair	to	Lone	pair	&amp;gt;	Lone	pair	to	Bonding	pair	&amp;gt;	Bonding	pair	to	Bonding	pair&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;seesaw shape&lt;/td&gt;
+      &lt;td&gt;shape formed when there are five electron groups around the central atom, and one is a lone pair&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;t-shaped&lt;/td&gt;
+      &lt;td&gt;shape formed when there are five electron groups around the central atom and two are lone pairs&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;square pyramid shape&lt;/td&gt;
+      &lt;td&gt;shape formed when there are six electron groups around the central atom and one is a lone pair&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;square planar shape&lt;/td&gt;
+      &lt;td&gt;shape formed when there are six electron groups around the central atom, and two are lone pairs&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Mon, 03 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/10/03/week-8-day-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/03/week-8-day-1.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Test 2 Prep</title>
@@ -18,8 +693,8 @@
   &lt;li&gt;Work Recitation Questions
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/09/21/week-5-recitation-1st-for-test-2.html&quot;&gt;Recitation from Week 5&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;I will try to get Week 7’s up tonight or tomorrow.&lt;/li&gt;
-      &lt;li&gt;Week 8, Dr. Bakker was sick&lt;/li&gt;
+      &lt;li&gt;I will try to get Week 6’s up tonight or tomorrow.&lt;/li&gt;
+      &lt;li&gt;Week 7, Dr. Bakker was sick&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Work the clicker questions from lectures from weeks 5 - 8&lt;/li&gt;
@@ -41,7 +716,7 @@
       </item>
     
       <item>
-        <title>Week 7 - Day 3</title>
+        <title>Week 7 - Day 3 (Ch 6 - pt 2)</title>
         <description>
 &lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
 &lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-7-day-3.docx&quot;&gt;
@@ -3250,360 +3925,6 @@ IE6 = 22,200&lt;/p&gt;
         <pubDate>Fri, 16 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/09/16/week-5-day-3.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/16/week-5-day-3.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 5 - Day 2</title>
-        <description>
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-5-day-2.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;hIByJPu4fTo&quot;});
-&lt;/script&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2jbja3&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;What is the maximum number of electrons in a atom that can have the following set of quantum numbers?&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;n = 4, l=3, m_l = 4, m_s = +1/2&lt;/li&gt;
-      &lt;li&gt;A&lt;/li&gt;
-      &lt;li&gt;It’s an illegal configuration&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;orbital-diagrams&quot;&gt;Orbital Diagrams&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:02:47.403928&lt;/li&gt;
-  &lt;li&gt;we often represent an orbital as a square and the electrons in that orbital as arrows
-    &lt;ul&gt;
-      &lt;li&gt;the direction of the arrow represents the spin of the electron&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-f8e97.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electron-configuration-for-multi-electron-atoms&quot;&gt;Electron Configuration for Multi-electron Atoms&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:03:39.319084&lt;/li&gt;
-  &lt;li&gt;Aufbau Principle
-    &lt;ul&gt;
-      &lt;li&gt;Energy levels and sublevels fill from lowest energy to highest&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-c8363.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Orbitals that are in the same sublevel have the same energy&lt;/li&gt;
-  &lt;li&gt;There can be no more than two electrons per orbital
-    &lt;ul&gt;
-      &lt;li&gt;Pauli exclusion principle&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-31b45.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;how-you-fill-up-orbitals&quot;&gt;How you fill up orbitals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:05:03.542404&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-b06ba.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;summarizing-the-filling-of-electrons-in&quot;&gt;Summarizing the Filling of Electrons in&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:10:29.597607&lt;/li&gt;
-  &lt;li&gt;Atomic Orbitals&lt;/li&gt;
-  &lt;li&gt;Electrons occupy orbitals so as to minimize the energy of the atom; therefore, lower energy orbitals fill before higher energy orbitals.
-    &lt;ul&gt;
-      &lt;li&gt;Orbitals fill in the following order:
-        &lt;ul&gt;
-          &lt;li&gt;1s2s2p3s3p4s3d4p5s4d5p6s.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Orbitals can hold no more than two electrons each. When two electrons occupy the same orbital, their spins are opposite.
-    &lt;ul&gt;
-      &lt;li&gt;This is another way of expressing the Pauli exclusion principle (no two electrons in one atom can have the same four quantum numbers).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;order-of-subshell-filling-in-ground-state-electron-configurations&quot;&gt;Order of Subshell Filling in Ground State Electron Configurations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:12:05.347386&lt;/li&gt;
-  &lt;li&gt;start by drawing a diagram putting each energy shell on
-a row and listing the subshells, (s, p, d, f), for that shell in order of energy, (left-to-right)&lt;/li&gt;
-  &lt;li&gt;next, draw arrows through the diagonals, looping back to the next diagonal each time&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-3bbc6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;order-of-orbitals-filling-in-multi-electron-atom&quot;&gt;Order of orbitals (filling) in multi-electron atom&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:13:08.640348&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-dc6b3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;1s &amp;lt; 2s &amp;lt; 2p &amp;lt; 3s &amp;lt; 3p &amp;lt; 4s &amp;lt; 3d &amp;lt; 4p &amp;lt; 5s &amp;lt; 4d &amp;lt; 5p &amp;lt; 6s
-    &lt;ul&gt;
-      &lt;li&gt;Smallest n+l. For equal n+l, largest l&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electron-configuration-short-cut&quot;&gt;Electron configuration Short Cut&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:14:32.615145&lt;/li&gt;
-  &lt;li&gt;Ge: 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p2&lt;/li&gt;
-  &lt;li&gt;easier: [Ar] 4s2 3d10 4p2&lt;/li&gt;
-  &lt;li&gt;i.e. write [last noble gas] remainder of orbitals,&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;example--write-the-ground-state-electron-configuration-and-orbital-diagram-and-of-magnesium&quot;&gt;Example – Write the Ground State Electron Configuration and Orbital Diagram and of Magnesium.&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:16:50.900804&lt;/li&gt;
-  &lt;li&gt;How many electrons in Magnesium?
-    &lt;ul&gt;
-      &lt;li&gt;12&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;so need boxes for n=1, n=2 and n=3&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-40b93.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:22:03.927929&lt;/li&gt;
-  &lt;li&gt;Give the ground state electron configuration for Sr (Z=38)
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:22:55.093958&lt;/li&gt;
-      &lt;li&gt;Look at periodic table. Rightmost element before Sr.
-        &lt;ul&gt;
-          &lt;li&gt;Find Kr&lt;/li&gt;
-          &lt;li&gt;It is the second element past Kr, so it is Kr 5s2&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;finding-patterns-the-periodic-law-and-the-periodic-table&quot;&gt;Finding Patterns: The Periodic Law and the Periodic Table&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:15.808183&lt;/li&gt;
-  &lt;li&gt;In 1869, Mendeleev noticed that certain groups of elements had similar properties.&lt;/li&gt;
-  &lt;li&gt;He found that when elements were listed in order of increasing mass, these similar properties recurred in a periodic pattern.&lt;/li&gt;
-  &lt;li&gt;To be periodic means to exhibit a repeating pattern.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-periodic-law&quot;&gt;The Periodic Law&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:52.707876&lt;/li&gt;
-  &lt;li&gt;Mendeleev summarized these observations in the &lt;em&gt;periodic law&lt;/em&gt;:
-    &lt;ul&gt;
-      &lt;li&gt;When the elements are arranged in order of increasing mass, certain sets of properties recur periodically.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Note: Mendeleev ignored some of data, e.g. atomic mass of Te &amp;gt; atomic mass of l&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;mendeleevs-periodic-table&quot;&gt;Mendeleev’s Periodic Table&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:28:14.871013&lt;/li&gt;
-  &lt;li&gt;Mendeleev’s periodic table
-    &lt;ul&gt;
-      &lt;li&gt;organized known elements of the time in a table format.
-        &lt;ul&gt;
-          &lt;li&gt;He arranged the rows so that elements with similar properties would fall in the same vertical columns.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;contained some gaps, which allowed him to predict the existence (and even the properties) of yet undiscovered elements.
-        &lt;ul&gt;
-          &lt;li&gt;Mendeleev predicted the existence of an element he called eka-silicon.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-1a382.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-modern-periodic-table-its-format&quot;&gt;The Modern Periodic Table: Its Format&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:29:46.955888&lt;/li&gt;
-  &lt;li&gt;The elements are listed in order of increasing atomic number rather than increasing relative mass as they were in Mendeleev’s periodic table.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-2b7cd.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Rows of the table are referred to as periods (or just plain rows).&lt;/li&gt;
-  &lt;li&gt;Columns in the table are referred to as groups or a family.
-    &lt;ul&gt;
-      &lt;li&gt;Elements in a group or family have similar properties.&lt;/li&gt;
-      &lt;li&gt;NOTE: Mendeleev’s periodic law predicts pattern but does NOT explain why the patterns or similarity in properties occurs.
-        &lt;ul&gt;
-          &lt;li&gt;Quantum theory explains the why&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;modern-periodic-table&quot;&gt;Modern Periodic Table&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:31:45.843466&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-04649.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;core-electrons-valence-electrons-and-the-periodic-table&quot;&gt;Core Electrons, Valence Electrons, and the Periodic Table&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:14.303407&lt;/li&gt;
-  &lt;li&gt;The group number corresponds to the number of electrons in last (unfilled valence shell)
-    &lt;ul&gt;
-      &lt;li&gt;valence electrons&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The length of each “block” is the maximum number of
-electrons the sublevel can hold.&lt;/li&gt;
-  &lt;li&gt;The period number corresponds to the principal energy level of the valence electrons.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-215b9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;orbital-blocks-and-their-position-in-the-periodic-table&quot;&gt;Orbital blocks and their position in the periodic table&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-01bf4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;transition-and-inner-transition-metals&quot;&gt;Transition and Inner Transition Metals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:34:11.820224&lt;/li&gt;
-  &lt;li&gt;Transition metals (d block) and inner transition metals (f block) exhibit trends differing from those of main-group elements (s block and p block).
-    &lt;ul&gt;
-      &lt;li&gt;Because of sublevel splitting, the 4s sublevel is lower in energy than the 3d sublevel; therefore, the 4s orbital fills before the 3d orbital.&lt;/li&gt;
-      &lt;li&gt;The difference in energy is not large.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Some of the transition metals have irregular electron configurations in which the ns only partially fills before the (n − 1)d or doesn’t fill at all.
-    &lt;ul&gt;
-      &lt;li&gt;Therefore, their electron configuration must be found experimentally.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;examples-of-transition-and-inner-transition-metals-electron-configurations&quot;&gt;Examples of Transition and Inner Transition Metals’ Electron Configurations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:36:43.269485&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-9ee7f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Remember chromium and copper&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Give the ground state electron configuration for Br-
-    &lt;ul&gt;
-      &lt;li&gt;[Ar]4s2 3d10 4p6&lt;/li&gt;
-      &lt;li&gt;has one more electron than normal because the sign is negative so 4p6&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electron-configuration-and-elemental-properties&quot;&gt;Electron Configuration and Elemental Properties&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:42:21.308974&lt;/li&gt;
-  &lt;li&gt;The properties of the elements follow a periodic pattern.
-    &lt;ul&gt;
-      &lt;li&gt;Elements in the same column have similar properties.&lt;/li&gt;
-      &lt;li&gt;The elements in a period show a pattern that repeats.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The quantum-mechanical model explains this because the number of valence electrons and the types of orbitals they occupy are also periodic.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-14-week-5-day-2-1e006.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electron-configuration-and-elemental-properties-the-metals&quot;&gt;Electron Configuration and Elemental Properties: The Metals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:44:26.334942&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Aufbau principle&lt;/td&gt;
-      &lt;td&gt;says energy levels and sublevels fill from lowest energy to highest&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Hund’s rule&lt;/td&gt;
-      &lt;td&gt;says every orbital in a subshell is singly occupied with one electron before any one orbital is doubly occupied, and all electrons in singly occupied orbitals have the same spin&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;periodic law&lt;/td&gt;
-      &lt;td&gt;says that when the elements are arranged in order of increasing mass, certain sets of properties recur periodically&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;periods&lt;/td&gt;
-      &lt;td&gt;rows of the periodic table&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;groups (family)&lt;/td&gt;
-      &lt;td&gt;Columns in the periodic table&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;transition metals&lt;/td&gt;
-      &lt;td&gt;d block of the periodic table&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;inner transition metals&lt;/td&gt;
-      &lt;td&gt;f block of the periodic table&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Wed, 14 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/09/14/week-5-day-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/14/week-5-day-2.html</guid>
         
         
       </item>
