@@ -6,9 +6,273 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Oct 2016 09:19:43 -0500</pubDate>
-    <lastBuildDate>Wed, 05 Oct 2016 09:19:43 -0500</lastBuildDate>
+    <pubDate>Wed, 05 Oct 2016 17:32:52 -0500</pubDate>
+    <lastBuildDate>Wed, 05 Oct 2016 17:32:52 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 8 - Day 2 (Last before test 2)</title>
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-8-day-2-last-before-test-2.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;b_jb7vlShWg&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:32.424965&lt;/li&gt;
+  &lt;li&gt;Test tonight
+    &lt;ul&gt;
+      &lt;li&gt;Bring pencil, photo id, calculator&lt;/li&gt;
+      &lt;li&gt;You can start as late as 7 and you can’t leave until 7&lt;/li&gt;
+      &lt;li&gt;Material from end of chapter 3 to end of chapter 6&lt;/li&gt;
+      &lt;li&gt;Coulomb’s Law is physics
+        &lt;ul&gt;
+          &lt;li&gt;Only expects you to understand the directions / relative magnitudes of charges (no calculations)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:05:31.262428&lt;/li&gt;
+  &lt;li&gt;According to VSEPR theory, which one of the following molecules should have a molecular geometry that is trigonal bipyramidal?
+    &lt;ul&gt;
+      &lt;li&gt;SF4&lt;/li&gt;
+      &lt;li&gt;XeF4&lt;/li&gt;
+      &lt;li&gt;NF3&lt;/li&gt;
+      &lt;li&gt;SF6&lt;/li&gt;
+      &lt;li&gt;PF5&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The answer is PF5 because it is the only answer with five atoms attached to the central atom&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;representing-three-dimensional-shapes-on-paper&quot;&gt;Representing Three-Dimensional Shapes on Paper&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:07:41.096639
+• Drawing molecules to show their dimensionality on paper (2-D) is difficult.
+• How to draw a 3-D representation of molecule on paper:
+– By convention, the central atom is put in the plane of the paper.
+– Put as many other atoms as possible in the same plane and indicate with a &lt;em&gt;straight line&lt;/em&gt;.
+– For atoms in front of the plane, use a &lt;em&gt;solid wedge&lt;/em&gt;.
+– For atoms behind the plane, use a &lt;em&gt;hashed wedge&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-10-05-week-8-day-2-last-before-test-2-b2291.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;illustrations-of-molecular-geometries-of-molecules-using-3-d-notations&quot;&gt;Illustrations of Molecular Geometries of Molecules Using 3-D Notations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:10:13.039414&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-10-05-week-8-day-2-last-before-test-2-c2c76.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;multiple-central-atoms-and-their-geometries&quot;&gt;Multiple Central Atoms and Their Geometries&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:11:15.077734
+• Many molecules have larger structures with many interior atoms.
+    &lt;ul&gt;
+      &lt;li&gt;Looking at “multiple center atoms”
+– Think of them as having multiple central atoms.
+• For multiple center molecules:
+– Each center atom has a designated a shape.
+• Example: Glycine
+• The shape around the:
+• N atom is trigonal pyramidal
+• Left C is tetrahedral
+• Right C is trigonal planar
+• O is bent&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;assets/2016-10-05-week-8-day-2-last-before-test-2-bf0a4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:15:17.202864&lt;/li&gt;
+  &lt;li&gt;Which species has the highest ionization energy?
+    &lt;ul&gt;
+      &lt;li&gt;A) Mg&lt;/li&gt;
+      &lt;li&gt;B) Mg+&lt;/li&gt;
+      &lt;li&gt;C) Mg2+&lt;/li&gt;
+      &lt;li&gt;D) Al+&lt;/li&gt;
+      &lt;li&gt;E) Al2+&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;a1&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:16:45.881866&lt;/li&gt;
+  &lt;li&gt;Give the ground state electron configuration for the ion of Ba
+    &lt;ul&gt;
+      &lt;li&gt;[Kr] 5s24d105p6&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-4&quot;&gt;Clicker 4&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:19:07.805288&lt;/li&gt;
+  &lt;li&gt;Which reaction below represents the electron affinity of Li?
+    &lt;ul&gt;
+      &lt;li&gt;Answer in Recitation questions&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-5&quot;&gt;Clicker 5&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:44.692817&lt;/li&gt;
+  &lt;li&gt;a) Na+&lt;/li&gt;
+  &lt;li&gt;b) Ga3+&lt;/li&gt;
+  &lt;li&gt;c) K+&lt;/li&gt;
+  &lt;li&gt;d) Mg2+&lt;/li&gt;
+  &lt;li&gt;e) Ca2+
+    &lt;ul&gt;
+      &lt;li&gt;C&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-6&quot;&gt;Clicker 6&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:43.818176&lt;/li&gt;
+  &lt;li&gt;a) titanium (II) carbonate&lt;/li&gt;
+  &lt;li&gt;b) titanium carbide&lt;/li&gt;
+  &lt;li&gt;c) titanium carbonite&lt;/li&gt;
+  &lt;li&gt;c) titanium (II) carbonite&lt;/li&gt;
+  &lt;li&gt;a&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-7&quot;&gt;Clicker 7&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:11.549016&lt;/li&gt;
+  &lt;li&gt;Calculate the molar mass of Al(C2H3O2)3
+    &lt;ul&gt;
+      &lt;li&gt;a) 86.03 g/mol&lt;/li&gt;
+      &lt;li&gt;b) 204.13 g/mol&lt;/li&gt;
+      &lt;li&gt;c) 56.00 g/mol&lt;/li&gt;
+      &lt;li&gt;d) 258.09 g/mol&lt;/li&gt;
+      &lt;li&gt;e) 139.9 g/mol&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;B&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-8&quot;&gt;Clicker 8&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:29:32.460732&lt;/li&gt;
+  &lt;li&gt;How many atoms of oxygen are contained in 47.6 g of Al2(CO3)3? The molar mass of Al2(CO3)3 is 233.99 g/mol&lt;/li&gt;
+  &lt;li&gt;We have 1/5th of a mol of Al2(CO3)3. There are nine mols of oxygen in one molecule. = 9 * avogandros number&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-9&quot;&gt;Clicker 9&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:33:28.381248&lt;/li&gt;
+  &lt;li&gt;Determine the empirical formula for a compound that is 36.86% N and 63.14% O by mass. (O:15.999, N:14.0007)&lt;/li&gt;
+  &lt;li&gt;N2O3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-10&quot;&gt;Clicker 10&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:36.281792&lt;/li&gt;
+  &lt;li&gt;Determine the molecular formula of a compound that is 49.48% carbon, 5.19% hydrogen,28.85% nitrogen, and 16.48% oxygen. The molecular weight is 194.19 g/mol&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-11&quot;&gt;Clicker 11&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:38:58.435866&lt;/li&gt;
+  &lt;li&gt;Which of the following reactions is associated with the lattice energy of CaS?
+    &lt;ul&gt;
+      &lt;li&gt;Ca(s) + S(s) -&amp;gt; CaS(s)&lt;/li&gt;
+      &lt;li&gt;CaS(s) + S(s) -&amp;gt; CaS(s)&lt;/li&gt;
+      &lt;li&gt;Ca2-(aq) + S2-(aq) -&amp;gt; CaS(s)&lt;/li&gt;
+      &lt;li&gt;Ca2-(g) + S2-(g) -&amp;gt; CaS(s)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;D&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-11-1&quot;&gt;Clicker 11&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Choose the bond below that is the least polar&lt;/li&gt;
+  &lt;li&gt;P-F&lt;/li&gt;
+  &lt;li&gt;C-Br&lt;/li&gt;
+  &lt;li&gt;C-F&lt;/li&gt;
+  &lt;li&gt;C-I&lt;/li&gt;
+  &lt;li&gt;C-Cl&lt;/li&gt;
+  &lt;li&gt;Want to find the least electronegative difference&lt;/li&gt;
+  &lt;li&gt;D&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-12&quot;&gt;Clicker 12&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Which of the following resonance structures for OCN- will contribute most to the correct structure of OCN-?&lt;/li&gt;
+  &lt;li&gt;A) O(3 lone pairs) - C N(with 1 lone pair)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;solid wedge&lt;/td&gt;
+      &lt;td&gt;3D representation for drawing molecular structures which represents a bond coming out of the page&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;solid hatched&lt;/td&gt;
+      &lt;td&gt;3D representation for drawing molecular structures which represents a bond going into the page&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;straight line&lt;/td&gt;
+      &lt;td&gt;representation for drawing molecular structures which represents a bond in plane of the drawing surface&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Wed, 05 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/10/05/week-8-day-2-last-before-test-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/05/week-8-day-2-last-before-test-2.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>test 2 - Recitation 3</title>
@@ -22,6 +286,13 @@
       &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 57.0 mmol Ca(NO3)2&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;a1&quot; style=&quot;display:none&quot;&gt;The molar mass is in there to confuse you. You just do x&lt;em&gt;(6.022&lt;/em&gt;10^23)=4.78*10^22&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#a1').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
   &lt;li&gt;Determine the volume of hexane that contains 5.33 × 10^22 molecules of hexane. The density of hexane is 0.6548 g/mL and its molar mass is 86.17 g/mol.
     &lt;ul&gt;
       &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 8.59 mL&lt;/li&gt;
@@ -3034,211 +3305,6 @@ meaning more than, are used.
         <pubDate>Wed, 21 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/09/21/week-6-day-2.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/21/week-6-day-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 5 - Recitation (1st for test 2)</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Determine the energy change associated with the transition from n = 2 to n = 5 in the hydrogen atom.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; -2.18 * 10^-19 J&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; +6.54*10^-19 J&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; +4.58 * 10^-19 J&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; -1.53 * 10^-19 J&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; +3.76 * 10^-19 J&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script&gt;
-var st1 = false;
-function toggleOne() {
-  st1 = !st1;
-  if (st1) {
-    $('#oneHint').show();
-    $('#toggleOne').val('hide');
-  }
-  else {
-    $('#oneHint').hide();
-    $('#toggleOne').val('show solution');
-  }
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input id=&quot;toggleOne&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleOne()&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img id=&quot;oneHint&quot; src=&quot;../../../assets/2016-09-21-week-5-recitation-1st-for-test-2-2b45b.png&quot; style=&quot;display:none&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;It is possible to determine the ionization energy for hydrogen using the Bohr equation. Calculate the ionization energy (in kJ) for a mole of hydrogen atoms, making the assumption that ionization is the transition from n - 1 to n = infinity.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 7.62 * 10^3 kJ&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2.76 * 10^3 kJ&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1.31 * 10^3 kJ&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 3.62 * 10^3 kJ&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 5.33 * 10^3 kJ&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script&gt;
-var st2 = false;
-function toggleTwo() {
-  st2 = !st2;
-  if (st2) {
-    $('#twoHint').show();
-    $('#toggleTwo').val('hide');
-  }
-  else {
-    $('#twoHint').hide();
-    $('#toggleTwo').val('show solution');
-  }
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input id=&quot;toggleTwo&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleTwo()&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img id=&quot;twoHint&quot; src=&quot;../../../assets/2016-09-21-week-5-recitation-1st-for-test-2-e546b.png&quot; style=&quot;display:none&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Determine the end (final) value of n in a hydrogen atom transition, if the electron starts in n = 1 and the atom absorbs a photon of light with an energy of 2.044 * 10^-18 J
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 4&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 5&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 6&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;How many different values of l are possible in the third principal level?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 0&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 4&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Give the ground state electron configuration for Pb
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; [Xe]6s2 6p2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; [Xe]6s2 5d10 6p2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; [Xe]6s2 5f14 6d10 6p2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; [Xe]6s2 4f14 5d10 6p2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; [Xe]6s2 4f14 5d10 6s2 6p2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Choose the valence orbital diagram that represents the ground state of Zn
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-5-recitation-1st-for-test-2-8a736.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Give the possible values for ml for a p orbital
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 0, 1&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; -1, 0, 1&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1, 2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; -2, -1, 0, 1, 2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Describe the shape of a p orbital
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; spherical&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; dumbbell shaped&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; three lobes&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; four lobes&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; eight lobes&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;No two electrons can have the same four quantum numbers is known as the
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Pauli exclusion principle&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Hund’s rule&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Aufbau principle&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Heisenberg uncertainty principle&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Choose the orbital diagram that represents the ground state of N
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-5-recitation-1st-for-test-2-f633f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Predict the charge that a calcium ion would have
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 6-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 3+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 2+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 1+&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Which of the following statements is true?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; An orbital that penetrates into the region occupied by core electrons is less shielded from nuclear charge than an orbital that does not penetrate and therefore has a lower energy&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; An orbital that penetrates into the region occupied by core electrons is more shielded from nuclear charge than an orbital that does not penetrate and therefore has a lower energy&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; It is possible for two electrons in the same atom to have identical values for all four quantum numbers&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Two electrons in the same orbital can have the same spin&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; None of the above are true&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script&gt;
-var answers = [&quot;c&quot;, &quot;c&quot;, &quot;b&quot;, &quot;c&quot;, &quot;d&quot;, &quot;a&quot;, &quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;a&quot;, &quot;d&quot;, &quot;a&quot;];
-function getAnswer(number) {
-  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
-}
-function validate() {
-  var any = false;
-  for (var i = 1; i &lt; answers.length+1; i++) {
-    var answer = getAnswer(i);
-    if (!answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
-      any = true;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
-    }
-  }
-  if (any) {
-    toastr.error(&quot;You did not answer every question!&quot;);
-  }
-  return !any;
-}
-function grade() {
-  if (!validate()) return;
-  var correct = 0;
-  for (var i = 1; i &lt; answers.length+1; i++) {
-    var answer = getAnswer(i);
-    if (answers[i-1] == answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
-      correct++;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
-    }
-  }
-  toastr.success(&quot;Your grade is &quot;+ ((correct/answers.length) * 100).toFixed(2) + &quot; out of 100&quot;);
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 21 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/09/21/week-5-recitation-1st-for-test-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/21/week-5-recitation-1st-for-test-2.html</guid>
         
         
       </item>
