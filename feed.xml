@@ -6,9 +6,163 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Oct 2016 22:05:36 -0500</pubDate>
-    <lastBuildDate>Tue, 04 Oct 2016 22:05:36 -0500</lastBuildDate>
+    <pubDate>Wed, 05 Oct 2016 09:00:54 -0500</pubDate>
+    <lastBuildDate>Wed, 05 Oct 2016 09:00:54 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>test 2 - Recitation 3</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;How many millimoles of Ca(NO3)2 contain 4.78 × 10^22 formula units of Ca(NO3)2? The molar mass of Ca(NO3)2 is 164.10 g/mol.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 12.6 mmol Ca(NO3)2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 13.0 mmol Ca(NO3)2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 20.7 mmol Ca(NO3)2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 79.4 mmol Ca(NO3)2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 57.0 mmol Ca(NO3)2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Determine the volume of hexane that contains 5.33 × 10^22 molecules of hexane. The density of hexane is 0.6548 g/mL and its molar mass is 86.17 g/mol.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 8.59 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 13.5 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 7.40 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 12.4 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 11.6 mL&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Determine the molecular formula of a compound that has a molar mass of 183.2 g/mol and an empirical formula of C2H5O2
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; C2H5O2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; C6H15O6&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C3H7O3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; C4H10O4&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; C8H20O8&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Determine the empirical formula for a compound that is found to contain 10.15 mg P and 34.85 mg Cl&lt;/li&gt;
+  &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; P3Cl&lt;/li&gt;
+  &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; PCl&lt;/li&gt;
+  &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; PCl2&lt;/li&gt;
+  &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; P2Cl3&lt;/li&gt;
+  &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; PCl3&lt;/li&gt;
+  &lt;li&gt;Determine the empirical formula for a compound that is 70.79% carbon, 8.91% hydrogen, 4.59% nitrogen, and 15.72% oxygen.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; C18H27NO3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; C18H27NO2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C17H27NO3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; C17H26NO3&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Determine the molecular formula of a compound that is 49.48% carbon, 5.19% hydrogen, 28.85% nitrogen, and 16.48% oxygen. The molecular weight is 194.19 g/mol.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; C8H12N4O2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; C4H5N2O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C8H10N4O2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; C8H10N2O&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Combustion analysis of 63.8 mg of a C, H and O containing compound produced 145.0 mg of CO2 and 59.38 mg of H2O. What is the empirical formula for the compound?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; C5H2O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; CHO&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C3H6O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; C3H7O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; C6HO3&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Which of the following compounds is nail polish remover?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; (CH3)2C=O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; C2H5OH&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; CH3CO2H&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; CH3CO2CH3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; CH3OCH3&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;What is the formula for calcium phosphate?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; CaP&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Ca2P3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Ca2(PO4)2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Ca3(PO4)2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; CaPO4&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A triple covalent bond contains ___ of electrons
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 0 pairs&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 1 pair&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 2 pairs&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 3 pairs&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 4 pairs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Identify the compound with the smallest dipole moment in the gas phase
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Cl2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; ClF&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; HF&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; LiF&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Of the following elements, which has the lowest electronegativity?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Mg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Cl&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Ca&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Br&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+var answers = [&quot;d&quot;, &quot;e&quot;, &quot;b&quot;, &quot;e&quot;, &quot;a&quot;, &quot;c&quot;, &quot;c&quot;, &quot;a&quot;, &quot;d&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;];
+function getAnswer(number) {
+  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
+}
+function validate() {
+  var any = false;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (!answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
+      any = true;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
+    }
+  }
+  if (any) {
+    toastr.error(&quot;You did not answer every question!&quot;);
+  }
+  return !any;
+}
+function grade() {
+  if (!validate()) return;
+  var correct = 0;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (answers[i-1] == answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
+      correct++;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
+    }
+  }
+  toastr.success(&quot;Your grade is &quot;+ ((correct/answers.length) * 100).toFixed(2) + &quot; out of 100&quot;);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/10/05/test-2-recitation-3.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/05/test-2-recitation-3.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 8 - Day 1 (Chapter 6 - Pt. 3)</title>
@@ -3053,590 +3207,6 @@ function grade() {
         <pubDate>Wed, 21 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/09/21/week-5-recitation-1st-for-test-2.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/21/week-5-recitation-1st-for-test-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 6 - Day 1</title>
-        <description>
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-6-day-1.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;FE-thqutRRM&quot;});
-&lt;/script&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2jbobo&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:00:10.820314&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;where-we-left-off&quot;&gt;Where we left off&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:01:22.152319&lt;/li&gt;
-  &lt;li&gt;What period 3 element has the following ionization energies (all in kJ/mol)?
-    &lt;ul&gt;
-      &lt;li&gt;IE1 = 1012 IE2 = 1900 IE3= 2910 IE4= 4960 IE5= 6270 IE6 = 22,200
-        &lt;ul&gt;
-          &lt;li&gt;A) Si&lt;/li&gt;
-          &lt;li&gt;B) S&lt;/li&gt;
-          &lt;li&gt;C) P&lt;/li&gt;
-          &lt;li&gt;D) Cl&lt;/li&gt;
-          &lt;li&gt;E) Mg&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Solution: Look for the biggest jump in ionization energy. That will tell you where it has a stable configuration (eight electrons). Since the sixth ionization energy is the highest, we can conclude that this is where we reach a stable configuration. Since we are told that our element is on the third period (row), we know that every time we remove an electron, we are going to the left across the periodic table, so we are moving towards neon. If you start at neon and count five spaces to the right, you’ll land on P. &lt;a href=&quot;https://answers.yahoo.com/question/index?qid=20140502143306AAYClJs&quot;&gt;Another explanation here&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Answer is C&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Which of the following correctly illustrates the valence electron configuration of sulfur (S)?
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:04:19.132251&lt;/li&gt;
-      &lt;li&gt;Looking at the periodic table you can see that the electron configuration is [Ne] 3s^2 3p^4&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:04:44.233596&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Place the following in order of decreasing IE_1.
-    &lt;ul&gt;
-      &lt;li&gt;Cs, Mg, Ar
-        &lt;ul&gt;
-          &lt;li&gt;Ar &amp;gt; Mg &amp;gt; Cs&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Audio 0:06:27.831790&lt;/li&gt;
-      &lt;li&gt;Ionization energy increases toward the top right of the periodic table.
-        &lt;ul&gt;
-          &lt;li&gt;You can instantly see this and know it has to be Ar first&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;periodic-trend-electron-affinities-ea-for-main-group-elements&quot;&gt;Periodic Trend: Electron Affinities (EA) for Main-Group Elements&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:07:24.054226&lt;/li&gt;
-  &lt;li&gt;Electron Affinity:
-    &lt;ul&gt;
-      &lt;li&gt;It is the energy associated with the addition of an electron to the valence shell of an atom that is in the gas phase.
-        &lt;ul&gt;
-          &lt;li&gt;M(g)+1e− →M1−(g)+EA&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;It is defined as exothermic (−) the release of energy. But
-may actually be endothermic (+) taking energy.
-    &lt;ul&gt;
-      &lt;li&gt;Some alkali earth metals’ and all noble gases’ electron affinities are endothermic.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The more energy that is released, the larger the electron affinity.
-    &lt;ul&gt;
-      &lt;li&gt;The more negative the number, the larger the EA.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;periodic-trend-electron-affinities-ea&quot;&gt;Periodic Trend: Electron Affinities (EA)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:08:45.799510&lt;/li&gt;
-  &lt;li&gt;General Trend for Main-Group Elements
-    &lt;ul&gt;
-      &lt;li&gt;EA increases across a period.
-        &lt;ul&gt;
-          &lt;li&gt;EA becomes more negative from left to right.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Halogens have the highest EA for any period&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-58a37.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;periodic-trend-electron-affinities-ea-for-main-group-elements-1&quot;&gt;Periodic Trend: Electron Affinities (EA) for Main-Group Elements&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:10:58.796812&lt;/li&gt;
-  &lt;li&gt;Summarizing Electron Affinity for Main-Group Elements
-    &lt;ul&gt;
-      &lt;li&gt;Most groups (columns) of the periodic table do not exhibit any definite trend in electron affinity.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Among the group 1A metals, however, electron affinity becomes more positive as we move down the column (adding an electron becomes less exothermic).
-    &lt;ul&gt;
-      &lt;li&gt;Alkali metals (group 1A) decrease electron affinity down the column.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Generally irregular increase in EA from second period to third period
-    &lt;ul&gt;
-      &lt;li&gt;Group 5A generally has lower EA than expected because extra electron must pair up.&lt;/li&gt;
-      &lt;li&gt;Groups 2A and 8A generally have very low EA because added electron goes into higher energy level or sublevel.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Electron affinity generally becomes more negative (adding an electron becomes more exothermic) as we move to the right across a period (row) in the periodic table.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;characteristics-of-metals-versus-nonmetals&quot;&gt;Characteristics of Metals versus Nonmetals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:12:24.155206&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Metals&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Nonmetals&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;malleable and ductile&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;brittle in solid State&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;shiny&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;dull&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;conduct heat and electricity&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;insulator&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;basic&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;acidic&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;form cations&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;form anions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;lose electrons in reactions&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;gain electrons in reactions&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;periodic-trend-metallic-character&quot;&gt;Periodic Trend: Metallic Character&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:15:52.518767&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-0ae2c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;periodic-trend-metallic-character-1&quot;&gt;Periodic Trend: Metallic Character&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Metallic character is how closely an element’s properties match the ideal properties of a metal
-    &lt;ul&gt;
-      &lt;li&gt;More malleable and ductile, better conductor, and easier to ionize&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Metallic character decreases left to right across a period
-the right&lt;/li&gt;
-  &lt;li&gt;Metallic character increases down the column.
-    &lt;ul&gt;
-      &lt;li&gt;Nonmetals found at the top of the middle main group
-elements and metals found at the bottom&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:16:25.235247
-Metallic Elements:&lt;/li&gt;
-  &lt;li&gt;Ionization energy decreases down the column.&lt;/li&gt;
-  &lt;li&gt;Very low ionization energies
-    +  Good reducing agents; easy to oxidize
-    +  Very reactive; not found uncombined in nature
-    +  React with nonmetals to form salts
-    +  Compounds generally soluble in water; therefore metal ions are found in seawater.&lt;/li&gt;
-  &lt;li&gt;Electron affinity decreases down the column.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;metals&lt;/em&gt; generally have smaller first ionization energies and nonmetals generally have larger electron affinities.&lt;/li&gt;
-  &lt;li&gt;Audio 0:18:19.520679&lt;/li&gt;
-  &lt;li&gt;Metallic Elements:&lt;/li&gt;
-  &lt;li&gt;Quantum-mechanics predicts that the atom’s metallic character should
-    &lt;ul&gt;
-      &lt;li&gt;increase down a column because the valence electrons are not held as strongly;&lt;/li&gt;
-      &lt;li&gt;decrease across a period because the valence electrons are held more strongly and the electron affinity increases.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Atomic radius increases down the column.&lt;/li&gt;
-  &lt;li&gt;Melting point decreases down the column.
-    &lt;ul&gt;
-      &lt;li&gt;MP for metals are generally low&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Density increases down the column.
-    &lt;ul&gt;
-      &lt;li&gt;Except K&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;chapter-5---molecules-and-compounds&quot;&gt;Chapter 5 - Molecules and Compounds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:19:47.042558&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;elements-to-molecules&quot;&gt;Elements to Molecules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:20:15.784877&lt;/li&gt;
-  &lt;li&gt;When two or more elements combine,a molecule can be formed.
-    &lt;ul&gt;
-      &lt;li&gt;Elements can be the same.
-        &lt;ul&gt;
-          &lt;li&gt;The molecular compound of oxygen, O2&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Elements can be different.
-        &lt;ul&gt;
-          &lt;li&gt;The molecular compound of water, H2O&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Molecules are compounds.&lt;/li&gt;
-  &lt;li&gt;The great diversity of substances that we find in nature is a direct result of the ability of elements to form many different compounds.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;hydrogen-oxygen-and-water&quot;&gt;Hydrogen, Oxygen, and Water&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:21:35.856576&lt;/li&gt;
-  &lt;li&gt;The dramatic difference between the elements hydrogen and oxygen and the compound water is typical of the differences between elements and the compounds that they form.&lt;/li&gt;
-  &lt;li&gt;When two or more elements combine to form a compound, an entirely new substance results.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-a257a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;law-of-definite-proportion-formation-of-molecules&quot;&gt;Law of Definite Proportion: Formation of Molecules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A hydrogen–oxygen mixture can have any proportions of hydrogen and oxygen gas.&lt;/li&gt;
-  &lt;li&gt;Water(H2O) has a definite proportion of hydrogen to oxygen.
-    &lt;ul&gt;
-      &lt;li&gt;A water molecule always is composed of two hydrogen
-atoms to every one oxygen atom.
-        &lt;ul&gt;
-          &lt;li&gt;A ratio of 2 hydrogen atoms : 1 oxygen atom
-            &lt;ul&gt;
-              &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-1bcfb.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;chemical-bonds&quot;&gt;Chemical Bonds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:23:56.779753&lt;/li&gt;
-  &lt;li&gt;compounds are made of atoms held
-together by &lt;em&gt;chemical bonds&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;bonds are forces of attraction between
-atoms&lt;/li&gt;
-  &lt;li&gt;the attraction is electrostatic: between protons and electrons&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-6c2f1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;chemical-bonds-1&quot;&gt;Chemical Bonds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:25:19.627791&lt;/li&gt;
-  &lt;li&gt;the length of a bond is determined by the balance of various electrostatic forces&lt;/li&gt;
-  &lt;li&gt;attraction between electrons and nuclei&lt;/li&gt;
-  &lt;li&gt;repulsion between nuclei&lt;/li&gt;
-  &lt;li&gt;repulsion between electrons&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-1a60f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;bond-types&quot;&gt;Bond Types&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:27:02.736420&lt;/li&gt;
-  &lt;li&gt;two general types of bonding between atoms found in
-compounds, ionic and covalent&lt;/li&gt;
-  &lt;li&gt;ionic bonds result when electrons have been transferred between atoms, resulting in oppositely charged ions that attract each other
-    &lt;ul&gt;
-      &lt;li&gt;generally metal atoms bonded to nonmetal atoms&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;covalent bonds result when two atoms share some of their electrons
-    &lt;ul&gt;
-      &lt;li&gt;generally found when nonmetal atoms bonded together&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:29:06.260194&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-e199c.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;We draw a dash to denote a covalent bond between atoms in the structural model&lt;/li&gt;
-      &lt;li&gt;ball and stick starts to show us how it really looks in 3d space&lt;/li&gt;
-      &lt;li&gt;space-filling model shows it more accurately in terms of how they bond&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-2e0d0.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:31:23.554938&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:32:33.081289&lt;/li&gt;
-  &lt;li&gt;A molecular formula shows the exact number of atoms of each element in the smallest unit of a substance&lt;/li&gt;
-  &lt;li&gt;An empirical formula shows the simplest whole-number ratio of the atoms in a substance&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;molecular&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;principal&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;H2O&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;H2O&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;C6H12O6&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;CH2O&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;O3&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;O&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;N2H4&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;NH2&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;molecular-elements&quot;&gt;Molecular Elements&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:34:57.015297&lt;/li&gt;
-  &lt;li&gt;Certain elements occur as 2 atom molecules&lt;/li&gt;
-  &lt;li&gt;Other elements occur as polyatomic molecules
-    &lt;ul&gt;
-      &lt;li&gt;P4, S8, Se8&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-7f0cb.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ionic-compounds&quot;&gt;Ionic Compounds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:36:11.710564&lt;/li&gt;
-  &lt;li&gt;ionic compounds consist of a combination of cations and anions
-    &lt;ul&gt;
-      &lt;li&gt;the formula is always the same as the empirical formula&lt;/li&gt;
-      &lt;li&gt;the sum of the charges on the cation(s) and anion(s) in each formula unit must equal zero&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The Ionic compound NaCl
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-1707d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:37:35.867163&lt;/li&gt;
-  &lt;li&gt;metals + nonmetals&lt;/li&gt;
-  &lt;li&gt;no individual molecule units, instead have a 3-dimensional array of cations and anions made of formula units&lt;/li&gt;
-  &lt;li&gt;many contain polyatomic ions
-    &lt;ul&gt;
-      &lt;li&gt;several atoms attached together in one ion&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;formulae-of-ionic-compounds&quot;&gt;Formulae of Ionic Compounds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:38:32.534553&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-79b3d.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Aluminum likes to lose three electrons
-        &lt;ul&gt;
-          &lt;li&gt;Al^3+&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Oxygen likes to gain two electrons
-        &lt;ul&gt;
-          &lt;li&gt;O^2-&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:42:57.146045&lt;/li&gt;
-  &lt;li&gt;What is the correct formula for the binary compound formed from sodium and nitrogen
-    &lt;ul&gt;
-      &lt;li&gt;Na_3N
-        &lt;ul&gt;
-          &lt;li&gt;You have to put sodium first&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;octet-rule-a-guideline-for-molecule-formation&quot;&gt;Octet Rule: A Guideline for Molecule Formation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:43:41.584886&lt;/li&gt;
-  &lt;li&gt;Atoms prefer to have a filled valence shell meaning 8 valence electrons&lt;/li&gt;
-  &lt;li&gt;Also expressed as: atoms prefer to have the same valence electron configuration as nearest noble gas&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;lewis-theory-predictions-for-ionic-bonding&quot;&gt;Lewis Theory Predictions for Ionic Bonding&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:44:41.987239&lt;/li&gt;
-  &lt;li&gt;Lewis theory predicts the number of electrons a metal atom should lose or a nonmetal atom should gain in order to attain a stable electron arrangement.
-+The octet rule&lt;/li&gt;
-  &lt;li&gt;Octet rule (guideline) allows us to predict the
-+formulas of ionic compounds that result;
-+relative strengths of the resulting ionic bonds based on Coulomb’s law.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;octet-rule-a-guideline-for-molecule-formation-1&quot;&gt;Octet Rule: A Guideline for Molecule Formation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:45:49.850342&lt;/li&gt;
-  &lt;li&gt;Exceptions to the octet rule:&lt;/li&gt;
-  &lt;li&gt;H, Li, Be, and B attain an electron configuration like that of He.&lt;/li&gt;
-  &lt;li&gt;He can have ONLY two valence electrons, a duet.&lt;/li&gt;
-  &lt;li&gt;Li loses its one valence electron.&lt;/li&gt;
-  &lt;li&gt;H shares orgainsoneelectron.
-+Though it commonly loses its one electron to become H+&lt;/li&gt;
-  &lt;li&gt;BelosestwoelectronstobecomeBe2+.
-+Though it commonly shares its two electrons in covalent bonds, resulting
-in four valence electrons&lt;/li&gt;
-  &lt;li&gt;BlosesthreeelectronstobecomeB3+.
-+Though it commonly shares its three electrons in covalent bonds, resulting in six valence electrons&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;energetics-of-ionic-bond-formation-using-nacl-as-an-example&quot;&gt;Energetics of Ionic Bond Formation: Using NaCl as an Example&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:47:21.944874
-The ionization energy of the metal is endothermic.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-ada36.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;The electron affinity of the nonmetal is exothermic.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-1841b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Generally, the ionization energy of the metal is larger than the electron affinity of the nonmetal; therefore, the formation of the ionic compound should be endothermic.&lt;/li&gt;
-  &lt;li&gt;But the heat of formation of most ionic compounds is exothermic and generally large.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-39ae6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Term&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;electron affinity&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;energy associated with the addition of an electron to the valence shell of an atom in the gas phase&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;metal properties&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;malleable, ductile, shiny, conduct heat and electricity, form cations, lose electrons in reactions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;nonmetal properties&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;brittle, dull, insulating, acidic, form anions, gain electrons in reactions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;oxidization&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;losing electrons in reactions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;reduction&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;gaining electrons in reactions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;metallic character&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;how closely an element’s properties match the ideal properties of a metal&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;decreases left to right and increases down&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;metallic character _ the period table (increases or decreases and left to right or up or down)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;ionic bonds&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;result when electrons have been transferred between atoms, resulting in oppositely charged ions that attract each other&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;covalent bonds&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;when two atoms share some of their electrons&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;molecular formula&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;shows the exact number of atoms of each element in the smallest unit of a substance&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;empirical formula&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;shows the simplest whole-number ratio of the atoms in a substance&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;polyatomic ions&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;several atoms attached together in one ion&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;octet rule&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;says atoms gain or lose electrons so that they have a nobel gas configuration&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;duet&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;atom with only two valence electrons&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Mon, 19 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/09/19/week-6-day-1.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/19/week-6-day-1.html</guid>
         
         
       </item>
