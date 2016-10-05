@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Oct 2016 14:51:47 -0500</pubDate>
-    <lastBuildDate>Mon, 03 Oct 2016 14:51:47 -0500</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2016 22:01:43 -0500</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2016 22:01:43 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -687,7 +687,7 @@ opposite the previous lone pair.&lt;/li&gt;
     
       <item>
         <title>Test 2 Prep</title>
-        <description>&lt;p&gt;Test 2 is on chapters 4 - 6. Here are my suggestions for preparing for the exam. Look at the notes for weeks 5 - 8.&lt;/p&gt;
+        <description>&lt;p&gt;Test 2 is on chapters 4 - 6. Here are my suggestions for preparing for the exam. Look at the notes for weeks 4 - 8.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Work Recitation Questions
@@ -697,10 +697,11 @@ opposite the previous lone pair.&lt;/li&gt;
       &lt;li&gt;Week 7, Dr. Bakker was sick&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Work the clicker questions from lectures from weeks 5 - 8&lt;/li&gt;
+  &lt;li&gt;Work the clicker questions from lectures from weeks 4 - 8&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://quizlet.com/Jared_Beach/folders/ch-101-test-2&quot;&gt;Study these Quizlets&lt;/a&gt;
     &lt;ul&gt;
       &lt;li&gt;This includes the names of compounds you need to know from Chapter 5.&lt;/li&gt;
+      &lt;li&gt;Also includes the molecular shapes we need to know from chapter 6&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Work the problems at the end of chapters 4 - 6 and post questions to our &lt;a href=&quot;https://www.facebook.com/groups/1808499582716052/&quot;&gt;Facebook Group&lt;/a&gt;.&lt;/li&gt;
@@ -2035,6 +2036,183 @@ bonding atoms.&lt;/li&gt;
         <pubDate>Fri, 23 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/09/23/week-6-day-3.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/23/week-6-day-3.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 6 - Recitation (2nd for test 2)</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Which reaction below represents the electron affinity of Li?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Li(g) + e- -&amp;gt; Li^-(g)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Li(g) -&amp;gt; Li^+(g) + e-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Li(g) + e- -&amp;gt; Li^+(g)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Li^+(g) -&amp;gt; Li(g) + e-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; Li^+(g) + e- -&amp;gt; Li(g)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+var st1 = false;
+function toggleOne() {
+  st1 = !st1;
+  if (st1) {
+    $('#oneHint').show();
+    $('#toggleOne').val('hide');
+  }
+  else {
+    $('#oneHint').hide();
+    $('#toggleOne').val('show solution');
+  }
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input id=&quot;toggleOne&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleOne()&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;oneHint&quot; style=&quot;display:none&quot;&gt;The electron affinity is just adding an electron.&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Place the following in order of increasing metallic character
+    &lt;ul&gt;
+      &lt;li&gt;Rb Cs K Na&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; K &amp;lt; Cs &amp;lt; Na &amp;lt; Rb&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Na &amp;lt; K &amp;lt; Rb &amp;lt; Cs&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Cs &amp;lt; Rb &amp;lt; K &amp;lt; Na&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; K &amp;lt; Cs &amp;lt; Rb &amp;lt; Na&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Na &amp;lt; Rb &amp;lt; Cs &amp;lt; K&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Why does an electron found in a 2s orbital have a lower energy than an electron found in a 2p orbital in multi-electron systems?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Electrons in the 2s orbital are shielded by electrons in the 2p&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; There are more nodes found in the 2s orbital&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Electrons in the 2s orbital can penetrate the 1s orbital and be closer to the nucleus&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; The larger number of electrons found in the 2p orbital leads to greater repulsion&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; The shape of the orbital ultimately determines the energy of the electrons&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Which ion has the largest radius?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Na+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Ga3+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; K+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Mg2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; Ca+&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Place the following in order of increasing atomic radius
+    &lt;ul&gt;
+      &lt;li&gt;As O Br&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; As &amp;lt; Br &amp;lt; O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; O &amp;lt; As &amp;lt; Br&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Br &amp;lt; As &amp;lt; O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; As &amp;lt; O &amp;lt; Br&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; O &amp;lt; Br &amp;lt; As&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Place the following in order of decreasing radius
+    &lt;ul&gt;
+      &lt;li&gt;Te2- F- O2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; F- &amp;gt; O2- &amp;gt; Te2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; F- &amp;gt; Te2- &amp;gt; O2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Te2- &amp;gt; O2- &amp;gt; F-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Te2- &amp;gt; F- &amp;gt; O2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; O2- &amp;gt; F- &amp;gt; Te2-&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Place the following in order of increasing IE
+    &lt;ul&gt;
+      &lt;li&gt;N F As&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; N &amp;lt; As &amp;lt; F&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; As &amp;lt; N &amp;lt; F&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; F &amp;lt; N &amp;lt; As&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; As &amp;lt; F &amp;lt; N&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; F &amp;lt; As &amp;lt; N&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Identify the number of valence electrons in Cl-
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 6&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 7&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 8&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 5&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 4&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Give the ground state electron configuration for Se2-
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; [Ar] 4s2 3d10 4p4&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; [Ar] 4s2 3d10 4p2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; [Ar] 4s2 4p6&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; [Ar] 4s2 3d10 4p6&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; [Ar] 4s2 3d8 4p6&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Give the name for SnO
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; tin I oxide&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; tin II oxide&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; tin III oxide&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; tin IV oxide&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Write the name for Sn(SO4)2
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; tin (I) sulfite&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; tin (IV) sulfite&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; tin sulfide&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; tin (II) sulfite&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; tin (I) sulfate&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+var answers = [&quot;a&quot;, &quot;b&quot;, &quot;c&quot;, &quot;c&quot;, &quot;e&quot;, &quot;c&quot;, &quot;b&quot;, &quot;c&quot;, &quot;d&quot;, &quot;b&quot;, &quot;b&quot;];
+function getAnswer(number) {
+  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
+}
+function validate() {
+  var any = false;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (!answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
+      any = true;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
+    }
+  }
+  if (any) {
+    toastr.error(&quot;You did not answer every question!&quot;);
+  }
+  return !any;
+}
+function grade() {
+  if (!validate()) return;
+  var correct = 0;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (answers[i-1] == answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
+      correct++;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
+    }
+  }
+  toastr.success(&quot;Your grade is &quot;+ ((correct/answers.length) * 100).toFixed(2) + &quot; out of 100&quot;);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Sep 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/09/21/week-6-recitation-2nd-for-test-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/21/week-6-recitation-2nd-for-test-2.html</guid>
         
         
       </item>
@@ -3427,7 +3605,7 @@ The ionization energy of the metal is endothermic.&lt;/li&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;ionic bonds&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;result when electrons have been transferred between atoms, resulting in oppositely&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;result when electrons have been transferred between atoms, resulting in oppositely charged ions that attract each other&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align: left&quot;&gt;covalent bonds&lt;/td&gt;
@@ -3459,472 +3637,6 @@ The ionization energy of the metal is endothermic.&lt;/li&gt;
         <pubDate>Mon, 19 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/09/19/week-6-day-1.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/19/week-6-day-1.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 5 - Day 3</title>
-        <description>
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-5-day-3.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;TAvpLPAtFwI&quot;});
-&lt;/script&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2jbmf7&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:00:39.475037&lt;/li&gt;
-  &lt;li&gt;Scores got changed up, but now they’re changed back to what they were originally&lt;/li&gt;
-  &lt;li&gt;Ch 4 homework due next week&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electron-configuration-and-elemental-properties-the-metals&quot;&gt;Electron Configuration and Elemental Properties: The Metals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:03:02.434400&lt;/li&gt;
-  &lt;li&gt;Metallic elements make up the majority of the elements in the periodic table.
-    &lt;ul&gt;
-      &lt;li&gt;Alkali Metals:
-        &lt;ul&gt;
-          &lt;li&gt;They have one more electron than the previous noble gas and occupy the first column.&lt;/li&gt;
-          &lt;li&gt;In their reactions, the alkali metals lose one electron, and the resulting electron configuration is the same as that of a noble gas.
-            &lt;ul&gt;
-              &lt;li&gt;Forming a cation with a 1+ charge&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Alkaline Earth Metals:
-        &lt;ul&gt;
-          &lt;li&gt;They have two more electrons than the previous noble gas and occupy the second column.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In their reactions, the alkaline earth metals lose two electrons, and the resulting electron configuration is the same as that of a noble gas.
-    &lt;ul&gt;
-      &lt;li&gt;Forming a cation with a 2+ charge&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:06:10.831608&lt;/li&gt;
-  &lt;li&gt;Give the number of core electrons for Cd
-    &lt;ul&gt;
-      &lt;li&gt;Cd atomic # is 48, but based on it’s position on the periodic table, the d, valence electrons are not core, so the answer is 46&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;metallic-behavior-and-electron-configuration&quot;&gt;Metallic Behavior and Electron Configuration&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:08:00.666264&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-4cbdf.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;gaining-or-losing-electrons&quot;&gt;Gaining or Losing Electrons&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:09:07.638465&lt;/li&gt;
-  &lt;li&gt;Electrons want to be in the lowest lying orbital that has a vacancy&lt;/li&gt;
-  &lt;li&gt;If that is on another atom: electron transfers and get an ion&lt;/li&gt;
-  &lt;li&gt;Orbitals shrink across periodic table as nuclear charge increases across periodic table&lt;/li&gt;
-  &lt;li&gt;For metals: energy of orbitals is (generally) higher than surrounding matter: lose electrons and make cations&lt;/li&gt;
-  &lt;li&gt;For non-metals: energy of orbital is (generally) lower than surrounding matter: gain electrons and make anions&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;orbital-blocks-and-their-position-in-the-periodic-table&quot;&gt;Orbital Blocks and Their Position in the Periodic Table&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:13:44.899521&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-b284d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electron-configuration-and-elemental-properties-noble-gases&quot;&gt;Electron Configuration and Elemental Properties: Noble Gases&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:14:56.898668&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-115ec.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;The noble gases have eight valence electrons.
-    &lt;ul&gt;
-      &lt;li&gt;Except for He, which has only two electrons&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;They are especially nonreactive.
-    &lt;ul&gt;
-      &lt;li&gt;He and Ne are practically inert.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The reason the noble gases are so nonreactive is that the electron configuration of the noble gases is especially stable.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electron-configuration-and-ion-formation&quot;&gt;Electron Configuration and Ion Formation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:15:50.407566&lt;/li&gt;
-  &lt;li&gt;Ion formation can be predicted by an element’s location in the periodic table.&lt;/li&gt;
-  &lt;li&gt;These atoms form ions that will result in an electron configuration that is the same as that of the nearest noble gas.&lt;/li&gt;
-  &lt;li&gt;Metals form cations (positively charged atoms).
-    &lt;ul&gt;
-      &lt;li&gt;Alkali metals (group 1A) form only +1 cations.&lt;/li&gt;
-      &lt;li&gt;Alkaline earth metals (group 2A) form only +2 cations.&lt;/li&gt;
-      &lt;li&gt;Transition, inner transition, and p-block metals form a variety of charged cations.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Nonmetals form anions (negatively charged atoms).&lt;/li&gt;
-  &lt;li&gt;Halogens (group 7A) usually gain one electron to form –1 anions.
-    &lt;ul&gt;
-      &lt;li&gt;Other nonmetals can form a variety of charged anions.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electron-configuration-and-ion-formation-elements-that-form-ions-with-predictable-charges&quot;&gt;Electron Configuration and Ion Formation: Elements that Form Ions with Predictable Charges&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-ad3f2.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;effective-nuclear-charge-and-the-screening-effect&quot;&gt;Effective Nuclear Charge and the Screening Effect&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:17:40.420403&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-b703a.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Nuclear charge minus core electrons&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;effective-nuclear-charge&quot;&gt;Effective Nuclear Charge&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:18:34.927551&lt;/li&gt;
-  &lt;li&gt;The effective nuclear charge is a net positive charge that is attracting a particular electron.&lt;/li&gt;
-  &lt;li&gt;Core electrons efficiently shield electrons in the outermost principal energy level from nuclear charge.&lt;/li&gt;
-  &lt;li&gt;Outermost electrons in the valence shell do not efficiently shield one another from nuclear charge.&lt;/li&gt;
-  &lt;li&gt;Z is the nuclear charge, and S is the number of electrons in lower energy levels.
-    &lt;ul&gt;
-      &lt;li&gt;Electrons in the same energy level contribute to screening, but since their contribution is so small, they are not part of the calculation.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-98828.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;periodic-trends-atomic-radii-and-effective-nuclear-charge&quot;&gt;Periodic Trends: Atomic Radii and Effective Nuclear Charge&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:20:20.485159&lt;/li&gt;
-  &lt;li&gt;There are several methods for measuring the radius of an atom,and they give slightly different numbers.&lt;/li&gt;
-  &lt;li&gt;Van der Waals radius = nonbonding&lt;/li&gt;
-  &lt;li&gt;Covalent radius = bonding radius&lt;/li&gt;
-  &lt;li&gt;Atomic radius is an average radius of an atom based on measuring large numbers of compounds.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-a9a7a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;periodic-trends-atomic-radii-and-effective-nuclear-charge-1&quot;&gt;Periodic Trends: Atomic Radii and Effective Nuclear Charge&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:21:45.986365&lt;/li&gt;
-  &lt;li&gt;Atomic radius decreases across a period (left to right). –  Adding electrons to the same valence shell
-    &lt;ul&gt;
-      &lt;li&gt;Effective nuclear charge increases.&lt;/li&gt;
-      &lt;li&gt;Valence shell held closer&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Atomic radius increases down a group.
-    &lt;ul&gt;
-      &lt;li&gt;Valence shell farther from nucleus&lt;/li&gt;
-      &lt;li&gt;Effective nuclear charge fairly constant (expansion
-mostly due to increasing n)&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-9a6c9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;summarizing-atomic-radii-trend-for-main--group-elements&quot;&gt;Summarizing Atomic Radii Trend for Main- Group Elements&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:25:24.843667&lt;/li&gt;
-  &lt;li&gt;The size of an atom is related to the distance the valence electrons are from the nucleus.
-    &lt;ul&gt;
-      &lt;li&gt;The larger the orbital an electron is in, the farther its most probable distance will be from the nucleus, and the less attraction it will have for the nucleus.&lt;/li&gt;
-      &lt;li&gt;Traversing down a group adds a principal energy level, and the larger the principal energy level an orbital is in, the larger its volume.&lt;/li&gt;
-      &lt;li&gt;Quantum-mechanics predicts that the atoms should get larger down a column.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;summarizing-atomic-radii-trend-for-main--group-elements-1&quot;&gt;Summarizing Atomic Radii Trend for Main- Group Elements&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:14.499563&lt;/li&gt;
-  &lt;li&gt;The larger the effective nuclear charge an electron experiences, the stronger the attraction it will have for the nucleus.
-    &lt;ul&gt;
-      &lt;li&gt;The closer their average distance will be to the nucleus, the stronger the attraction the valence electrons have for the nucleus.&lt;/li&gt;
-      &lt;li&gt;Traversing across a period increases the effective nuclear charge on the valence electrons.&lt;/li&gt;
-      &lt;li&gt;Quantum-mechanics predicts that the atoms should get smaller across a period.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;summarizing-atomic-radii-trend-for-transition-elements&quot;&gt;Summarizing Atomic Radii Trend for Transition Elements&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:56.496332&lt;/li&gt;
-  &lt;li&gt;Atoms in the same group increase in size down the column.&lt;/li&gt;
-  &lt;li&gt;Atomic radii of transition metals are roughly the same size across the d block.
-    &lt;ul&gt;
-      &lt;li&gt;Much less difference than across main group elements&lt;/li&gt;
-      &lt;li&gt;Valence shell ns2, not the (n − 1)d electrons&lt;/li&gt;
-      &lt;li&gt;Effective nuclear charge on the ns2 electrons approximately the same&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ions-magnetic-properties&quot;&gt;Ions: Magnetic Properties&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:27:41.873967&lt;/li&gt;
-  &lt;li&gt;Electron configurations that result in unpaired electrons mean that the atom or ion will have a net magnetic field; this is called
-paramagnetism.
-    &lt;ul&gt;
-      &lt;li&gt;Will be attracted to a magnetic field&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-f8333.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Electron configurations that result in all paired electrons mean that the atom or ion will have no magnetic field; this is called
-diamagnetism.
-    &lt;ul&gt;
-      &lt;li&gt;Slightly repelled by a magnetic field&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-af5dc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;radii-of-atoms-and-their-ions-cations&quot;&gt;Radii of Atoms and Their Ions: Cations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:30:05.119746&lt;/li&gt;
-  &lt;li&gt;Cation radius is smaller than its corresponding atom radius.
-    &lt;ul&gt;
-      &lt;li&gt;Loose electrons experiencing small effective nuclear charge; remaining electrons those experiencing a larger effective nuclear charge&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Traversing down a group increases the (n − 1) level, causing the cations to get larger.&lt;/li&gt;
-  &lt;li&gt;Traversing to the right across a period increases the effective nuclear charge for &lt;em&gt;isoelectronic&lt;/em&gt; cations, causing the cations to get smaller.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-dda34.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:32:15.588321&lt;/li&gt;
-  &lt;li&gt;isoelectronic = same number of electrons&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;radii-of-atoms-and-their-ions-anions&quot;&gt;Radii of Atoms and Their Ions: Anions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:32.478937&lt;/li&gt;
-  &lt;li&gt;When atoms form anions, electrons are added to the valence shell.&lt;/li&gt;
-  &lt;li&gt;Addition of electrons increases repulsion in valence shell without compensating increase in effective nuclear charge&lt;/li&gt;
-  &lt;li&gt;The result is that the anion is larger than the atom. Traversing down a group increases the n level, causing the anions to get larger.&lt;/li&gt;
-  &lt;li&gt;Traversing to the left across a period decreases the effective nuclear charge for isoelectronic anions, causing the anions to get &lt;em&gt;larger&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-02958.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;oposite of what happens with cations&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Place the following in order of increasing radius
-    &lt;ul&gt;
-      &lt;li&gt;Br-, Na+, Rb+&lt;/li&gt;
-      &lt;li&gt;Na+, Rb+, Br-&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;periodic-trend-ionization-energy-potential&quot;&gt;Periodic Trend: Ionization Energy (Potential)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:37:37.889283&lt;/li&gt;
-  &lt;li&gt;Ionization Energy (IE):&lt;/li&gt;
-  &lt;li&gt;It is the minimum energy needed to remove an electron from an atom or ion in the gas phase.&lt;/li&gt;
-  &lt;li&gt;It is an endothermic process (requires the input of energy to remove the electron)
-    &lt;ul&gt;
-      &lt;li&gt;Valence electron easiest to remove, lowest IE&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;First ionization energy = energy to remove electron from neutral atom –  All atoms have first ionization energy.
-M(g) + IE1 èM1+(g) + 1 e–&lt;/li&gt;
-  &lt;li&gt;Second IE = energy to remove from 1+ ion, etc. M+1(g)&lt;/li&gt;
-  &lt;li&gt;IE2 è M2+(g) + 1 e–&lt;/li&gt;
-  &lt;li&gt;Audio 0:39:07.357544&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-6c154.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;increases as you go across the periodic table&lt;/li&gt;
-      &lt;li&gt;Charge shrinks the nucleus, takes more energy to remove the charge&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;periodic-trend-ionization-energy-potential-1&quot;&gt;Periodic Trend: Ionization Energy (Potential)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:40:38.726742
-Ionization Energy (IE):&lt;/li&gt;
-  &lt;li&gt;The larger the effective nuclear charge on the electron to be removed,
-the more energy it takes to remove it.&lt;/li&gt;
-  &lt;li&gt;The farther the most probable distance the electron is from the nucleus, the less energy it takes to remove it.&lt;/li&gt;
-  &lt;li&gt;Trend:
-    &lt;ul&gt;
-      &lt;li&gt;First IE decreases down the group.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Valence electron is farther from nucleus.
-    &lt;ul&gt;
-      &lt;li&gt;First IE generally increases across the period. + Effective nuclear charge increases.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;periodic-trend-ionization-energy-potential-2&quot;&gt;Periodic Trend: Ionization Energy (Potential)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:40:54.665440&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-1e357.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:42:14.239301&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-6c154.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Nitrogen has three unpaired electrons, the next electron has to go down an orbital which will make it a little easier to remove the last electron in oxygen to get to nitrogen.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;first-ionization-energy-exceptions-to-the-trend&quot;&gt;First Ionization Energy: Exceptions to the Trend&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:43:42.531942&lt;/li&gt;
-  &lt;li&gt;GENERAL trend for first ionization energy of main-group elements is that as you go across a period, ionization energy increases.
-    &lt;ul&gt;
-      &lt;li&gt;Exceptions: 2A to 3A and 5A to 6A&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Exceptions are usually a result of
-    &lt;ul&gt;
-      &lt;li&gt;the type of orbital (s, p, d, or f) and its shielding ability;&lt;/li&gt;
-      &lt;li&gt;repulsion factors associated with electrons occupying degenerate orbitals (i.e., p orbitals).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;B has smaller first ionization energy than Be due to electron position: 2p for B and 2s for Be.
-The electron in 2p orbitals has more shielding (i.e., lower effective nuclear charge) and therefore requires less energy for its removal than an electron in a 2s orbital.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-edc55.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;trends-of-second-and-successive-ionization-energies&quot;&gt;Trends of Second and Successive Ionization Energies&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:44:46.840846&lt;/li&gt;
-  &lt;li&gt;They depend on the number of valence electrons an element has.
-–  ionization energies increase dramatically in going from valence to core electrons&lt;/li&gt;
-  &lt;li&gt;Removal of each successive electron costs more energy.
-–  Shrinkage in size due to having more protons than electrons
-–  Outer electrons closer to the nucleus; therefore harder to remove&lt;/li&gt;
-  &lt;li&gt;There’s a regular increase in energy for each successive valence electron.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-dd344.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-16-week-5-day-3-af312.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
-
-&lt;p&gt;What period 3 element has the following ionization energies (all in kJ/mol)?
-IE1 = 1012 IE2 = 1900 IE3= 2910 IE4= 4960
-IE5= 6270
-A) Si B) S C) P D) Cl E) Mg
-IE6 = 22,200&lt;/p&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;alkali metals&lt;/td&gt;
-      &lt;td&gt;elements which have one more electron than the previous noble gas and occupy the first&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;alkaline Earth Metals&lt;/td&gt;
-      &lt;td&gt;elements which have two more electrons than the previous noble gas and occupy the second column&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;metalloids&lt;/td&gt;
-      &lt;td&gt;an element whose properties are between those of metals and solid nonmetals&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;effective nuclear charge&lt;/td&gt;
-      &lt;td&gt;a net positive charge that is attracting a particular electron&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;decreases&lt;/td&gt;
-      &lt;td&gt;Atomic radius _ across a period (left to right)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;paramagnetism&lt;/td&gt;
-      &lt;td&gt;something which is _ will be attracted to a magnetic field&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;diamagnetism&lt;/td&gt;
-      &lt;td&gt;something which is _ will be slightly repelled by a magnetic field&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;isoelectronic&lt;/td&gt;
-      &lt;td&gt;same number of electrons&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;larger&lt;/td&gt;
-      &lt;td&gt;traversing down the periodic table, atoms get larger or smaller?&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;ionization energy&lt;/td&gt;
-      &lt;td&gt;the minimum energy needed to remove an electron from an atom or ion in the gas phase&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;smaller&lt;/td&gt;
-      &lt;td&gt;IE _ down the group&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;larger&lt;/td&gt;
-      &lt;td&gt;IE _ across the period to the right&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Fri, 16 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/09/16/week-5-day-3.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/16/week-5-day-3.html</guid>
         
         
       </item>
