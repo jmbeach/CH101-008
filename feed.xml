@@ -6,9 +6,1050 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Oct 2016 17:43:08 -0500</pubDate>
-    <lastBuildDate>Wed, 05 Oct 2016 17:43:08 -0500</lastBuildDate>
+    <pubDate>Mon, 10 Oct 2016 16:59:32 -0500</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2016 16:59:32 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 9 - Day 1 (Chapter 7 pt 2)</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2mglz7&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-9-day-1-chapter-7-pt-2.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;9OlJjyNuvhA&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:14.957544&lt;/li&gt;
+  &lt;li&gt;Student Affiliates of the American Chemical Society&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;unhybridized-carbon-orbitals-in-ch4-predict-the-wrong-bonding-and-geometry&quot;&gt;Unhybridized Carbon Orbitals in CH4: Predict the Wrong Bonding and Geometry&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:01:26.977877&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-cb002.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;valence-bond-theory-and-hybridization-ch4&quot;&gt;Valence Bond Theory and Hybridization CH4&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One of the issues that arises is that the number of partially filled or empty atomic orbitals did not predict the number of bonds or orientation of bonds.
+    &lt;ul&gt;
+      &lt;li&gt;C = 2s^2 2px^1 2py^1 2pz^0 would predict two or three bonds that are 90° apart, rather than four bonds that are 109.5° apart.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;To adjust for these inconsistencies, it was postulated
+that the valence atomic orbitals could hybridize before
+bonding took place.
+    &lt;ul&gt;
+      &lt;li&gt;One hybridization of C is to mix all the 2s and 2p orbitals to get four orbitals that point at the corners of a tetrahedron.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;hybridization&quot;&gt;Hybridization&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:02:36.629512&lt;/li&gt;
+  &lt;li&gt;Some atoms hybridize their orbitals to maximize bonding.
+    &lt;ul&gt;
+      &lt;li&gt;More bonds = more full orbitals = more stability&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hybridizing is mixing different types of orbitals in the valence shell to make a new set of degenerate orbitals.
+    &lt;ul&gt;
+      &lt;li&gt;sp, sp2 , sp3 , sp3d, sp3d2
+        &lt;ul&gt;
+          &lt;li&gt;Four Hybrid orbitals&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The same type of atom can have different types of
+hybridization.
+    &lt;ul&gt;
+      &lt;li&gt;C = sp, sp2 , sp3&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-0a945.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;If we need a trigonal planar
+        &lt;ul&gt;
+          &lt;li&gt;Hybridize s and sp2&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;hybrid-orbitals&quot;&gt;Hybrid Orbitals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:04:49.597515&lt;/li&gt;
+  &lt;li&gt;The number of standard atomic orbitals combined = the number of hybrid orbitals formed.
+    &lt;ul&gt;
+      &lt;li&gt;Example for carbon:
+        &lt;ul&gt;
+          &lt;li&gt;Combining a 2s with a 3p gives four sp3 hybrid orbitals.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;H cannot hybridize.
+        &lt;ul&gt;
+          &lt;li&gt;Its valence shell only has one orbital.
+            &lt;ul&gt;
+              &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-de764.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+              &lt;li&gt;Audio 0:05:51.042164&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The number and type of standard atomic orbitals combined determines the shape of the hybrid orbitals.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The particular kind of hybridization that occurs is the one that yields the lowest overall energy for the molecule.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:06:49.243321&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-0661e.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Take the s and 3 p orbitals and make four sp3 orbitals
+        &lt;ul&gt;
+          &lt;li&gt;Makes the tetrahedral geometry&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sp3-hybridization&quot;&gt;sp3 Hybridization&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:08:30.906596&lt;/li&gt;
+  &lt;li&gt;Atom with four electron groups around it:
+    &lt;ul&gt;
+      &lt;li&gt;Tetrahedral geometry&lt;/li&gt;
+      &lt;li&gt;109.5° angles between hybrid orbitals&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Atom uses hybrid orbitals for all bonds and lone pairs&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-c3b83.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:08:43.856308&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;formation-of-sp-hybrid-orbitals&quot;&gt;Formation of sp Hybrid Orbitals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-21870.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;formation-of-sp2-hybrid-orbitals&quot;&gt;Formation of sp2 Hybrid Orbitals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:09:19.885131&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-c9583.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:09:46.537377&lt;/li&gt;
+  &lt;li&gt;Give the electron geometry (eg), molecular geometry (mg), and hybridization for H2O&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A) eg = tetrahedral, mg = bent, sp3
+B) eg = trigonal pyramidal, mg = trigonal pyramidal, sp3
+C) eg = tetrahedral, mg = trigonal pyramidal, sp3
+D) eg = bent, mg = bent, sp3
+E) eg = trigonal planar, gm = trigonal planar, sp3&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;c1&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;input type=”button” onclick=”$(“#c1”).toggle()” value=”show/hide answer”/&amp;gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sp3d-hybridized-orbital&quot;&gt;sp3d Hybridized Orbital&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:35.100695&lt;/li&gt;
+  &lt;li&gt;Atom with five electron groups around it:
+    &lt;ul&gt;
+      &lt;li&gt;Trigonal bipyramid electron geometry&lt;/li&gt;
+      &lt;li&gt;Seesaw, T-shape, linear&lt;/li&gt;
+      &lt;li&gt;120° and 90° bond angles&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Use empty d orbitals from valence shell&lt;/li&gt;
+  &lt;li&gt;d orbitals—used to make π bonds&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-a95a3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sp3d-hybridized-orbital-1&quot;&gt;sp3d Hybridized Orbital&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-3c596.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sp3d2&quot;&gt;sp3d2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Atom with six electron groups around it:
+    &lt;ul&gt;
+      &lt;li&gt;Octahedral electron
+geometry&lt;/li&gt;
+      &lt;li&gt;Square pyramid, square planar&lt;/li&gt;
+      &lt;li&gt;90° bond angles&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Use empty d orbitals from valence shell to form hybrid&lt;/li&gt;
+  &lt;li&gt;d orbitals—used to make π bonds&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-83015.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sp3d2-1&quot;&gt;sp3d2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-4ed96.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-7402d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;and--bonds&quot;&gt;σ and π bonds:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;σ bonds –overlap along bond axis&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-55082.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;hybridization-sp2&quot;&gt;Hybridization: sp2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:19:16.146819&lt;/li&gt;
+  &lt;li&gt;Atom with three electron groups around it:&lt;/li&gt;
+  &lt;li&gt;Atom uses hybrid orbitals for σ bonds and lone pairs and uses nonhybridized p orbital for π bond&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-8d794.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-926a0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sigma-and-pi-bonding&quot;&gt;Sigma and Pi Bonding&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:37.534711&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-579ce.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;orbital-diagrams-of-bonding-h2co&quot;&gt;Orbital Diagrams of Bonding: H2CO&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:21:03.253240&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-19166.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;“Overlap” between a sp2 hybrid orbital on C and s 1s orbital on H gives σ bond.&lt;/li&gt;
+  &lt;li&gt;“Overlap” between unhybridized p orbitals on C and O gives π bond.&lt;/li&gt;
+  &lt;li&gt;“Overlap” between C sp2 hybrid orbital and O sp2 gives σ bond&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;types-of-bonds&quot;&gt;Types of Bonds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:24:50.789254&lt;/li&gt;
+  &lt;li&gt;A &lt;em&gt;sigma (σ) bond&lt;/em&gt; results when the interacting atomic orbitals point
+along the axis connecting the two bonding nuclei.
+    &lt;ul&gt;
+      &lt;li&gt;Either standard atomic orbitals or hybrids
+        &lt;ul&gt;
+          &lt;li&gt;s to s, p to p, hybrid to hybrid, s to hybrid, etc.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A &lt;em&gt;pi (π) bond&lt;/em&gt; results when the bonding atomic orbitals are parallel to each other and perpendicular to the axis connecting the two bonding nuclei.
+    &lt;ul&gt;
+      &lt;li&gt;Between unhybridized parallel p orbitals&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The interaction between parallel orbitals is not as strong as between orbitals that point at each other; therefore, σ bonds are stronger than π bonds.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bond-rotation&quot;&gt;Bond Rotation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:21.602225&lt;/li&gt;
+  &lt;li&gt;Because of the orbitals that form the σ bond point along the internuclear axis, rotation around that bond does not require breaking the interaction between the orbitals.&lt;/li&gt;
+  &lt;li&gt;But the orbitals that form the π bond interact above and below the internuclear axis, so rotation around the axis requires the breaking of the interaction between the orbitals.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-5ad3a.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;With a single bond, you have free rotation of the molecule around the bond
+        &lt;ul&gt;
+          &lt;li&gt;The rotation does not impact the strength of the bond&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;With a double bond, you’d have to break the bond to rotate
+        &lt;ul&gt;
+          &lt;li&gt;It actually freezes the structure of the molecule&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;cis--trans-isomers-of-12-dichloroethane&quot;&gt;Cis &amp;amp; Trans Isomers of 1,2-Dichloroethane&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:28:53.696722&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-c71b2.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Same compound, different properties&lt;/li&gt;
+      &lt;li&gt;Think about trans-fats
+        &lt;ul&gt;
+          &lt;li&gt;Still fat, but way more harmful&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:21.778478&lt;/li&gt;
+  &lt;li&gt;place the following in order of decreasing dipole moment
+I. cis-CHCl=CHCl II. trans-CHCl=CHCl III. cis-CHF=CHF&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A) III &amp;gt; I &amp;gt; II
+B) II &amp;gt; I &amp;gt; III
+C) I &amp;gt; III &amp;gt; II
+D) II &amp;gt; III &amp;gt; I
+E) I = III &amp;gt; II&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;c2&quot; style=&quot;display:none&quot;&gt;A. The trans dichloroethane actually cancels itself out and has 0 dipole moment. Then for the cis flourine, it has higher dipole moment than I, so A.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;input type=”button” onclick=”$(“#c2”).toggle()” value=”show/hide answer”/&amp;gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sp-hybridization-and-triple-bonds&quot;&gt;sp Hybridization and Triple Bonds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:35:28.142277&lt;/li&gt;
+  &lt;li&gt;Atom with two electron groups:
+    &lt;ul&gt;
+      &lt;li&gt;Linear shape&lt;/li&gt;
+      &lt;li&gt;180° bond angle&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Atom uses hybrid orbitals for σ bonds or lone pairs and uses nonhybridized p orbitals for π bonds&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-39107.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;formation-of-sp-hybrid-orbital-in-ethyne&quot;&gt;Formation of sp Hybrid Orbital in Ethyne&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:27.515559&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-aaffa.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;predicting-hybridization-and-bonding-scheme&quot;&gt;Predicting Hybridization and Bonding Scheme&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:53.510663
+    &lt;ol&gt;
+      &lt;li&gt;Start by drawing the Lewis structure.&lt;/li&gt;
+      &lt;li&gt;Use VSEPR theory to predict the electron group
+geometry around each central atom.&lt;/li&gt;
+      &lt;li&gt;Use Table 7.1 to select the hybridization
+scheme that matches the electron group
+geometry.&lt;/li&gt;
+      &lt;li&gt;Sketch the atomic and hybrid orbitals on the
+atoms in the molecule, showing overlap of the
+appropriate orbitals.&lt;/li&gt;
+      &lt;li&gt;Label the bonds as σ or π.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-on-hybridization-acetaldehyde-ch3cho&quot;&gt;Practice Problem on Hybridization Acetaldehyde: CH3CHO&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/s2h_3daFZwQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;problems-with-valence-bond-vb-theory&quot;&gt;Problems with Valence Bond (VB) Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:43:09.953460&lt;/li&gt;
+  &lt;li&gt;VB theory predicts many properties better than Lewis
+theory.
+    &lt;ul&gt;
+      &lt;li&gt;Bonding schemes, bond strengths, bond lengths, bond rigidity&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;However, there are still many properties of molecules it doesn’t predict perfectly.
+    &lt;ul&gt;
+      &lt;li&gt;Magnetic behavior of O2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Resonance hybrids: VB theory presumes the electrons are localized in orbitals on the atoms in the molecule, so doesn’t really address resonance structures&lt;/li&gt;
+  &lt;li&gt;Aka, we still have shortcomings&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;term&lt;/th&gt;
+      &lt;th&gt;definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;hybridization&lt;/td&gt;
+      &lt;td&gt;mixing different types of orbitals in the valence shell to make a new set of degenerate orbitals&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;sp2 hybridization&lt;/td&gt;
+      &lt;td&gt;atom with three electron groups around it (uses nonhybridized p orbital for pi bond)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;sigma (σ) bond&lt;/td&gt;
+      &lt;td&gt;results when the interacting atomic orbitals point along the axis connecting the two bonding nuclei&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;pi bond&lt;/td&gt;
+      &lt;td&gt;results when the bonding atomic orbitals are parallel to each other and perpendicular to the axis connecting the two bonding nuclei&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;sigma bonds are (stronger or weaker?) than pi bonds&lt;/td&gt;
+      &lt;td&gt;stronger&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Mon, 10 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/10/10/week-9-day-1-chapter-7-pt-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/10/week-9-day-1-chapter-7-pt-2.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Remainder of Ch 7</title>
+        <description>&lt;h2 id=&quot;ex-multi-central-atom-lewis-structures-isomers-of-c2h4o&quot;&gt;Ex: Multi-Central Atom Lewis Structures Isomers of C2H4O&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Acetaldehyde: CH3CHO,&lt;/li&gt;
+  &lt;li&gt;Ethenol (aka vinyl alcohol): CH2CHOH&lt;/li&gt;
+  &lt;li&gt;oxirane (aka ethylene oxide): CH2OCH2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-orbital-mo-theory-electron-delocalization&quot;&gt;Molecular Orbital (MO) Theory: Electron Delocalization&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;In MO theory:
+    &lt;ul&gt;
+      &lt;li&gt;Applies Schrödinger’s wave equation to the molecule to calculate a set of &lt;em&gt;molecular orbitals&lt;/em&gt;
+        &lt;ul&gt;
+          &lt;li&gt;The equation solution is estimated.&lt;/li&gt;
+          &lt;li&gt;The estimated solution is evaluated and adjusted until the energy of the orbital is minimized.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In this treatment, the electrons belong to the whole
+molecule, so the orbitals belong to the whole molecule.
+    &lt;ul&gt;
+      &lt;li&gt;Delocalization&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;lcao-linear-combination-of-atomic-orbitals&quot;&gt;LCAO: Linear Combination of Atomic Orbitals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The simplest guess starts with the atomic orbitals of the atoms adding together to make molecular orbitals; this is called the &lt;em&gt;linear combination of atomic orbitals (LCAO)&lt;/em&gt; method.
+    &lt;ul&gt;
+      &lt;li&gt;Weighted sum&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Because the orbitals are wave functions, the waves can combine either &lt;em&gt;constructively&lt;/em&gt; or &lt;em&gt;destructively&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-orbitals&quot;&gt;Molecular Orbitals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When the wave functions combine constructively, the resulting molecular orbital has less energy than the original atomic orbitals
+    &lt;ul&gt;
+      &lt;li&gt;Called a &lt;em&gt;bonding molecular orbital&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Designated: σ, π&lt;/li&gt;
+      &lt;li&gt;Most of the electron density between the nuclei&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;When the wave functions combine destructively, the
+resulting molecular orbital has more energy than the
+original atomic orbital.
+    &lt;ul&gt;
+      &lt;li&gt;Called an antibonding molecular orbital&lt;/li&gt;
+      &lt;li&gt;Designated: σ&lt;em&gt;, π&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Most of the electron density outside the nuclei&lt;/li&gt;
+      &lt;li&gt;Nodes between nuclei&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;interaction-of-1s-orbitals&quot;&gt;Interaction of 1s Orbitals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-29626.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-orbital-theory&quot;&gt;Molecular Orbital Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use Aufbau approach for MO’s (as we did for
+individual atoms)&lt;/li&gt;
+  &lt;li&gt;electrons go into lowest energy MO’s first&lt;/li&gt;
+  &lt;li&gt;pair up when they have to&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-orbital-theory-1&quot;&gt;Molecular Orbital Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Electrons in bonding MOs are stabilizing.
+    &lt;ul&gt;
+      &lt;li&gt;Lower energy than the atomic orbitals&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Electrons in antibonding MOs are destabilizing.
+    &lt;ul&gt;
+      &lt;li&gt;Higher in energy than atomic orbitals&lt;/li&gt;
+      &lt;li&gt;Electron density located outside the internuclear axis&lt;/li&gt;
+      &lt;li&gt;Electrons in antibonding orbitals cancel stability gained by electrons in bonding orbitals.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mo-and-properties&quot;&gt;MO and Properties&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bond order = ½ (# Bonding Electrons – # Antibonding
+Electrons)&lt;/li&gt;
+  &lt;li&gt;Bond order = difference between number of electrons in bonding and antibonding orbitals
+    &lt;ul&gt;
+      &lt;li&gt;Only need to consider valence electrons&lt;/li&gt;
+      &lt;li&gt;May be a fraction&lt;/li&gt;
+      &lt;li&gt;Higher bond order = stronger and shorter bonds&lt;/li&gt;
+      &lt;li&gt;If bond order = 0, then the bond is unstable compared to individual atoms and no bond will form.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A substance will be paramagnetic if its MO diagram has unpaired electrons.
+    &lt;ul&gt;
+      &lt;li&gt;If all electrons are paired, it is diamagnetic.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-fe93a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Bond order = ½ (# Bonding Electrons – # Antibonding Electrons)&lt;/li&gt;
+  &lt;li&gt;Bond Order H2 = ½ (2 – 0) = 1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-doesnt-the-molecule-he2-exist&quot;&gt;Why Doesn’t the Molecule He2 Exist?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-e029f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Bond order = ½ (# Bonding Electrons – # Antibonding Electrons)&lt;/li&gt;
+  &lt;li&gt;Bond Order He2 = ½ (2 – 2) =0&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-does-the-molecule-he2-exist&quot;&gt;Why Does the Molecule He2+ Exist?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-d88bd.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Bond order = ½ (# Bonding Electrons – # Antibonding Electrons)&lt;/li&gt;
+  &lt;li&gt;Bond Order He2+ = ½ (2 – 1) =1/2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;summarizing-lcaomo-theory&quot;&gt;Summarizing LCAO–MO Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Molecular orbitals (MOs) are a linear combination of atomic orbitals (AOs).
+    &lt;ul&gt;
+      &lt;li&gt;The total number of MOs formed from a particular set of AOs always equals the number of AOs in the set.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;When two AOs combine to form two MOs, one MO is lower in energy (the bonding MO) and the other is higher in energy (the antibonding MO).&lt;/li&gt;
+  &lt;li&gt;When assigning the electrons of a molecule to MOs, we fill the lowest energy MOs first with a maximum of two spin-paired electrons per orbital.&lt;/li&gt;
+  &lt;li&gt;When assigning electrons to two MOs of the same energy, Hund’s rule is followed to fill the orbitals singly first, with parallel spins, before pairing.&lt;/li&gt;
+  &lt;li&gt;The bond order in a diatomic molecule is the number of electrons in bonding MOs minus the number in antibonding MOs divided by two.
+    &lt;ul&gt;
+      &lt;li&gt;Stable bonds require a positive bond order (more electrons in bonding MOs than in antibonding MOs).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;MOs are named by type: σ, π, with a subscript to indicate what AOs they were formed from.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-on-bond-order-h2-&quot;&gt;Practice Problem on Bond Order H2-&lt;/h2&gt;
+
+&lt;h2 id=&quot;period-two-homonuclear-diatomic-molecules&quot;&gt;Period Two Homonuclear Diatomic Molecules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-4fec5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;interaction-of-p-orbitals&quot;&gt;Interaction of p Orbitals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-b7390.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-4b9fc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-orbital-energy-ordering&quot;&gt;Molecular Orbital Energy Ordering&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-fd509.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-on-molecular-orbital-theory-n2--ion-determine-the-electron-configuration-and-whether-the-ion-is-para-or-diamagnetic&quot;&gt;Practice Problem on Molecular Orbital Theory N2- ion. Determine the electron configuration, and whether the ion is para or diamagnetic&lt;/h2&gt;
+
+&lt;h2 id=&quot;molecular-orbital-energy-diagrams-for-secondperiod-p-block-homonuclear-diatomic-molecules&quot;&gt;Molecular Orbital Energy Diagrams for SecondPeriod-p-Block Homonuclear Diatomic Molecules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-1b505.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-32e24.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;heteronuclear-diatomic-molecules-and-ions&quot;&gt;Heteronuclear Diatomic Molecules and Ions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When the combining atomic orbitals are identical and of equal energy, the contribution of each atomic orbital to the molecular orbital is equal.&lt;/li&gt;
+  &lt;li&gt;When the combining atomic orbitals are different types and energies, contributions to the MOs are different:&lt;/li&gt;
+  &lt;li&gt;The more electronegative an atom is, the lower in energy are its orbitals.&lt;/li&gt;
+  &lt;li&gt;Lower energy atomic orbitals contribute more to the bonding MOs.&lt;/li&gt;
+  &lt;li&gt;Higher energy atomic orbitals contribute more to the antibonding MOs.&lt;/li&gt;
+  &lt;li&gt;Nonbonding MOs remain localized on the atom donating its atomic orbitals.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;second-period-heteronuclear-diatomic-molecules&quot;&gt;Second-Period Heteronuclear Diatomic Molecules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-6c33b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-on-molecular-orbital-theory-cn-&quot;&gt;Practice Problem on Molecular Orbital Theory CN-&lt;/h2&gt;
+
+&lt;h2 id=&quot;mo-and-polyatomic-molecules&quot;&gt;MO and Polyatomic Molecules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When many atoms are combined together, the atomic
+orbitals of all the atoms are combined to make a set of
+molecular orbitals, which are delocalized over the entire
+molecule.&lt;/li&gt;
+  &lt;li&gt;Gives results that better match real molecule properties than either Lewis or valence bond theories&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-63adc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-fb96c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-ce2bf.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bonding-in-metals-and-semiconductors&quot;&gt;Bonding in Metals and Semiconductors&lt;/h2&gt;
+
+&lt;h2 id=&quot;bonding-in-metals-and-semiconductors-1&quot;&gt;Bonding in Metals and Semiconductors&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The simplest theory of metallic bonding involves the metal atoms releasing their valence electrons to be shared as a pool by all the atoms/ ions in the metal.
+    &lt;ul&gt;
+      &lt;li&gt;An organization of metal cation islands in a sea of electrons&lt;/li&gt;
+      &lt;li&gt;Electrons delocalized throughout the metal structure&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Bonding results from attraction of cation for the delocalized electrons.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-2323c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-47239.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;semiconductors-and-band-theory&quot;&gt;Semiconductors and Band Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Band Theory:&lt;/li&gt;
+  &lt;li&gt;Electrons become mobile when they make a transition from the highest occupied molecular orbital into higher energy empty molecular orbitals.&lt;/li&gt;
+  &lt;li&gt;These occupied molecular orbitals are referred to as the valence band.&lt;/li&gt;
+  &lt;li&gt;The unoccupied orbitals the conduction band.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-628e3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-48d05.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-c961e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+</description>
+        <pubDate>Mon, 10 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/10/10/remainder-of-ch-7.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/10/remainder-of-ch-7.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 8 - Day 3 (End of Chapter 6)</title>
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-8-day-3-end-of-chapter-6.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;90FRsoeFaqY&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Average test grade was 70&lt;/li&gt;
+  &lt;li&gt;Ch 6 homework due Sunday night&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;polarity-of-molecules&quot;&gt;Polarity of Molecules&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:01:22.952892&lt;/li&gt;
+  &lt;li&gt;For a molecule to be polar, it must have:
+    &lt;ul&gt;
+      &lt;li&gt;Polar bonds
+        &lt;ul&gt;
+          &lt;li&gt;Electronegativity difference&lt;/li&gt;
+          &lt;li&gt;Bond dipole moments - measured&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;An unsymmetrical shape
+        &lt;ul&gt;
+          &lt;li&gt;Vector addition&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:03:43.776817&lt;/li&gt;
+  &lt;li&gt;Polarity affects the intermolecular forces of attraction.
+    &lt;ul&gt;
+      &lt;li&gt;Example:&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Boiling points and solubilities
+    &lt;ul&gt;
+      &lt;li&gt;Like dissolves like&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Nonbonding pairs affect molecular polarity, a strong pull&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;molecule-polarity&quot;&gt;Molecule Polarity&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:04:17.407335&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-85893.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;The bond between the H atom and Cl atom in HCl molecule is polar.&lt;/li&gt;
+  &lt;li&gt;The bonding electrons are pulled toward the Cl end of the molecule because Cl is more electronegative (EN) than the H atom.
+    &lt;ul&gt;
+      &lt;li&gt;The net result is a polar molecule.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-b8bd2.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Second most electronegative element&lt;/li&gt;
+      &lt;li&gt;Has polar bonds that are equally polar in opposite directions so the net result is that CO2 is not polar&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The bond between the C atom and O atoms in CO2 molecule
+is polar.&lt;/li&gt;
+  &lt;li&gt;The bonding electrons are pulled toward the O ends of the molecule equally because O is more electronegative (EN) than the C atom.
+    &lt;ul&gt;
+      &lt;li&gt;The net result is a nonpolar molecule.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Audio 0:06:24.175803&lt;/p&gt;
+
+&lt;h2 id=&quot;molecule-polarity-1&quot;&gt;Molecule Polarity&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The bond between the O atom and H atoms in H2O molecule is polar.&lt;/li&gt;
+  &lt;li&gt;Both sets bonding electrons are pulled toward the O end of the
+molecule equally because O is more electronegative (EN) than the
+H atom.&lt;/li&gt;
+  &lt;li&gt;Because of its geometry, the lone pairs do not negate the dipole
+moment that result from the each of the O–H bonds.&lt;/li&gt;
+  &lt;li&gt;The net result is a polar molecule.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-b54b0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vector-addition&quot;&gt;Vector Addition&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:07:47.798794&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-27d39.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Water is more like the bent scenario
+        &lt;ul&gt;
+          &lt;li&gt;The sum of the bonds goes up so it’s polar (the vectors don’t cancel)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;For CO2 and a trigonal planar molecule the vectors are equally strong in directions that cancel eachother out so they are not polar.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vector-addition-one-dimension&quot;&gt;Vector Addition: One Dimension&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;One Dimension:&lt;/li&gt;
+  &lt;li&gt;To add two vectors that lie on the same line, assign one direction as positive.&lt;/li&gt;
+  &lt;li&gt;Vectors pointing in that direction have positive magnitudes.&lt;/li&gt;
+  &lt;li&gt;Consider vectors pointing in the opposite direction to have negative magnitudes.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-d810d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:09:58.418088&lt;/li&gt;
+  &lt;li&gt;Just draw the first. Draw the second where the first ends and then calculate the net result.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vector-addition-two-or-more-dimensions&quot;&gt;Vector Addition: Two or More Dimensions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:10:34.308430
+Two or More Dimensions:&lt;/li&gt;
+  &lt;li&gt;To add two vectors, draw a parallelogram in which the two vectors form two adjacent sides.&lt;/li&gt;
+  &lt;li&gt;Draw the other two sides of the parallelogram parallel to and the same length as the two original vectors.&lt;/li&gt;
+  &lt;li&gt;Draw the resultant vector beginning at the origin and extending to the far corner of the parallelogram as shown in Examples 4 and 5.&lt;/li&gt;
+  &lt;li&gt;To add three or more vectors, add two of them together first, and then add the third vector to the result (Examples 6 and 7).&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-94240.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-polarity-affects-solubility-in-water&quot;&gt;Molecular Polarity Affects Solubility in Water&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:22.721754&lt;/li&gt;
+  &lt;li&gt;Polar molecules are attracted to other polar molecules.&lt;/li&gt;
+  &lt;li&gt;Water is a polar molecule; therefore:
+    &lt;ul&gt;
+      &lt;li&gt;Other polar molecules will dissolve in water.&lt;/li&gt;
+      &lt;li&gt;As well as ionic compounds&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Some molecules have both polar and nonpolar parts.
+    &lt;ul&gt;
+      &lt;li&gt;Example: Soap molecule&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-2c09a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;summarizing-determining-molecular-shape-and-polarity&quot;&gt;Summarizing Determining Molecular Shape and Polarity&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:14:38.522158&lt;/li&gt;
+  &lt;li&gt;Draw the Lewis structure for the molecule and determine its
+molecular geometry.&lt;/li&gt;
+  &lt;li&gt;Determine if the molecule contains polar bonds.
+    &lt;ul&gt;
+      &lt;li&gt;A bond is polar if the two bonding atoms have sufficiently different electro negativities.&lt;/li&gt;
+      &lt;li&gt;If the molecule contains polar bonds, superimpose a vector, pointing toward the more electronegative atom, on each bond.&lt;/li&gt;
+      &lt;li&gt;Make the length of the vector proportional to the electronegativity difference between the bonding atoms.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Determine if the polar bonds add together to form a net dipole moment.
+    &lt;ul&gt;
+      &lt;li&gt;Sum the vectors corresponding to the polar bonds together. If the vectors sum to zero, the molecule is nonpolar.&lt;/li&gt;
+      &lt;li&gt;If the vectors sum to a net vector, the molecule is polar&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-is-a-molecule-polar&quot;&gt;Practice Problem: Is a Molecule Polar?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:15:19.845473&lt;/li&gt;
+  &lt;li&gt;Is NH3 polar?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-5a74d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:17:55.560585&lt;/li&gt;
+  &lt;li&gt;Does ozone have a dipole moment?
+    &lt;ul&gt;
+      &lt;li&gt;Yes&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-020ae.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;chapter-7&quot;&gt;Chapter 7&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:53.507292&lt;/li&gt;
+  &lt;li&gt;Chemical Bonding II&lt;/li&gt;
+  &lt;li&gt;Valence Bond and Molecular Orbital Theory&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-2d636.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-magnetic-liquid-o2&quot;&gt;A Magnetic Liquid: O2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:24:34.873518&lt;/li&gt;
+  &lt;li&gt;Oxygen is paramagnetic.&lt;/li&gt;
+  &lt;li&gt;Paramagnetic material has unpaired electrons.&lt;/li&gt;
+  &lt;li&gt;Lewis theory does not predict this result.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-a68e3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;problems-with-lewis-theory&quot;&gt;Problems with Lewis Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:13.153424&lt;/li&gt;
+  &lt;li&gt;Lewis theory generally predicts trends in properties, but it does not give good numerical predictions.
+    &lt;ul&gt;
+      &lt;li&gt;Example: bond strength and bond length&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Lewis theory gives good first approximations of the bond angles in molecules, but it usually cannot be used to get the actual angle.&lt;/li&gt;
+  &lt;li&gt;Resonance: Lewis theory cannot write one correct
+structure for many molecules, and multiple resonance
+structures is not “elegant”.&lt;/li&gt;
+  &lt;li&gt;Lewis theory often does not predict the correct magnetic behavior of molecules.
+    &lt;ul&gt;
+      &lt;li&gt;For example, O2 is paramagnetic, although the Lewis structure predicts it is diamagnetic.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;valence-bond-approach&quot;&gt;Valence Bond Approach&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:28:26.040824&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-8e106.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Change in electron density as two hydrogen atoms approach each other.
+    &lt;ul&gt;
+      &lt;li&gt;Overlap in two 1s orbitals&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Keep getting closer until nucleus&amp;lt;=&amp;gt;nucleus repulsion balances electron&amp;lt;=&amp;gt;nucleus attraction&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;valence-bond-theory-orbital-overlap-and-the-chemical-bond&quot;&gt;Valence Bond Theory: Orbital Overlap and the Chemical Bond&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:30:39.283988&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-c5886.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;valence-bond-theory-orbital-overlap-and-the-chemical-bond-1&quot;&gt;Valence Bond Theory: Orbital Overlap and the Chemical Bond&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Applying quantum mechanics to molecules:&lt;/li&gt;
+  &lt;li&gt;Bonds between atoms should occur when the orbitals on those atoms interact to make a bond.&lt;/li&gt;
+  &lt;li&gt;Audio 0:33:58.699088&lt;/li&gt;
+  &lt;li&gt;The kind of interaction depends on whether the orbitals align along the axis between the nuclei, or
+outside the axis.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-afc75.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;orbital-diagram-for-the-formation-of-h2s&quot;&gt;Orbital Diagram for the Formation of H2S&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:54.957208&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-54666.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;valence-bond-theory-and-nh3&quot;&gt;Valence Bond Theory and NH3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:55.262109&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-0998d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;If the bonds form from overlap of 3 2p orbitals on nitrogen with the 1s orbital on each hydrogen atom, what would the molecular geometry of NH3 be?&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-bdf70.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;The predicted geometry is wrong
+        &lt;ul&gt;
+          &lt;li&gt;If use the 3 2p orbitals predict 90 degrees&lt;/li&gt;
+          &lt;li&gt;Actual H-N-H bond angle is 107.30&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;hybridization--mixing-of-two-or-more-atomic-orbitals-to-form-a-new-set-of-hybrid-orbitals&quot;&gt;Hybridization – mixing of two or more atomic orbitals to form a new set of hybrid orbitals.&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:38:09.158442
+    &lt;ol&gt;
+      &lt;li&gt;Mix at least 2 nonequivalent atomic orbitals (e.g. s
+and p). Hybrid orbitals have very different shape
+from original atomic orbitals.&lt;/li&gt;
+      &lt;li&gt;Number of hybrid orbitals is equal to number of
+pure atomic orbitals used in the hybridization
+process.&lt;/li&gt;
+      &lt;li&gt;Covalent bonds are formed by:
+        &lt;ul&gt;
+          &lt;li&gt;a. Overlap of hybrid orbitals with atomic orbitals&lt;/li&gt;
+          &lt;li&gt;b. Overlap of hybrid orbitals with other hybrid orbitals&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;formation-of-sp3-hybrid-orbitals&quot;&gt;Formation of sp3 Hybrid Orbitals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:40:23.463058&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-02d12.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;When we hybridize them, we get tetrahedral geometry&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-07-week-8-day-3-end-of-chapter-6-3c38b.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;These are exactly the right geometry to give us the tetrahedral shape of ammonia&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;summarizing-valence-bond-theory&quot;&gt;Summarizing Valence Bond Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:43:00.758032&lt;/li&gt;
+  &lt;li&gt;The valence electrons of the atoms in a molecule reside in quantummechanical atomic orbitals.&lt;/li&gt;
+  &lt;li&gt;The orbitals can be the standard s, p, d, and f orbitals, or they may be hybrid combinations of these.&lt;/li&gt;
+  &lt;li&gt;A chemical bond results from the overlap of two half-filled orbitals and spin-pairing of the two valence electrons (or less commonly the overlap of a completely filled orbital with an empty orbital).&lt;/li&gt;
+  &lt;li&gt;The geometry of the overlapping orbitals determines the shape of the molecule.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;valence-bond-theory-main-concepts&quot;&gt;Valence Bond Theory: Main Concepts&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The valence electrons of the atoms in a molecule reside in quantum-mechanical atomic orbitals. The orbitals can be the standard s, p, d, and f orbitals, or they may be hybrid combinations of these.&lt;/li&gt;
+  &lt;li&gt;A chemical bond results when these atomic orbitals
+interact and there is a total of two electrons in the new
+molecular orbital. a) The electrons must be spin paired.&lt;/li&gt;
+  &lt;li&gt;The shape of the molecule is determined by the geometry of the interacting orbitals.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Fri, 07 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/10/07/week-8-day-3-end-of-chapter-6.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/07/week-8-day-3-end-of-chapter-6.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 8 - Day 2 (Last before test 2)</title>
@@ -65,42 +1106,51 @@
 &lt;h2 id=&quot;representing-three-dimensional-shapes-on-paper&quot;&gt;Representing Three-Dimensional Shapes on Paper&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Audio 0:07:41.096639
-• Drawing molecules to show their dimensionality on paper (2-D) is difficult.
-• How to draw a 3-D representation of molecule on paper:
-– By convention, the central atom is put in the plane of the paper.
-– Put as many other atoms as possible in the same plane and indicate with a &lt;em&gt;straight line&lt;/em&gt;.
-– For atoms in front of the plane, use a &lt;em&gt;solid wedge&lt;/em&gt;.
-– For atoms behind the plane, use a &lt;em&gt;hashed wedge&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-10-05-week-8-day-2-last-before-test-2-b2291.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:07:41.096639&lt;/li&gt;
+  &lt;li&gt;Drawing molecules to show their dimensionality on paper (2-D) is difficult.&lt;/li&gt;
+  &lt;li&gt;How to draw a 3-D representation of molecule on paper:
+    &lt;ul&gt;
+      &lt;li&gt;By convention, the central atom is put in the plane of the paper.&lt;/li&gt;
+      &lt;li&gt;Put as many other atoms as possible in the same plane and indicate with a &lt;em&gt;straight line&lt;/em&gt;.&lt;/li&gt;
+      &lt;li&gt;For atoms in front of the plane, use a &lt;em&gt;solid wedge&lt;/em&gt;.&lt;/li&gt;
+      &lt;li&gt;For atoms behind the plane, use a &lt;em&gt;hashed wedge&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-05-week-8-day-2-last-before-test-2-b2291.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;illustrations-of-molecular-geometries-of-molecules-using-3-d-notations&quot;&gt;Illustrations of Molecular Geometries of Molecules Using 3-D Notations&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:10:13.039414&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-10-05-week-8-day-2-last-before-test-2-c2c76.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-05-week-8-day-2-last-before-test-2-c2c76.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;multiple-central-atoms-and-their-geometries&quot;&gt;Multiple Central Atoms and Their Geometries&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Audio 0:11:15.077734
-• Many molecules have larger structures with many interior atoms.
+  &lt;li&gt;Audio 0:11:15.077734&lt;/li&gt;
+  &lt;li&gt;Many molecules have larger structures with many interior atoms.
     &lt;ul&gt;
-      &lt;li&gt;Looking at “multiple center atoms”
-– Think of them as having multiple central atoms.
-• For multiple center molecules:
-– Each center atom has a designated a shape.
-• Example: Glycine
-• The shape around the:
-• N atom is trigonal pyramidal
-• Left C is tetrahedral
-• Right C is trigonal planar
-• O is bent&lt;/li&gt;
+      &lt;li&gt;Looking at “multiple center atoms”&lt;/li&gt;
+      &lt;li&gt;Think of them as having multiple central atoms.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;assets/2016-10-05-week-8-day-2-last-before-test-2-bf0a4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;For multiple center molecules:
+    &lt;ul&gt;
+      &lt;li&gt;Each center atom has a designated a shape.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example: Glycine&lt;/li&gt;
+  &lt;li&gt;The shape around the:
+    &lt;ul&gt;
+      &lt;li&gt;N atom is trigonal pyramidal&lt;/li&gt;
+      &lt;li&gt;Left C is tetrahedral&lt;/li&gt;
+      &lt;li&gt;Right C is trigonal planar&lt;/li&gt;
+      &lt;li&gt;O is bent&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-05-week-8-day-2-last-before-test-2-bf0a4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h1&gt;
@@ -2128,1190 +3178,6 @@ C=C are called alkynes&lt;/li&gt;
         <pubDate>Mon, 26 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/09/26/week-7-day-1.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/26/week-7-day-1.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 6 - Day 3</title>
-        <description>
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-6-day-3.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;PJpwKsezpPs&quot;});
-&lt;/script&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2l3zie&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Clicker lightning round&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;What is TiCO_3?
-    &lt;ul&gt;
-      &lt;li&gt;Titanium (II) carbonate&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:01:48.045761&lt;/li&gt;
-  &lt;li&gt;Give the formula for sodium perchlorate
-    &lt;ul&gt;
-      &lt;li&gt;NaClO_4&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Give the name for NaSO_3
-    &lt;ul&gt;
-      &lt;li&gt;sodium bisulfite
-        &lt;ul&gt;
-          &lt;li&gt;(SO_3 = sulfite)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Give the name for KMnO_4
-    &lt;ul&gt;
-      &lt;li&gt;Potassium permanganate&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;covalent-bonding&quot;&gt;Covalent Bonding&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:04:33.001883&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;covalent-bonding-bonding-and-lone-pair-electrons&quot;&gt;Covalent Bonding: Bonding and Lone Pair Electrons&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:05:07.718537&lt;/li&gt;
-  &lt;li&gt;Electrons that are shared by atoms are called bonding pairs.&lt;/li&gt;
-  &lt;li&gt;Electrons that are not shared by atoms but belong to a particular atom are called
-lone pairs.&lt;/li&gt;
-  &lt;li&gt;Also known as nonbonding pairs&lt;/li&gt;
-  &lt;li&gt;Audio 0:06:48.740545&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-733d5.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;The top and bottom electrons on the O atom are lone pairs&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;single-covalent-bonds&quot;&gt;Single Covalent Bonds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:07:48.556923&lt;/li&gt;
-  &lt;li&gt;When two atoms share one pair of electrons, the result is called a single covalent bond.&lt;/li&gt;
-  &lt;li&gt;Two electrons&lt;/li&gt;
-  &lt;li&gt;One atom may use more than one single bond to fulfill
-its octet.&lt;/li&gt;
-  &lt;li&gt;To different atoms +  H only duet&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-44f81.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-d9df4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;double-covalent-bond&quot;&gt;Double Covalent Bond&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:09:16.705706&lt;/li&gt;
-  &lt;li&gt;When two atoms share two pairs of electrons, the result is called a double covalent bond.&lt;/li&gt;
-  &lt;li&gt;Four electrons between the two atoms
-    &lt;ul&gt;
-      &lt;li&gt;Example: O2&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-6c063.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:10:33.321892&lt;/li&gt;
-  &lt;li&gt;Elements that can double-bond with each other and themselves are C, N, O, S, and P&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;triple-covalent-bond&quot;&gt;Triple Covalent Bond&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:11:13.222743&lt;/li&gt;
-  &lt;li&gt;When two atoms share three pairs of electrons, the result is called a &lt;em&gt;triple covalent bond&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Six electrons between the two atoms
-    &lt;ul&gt;
-      &lt;li&gt;Example: N2&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-d5e5a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Elements that can triple-bond with each other and themselves are C, N, O, and S.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;covalent-bonding-model-versus-reality&quot;&gt;Covalent Bonding: Model versus Reality&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:13:08.879773&lt;/li&gt;
-  &lt;li&gt;Lewis theory&lt;/li&gt;
-  &lt;li&gt;implies that some combinations should be stable,
-  whereas others should not.
-    +  Stable combinations result in “octets.”&lt;/li&gt;
-  &lt;li&gt;allows us to predict the formulas of molecules of covalently bonded substances.
-    +  Hydrogen and the halogens are all diatomic molecular elements, as predicted by Lewis theory.
-    +  Oxygen generally forms either two single bonds or a double bond in its molecular compounds.
-    &lt;ul&gt;
-      &lt;li&gt;There are some stable compounds in which oxygen has one single bond and another in which it has a triple bond, but it still has an octet.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;covalent-bonding-model-versus-reality-1&quot;&gt;Covalent Bonding: Model versus Reality&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:14:51.981353&lt;/li&gt;
-  &lt;li&gt;Lewis theory of covalent bonding&lt;/li&gt;
-  &lt;li&gt;implies that the attractions between atoms are
-&lt;em&gt;directional&lt;/em&gt;.
-    +  The shared electrons are most stable between the
-bonding atoms.&lt;/li&gt;
-  &lt;li&gt;predicts that covalently bonded compounds will be found as individual molecules.
-    +  Rather than an array like ionic compounds
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Compounds of nonmetals are made of individual molecule units&lt;/em&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;molecular-compounds-formulas-and-names&quot;&gt;Molecular Compounds: Formulas and Names&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:16:15.133336&lt;/li&gt;
-  &lt;li&gt;Molecular compounds are composed of two or more nonmetals.&lt;/li&gt;
-  &lt;li&gt;The formula for a molecular compound cannot readily be determined from its constituent elements because the same combination of elements may form many different molecular compounds, each with a different formula.&lt;/li&gt;
-  &lt;li&gt;Nitrogen and oxygen form all of the following unique molecular compounds:
-    &lt;ul&gt;
-      &lt;li&gt;NO, NO2, N2O, N2O3, N2O4, and N2O5.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;molecular-compounds&quot;&gt;Molecular Compounds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:17:43.500253&lt;/li&gt;
-  &lt;li&gt;Names of Molecular Compounds:&lt;/li&gt;
-  &lt;li&gt;Write the name of the element with the smallest group number first.&lt;/li&gt;
-  &lt;li&gt;If the two elements lie in the same group, then write the element with the greatest row number first.&lt;/li&gt;
-  &lt;li&gt;The prefixes given to each element indicate the number of atoms present.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;binary-molecular-compounds&quot;&gt;Binary Molecular Compounds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:18:59.257994&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-4da3e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;These prefixes are the same as those used in hydrates:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Prefix&lt;/th&gt;
-      &lt;th&gt;Number&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;mono&lt;/td&gt;
-      &lt;td&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;di&lt;/td&gt;
-      &lt;td&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;tri&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;tetra&lt;/td&gt;
-      &lt;td&gt;4&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;penta&lt;/td&gt;
-      &lt;td&gt;5&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;hexa&lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;hepta&lt;/td&gt;
-      &lt;td&gt;7&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;octa&lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;nona&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;deca&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;If there is only one atom of the first element in the formula, the prefix mono- is normally omitted&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;molecular-compounds-1&quot;&gt;Molecular Compounds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:20:34.443243&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;molecule&lt;/td&gt;
-      &lt;td&gt;name&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;HI&lt;/td&gt;
-      &lt;td&gt;hydrogen iodide&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;NF_3&lt;/td&gt;
-      &lt;td&gt;nitrogen trifluoride&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;SO_2&lt;/td&gt;
-      &lt;td&gt;suffer dioxide&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;N_2Cl_4&lt;/td&gt;
-      &lt;td&gt;dinitrogen tetrachloride&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;NO_2&lt;/td&gt;
-      &lt;td&gt;nitrogen dioxide&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;N_2O&lt;/td&gt;
-      &lt;td&gt;dinitrogen monoxide&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;mass&quot;&gt;Mass&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:23:26.555568&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Molecular mass&lt;/em&gt; (or molecular weight) is the sum of the atomic masses (in amu) in a molecule&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-abe79.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;another-molecular-mass-example&quot;&gt;Another Molecular Mass Example&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:25:48.242857&lt;/li&gt;
-  &lt;li&gt;What is the Molecular Mass of C3H8O ?&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-d7aac.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-question&quot;&gt;Clicker question&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Find the molecular weight of  urea (CH4N2O)
-    &lt;ul&gt;
-      &lt;li&gt;(All but 1% got it right)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;using-molar-mass-to-count-molecules-by-weighing&quot;&gt;Using Molar Mass to Count Molecules by Weighing&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:28:43.992973&lt;/li&gt;
-  &lt;li&gt;Molar mass in combination with Avogadro’s number can be used to determine the number of atoms in a given mass of the element.&lt;/li&gt;
-  &lt;li&gt;Use molar mass to convert to the amount in moles. Then use Avogadro’s number to convert to number of molecules.
-    + &lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-937f5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;using-molecular-mass&quot;&gt;Using Molecular Mass&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:39:35.097586&lt;/li&gt;
-  &lt;li&gt;How many H atoms are in 72.5 g of C3H8O ?&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Mass percent composition&lt;/em&gt; of an element in a compound =
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-44554.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;n is the number of moles of the element in 1 mole of the compound&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-23-week-6-day-3-65070.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:42:11.330892&lt;/li&gt;
-  &lt;li&gt;What is the mass percent of Ca in CaCl2&lt;/li&gt;
-  &lt;li&gt;CaCl2 (Ca = 40.08, Cl = 35.45)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:44:25.808433&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;term&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;bonding pairs&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Electrons that are shared by atoms&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;lone pairs (nonbonding pairs)&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Electrons that are not shared by atoms but belong to a particular atom&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;single covalent bond&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;when two atoms share one pair of electrons&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;double covalent bond&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;when two atoms share two pairs of electrons&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;triple covalent bond&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;when two atoms share three pairs of electrons&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Fri, 23 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/09/23/week-6-day-3.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/23/week-6-day-3.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 6 - Recitation (2nd for test 2)</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Which reaction below represents the electron affinity of Li?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Li(g) + e- -&amp;gt; Li^-(g)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Li(g) -&amp;gt; Li^+(g) + e-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Li(g) + e- -&amp;gt; Li^+(g)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Li^+(g) -&amp;gt; Li(g) + e-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; Li^+(g) + e- -&amp;gt; Li(g)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script&gt;
-var st1 = false;
-function toggleOne() {
-  st1 = !st1;
-  if (st1) {
-    $('#oneHint').show();
-    $('#toggleOne').val('hide');
-  }
-  else {
-    $('#oneHint').hide();
-    $('#toggleOne').val('show solution');
-  }
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input id=&quot;toggleOne&quot; type=&quot;button&quot; value=&quot;show solution&quot; onclick=&quot;toggleOne()&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span id=&quot;oneHint&quot; style=&quot;display:none&quot;&gt;The electron affinity is just adding an electron.&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Place the following in order of increasing metallic character
-    &lt;ul&gt;
-      &lt;li&gt;Rb Cs K Na&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; K &amp;lt; Cs &amp;lt; Na &amp;lt; Rb&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Na &amp;lt; K &amp;lt; Rb &amp;lt; Cs&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Cs &amp;lt; Rb &amp;lt; K &amp;lt; Na&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; K &amp;lt; Cs &amp;lt; Rb &amp;lt; Na&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Na &amp;lt; Rb &amp;lt; Cs &amp;lt; K&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Why does an electron found in a 2s orbital have a lower energy than an electron found in a 2p orbital in multi-electron systems?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Electrons in the 2s orbital are shielded by electrons in the 2p&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; There are more nodes found in the 2s orbital&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Electrons in the 2s orbital can penetrate the 1s orbital and be closer to the nucleus&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; The larger number of electrons found in the 2p orbital leads to greater repulsion&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; The shape of the orbital ultimately determines the energy of the electrons&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Which ion has the largest radius?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Na+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Ga3+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; K+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Mg2+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; Ca+&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Place the following in order of increasing atomic radius
-    &lt;ul&gt;
-      &lt;li&gt;As O Br&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; As &amp;lt; Br &amp;lt; O&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; O &amp;lt; As &amp;lt; Br&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Br &amp;lt; As &amp;lt; O&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; As &amp;lt; O &amp;lt; Br&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; O &amp;lt; Br &amp;lt; As&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Place the following in order of decreasing radius
-    &lt;ul&gt;
-      &lt;li&gt;Te2- F- O2-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; F- &amp;gt; O2- &amp;gt; Te2-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; F- &amp;gt; Te2- &amp;gt; O2-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Te2- &amp;gt; O2- &amp;gt; F-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Te2- &amp;gt; F- &amp;gt; O2-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; O2- &amp;gt; F- &amp;gt; Te2-&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Place the following in order of increasing IE
-    &lt;ul&gt;
-      &lt;li&gt;N F As&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; N &amp;lt; As &amp;lt; F&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; As &amp;lt; N &amp;lt; F&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; F &amp;lt; N &amp;lt; As&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; As &amp;lt; F &amp;lt; N&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; F &amp;lt; As &amp;lt; N&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Identify the number of valence electrons in Cl-
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 6&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 7&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 8&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 5&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 4&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Give the ground state electron configuration for Se2-
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; [Ar] 4s2 3d10 4p4&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; [Ar] 4s2 3d10 4p2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; [Ar] 4s2 4p6&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; [Ar] 4s2 3d10 4p6&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; [Ar] 4s2 3d8 4p6&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Give the name for SnO
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; tin I oxide&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; tin II oxide&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; tin III oxide&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; tin IV oxide&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Write the name for Sn(SO4)2
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; tin (I) sulfite&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; tin (IV) sulfite&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; tin sulfide&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; tin (II) sulfite&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; tin (I) sulfate&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script&gt;
-var answers = [&quot;a&quot;, &quot;b&quot;, &quot;c&quot;, &quot;c&quot;, &quot;e&quot;, &quot;c&quot;, &quot;b&quot;, &quot;c&quot;, &quot;d&quot;, &quot;b&quot;, &quot;b&quot;];
-function getAnswer(number) {
-  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
-}
-function validate() {
-  var any = false;
-  for (var i = 1; i &lt; answers.length+1; i++) {
-    var answer = getAnswer(i);
-    if (!answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
-      any = true;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
-    }
-  }
-  if (any) {
-    toastr.error(&quot;You did not answer every question!&quot;);
-  }
-  return !any;
-}
-function grade() {
-  if (!validate()) return;
-  var correct = 0;
-  for (var i = 1; i &lt; answers.length+1; i++) {
-    var answer = getAnswer(i);
-    if (answers[i-1] == answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
-      correct++;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
-    }
-  }
-  toastr.success(&quot;Your grade is &quot;+ ((correct/answers.length) * 100).toFixed(2) + &quot; out of 100&quot;);
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 21 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/09/21/week-6-recitation-2nd-for-test-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/21/week-6-recitation-2nd-for-test-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 6 - Day 2</title>
-        <description>
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-6-day-2.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;wcSKlHMmc50&quot;});
-&lt;/script&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2jbzxn&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:00:20.125734&lt;/li&gt;
-  &lt;li&gt;Homework issue
-    &lt;ul&gt;
-      &lt;li&gt;Electron configurations
-        &lt;ul&gt;
-          &lt;li&gt;There are differences sometimes in the order of writing them.&lt;/li&gt;
-          &lt;li&gt;You get five or six freebies
-            &lt;ul&gt;
-              &lt;li&gt;If you’ve checked the electron configuration and it says you’re wrong, it may be the way the website works.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:02:01.735946&lt;/li&gt;
-  &lt;li&gt;Real world is complicated
-    &lt;ul&gt;
-      &lt;li&gt;He isn’t going to tell us anything that is &lt;em&gt;wrong&lt;/em&gt; but everything we’re learning is a really watered-down, simplified version of the truth&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;energetics-of-ionic-bond-formation-using-nacl-as-an-example&quot;&gt;Energetics of Ionic Bond Formation: Using NaCl as an Example&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:05:03.029702
-    &lt;ul&gt;
-      &lt;li&gt;Where we left off
-The ionization energy of the metal is endothermic.&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-ada36.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The electron affinity of the nonmetal is exothermic.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-1841b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Generally, the ionization energy of the metal is larger than the electron affinity of the nonmetal; therefore, the formation of the ionic compound should be endothermic.&lt;/li&gt;
-  &lt;li&gt;But the heat of formation of most ionic compounds is exothermic and generally large.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-19-week-6-day-1-39ae6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;crystal-lattice-and-lattice-energy-of-nacl&quot;&gt;Crystal Lattice and Lattice Energy of NaCl&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:05:58.951668
-    &lt;ul&gt;
-      &lt;li&gt;Part of the energy formula in the previous slide does not add up because it does not account for the lattice shape of the compound&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Lattice energy
-    &lt;ul&gt;
-      &lt;li&gt;The extra stability that accompanies the formation of the crystal lattice is measured as the &lt;em&gt;lattice energy&lt;/em&gt;.
-        &lt;ul&gt;
-          &lt;li&gt;Audio 0:07:54.475155&lt;/li&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-21f4e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;It is the energy released when the solid crystal forms from separate ions in the gas state.
-        &lt;ul&gt;
-          &lt;li&gt;Always exothermic&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Lattice energy is measured directly but is calculated from knowledge of other processes.&lt;/li&gt;
-      &lt;li&gt;It depends directly on the size of charges and inversely on distance between ions.&lt;/li&gt;
-      &lt;li&gt;(Coulomb’s law)&lt;/li&gt;
-      &lt;li&gt;Audio 0:09:53.359903&lt;/li&gt;
-      &lt;li&gt;The most stable lattice is a very difficult calculation&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ionic-bonding-model-versus-reality&quot;&gt;Ionic Bonding Model versus Reality&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:10:12.809739&lt;/li&gt;
-  &lt;li&gt;implies that the positions of the ions in the crystal lattice are critical to the stability of the structure.&lt;/li&gt;
-  &lt;li&gt;predicts that moving ions out of position should therefore be difficult, and ionic solids should be hard.
-    &lt;ul&gt;
-      &lt;li&gt;Ionic solids are relatively hard compared to most molecular solids.
-        &lt;ul&gt;
-          &lt;li&gt;If you’ve ever touched a crystal, this is obvious&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;implies that if the ions are displaced from their position in the crystal lattice, repulsive forces should occur.
-    &lt;ul&gt;
-      &lt;li&gt;this predicts that the crystal will become unstable and break apart. Theory predicts that ionic solids will be brittle.
-        &lt;ul&gt;
-          &lt;li&gt;If you strike a crystal with a hammer, it will shatter because it becomes unstable
-            &lt;ul&gt;
-              &lt;li&gt;The same is not true for metals&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Ionic solids are brittle. When struck, they shatter.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:13:21.487007&lt;/li&gt;
-  &lt;li&gt;implies that, in the ionic solid, the ions are locked in position and cannot move around.&lt;/li&gt;
-  &lt;li&gt;predicts that ionic solids should not conduct electricity.
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:12:23.638218&lt;/li&gt;
-      &lt;li&gt;To conduct electricity, a material must have charged particles that are able to flow through the material.&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Ionic solids do not conduct electricity&lt;/em&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;implies that, in the liquid state or when dissolved in water, the ions will have the ability to move around.
-predicts that both a liquid ionic compound and an ionic compound dissolved in water should conduct electricity.
-    &lt;ul&gt;
-      &lt;li&gt;Ionic compounds conduct electricity in the liquid state or when dissolved in water.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;conductivity-of-nacl&quot;&gt;Conductivity of NaCl&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:14:19.003024&lt;/li&gt;
-  &lt;li&gt;In NaCl(s), the ions are stuck in position and not able to move to the charged rods.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-e98fc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In NaCl(aq), the ions are separated and are able to move to the charged rods.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-da3f7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ionic-bonding-and-the-crystal-lattice&quot;&gt;Ionic Bonding and the Crystal Lattice&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:14:34.266075&lt;/li&gt;
-  &lt;li&gt;The extra energy that is released comes from the formation of a structure in which every cation is surrounded by anions and vice versa.
-    &lt;ul&gt;
-      &lt;li&gt;This structure is called a &lt;em&gt;crystal lattice&lt;/em&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The crystal lattice is held together by the electrostatic attraction of the cations for all the surrounding anions.
-    &lt;ul&gt;
-      &lt;li&gt;Electrostatic attraction is a nondirectional force.
-        &lt;ul&gt;
-          &lt;li&gt;Therefore, there is &lt;em&gt;no ionic molecule&lt;/em&gt;.
-            &lt;ul&gt;
-              &lt;li&gt;The chemical formula is an empirical formula, simply giving the ratio of ions based on charge balance.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The crystal lattice maximizes the attractions between cations and anions leading to the most stable arrangement&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ionic-compounds&quot;&gt;Ionic Compounds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:16:15.553827&lt;/li&gt;
-  &lt;li&gt;Ionic compounds are composed of cations (metals) and anions (nonmetals) bound together by ionic bonds.
-    &lt;ul&gt;
-      &lt;li&gt;Examples of ionic compounds:
-        &lt;ul&gt;
-          &lt;li&gt;NaBr, Al2(CO3)3, CaHPO4, and MgSO4&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The basic unit of an ionic compound is the formula unit, the smallest, electrically neutral collection of ions.
-    &lt;ul&gt;
-      &lt;li&gt;Example:
-        &lt;ul&gt;
-          &lt;li&gt;The ionic compound table salt, with the &lt;em&gt;formula unit&lt;/em&gt; NaCl, is composed of Na+ and Cl+ions in a one-to-one ratio.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Summarizing Ionic Compound Formulas
-    &lt;ul&gt;
-      &lt;li&gt;Ionic compounds always contain positive and negative ions.&lt;/li&gt;
-      &lt;li&gt;In a chemical formula, the sum of the charges of the positive ions (cations) must equal the sum of the charges of the negative ions (anions).&lt;/li&gt;
-      &lt;li&gt;The formula of an ionic compound reflects the smallest whole-number ratio of ions.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;nomenclature-naming-compounds&quot;&gt;Nomenclature: Naming Compounds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:18:01.496531&lt;/li&gt;
-  &lt;li&gt;Organic compounds: predominantly carbon Usually plus H, O, N, S&lt;/li&gt;
-  &lt;li&gt;Inorganic compounds: everything else&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ionic Compounds: Cation followed by anion +-ide
-## Naming Ionic Compounds&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:19:25.857435&lt;/li&gt;
-  &lt;li&gt;Ionic compounds can be categorized into two types, depending on the metal in the compound.&lt;/li&gt;
-  &lt;li&gt;The first type contains a metal whose charge is invariant from one compound to another.&lt;/li&gt;
-  &lt;li&gt;Whenever the metal in this first type of compound forms an ion, the ion always has the same charge.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-82ff6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:21:00.382017&lt;/li&gt;
-  &lt;li&gt;Metals with invariant charges
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-7e536.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;common nonmetal anions
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-76073.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;naming-binary-ionic-compounds-of-type-i-cations&quot;&gt;Naming Binary Ionic Compounds of Type I Cations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:22:33.873986&lt;/li&gt;
-  &lt;li&gt;Binary compounds contain only two different elements. The names of binary ionic compounds take the following form:&lt;/li&gt;
-  &lt;li&gt;For example, the name for KCl consists of the name of the cation, potassium, followed by the base name of the anion, chlor, with the ending -ide.
-    &lt;ul&gt;
-      &lt;li&gt;KCl is potassium chloride.
-        &lt;ul&gt;
-          &lt;li&gt;We know potasium is +1, we know Cl is -1, so we don’t have to write it&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The name for CaO consists of the name of the cation, calcium,
-followed by the base name of the anion, ox, with the ending -ide.
-    &lt;ul&gt;
-      &lt;li&gt;CaO is calcium oxide.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;chemical-nomenclature&quot;&gt;Chemical Nomenclature&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:23:49.504979&lt;/li&gt;
-  &lt;li&gt;Ionic Compounds
-    &lt;ul&gt;
-      &lt;li&gt;often a metal + nonmetal&lt;/li&gt;
-      &lt;li&gt;anion (nonmetal), add “ide” to element name&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-38f84.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Write the formula for calcium nitride
-    &lt;ul&gt;
-      &lt;li&gt;Ca_3N_2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;lewis-structure-model-representing-a-substances-valence-electrons&quot;&gt;Lewis Structure Model: Representing a Substance’s Valence Electrons&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:31.209408&lt;/li&gt;
-  &lt;li&gt;The Lewis Model:
-    &lt;ul&gt;
-      &lt;li&gt;Valence electrons are represented as dots.
-        &lt;ul&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-b7090.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Lewis electron-dot structures (Lewis structures) depict the structural formula with its valence electrons.&lt;/li&gt;
-  &lt;li&gt;Audio 0:27:52.445649&lt;/li&gt;
-  &lt;li&gt;Lewis structures focus on valence electrons because chemical bonding involves the transfer or sharing of valence electrons between two or more atoms.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;octet-rule-a-guideline-for-molecule-formation&quot;&gt;Octet Rule: A Guideline for Molecule Formation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:28:08.406107&lt;/li&gt;
-  &lt;li&gt;When atoms bond, they tend to gain, lose, or share electrons to give a noble gas–like configuration.
-    &lt;ul&gt;
-      &lt;li&gt;ns2np6&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Nonmetals: period 2 elements must obey the octet rule (i.e., eight valence electrons around each atom in the molecule).&lt;/li&gt;
-  &lt;li&gt;Exceptions to the octet rule: Expanded octets
-    &lt;ul&gt;
-      &lt;li&gt;(Sometimes octet rule doesn’t work)&lt;/li&gt;
-      &lt;li&gt;Audio 0:29:09.248458&lt;/li&gt;
-      &lt;li&gt;They involve the nonmetal elements located in period 3 and below.&lt;/li&gt;
-      &lt;li&gt;Nonmetals (period 3 on down in the periodic table) follow the octet rule when they are not the center atom.
-        &lt;ul&gt;
-          &lt;li&gt;The center atom is the atom in the molecule that the other elements individually bond (attach) to.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;When they are the center atom, they can accommodate more than eight electrons.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Using empty valence d orbitals that are predicted by quantum theory&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;multivalent-metals-naming-type-ii-ionic-compounds&quot;&gt;Multivalent Metals: Naming Type II Ionic Compounds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:30:05.304852&lt;/li&gt;
-  &lt;li&gt;The metals in this category tend to have multiple charges (i.e., multivalent cations):&lt;/li&gt;
-  &lt;li&gt;Their charge cannot be predicted as in the case of most representative elements and must be noted in their name.&lt;/li&gt;
-  &lt;li&gt;Transition and inner transition metals
-    &lt;ul&gt;
-      &lt;li&gt;Iron (Fe) forms a 2+ cation in some of its compounds and a 3+ cation in others.
-        &lt;ul&gt;
-          &lt;li&gt;FeSO4: Here iron is a +2 cation (Fe2+).&lt;/li&gt;
-          &lt;li&gt;Fe2(SO4)3: Here iron is a +3 cation (Fe3+).&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Many of the p-block metals
-    &lt;ul&gt;
-      &lt;li&gt;Not all p-block metals are multivalent.&lt;/li&gt;
-      &lt;li&gt;Some main-group metals, such as Pb, Tl, and Sn, form more than one type of cation.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;type-ii-cation&quot;&gt;Type II Cation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:31:26.941062&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-99d12.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;naming-type-ii-binary-ionic-compounds-example-crbr3&quot;&gt;Naming Type II Binary Ionic Compounds— Example: CrBr3&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:36.900613&lt;/li&gt;
-  &lt;li&gt;To name CrBr_3, cation + total anion charge = 0
-    &lt;ul&gt;
-      &lt;li&gt;Cr charge + 3(Br+charge) = 0&lt;/li&gt;
-      &lt;li&gt;Since each Br has a –1 charge, then
-        &lt;ul&gt;
-          &lt;li&gt;Cr charge + 3(–1) = 0&lt;/li&gt;
-          &lt;li&gt;Cr charge + (–3) = 0&lt;/li&gt;
-          &lt;li&gt;Cr = +3&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Hence, the cation Cr3+ is called chromium(III), and Br^- is called bromide.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The name for CrBr3 is chromium(III) bromide.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;polyatomic-ions&quot;&gt;Polyatomic Ions&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:33:44.947274&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;oxyanions&quot;&gt;Oxyanions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:34:09.654184&lt;/li&gt;
-  &lt;li&gt;Most polyatomic ions are &lt;em&gt;oxyanions&lt;/em&gt;, anions containing oxygen and another element.&lt;/li&gt;
-  &lt;li&gt;Noticethatwhenaseriesofoxyanionscontainsdifferent numbers of oxygen atoms, the oxyanions are named according to the number of oxygen atoms in the ion.&lt;/li&gt;
-  &lt;li&gt;Iftherearetwoionsintheseries,
-    &lt;ul&gt;
-      &lt;li&gt;the one with more oxygen atoms has the ending -ate; and
-+the one with fewer has the ending -ite.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Forexample,
-    &lt;ul&gt;
-      &lt;li&gt;NO3+is nitrate SO_4^2+ is sulfate&lt;/li&gt;
-      &lt;li&gt;NO2+is nitrite SO_3^2+ is sulfite&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;If there are more than two ions in the series, then the prefixes hypo-, meaning less than, and per-,
-meaning more than, are used.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-d4a48.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;naming-ionic-compounds-containing-polyatomic-ions&quot;&gt;Naming Ionic Compounds Containing Polyatomic Ions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:36:49.401712&lt;/li&gt;
-  &lt;li&gt;Ionic compounds that contain a polyatomic ion rather than a simple anion (e.g., Cl–) are named in the same manner as binary ionic compounds, except that the name of the polyatomic ion used.
-    &lt;ul&gt;
-      &lt;li&gt;For example, NaNO2 is named according to
-        &lt;ul&gt;
-          &lt;li&gt;its cation, Na+, sodium; and&lt;/li&gt;
-          &lt;li&gt;its polyatomic anion, NO2–, nitrite.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Hence, NaNO2 is sodium nitrite.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;common-polyatomic-ions&quot;&gt;Common Polyatomic Ions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-21-week-6-day-2-d5e7f.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;You should memorize this&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;chemical-nomenclature-1&quot;&gt;Chemical Nomenclature&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:41:08.609726&lt;/li&gt;
-  &lt;li&gt;Ionic Compounds/Polyatomic Anion&lt;/li&gt;
-  &lt;li&gt;BaSO4 barium sulfate&lt;/li&gt;
-  &lt;li&gt;KMnO4 potassium permanganate Mg(OH)2 magnesium hydroxide&lt;/li&gt;
-  &lt;li&gt;KNO3 potassium nitrate&lt;/li&gt;
-  &lt;li&gt;(NH4)3PO4 ammonium phosphate&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Copper(II) phosphate’s formula
-    &lt;ul&gt;
-      &lt;li&gt;Cu_3(PO_4)2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;hydrated-ionic-compounds&quot;&gt;Hydrated Ionic Compounds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:44:52.355986&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Hydrates&lt;/em&gt; are ionic compounds containing a specific number of water molecules associated with each formula unit.&lt;/li&gt;
-  &lt;li&gt;Some ionic compounds have multiple hydrates&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;hydrates&quot;&gt;Hydrates&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Common hydrate prefixes
-    &lt;ul&gt;
-      &lt;li&gt;hemi = 1⁄2&lt;/li&gt;
-      &lt;li&gt;mono = 1&lt;/li&gt;
-      &lt;li&gt;di = 2&lt;/li&gt;
-      &lt;li&gt;tri=3&lt;/li&gt;
-      &lt;li&gt;tetra = 4&lt;/li&gt;
-      &lt;li&gt;penta = 5&lt;/li&gt;
-      &lt;li&gt;hexa = 6&lt;/li&gt;
-      &lt;li&gt;hepta = 7&lt;/li&gt;
-      &lt;li&gt;octa = 8&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Other common hydrated ionic compounds and their names are as follows:
-    &lt;ul&gt;
-      &lt;li&gt;CaSO4 +1⁄2H2O is called calcium sulfate hemihydrate.&lt;/li&gt;
-      &lt;li&gt;BaCl2 +6H2O is called barium chloride hexahydrate.&lt;/li&gt;
-      &lt;li&gt;CuSO4 +6H2O is called copper sulfate hexahydrate.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lattice energy&lt;/td&gt;
-      &lt;td&gt;the extra stability that accompanies the formation of the crystal lattice&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;ionic solid properties&lt;/td&gt;
-      &lt;td&gt;relatively hard and brittle and don’t conduct electricity&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;crystal lattice&lt;/td&gt;
-      &lt;td&gt;structre in which every cation is surrounded by anions and vice versa&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;binary compounds&lt;/td&gt;
-      &lt;td&gt;compounds containing only two different elements&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;formula unit&lt;/td&gt;
-      &lt;td&gt;empirical formulla of any ionic compound which is the lowest whole number ratio of ions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;oxyanions&lt;/td&gt;
-      &lt;td&gt;anions containing oxygen and another element&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;acetate formula&lt;/td&gt;
-      &lt;td&gt;C_2H_3O_2^-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;carbonate&lt;/td&gt;
-      &lt;td&gt;CO_3^2-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;hydrogen carbonate&lt;/td&gt;
-      &lt;td&gt;HCO_3^-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;hydroxide&lt;/td&gt;
-      &lt;td&gt;OH^-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;nitrite&lt;/td&gt;
-      &lt;td&gt;NO_2^-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;chromate&lt;/td&gt;
-      &lt;td&gt;CrO_4^2-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;dichromate&lt;/td&gt;
-      &lt;td&gt;Cr_2O_7^2-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;phosphate&lt;/td&gt;
-      &lt;td&gt;PO_4^3-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;hydrogen phosphate&lt;/td&gt;
-      &lt;td&gt;HPO_4^2-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;dihydrogen phosphate&lt;/td&gt;
-      &lt;td&gt;H_2PO_4^-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;ammonium&lt;/td&gt;
-      &lt;td&gt;NH_4^+&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;hypochlorite&lt;/td&gt;
-      &lt;td&gt;ClO^-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;chlorite&lt;/td&gt;
-      &lt;td&gt;ClO_2^-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;chlorate&lt;/td&gt;
-      &lt;td&gt;ClO_3^-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;perchlorate&lt;/td&gt;
-      &lt;td&gt;ClO_4^-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;permanganate&lt;/td&gt;
-      &lt;td&gt;MnO_4^-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;sulfite&lt;/td&gt;
-      &lt;td&gt;SO_3^2-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;hydrogen sulfite&lt;/td&gt;
-      &lt;td&gt;HSO_3^-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;sulfate&lt;/td&gt;
-      &lt;td&gt;SO_4^2-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;hydrogen sulfate&lt;/td&gt;
-      &lt;td&gt;HSO_4^-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;cyanide&lt;/td&gt;
-      &lt;td&gt;CN^-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;peroxide&lt;/td&gt;
-      &lt;td&gt;O_2^2-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;hydrates&lt;/td&gt;
-      &lt;td&gt;ionic compounds containing a specific number of water molecules associated with each formula unit&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Wed, 21 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/09/21/week-6-day-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/21/week-6-day-2.html</guid>
         
         
       </item>
