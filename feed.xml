@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Oct 2016 16:59:32 -0500</pubDate>
-    <lastBuildDate>Mon, 10 Oct 2016 16:59:32 -0500</lastBuildDate>
+    <pubDate>Mon, 10 Oct 2016 18:05:12 -0500</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2016 18:05:12 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -435,6 +435,302 @@ theory.
         <pubDate>Mon, 10 Oct 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/10/10/week-9-day-1-chapter-7-pt-2.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/10/week-9-day-1-chapter-7-pt-2.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Test 2 - Answers/Review</title>
+        <description>&lt;h2 id=&quot;questions&quot;&gt;Questions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How many different values of ml are possible in the 5d sublevel?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 5&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 4&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 8&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In which orbital below would an electron (on average) be farthest from the nucleus?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1s&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 3d&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 3s&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 5f&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 2p&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Predict the charge of the most stable ion of magnesium
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 1-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; +&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 3+&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Give the ground state electron configuration for Rb+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; [Ar]4s24p6&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; [Kr]5s1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; [Kr]5s24d2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; [Kr]5s2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; [Ar]4s23d 104p6&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Place the following in order of decreasing magnitude of lattice energy
+    &lt;ul&gt;
+      &lt;li&gt;KF MgS RbI&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; RbI &amp;gt; KF &amp;gt; MgS&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; RbI &amp;gt; MgS &amp;gt; KF&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; MgS &amp;gt; KF &amp;gt; RbI&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; KF &amp;gt; RbI &amp;gt; MgS&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; MgS &amp;gt; RbI &amp;gt; KF&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;What is the empirical formula for C8H16O4?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; C2H4O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; CHO&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; CH2O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; CHO2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; C2H5O&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;What is the mass of 9.00 x 10^22 molecules of NH3?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 0.00878 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2.55 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 0.393 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 114g&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Place the following elements in order of increasing electronegativity
+    &lt;ul&gt;
+      &lt;li&gt;Li Fr P&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; P &amp;lt; Li &amp;lt; Fr&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Fr &amp;lt; Li &amp;lt; P&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Fr &amp;lt; P &amp;lt; Li&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Li &amp;lt; P &amp;lt; Fr&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; P &amp;lt; Fr &amp;lt; Li&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Place the following in order of increasing X-A-X bond angle, where A represents the central atom and X represents the outer atoms in each molecule
+    &lt;ul&gt;
+      &lt;li&gt;HCN H2O H3O+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; H2O &amp;lt; H3O+ &amp;lt; HCN&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; H3O+ &amp;lt; H2O &amp;lt; HCN&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; HCN &amp;lt; H3O+ &amp;lt; H2O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; H2O &amp;lt; HCN &amp;lt; H3O+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; HCN &amp;lt; H2O &amp;lt; H3O+&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Determine the electron geometry, molecular geometry and polarity of HBrO2.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; eg = trigonal bipyramidal, mg = trigonal planar, nonpolar&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; eg = octahedral, mg = square planar, nonpolar&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; eg = tetrahedral, mg = linear, nonpolar&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; eg = tetrahedral, mg = bent, polar&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; eg = linear, mg = linear, polar&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Combustion analysis of an unknown compound containing only carbon and hydrogen produced 2.277 g of CO2 and 1.161 g of H2O. What is the empirical formula of the compound?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; C5H2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; CH2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C4H10&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; C2H5&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;What is the mass of 0.500 mol of trichlorofluoromethane, CCl3F?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 275 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 3.64 * 10^-3 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 137 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 68.7 g&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Use Lewis theory to determine the chemical formula for the compound formed between Mg and N
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Mg2N3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; MgN&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; MgN2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Mg2N&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; Mg3N2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Place the following in order of decreasing radius
+    &lt;ul&gt;
+      &lt;li&gt;Te2- F- O2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; F— &amp;gt; O2- &amp;gt; Te2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; F- &amp;gt; Te2- &amp;gt; O2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Te2- &amp;gt; F- &amp;gt; O2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Te2- &amp;gt; O2- &amp;gt; F-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; O2- &amp;gt; F- &amp;gt; Te2-&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Which one of the following elements is a poor conductor of heat and electricity?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; copper&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; iron&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; iodine&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; lead&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;How many electrons are in the ion, S2-?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 14&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 34&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 30&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 18&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Identify the correct values for a 2p sublevel
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; n = 3, l = 1, ml = 0&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; n = 2, l = 1, ml = 0&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; n = 1, l = 0, ml = 0&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; n = 2, l = 1, ml = +2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; n = 4, l = -1, ml = +2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Which of the following transitions (in a hydrogen atom) represent absorption of the smallest
+ frequency photon?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; n = 1 to n = 4&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; n = 5 to n = 1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; n = 3 to n = 1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; n = 5 to n = 6&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; n = 1 to n = 2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;What is the energy of light associated with a transition from 3s to 8p in a hydrogen atom? Does this represent absorption or emission of a photon? The Rydberg constant is 1.097 x 10^-2
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 2.08 x 10^-19 J, emission&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2.08 x 10^-19 J, absorption&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 4.54 x 10^-19 J, absorption&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 4.54 x 10^-19 .1, emission&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 6.81 x 10^-20 J, absorption&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Identify an anion
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; An atom that has lost an electron&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; an atom that has lost a neutron and a proton&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; an atom that has gained an electron&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; an atom that has gained a neutron and a proton&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Neon belongs to the &lt;strong&gt;__&lt;/strong&gt; of the periodic table
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; alkali metal&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; noble gas&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; halogen&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; alkaline earth metal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Which species has the highest ionization energy?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Al2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Mg+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Mg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Al+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; Mg2+&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Choose the compound below that should have the highest melting point according to the ionic bonding model
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; CaS&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; MgO&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; LiF&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; AlN&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; RbF&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Give the structure for lithium chlorate
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; LiClO3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; LiClO4&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; LiClO&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; LiClO2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;What is the empirical formula of a compound that is 48.6% C, 8.2% H, and 43.2% 0 by mass?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; C3H6O2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; C6HO5&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C6H12O4&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; C4H8O3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; C3HO2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Give the number of valence electrons for SI4
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 28&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 34&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 32&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 30&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Draw the best Lewis structure for CH3+1. What is the formal charge on the C?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; -1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 0&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+var answers = [
+&quot;b&quot;, &quot;d&quot;, &quot;a&quot;, &quot;e&quot;, &quot;c&quot;, &quot;a&quot;, &quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;d&quot;,
+&quot;d&quot;, &quot;d&quot;, &quot;e&quot;, &quot;d&quot;, &quot;c&quot;, &quot;d&quot;, &quot;b&quot;, &quot;d&quot;, &quot;b&quot;, &quot;c&quot;,
+&quot;b&quot;, &quot;e&quot;, &quot;d&quot;, &quot;a&quot;, &quot;a&quot;, &quot;b&quot;, &quot;c&quot;];
+function getAnswer(number) {
+  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
+}
+function validate() {
+  var any = false;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (!answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
+      any = true;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
+    }
+  }
+  if (any) {
+    toastr.error(&quot;You did not answer every question!&quot;);
+  }
+  return !any;
+}
+function grade() {
+  if (!validate()) return;
+  var correct = 0;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (answers[i-1] == answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
+      correct++;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
+    }
+  }
+  toastr.success(&quot;Your grade is &quot;+ ((correct/answers.length) * 100).toFixed(2) + &quot; out of 100&quot;);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/10/10/test-2-answers-review.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/10/test-2-answers-review.html</guid>
         
         
       </item>
@@ -2980,204 +3276,6 @@ delocalization of the electrons; the concept is called resonance.
         <pubDate>Wed, 28 Sep 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/09/28/week-7-day-2.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/28/week-7-day-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 7 - Day 1</title>
-        <description>
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-7-day-1.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;nrOZN74kUpU&quot;});
-&lt;/script&gt;
-
-&lt;h2 id=&quot;mass-percent-as-a-conversion-factor&quot;&gt;Mass Percent as a Conversion Factor&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Audio 0:01:05.568971&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;the mass percent tells you the mass of a constituent element in 100 g of the compound&lt;/li&gt;
-  &lt;li&gt;the fact that CCl2F2 is 58.64% Cl by mass means that 100 g of CCl2F2 contains 58.64 g Cl&lt;/li&gt;
-  &lt;li&gt;this can be used as a conversion factor&lt;/li&gt;
-  &lt;li&gt;100 g CCl2F2 : 58.64 g Cl&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;molecular-formulas&quot;&gt;Molecular Formulas&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:01:54.462456&lt;/li&gt;
-  &lt;li&gt;The molecular formula is a multiple of the empirical formula&lt;/li&gt;
-  &lt;li&gt;Molecular Mass is the same multiple of the mass of the empirical formula&lt;/li&gt;
-  &lt;li&gt;Benzene:&lt;/li&gt;
-  &lt;li&gt;Empirical Formula: CH
-    &lt;ul&gt;
-      &lt;li&gt;13.02 amu, 13.02 g/mol&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Molecular Formula: C6H6 which is 6xCH
-    &lt;ul&gt;
-      &lt;li&gt;78.11 amu, 78.11 g/mol&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;determining-a-chemical-formula-from-experimental-data&quot;&gt;Determining a Chemical Formula from Experimental Data&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:03:56.552943
-Empirical Formula:&lt;/li&gt;
-  &lt;li&gt;Simplest whole-number ratio of the atoms of elements in a compound&lt;/li&gt;
-  &lt;li&gt;Can be determined from elemental analysis&lt;/li&gt;
-  &lt;li&gt;Masses of elements formed when a compound is decomposed, or that react together to form a compound&lt;/li&gt;
-  &lt;li&gt;Combustion analysis&lt;/li&gt;
-  &lt;li&gt;(Mass) Percent composition
-    Note: An empirical formula represents a ratio of atoms or a ratio of moles of atoms, not a ratio of masses.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;finding-an-empirical-formula&quot;&gt;Finding an Empirical Formula&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:05:56.439211
-    &lt;ol&gt;
-      &lt;li&gt;Convert the percentages to grams.
-        &lt;ul&gt;
-          &lt;li&gt;a)  If not given, assume you start with 100 g of the compound.&lt;/li&gt;
-          &lt;li&gt;b)  Example: 24.5% C means 24.5 g C.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Convert mass (grams) to moles.
-a)  Use molar mass of each element.
-b)  Example: 24.5 g C × (1 mol C/12.01 grams) = 2.00 mol C&lt;/li&gt;
-      &lt;li&gt;Divide all by the smallest number of moles to obtain the atom- to-atom ratio for each of the elements in the compound.
-a)  If the result is within 0.1 of a whole number, round to the whole number.&lt;/li&gt;
-      &lt;li&gt;Multiply all mole ratios by a number to make all whole numbers.
-a)  If ratio is .5, multiply all by 2; if the ratio is .33 or .67, multiply all by 3; and so on.
-b) Skip if already whole numbers.&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;example&quot;&gt;Example&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What is the empirical formula of a substance that contains 5.28 g of C, 1.11 g of H, and 3.52 g of O?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A) C2H5O
-B) C2H4O2
-C) C2H4O3
-D) C3H4O4&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Answer is A&lt;/li&gt;
-  &lt;li&gt;Audio 0:11:13.430592&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;combustion-analysis&quot;&gt;Combustion Analysis&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A common technique for analyzing compounds is to burn a known mass of compound and weigh the amounts of product made.&lt;/li&gt;
-  &lt;li&gt;This is generally used for organic compounds containing C, H, or O.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-26-week-7-day-1-010b3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:22:35.779419&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ex: you combust 11.5 g ethanol and collect 22.0 g CO2 and 13.5 g H2O.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;By knowing the mass of the product and composition of constituent element in the product, the original amount of constituent element can be determined.&lt;/li&gt;
-  &lt;li&gt;All the original C forms CO2, the original H forms H2O, and the original mass of O is found by subtraction.&lt;/li&gt;
-  &lt;li&gt;Once the masses of all the constituent elements in the original compound have been determined, the empirical formula can be found.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker&quot;&gt;Clicker&lt;/h2&gt;
-
-&lt;p&gt;what is the empirical formula of the compound with the following composition?
-2.1 % H, 65.3 % O, 32.6% S (H: 1.008, O: 16, S: 32.06)
-+ C2H5O&lt;/p&gt;
-
-&lt;h2 id=&quot;example-516--find-the-molecular-formula-of-butanedione&quot;&gt;Example 5.16 + Find the molecular formula of butanedione&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Given: emp. form. = C2H3O; MM = 86.09 g/mol&lt;/li&gt;
-  &lt;li&gt;Find: molecular formula
-    &lt;ul&gt;
-      &lt;li&gt;C4H6O2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;combustion-analysis-clicker&quot;&gt;Combustion analysis clicker&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:34:34.156694&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-26-week-7-day-1-7b024.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;carbon-bonding&quot;&gt;Carbon Bonding&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:39:10.776833&lt;/li&gt;
-  &lt;li&gt;carbon atoms bond almost exclusively covalently
-    &lt;ul&gt;
-      &lt;li&gt;compounds with ionic bonding C are generally inorganic&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;when C bonds, it forms 4 covalent bonds&lt;/li&gt;
-  &lt;li&gt;4 single bonds, 2 double bonds, 1 triple + 1
-single, etc.&lt;/li&gt;
-  &lt;li&gt;carbon can form limitless chains of C atoms, both straight and branched, and rings of C atoms&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-26-week-7-day-1-1049a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;classifying-organic-compounds&quot;&gt;Classifying Organic Compounds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;there are two main
-categories of organic compounds, hydrocarbons and functionalized hydrocarbons&lt;/li&gt;
-  &lt;li&gt;hydrocarbons contain only C and H&lt;/li&gt;
-  &lt;li&gt;most fuels are mixtures of hydrocarbons&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-26-week-7-day-1-266e3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;classifying-hydrocarbons&quot;&gt;Classifying Hydrocarbons&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:41:37.320899&lt;/li&gt;
-  &lt;li&gt;hydrocarbons containing only single
-bonds are called alkanes&lt;/li&gt;
-  &lt;li&gt;hydrocarbons containing one or more
-C=C are called alkenes&lt;/li&gt;
-  &lt;li&gt;hydrocarbons containing one or more
-C=C are called alkynes&lt;/li&gt;
-  &lt;li&gt;hydrocarbons containing C6 “benzene” ring are called aromatic&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-26-week-7-day-1-6ad67.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;naming-straight-chain-hydrocarbons&quot;&gt;Naming Straight Chain Hydrocarbons&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Base name to indicate the number of carbons in the chain&lt;/li&gt;
-  &lt;li&gt;suffix to indicate class and position of multiple bonds suffix –ane for alkane, –ene for alkene, –yne for alkyne&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;img src=&quot;../../../assets/2016-09-26-week-7-day-1-82ecd.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-26-week-7-day-1-12d05.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 26 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/09/26/week-7-day-1.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/26/week-7-day-1.html</guid>
         
         
       </item>
