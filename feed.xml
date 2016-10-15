@@ -6,9 +6,670 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Oct 2016 18:05:12 -0500</pubDate>
-    <lastBuildDate>Mon, 10 Oct 2016 18:05:12 -0500</lastBuildDate>
+    <pubDate>Sat, 15 Oct 2016 15:23:01 -0500</pubDate>
+    <lastBuildDate>Sat, 15 Oct 2016 15:23:01 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 9 - Day 3 (Ch 7 - pt 4)</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2nazid&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-9-day-3.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;R4OVLDPmLsk&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:26.347467&lt;/li&gt;
+  &lt;li&gt;Give the hybridization for the C in C2F2&lt;/li&gt;
+  &lt;li&gt;A) sp3d2&lt;/li&gt;
+  &lt;li&gt;B) sp3d&lt;/li&gt;
+  &lt;li&gt;C) sp3&lt;/li&gt;
+  &lt;li&gt;D) sp2&lt;/li&gt;
+  &lt;li&gt;E) sp&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c3&quot; style=&quot;display:none&quot;&gt;E. The lewis structure is linear because of the tripple bond between the two carbon atoms. Linear = sp&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;period-two-homonuclear-diatomic-molecules&quot;&gt;Period Two Homonuclear Diatomic Molecules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:03:34.227150&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-4fec5.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Exactly the same as 1s&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;interaction-of-p-orbitals&quot;&gt;Interaction of p Orbitals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:06:30.224293&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-b7390.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;blue bond called sigma bond because it is symmetric&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-4b9fc.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Called 2px and 2py because of rotation&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-orbital-energy-ordering&quot;&gt;Molecular Orbital Energy Ordering&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:10:03.432001&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-fd509.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Complete diagram for determining molecular orbital energy ordering for &amp;lt;= 2p orbitals&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-on-molecular-orbital-theory-n2--ion-determine-the-electron-configuration-and-whether-the-ion-is-para-or-diamagnetic&quot;&gt;Practice Problem on Molecular Orbital Theory N2- ion. Determine the electron configuration, and whether the ion is para or diamagnetic&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:43.087962&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-orbital-energy-diagrams-for-secondperiod-p-block-homonuclear-diatomic-molecules&quot;&gt;Molecular Orbital Energy Diagrams for SecondPeriod-p-Block Homonuclear Diatomic Molecules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:49.174841&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-1b505.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Molecular orbital theory accurately predicts magnetism because it shows the unbonded electrons&lt;/li&gt;
+      &lt;li&gt;Also gets the bond order correct&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:18:39.294522&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-32e24.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Mixing orbitals to get optimal energy&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;heteronuclear-diatomic-molecules-and-ions&quot;&gt;Heteronuclear Diatomic Molecules and Ions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:09.219234&lt;/li&gt;
+  &lt;li&gt;When the combining atomic orbitals are identical and of equal energy, the contribution of each atomic orbital to the molecular orbital is equal.&lt;/li&gt;
+  &lt;li&gt;When the combining atomic orbitals are different types and energies, contributions to the MOs are different:&lt;/li&gt;
+  &lt;li&gt;The more electronegative an atom is, the lower in energy are its orbitals.&lt;/li&gt;
+  &lt;li&gt;Lower energy atomic orbitals contribute more to the bonding MOs.&lt;/li&gt;
+  &lt;li&gt;Higher energy atomic orbitals contribute more to the antibonding MOs.&lt;/li&gt;
+  &lt;li&gt;Nonbonding MOs remain localized on the atom donating its atomic orbitals.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;second-period-heteronuclear-diatomic-molecules&quot;&gt;Second-Period Heteronuclear Diatomic Molecules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:28.652003&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-6c33b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-on-molecular-orbital-theory-cn-&quot;&gt;Practice Problem on Molecular Orbital Theory CN-&lt;/h2&gt;
+
+&lt;h2 id=&quot;mo-and-polyatomic-molecules&quot;&gt;MO and Polyatomic Molecules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:43.466301&lt;/li&gt;
+  &lt;li&gt;When many atoms are combined together, the atomic
+orbitals of all the atoms are combined to make a set of
+molecular orbitals, which are delocalized over the entire
+molecule.&lt;/li&gt;
+  &lt;li&gt;Gives results that better match real molecule properties than either Lewis or valence bond theories&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-63adc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-fb96c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-ce2bf.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bonding-in-metals-and-semiconductors&quot;&gt;Bonding in Metals and Semiconductors&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:28:15.434098&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-14-week-9-day-3-b109d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-14-week-9-day-3-00096.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:29:39.260232&lt;/li&gt;
+  &lt;li&gt;How many p-orbitals participate in the Molecular orbitals in Benzene and how many MOs does this give?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c3&quot; style=&quot;display:none&quot;&gt;6&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;bonding-in-metals-and-semiconductors-1&quot;&gt;Bonding in Metals and Semiconductors&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:35.553208&lt;/li&gt;
+  &lt;li&gt;The simplest theory of metallic bonding involves the metal atoms releasing their valence electrons to be shared as a pool by all the atoms/ ions in the metal.&lt;/li&gt;
+  &lt;li&gt;An organization of metal cation islands in a sea of electrons&lt;/li&gt;
+  &lt;li&gt;Electrons delocalized throughout the metal structure&lt;/li&gt;
+  &lt;li&gt;Bonding results from attraction of cation for the delocalized electrons.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-2323c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:33:43.544569&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-47239.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;semiconductors-and-band-theory&quot;&gt;Semiconductors and Band Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:35:46.508773&lt;/li&gt;
+  &lt;li&gt;Band Theory:&lt;/li&gt;
+  &lt;li&gt;Electrons become mobile when they make a transition from the highest occupied molecular orbital into higher energy empty molecular orbitals.&lt;/li&gt;
+  &lt;li&gt;These occupied molecular orbitals are referred to as the valence band.&lt;/li&gt;
+  &lt;li&gt;The unoccupied orbitals the conduction band.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-628e3.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;silicon is an insulator because it has a large energy gap between the valence band to the conduction band of orbitals&lt;/li&gt;
+      &lt;li&gt;conductors have no gap&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:37:16.124083&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-48d05.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Bigger the gap, the less conduction
+        &lt;ul&gt;
+          &lt;li&gt;The funny thing is that silicon is the thing we use for conduction in transistors
+            &lt;ul&gt;
+              &lt;li&gt;We add stuff&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:38:21.396460&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-c961e.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;We add a little boron and it gives an empty orbital between the valence and the conduction bonds and allows for conduction
+        &lt;ul&gt;
+          &lt;li&gt;They can hop into the empty orbital&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;end-of-ch-7&quot;&gt;End of Ch 7&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You must finish the homework&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;(lower or higher?) energy atomic orbitals contribute more to the bonding MOs&lt;/td&gt;
+      &lt;td&gt;lower&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;(lower or higher?) energy atomic orbitals contribute more to the antibonding MOs&lt;/td&gt;
+      &lt;td&gt;higher&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;band&lt;/td&gt;
+      &lt;td&gt;when many orbitals are present, their energy difference becomes relatively small and we refer to them as this&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Fri, 14 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/10/14/week-9-day-3.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/14/week-9-day-3.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 9 - Day 2 (Ch 7 pt 3)</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2n02mh&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-9-day-2-ch-7-continued.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;9OlJjyNuvhA&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:05.264857&lt;/li&gt;
+  &lt;li&gt;Recitation this evening
+    &lt;ul&gt;
+      &lt;li&gt;Intends on going through problems from test 2 that gave people trouble&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:49.953369&lt;/li&gt;
+  &lt;li&gt;Give the hybridization for the O in OF2&lt;/li&gt;
+  &lt;li&gt;A) sp&lt;/li&gt;
+  &lt;li&gt;B) sp3&lt;/li&gt;
+  &lt;li&gt;C) sp2&lt;/li&gt;
+  &lt;li&gt;D) sp3d&lt;/li&gt;
+  &lt;li&gt;E) sp3d2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c3&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HwZ8hb7nDHQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:06:22.158125&lt;/li&gt;
+  &lt;li&gt;Give the hybridization for the S in SO3
+    &lt;ul&gt;
+      &lt;li&gt;A) sp&lt;/li&gt;
+      &lt;li&gt;B) sp3&lt;/li&gt;
+      &lt;li&gt;C) sp2&lt;/li&gt;
+      &lt;li&gt;D) sp3d&lt;/li&gt;
+      &lt;li&gt;E) sp3d2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c1&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c1').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:08:06.363102&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How many of the following molecules have sp2 hybridization on the central atom?&lt;/li&gt;
+  &lt;li&gt;HCN SO2 OCl2 XeCl2&lt;/li&gt;
+  &lt;li&gt;A) 4&lt;/li&gt;
+  &lt;li&gt;B) 3&lt;/li&gt;
+  &lt;li&gt;C) 2&lt;/li&gt;
+  &lt;li&gt;D) 1&lt;/li&gt;
+  &lt;li&gt;E) 0&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c2&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ex-multi-central-atom-lewis-structures-isomers-of-c2h4o&quot;&gt;Ex: Multi-Central Atom Lewis Structures Isomers of C2H4O&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:35.404261&lt;/li&gt;
+  &lt;li&gt;Acetaldehyde: CH3CHO,&lt;/li&gt;
+  &lt;li&gt;Ethenol (aka vinyl alcohol): CH2CHOH&lt;/li&gt;
+  &lt;li&gt;oxirane (aka ethylene oxide): CH2OCH2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4yqKdTsWl18&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:19.010276&lt;/li&gt;
+  &lt;li&gt;Explaination of the Bonds to O
+    &lt;ul&gt;
+      &lt;li&gt;(More complicated example than what you’ll see in this class)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-orbital-mo-theory-electron-delocalization&quot;&gt;Molecular Orbital (MO) Theory: Electron Delocalization&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:25:00.394253&lt;/li&gt;
+  &lt;li&gt;In MO theory:
+    &lt;ul&gt;
+      &lt;li&gt;Applies Schrödinger’s wave equation to the molecule to calculate a set of &lt;em&gt;molecular orbitals&lt;/em&gt;
+        &lt;ul&gt;
+          &lt;li&gt;The equation solution is estimated.&lt;/li&gt;
+          &lt;li&gt;The estimated solution is evaluated and adjusted until the energy of the orbital is minimized.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In this treatment, the electrons belong to the whole
+molecule, so the orbitals belong to the whole molecule.
+    &lt;ul&gt;
+      &lt;li&gt;Delocalization&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;lcao-linear-combination-of-atomic-orbitals&quot;&gt;LCAO: Linear Combination of Atomic Orbitals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:28:20.033639&lt;/li&gt;
+  &lt;li&gt;The simplest guess starts with the atomic orbitals of the atoms adding together to make molecular orbitals; this is called the &lt;em&gt;linear combination of atomic orbitals (LCAO)&lt;/em&gt; method.
+    &lt;ul&gt;
+      &lt;li&gt;Weighted sum
+        &lt;ul&gt;
+          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-12-week-9-day-2-ch-7-continued-bff57.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Because the orbitals are wave functions, the waves can combine either &lt;em&gt;constructively&lt;/em&gt; or &lt;em&gt;destructively&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-12-week-9-day-2-ch-7-continued-a1699.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-orbitals&quot;&gt;Molecular Orbitals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:23.118169&lt;/li&gt;
+  &lt;li&gt;When the wave functions combine constructively, the resulting molecular orbital has less energy than the original atomic orbitals
+    &lt;ul&gt;
+      &lt;li&gt;Called a &lt;em&gt;bonding molecular orbital&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Designated: σ, π&lt;/li&gt;
+      &lt;li&gt;Most of the electron density between the nuclei&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;When the wave functions combine destructively, the
+resulting molecular orbital has more energy than the
+original atomic orbital.
+    &lt;ul&gt;
+      &lt;li&gt;Called an &lt;em&gt;antibonding molecular orbital&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Designated: σ&lt;em&gt;, π&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Most of the electron density outside the nuclei&lt;/li&gt;
+      &lt;li&gt;Nodes between nuclei&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;interaction-of-1s-orbitals&quot;&gt;Interaction of 1s Orbitals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-29626.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-orbital-theory&quot;&gt;Molecular Orbital Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:35:37.151782&lt;/li&gt;
+  &lt;li&gt;Use Aufbau approach for MO’s (as we did for
+individual atoms)&lt;/li&gt;
+  &lt;li&gt;electrons go into lowest energy MO’s first&lt;/li&gt;
+  &lt;li&gt;pair up when they have to&lt;/li&gt;
+  &lt;li&gt;Audio 0:35:48.854160&lt;/li&gt;
+  &lt;li&gt;Electrons in bonding MOs are stabilizing.
+    &lt;ul&gt;
+      &lt;li&gt;Lower energy than the atomic orbitals&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Electrons in antibonding MOs are destabilizing.
+    &lt;ul&gt;
+      &lt;li&gt;Higher in energy than atomic orbitals&lt;/li&gt;
+      &lt;li&gt;Electron density located outside the internuclear axis&lt;/li&gt;
+      &lt;li&gt;Electrons in antibonding orbitals cancel stability gained by electrons in bonding orbitals.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mo-and-properties&quot;&gt;MO and Properties&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:16.115964&lt;/li&gt;
+  &lt;li&gt;Bond order = ½ (# Bonding Electrons – # Antibonding
+Electrons)&lt;/li&gt;
+  &lt;li&gt;Bond order = difference between number of electrons in bonding and antibonding orbitals
+    &lt;ul&gt;
+      &lt;li&gt;Only need to consider valence electrons&lt;/li&gt;
+      &lt;li&gt;Audio 0:37:10.304038&lt;/li&gt;
+      &lt;li&gt;May be a fraction&lt;/li&gt;
+      &lt;li&gt;Higher bond order = stronger and shorter bonds&lt;/li&gt;
+      &lt;li&gt;If bond order = 0, then the bond is unstable compared to individual atoms and no bond will form.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A substance will be paramagnetic if its MO diagram has unpaired electrons.
+    &lt;ul&gt;
+      &lt;li&gt;If all electrons are paired, it is diamagnetic.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:38:35.652895&lt;/li&gt;
+  &lt;li&gt;Ex:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-fe93a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Bond order = ½ (# Bonding Electrons – # Antibonding Electrons)&lt;/li&gt;
+  &lt;li&gt;Bond Order H2 = ½ (2 – 0) = 1
+    &lt;ul&gt;
+      &lt;li&gt;Corresponds to a sigma bond&lt;/li&gt;
+      &lt;li&gt;Also coincides with Lewis models&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-doesnt-the-molecule-he2-exist&quot;&gt;Why Doesn’t the Molecule He2 Exist?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:39:48.795249&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-e029f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Bond order = ½ (# Bonding Electrons – # Antibonding Electrons)&lt;/li&gt;
+  &lt;li&gt;Bond Order He2 = ½ (2 – 2) =0
+    &lt;ul&gt;
+      &lt;li&gt;Because the bond order is zero, dihelium doesn’t exist&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;why-does-the-molecule-he2-exist&quot;&gt;Why Does the Molecule He2+ Exist?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:41:11.115795&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-d88bd.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Bond order = ½ (# Bonding Electrons – # Antibonding Electrons)&lt;/li&gt;
+  &lt;li&gt;Bond Order He2+ = ½ (2 – 1) =1/2
+    &lt;ul&gt;
+      &lt;li&gt;Nonzero, so it works&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;summarizing-lcaomo-theory&quot;&gt;Summarizing LCAO–MO Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:42:32.896527&lt;/li&gt;
+  &lt;li&gt;Molecular orbitals (MOs) are a linear combination of atomic orbitals (AOs).
+    &lt;ul&gt;
+      &lt;li&gt;The total number of MOs formed from a particular set of AOs always equals the number of AOs in the set.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;When two AOs combine to form two MOs, one MO is lower in energy (the bonding MO) and the other is higher in energy (the antibonding MO).&lt;/li&gt;
+  &lt;li&gt;When assigning the electrons of a molecule to MOs, we fill the lowest energy MOs first with a maximum of two spin-paired electrons per orbital.&lt;/li&gt;
+  &lt;li&gt;When assigning electrons to two MOs of the same energy, Hund’s rule is followed to fill the orbitals singly first, with parallel spins, before pairing.&lt;/li&gt;
+  &lt;li&gt;The bond order in a diatomic molecule is the number of electrons in bonding MOs minus the number in antibonding MOs divided by two.
+    &lt;ul&gt;
+      &lt;li&gt;Stable bonds require a positive bond order (more electrons in bonding MOs than in antibonding MOs).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;MOs are named by type: σ, π, with a subscript to indicate what AOs they were formed from.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-on-bond-order-h2-&quot;&gt;Practice Problem on Bond Order H2-&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:44:01.684960&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/C9Wm46nXBxU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;period-two-homonuclear-diatomic-molecules&quot;&gt;Period Two Homonuclear Diatomic Molecules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-4fec5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;interaction-of-p-orbitals&quot;&gt;Interaction of p Orbitals&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-b7390.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-4b9fc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-orbital-energy-ordering&quot;&gt;Molecular Orbital Energy Ordering&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-fd509.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-on-molecular-orbital-theory-n2--ion-determine-the-electron-configuration-and-whether-the-ion-is-para-or-diamagnetic&quot;&gt;Practice Problem on Molecular Orbital Theory N2- ion. Determine the electron configuration, and whether the ion is para or diamagnetic&lt;/h2&gt;
+
+&lt;h2 id=&quot;molecular-orbital-energy-diagrams-for-secondperiod-p-block-homonuclear-diatomic-molecules&quot;&gt;Molecular Orbital Energy Diagrams for SecondPeriod-p-Block Homonuclear Diatomic Molecules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-1b505.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-32e24.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;heteronuclear-diatomic-molecules-and-ions&quot;&gt;Heteronuclear Diatomic Molecules and Ions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When the combining atomic orbitals are identical and of equal energy, the contribution of each atomic orbital to the molecular orbital is equal.&lt;/li&gt;
+  &lt;li&gt;When the combining atomic orbitals are different types and energies, contributions to the MOs are different:&lt;/li&gt;
+  &lt;li&gt;The more electronegative an atom is, the lower in energy are its orbitals.&lt;/li&gt;
+  &lt;li&gt;Lower energy atomic orbitals contribute more to the bonding MOs.&lt;/li&gt;
+  &lt;li&gt;Higher energy atomic orbitals contribute more to the antibonding MOs.&lt;/li&gt;
+  &lt;li&gt;Nonbonding MOs remain localized on the atom donating its atomic orbitals.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;second-period-heteronuclear-diatomic-molecules&quot;&gt;Second-Period Heteronuclear Diatomic Molecules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-6c33b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-on-molecular-orbital-theory-cn-&quot;&gt;Practice Problem on Molecular Orbital Theory CN-&lt;/h2&gt;
+
+&lt;h2 id=&quot;mo-and-polyatomic-molecules&quot;&gt;MO and Polyatomic Molecules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When many atoms are combined together, the atomic
+orbitals of all the atoms are combined to make a set of
+molecular orbitals, which are delocalized over the entire
+molecule.&lt;/li&gt;
+  &lt;li&gt;Gives results that better match real molecule properties than either Lewis or valence bond theories&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-63adc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-fb96c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-ce2bf.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bonding-in-metals-and-semiconductors&quot;&gt;Bonding in Metals and Semiconductors&lt;/h2&gt;
+
+&lt;h2 id=&quot;bonding-in-metals-and-semiconductors-1&quot;&gt;Bonding in Metals and Semiconductors&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The simplest theory of metallic bonding involves the metal atoms releasing their valence electrons to be shared as a pool by all the atoms/ ions in the metal.
+    &lt;ul&gt;
+      &lt;li&gt;An organization of metal cation islands in a sea of electrons&lt;/li&gt;
+      &lt;li&gt;Electrons delocalized throughout the metal structure&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Bonding results from attraction of cation for the delocalized electrons.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-2323c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-47239.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;semiconductors-and-band-theory&quot;&gt;Semiconductors and Band Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Band Theory:&lt;/li&gt;
+  &lt;li&gt;Electrons become mobile when they make a transition from the highest occupied molecular orbital into higher energy empty molecular orbitals.&lt;/li&gt;
+  &lt;li&gt;These occupied molecular orbitals are referred to as the valence band.&lt;/li&gt;
+  &lt;li&gt;The unoccupied orbitals the conduction band.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-628e3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-48d05.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-c961e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;molecular orbital theory&lt;/td&gt;
+      &lt;td&gt;applies Schrödinger’s wave equation to the molecule to calculate a set of molecular orbitals&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;molecular orbital&lt;/td&gt;
+      &lt;td&gt;orbitals which hold electrons which belong to an entire molecule&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;linear combination of atomic orbitals (LCAO)&lt;/td&gt;
+      &lt;td&gt;weighted sum of orbitals which helps predicting the optimal energy/shape of orbitals (aka let’s take 10% of s and 90% of p)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;bonding molecular orbital&lt;/td&gt;
+      &lt;td&gt;molecular orbitals which have wave functions which combine constructively&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;bonding molecular orbitals result in an orbital which has (more or less?) energy than the originals&lt;/td&gt;
+      &lt;td&gt;less&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;antibonding molecular orbitals&lt;/td&gt;
+      &lt;td&gt;bonding molecular orbitals which have wave functions which combine destructively&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;bond order&lt;/td&gt;
+      &lt;td&gt;half of the difference of the number of bonding electrons and antibonding electrons&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Wed, 12 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/10/12/week-9-day-2-ch-7-continued.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/12/week-9-day-2-ch-7-continued.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 9 - Day 1 (Chapter 7 pt 2)</title>
@@ -736,253 +1397,344 @@ function grade() {
       </item>
     
       <item>
-        <title>Remainder of Ch 7</title>
-        <description>&lt;h2 id=&quot;ex-multi-central-atom-lewis-structures-isomers-of-c2h4o&quot;&gt;Ex: Multi-Central Atom Lewis Structures Isomers of C2H4O&lt;/h2&gt;
+        <title>Remainder of Ch 8</title>
+        <description>&lt;h1 id=&quot;chapter-8&quot;&gt;Chapter 8&lt;/h1&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Acetaldehyde: CH3CHO,&lt;/li&gt;
-  &lt;li&gt;Ethenol (aka vinyl alcohol): CH2CHOH&lt;/li&gt;
-  &lt;li&gt;oxirane (aka ethylene oxide): CH2OCH2&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Chemical Reactions and Chemical Quantities&lt;/p&gt;
 
-&lt;h2 id=&quot;molecular-orbital-mo-theory-electron-delocalization&quot;&gt;Molecular Orbital (MO) Theory: Electron Delocalization&lt;/h2&gt;
+&lt;p&gt;Climate Change and Combustion of Fossil Fuels:
+The Greenhouse Effect
+• Greenhouse gases in
+the atmosphere:
+– Allow sunlight to enter
+the atmosphere
+– Warm Earth’s surface
+– Prevent some of the
+heat generated by the
+sunlight from escaping
+The balance between incoming
+and outgoing energy from the sun
+determines Earth’s average
+temperature.
+© 2015 Pearson Education, Inc.
+Global Warming
+• Scientists have measured an average &amp;gt;0.8 °C
+rise in atmospheric temperature since 1860.
+• During the same period, atmospheric CO2 levels
+have risen &amp;gt;25%.
+• Are the two trends causal?
+1880 1900 1920 1940 1960 1980 2000
+−.4
+−.2
+ 0.
+ .2
+ .4
+ .6
+ .8
+1.0
+Annual Mean
+5−year Running Mean
+Global Land−Ocean Temperature Index
+Temperature Anomaly (°C)
+© 2015 Pearson Education, Inc.
+How Much Matters
+© 2015 Pearson Education, Inc.
+Physical Changes in Matter
+What is a physical change?
+• Changes that alter only the
+state or appearance, but
+not composition, are physical
+changes.
+• The atoms or molecules that
+compose a substance do not
+change their identity during a
+physical change. • When water boils, it changes its
+state from a liquid to a gas.
+• The gas remains composed of
+water molecules, so this is
+a physical change.
+© 2015 Pearson Education, Inc.
+How much Energy needed to
+convert liquid water to water
+vapor?
+Chapter 10
+© 2015 Pearson Education, Inc.
+Chemical Changes in Matter
+What is a chemical change?
+• Changes that alter the
+composition of matter are
+chemical changes.
+• During a chemical change, atoms
+rearrange, transforming the
+original substances into different
+substances.
+• A rusting nail is a chemical change.
+• Rust occurs when the iron atoms
+exchange electrons with oxygen atoms—
+combining to form a NEW or different
+chemical substance.
+• Iron rust is the compound iron(III) oxide
+(Fe2O3).
+© 2015 Pearson Education, Inc.
+Chemical Reactions
+• Reactions involve chemical changes in matter resulting
+in new substances.
+• Reactions involve rearrangement and exchange of
+atoms to produce new molecules.
+• A chemical reaction is a written statement.
+– It states the quantities, the chemical identity of the
+substances in the reaction, and their physical state.
+– Example:
+ CH4(g) + O2(g) → CO2(g) + H2O(l)
+Reactants → Products
+Reactants → Products
+Writing and Balancing Chemical Reactions
+© 2015 Pearson Education, Inc.
+Chemical Equations
+Chemical equations:
+• Provide information about the reaction
+– Molecular or ionic formulas of reactants and products
+– States of reactants and products
+• Gas (g), liquid (l), solid (s), and aqueous (aq)
+– Relative numbers of reactant and product molecules
+that are required
+– Can be used to determine weights of reactants used
+and products that can be made
+Chemical Equations:
+Short hand for Describing a Chemical Reaction
+© 2015 Pearson Education, Inc.
+The Quantities in Chemical Reactions
+• The amount of every substance used and made in a chemical
+reaction is related to the amounts of all the other substances in the
+reaction.
+– Law of conservation of mass
+– Balancing equations by balancing atoms
+• The study of the numerical relationship between chemical quantities
+in a chemical reaction is called stoichiometry.
+© 2015 Pearson Education, Inc.
+Practice Problem: Balancing and Writing Chemical
+Equations
+Write a balanced equation for the reaction between solid
+cobalt (III) oxide and solid carbon to produce solid cobalt and
+carbon dioxide gas
+© 2015 Pearson Education, Inc.
+Practice Problem: Balancing and Writing Chemical
+Equations
+Write a balanced equation for the combustion of gaseous butane
+(C4H10) with gaseous oxygen to give carbon dioxide and gaseous
+water.
+© 2015 Pearson Education, Inc.
+Practice Problem: Balancing and Writing Chemical
+Equations
+Write a balanced equation for the reaction between aqueous
+strontium chloride and aqueous lithium phosphate to form solid
+strontium phosphate and aqueous lithium chloride
+© 2015 Pearson Education, Inc.
+Reaction Stoichiometry: What Is it about?
+• The coefficients in a chemical reaction specify the relative
+amounts in molecules and in moles of each of the
+substances involved in
+the reaction.
+2 C8H18(l) + 25 O2(g) → 16 CO2(g) + 18 H2O(g)
+• What the above BALANCED chemical equation says:
+2 molecules of C8H18 react with 25 molecules of O2 to form 16
+molecules of CO2 and 18 molecules of H2O.
+2 moles of C8H18 react with 25 moles of O2 to form 16 moles of CO2
+and 18 moles of H2O.
+2 mol C8H18 : 25 mol O2 : 16 mol CO2 : 18 mol H2O
+© 2015 Pearson Education, Inc.
+Cooking Stoichiometry: Making Pizza
+• The number of pizzas you can make depends on the
+amount of ingredients you use.
+This relationship can be expressed mathematically.
+1 crust : 5 oz. sauce : 2 cups cheese : 1 pizza
+• We can compare the amount of pizza that can be made
+from 10 cups of cheese:
+– Since 2 cups cheese : 1 pizza, then,
+1 crust + 5 oz. tomato sauce + 2 cups cheese → 1 pizza
+© 2015 Pearson Education, Inc.
+Mole-to-Mole Conversions
+• In the same way that the ratio was used from the pizza recipe
+example, the stoichiometric ratio acts as a conversion factor
+between the amount in moles of a reactant to moles of a product.
+– Reactant to product:
+• Stoichiometric ratio: 2 moles C8H18 : 16 moles CO2
+• Stoichiometric ratio can be between:
+– Reactant to reactant
+• Stoichiometric ratio: 2 moles C8H18 : 25 moles O2
+– Product to product:
+• Stoichiometric ratio: 16 moles CO2 : 18 moles H2O
+2 C8H18(l) + 25 O2(g) → 16 CO2(g) + 18 H2O(g)
+© 2015 Pearson Education, Inc.
+How Many Moles of CO2 Form If 22.0 Moles of
+C8H18 Are combusted (Burned)?
+© 2015 Pearson Education, Inc.
+Mole-to-Mass and Mass-to-Mass Conversions
+Stoichiometric ratios can be used as a conversion factor between the
+amount in grams (mass) of a reactant used to determine mass (grams)
+of a product made.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;In MO theory:
-    &lt;ul&gt;
-      &lt;li&gt;Applies Schrödinger’s wave equation to the molecule to calculate a set of &lt;em&gt;molecular orbitals&lt;/em&gt;
-        &lt;ul&gt;
-          &lt;li&gt;The equation solution is estimated.&lt;/li&gt;
-          &lt;li&gt;The estimated solution is evaluated and adjusted until the energy of the orbital is minimized.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In this treatment, the electrons belong to the whole
-molecule, so the orbitals belong to the whole molecule.
-    &lt;ul&gt;
-      &lt;li&gt;Delocalization&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;lcao-linear-combination-of-atomic-orbitals&quot;&gt;LCAO: Linear Combination of Atomic Orbitals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The simplest guess starts with the atomic orbitals of the atoms adding together to make molecular orbitals; this is called the &lt;em&gt;linear combination of atomic orbitals (LCAO)&lt;/em&gt; method.
-    &lt;ul&gt;
-      &lt;li&gt;Weighted sum&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Because the orbitals are wave functions, the waves can combine either &lt;em&gt;constructively&lt;/em&gt; or &lt;em&gt;destructively&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;molecular-orbitals&quot;&gt;Molecular Orbitals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;When the wave functions combine constructively, the resulting molecular orbital has less energy than the original atomic orbitals
-    &lt;ul&gt;
-      &lt;li&gt;Called a &lt;em&gt;bonding molecular orbital&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;Designated: σ, π&lt;/li&gt;
-      &lt;li&gt;Most of the electron density between the nuclei&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;When the wave functions combine destructively, the
-resulting molecular orbital has more energy than the
-original atomic orbital.
-    &lt;ul&gt;
-      &lt;li&gt;Called an antibonding molecular orbital&lt;/li&gt;
-      &lt;li&gt;Designated: σ&lt;em&gt;, π&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;Most of the electron density outside the nuclei&lt;/li&gt;
-      &lt;li&gt;Nodes between nuclei&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;interaction-of-1s-orbitals&quot;&gt;Interaction of 1s Orbitals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-29626.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;molecular-orbital-theory&quot;&gt;Molecular Orbital Theory&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Use Aufbau approach for MO’s (as we did for
-individual atoms)&lt;/li&gt;
-  &lt;li&gt;electrons go into lowest energy MO’s first&lt;/li&gt;
-  &lt;li&gt;pair up when they have to&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;molecular-orbital-theory-1&quot;&gt;Molecular Orbital Theory&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Electrons in bonding MOs are stabilizing.
-    &lt;ul&gt;
-      &lt;li&gt;Lower energy than the atomic orbitals&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Electrons in antibonding MOs are destabilizing.
-    &lt;ul&gt;
-      &lt;li&gt;Higher in energy than atomic orbitals&lt;/li&gt;
-      &lt;li&gt;Electron density located outside the internuclear axis&lt;/li&gt;
-      &lt;li&gt;Electrons in antibonding orbitals cancel stability gained by electrons in bonding orbitals.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;mo-and-properties&quot;&gt;MO and Properties&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Bond order = ½ (# Bonding Electrons – # Antibonding
-Electrons)&lt;/li&gt;
-  &lt;li&gt;Bond order = difference between number of electrons in bonding and antibonding orbitals
-    &lt;ul&gt;
-      &lt;li&gt;Only need to consider valence electrons&lt;/li&gt;
-      &lt;li&gt;May be a fraction&lt;/li&gt;
-      &lt;li&gt;Higher bond order = stronger and shorter bonds&lt;/li&gt;
-      &lt;li&gt;If bond order = 0, then the bond is unstable compared to individual atoms and no bond will form.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A substance will be paramagnetic if its MO diagram has unpaired electrons.
-    &lt;ul&gt;
-      &lt;li&gt;If all electrons are paired, it is diamagnetic.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-fe93a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Bond order = ½ (# Bonding Electrons – # Antibonding Electrons)&lt;/li&gt;
-  &lt;li&gt;Bond Order H2 = ½ (2 – 0) = 1&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;why-doesnt-the-molecule-he2-exist&quot;&gt;Why Doesn’t the Molecule He2 Exist?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-e029f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Bond order = ½ (# Bonding Electrons – # Antibonding Electrons)&lt;/li&gt;
-  &lt;li&gt;Bond Order He2 = ½ (2 – 2) =0&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;why-does-the-molecule-he2-exist&quot;&gt;Why Does the Molecule He2+ Exist?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-d88bd.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Bond order = ½ (# Bonding Electrons – # Antibonding Electrons)&lt;/li&gt;
-  &lt;li&gt;Bond Order He2+ = ½ (2 – 1) =1/2&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;summarizing-lcaomo-theory&quot;&gt;Summarizing LCAO–MO Theory&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Molecular orbitals (MOs) are a linear combination of atomic orbitals (AOs).
-    &lt;ul&gt;
-      &lt;li&gt;The total number of MOs formed from a particular set of AOs always equals the number of AOs in the set.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;When two AOs combine to form two MOs, one MO is lower in energy (the bonding MO) and the other is higher in energy (the antibonding MO).&lt;/li&gt;
-  &lt;li&gt;When assigning the electrons of a molecule to MOs, we fill the lowest energy MOs first with a maximum of two spin-paired electrons per orbital.&lt;/li&gt;
-  &lt;li&gt;When assigning electrons to two MOs of the same energy, Hund’s rule is followed to fill the orbitals singly first, with parallel spins, before pairing.&lt;/li&gt;
-  &lt;li&gt;The bond order in a diatomic molecule is the number of electrons in bonding MOs minus the number in antibonding MOs divided by two.
-    &lt;ul&gt;
-      &lt;li&gt;Stable bonds require a positive bond order (more electrons in bonding MOs than in antibonding MOs).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;MOs are named by type: σ, π, with a subscript to indicate what AOs they were formed from.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-on-bond-order-h2-&quot;&gt;Practice Problem on Bond Order H2-&lt;/h2&gt;
-
-&lt;h2 id=&quot;period-two-homonuclear-diatomic-molecules&quot;&gt;Period Two Homonuclear Diatomic Molecules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-4fec5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;interaction-of-p-orbitals&quot;&gt;Interaction of p Orbitals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-b7390.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-4b9fc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;molecular-orbital-energy-ordering&quot;&gt;Molecular Orbital Energy Ordering&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-fd509.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-on-molecular-orbital-theory-n2--ion-determine-the-electron-configuration-and-whether-the-ion-is-para-or-diamagnetic&quot;&gt;Practice Problem on Molecular Orbital Theory N2- ion. Determine the electron configuration, and whether the ion is para or diamagnetic&lt;/h2&gt;
-
-&lt;h2 id=&quot;molecular-orbital-energy-diagrams-for-secondperiod-p-block-homonuclear-diatomic-molecules&quot;&gt;Molecular Orbital Energy Diagrams for SecondPeriod-p-Block Homonuclear Diatomic Molecules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-1b505.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-32e24.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;heteronuclear-diatomic-molecules-and-ions&quot;&gt;Heteronuclear Diatomic Molecules and Ions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;When the combining atomic orbitals are identical and of equal energy, the contribution of each atomic orbital to the molecular orbital is equal.&lt;/li&gt;
-  &lt;li&gt;When the combining atomic orbitals are different types and energies, contributions to the MOs are different:&lt;/li&gt;
-  &lt;li&gt;The more electronegative an atom is, the lower in energy are its orbitals.&lt;/li&gt;
-  &lt;li&gt;Lower energy atomic orbitals contribute more to the bonding MOs.&lt;/li&gt;
-  &lt;li&gt;Higher energy atomic orbitals contribute more to the antibonding MOs.&lt;/li&gt;
-  &lt;li&gt;Nonbonding MOs remain localized on the atom donating its atomic orbitals.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;second-period-heteronuclear-diatomic-molecules&quot;&gt;Second-Period Heteronuclear Diatomic Molecules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-6c33b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-on-molecular-orbital-theory-cn-&quot;&gt;Practice Problem on Molecular Orbital Theory CN-&lt;/h2&gt;
-
-&lt;h2 id=&quot;mo-and-polyatomic-molecules&quot;&gt;MO and Polyatomic Molecules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;When many atoms are combined together, the atomic
-orbitals of all the atoms are combined to make a set of
-molecular orbitals, which are delocalized over the entire
-molecule.&lt;/li&gt;
-  &lt;li&gt;Gives results that better match real molecule properties than either Lewis or valence bond theories&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-63adc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-fb96c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-ce2bf.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;bonding-in-metals-and-semiconductors&quot;&gt;Bonding in Metals and Semiconductors&lt;/h2&gt;
-
-&lt;h2 id=&quot;bonding-in-metals-and-semiconductors-1&quot;&gt;Bonding in Metals and Semiconductors&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The simplest theory of metallic bonding involves the metal atoms releasing their valence electrons to be shared as a pool by all the atoms/ ions in the metal.
-    &lt;ul&gt;
-      &lt;li&gt;An organization of metal cation islands in a sea of electrons&lt;/li&gt;
-      &lt;li&gt;Electrons delocalized throughout the metal structure&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Bonding results from attraction of cation for the delocalized electrons.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-2323c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-47239.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;semiconductors-and-band-theory&quot;&gt;Semiconductors and Band Theory&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Band Theory:&lt;/li&gt;
-  &lt;li&gt;Electrons become mobile when they make a transition from the highest occupied molecular orbital into higher energy empty molecular orbitals.&lt;/li&gt;
-  &lt;li&gt;These occupied molecular orbitals are referred to as the valence band.&lt;/li&gt;
-  &lt;li&gt;The unoccupied orbitals the conduction band.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-628e3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-48d05.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-c961e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+&lt;p&gt;• Strategy: A is reactant and B is the product.
+Mass of A → Moles of A → Stoichiometric ratio B : A → Moles B → Mass B
+mass A × (1 mole A/mol.mass A) × (mole B/mole A) × (mol.mass B/1 mol B)
+© 2015 Pearson Education, Inc.
+Mole-to-Mass and Mass-to-Mass Conversions
+Problem:
+Determine the mass (grams) of CO2 produced when 3.6 × 1015 grams of
+C8H18 is burned in excess oxygen gas.
+Strategy:
+• Need a balanced reaction
+• From the balance reaction, use the stoichiometric relationship between
+C8H18 and CO2.
+Mass of C8H18 → Moles of C8H18 → Stoichiometric ratio 2 C8H18 : 16 CO2
+→ Moles of CO2 → Mass of CO2
+2 C8H18(l) + 25 O2(g) → 16 CO2(g) + 18 H2O(g)
+© 2015 Pearson Education, Inc.
+Problem:
+Determine the mass (grams) of CO2 produced when 3.6 ×
+1015 grams of C8H18 is burned in excess oxygen gas.
+2 C8H18(l) + 25 O2(g) → 16 CO2(g) + 18 H2O(g)
+© 2015 Pearson Education, Inc.
+Practice Problem: Stoichiometry
+plants produce glucose (C6H12O6) from CO2 and water.
+How much glucose can a plant produce from 37.8 g CO2
+© 2015 Pearson Education, Inc.
+Limiting Reactant, Theoretical Yield
+Back to the pizza recipe:
+1 crust + 5 oz. tomato sauce + 2 cups cheese → 1 pizza
+Suppose you have 4 crusts, 10 cups of cheese, and 15 oz. tomato sauce.
+How many pizzas can you make?
+Strategy:
+We have enough crusts to make
+We have enough cheese to make
+We have enough tomato sauce to make
+© 2015 Pearson Education, Inc.
+Limiting Reactant: Pizza Problem Continued
+• We have enough crusts for 4 pizzas, enough cheese for 5 pizzas,
+but ONLY enough tomato sauce for 3 pizzas.
+– Therefore, only 3 pizzas can be made.
+– The tomato sauce limits how many pizzas can be made.
+© 2015 Pearson Education, Inc.
+Limiting Reactant and Theoretical Yield
+Connection
+• In the pizza analogy, the tomato sauce is the limiting reactant, the
+reactant that makes the least amount of product.
+• The limiting reactant is also known as the limiting reagent.
+• The maximum number of pizzas that can be made depends on this
+ingredient, the tomato sauce.
+– In chemical reactions, this is called the theoretical yield.
+• Theoretical yield is the amount of product that can be made in a
+chemical reaction based on the amount of limiting reactant.
+– Example:
+• The ingredient that makes the least amount of pizza
+determines how many pizzas you can make (theoretical
+yield).
+© 2015 Pearson Education, Inc.
+More Making Pizzas
+• Assume that while making pizzas, a pizza is burnt or
+dropped on the floor and only two pizzas are available
+to eat.
+• The actual amount of product made in a chemical reaction
+is called the actual yield.
+• Actual yield is about efficiency.
+– To determine your efficiency in making pizzas, a percentage value
+can be calculated.
+– In chemical reactions, this is called a percent yield.
+© 2015 Pearson Education, Inc.
+Summarizing Limiting Reactant and Theoretical Yield
+• The limiting reactant (or limiting reagent) is the reactant that is
+completely consumed in a chemical reaction and limits the amount of
+product.
+• The reactant in excess is any reactant that occurs in a quantity
+greater than is required to completely react with the limiting reactant.
+• The theoretical yield is the amount of product that can be made in a
+chemical reaction based on the amount of limiting reactant.
+• The actual yield is the amount of product actually produced by a
+chemical reaction.
+• The percent yield is calculated as:
+(actual yield /theoretical yield) × 100 = percent yield%
+© 2015 Pearson Education, Inc.
+Chemical Reaction
+• In reactions with multiple reactants, it is likely that one of the
+reactants will be completely used before the others.
+– When this reactant is used up, the reaction stops and no more
+product is made.
+• The reactant that limits the amount of product is called the limiting
+reactant.
+– It is sometimes called the limiting reagent.
+– The limiting reactant gets completely consumed.
+• Reactants not completely consumed are called excess reactants.
+– The reactant in excess is any reactant that occurs in a quantity
+greater than is required to completely react with the limiting
+reactant.
+• The amount of product that can be made from the limiting reactant
+is called the theoretical yield.
+© 2015 Pearson Education, Inc.
+Practice Problem: Stoichiometry—Limiting Reactant and
+Theoretical Yield
+Ammonia, NH3, can be synthesized by
+2NO(g) + 3H2(g) è 2NH3(g) + 2H2O(g)
+Starting with 86.3 g NO and 25.6 g H2, find the theoretical
+yield of NH3
+© 2015 Pearson Education, Inc.
+Answer: B
+What is the percent yield of C2H2 if 62.80 g of water
+yields 15.38 g of C2H2 using the following equation.
+CaC2(s) + 2 H2O(l) → Ca(OH)2(aq)
+ + C2H2(g)
+A) 13.84%
+B) 33.90%
+C) 91.47%
+D) 48.10%
+E) 68.52%
+© 2015 Pearson Education, Inc.
+Practice Problem: Stoichiometry—Limiting Reactant and
+Theoretical Yield
+Titanium metal is made by:
+TiO2(s) + 2 C(s) è Ti(s) + 2CO(g)
+when 28.6 kg of C reacts with 88.2 kg of TiO2, 42.8 kg of
+Ti is produced. Find the limiting reactant and the % yield
+© 2015 Pearson Education, Inc.
+Combustion: A Type of Chemical Reaction
+• A combustion reaction involves the reaction of a
+substance with O2 to form one or more oxygen
+containing compounds.
+• Other products of a combustion reaction:
+– Water(H2O) and Heat(energy)
+• Example: Combustion of methane
+CH4(g) + 2 O2(g) → CO2(g) + 2 H2O(g) + Heat
+© 2015 Pearson Education, Inc.
+Practice Problem: Combustion Reaction
+How many grams of products are formed during the
+combustion of 100. g of ethanol? (and how much oxygen
+is consumed?
+© 2015 Pearson Education, Inc.
+Overview of Alkali Metals:
+• The alkali metals (group 1A) have ns1 outer electron configurations.
+– Form +1 cation to “achieve” noble gas configuration.
+• The reactions of the alkali metals with nonmetals are vigorous.
+• Common reaction for alkali metals (M) is with halogens (X)
+ 2 M + X2 → 2 MX
+– Example: 2 Na(s) + Cl2(g) → 2 NaCl(s)
+• The alkali metals react vigorously with water to form the dissolved alkali metal
+ion, the hydroxide ion, and hydrogen gas:
+ 2 M(s) + 2 H2O(l) → 2 M+(aq) + 2 OH–(aq) + H2(g)
+– The reaction is highly exothermic and can be explosive because the heat
+from the reaction can ignite the hydrogen gas.
+Alkali Metal Reaction: A Type of Chemical Reaction
+© 2015 Pearson Education, Inc.
+Halogen Overview:
+• Group 7 elements that have ns2np5 outer electron configurations:
+– Mostly form –1 anions (F only forms –1 anion) to achieve the “noble gas
+configuration”
+– Most reactive of the nonmetal elements
+• The halogens (X) tend to react with metals especially with Group 1 and 2A
+metals to form ionic compounds such as metal halides (MXn).
+ 2 M + n X2 → 2 MXn
+– Example: 2 Fe(s) + 3 Cl2(g) → 2 FeCl3(s)
+• The halogens react with hydrogen to form hydrogen halides.
+ H2( g) + X2 → 2 HX(g)
+Halogen Reaction: A Type of Chemical Reaction&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Oct 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/10/10/remainder-of-ch-7.html</link>
@@ -2522,760 +3274,6 @@ opposite the previous lone pair.&lt;/li&gt;
         <pubDate>Sun, 02 Oct 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/10/02/test-2-prep.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/02/test-2-prep.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 7 - Day 3 (Ch 6 - pt 2)</title>
-        <description>
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-7-day-3.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;Udy4_F5rpNY&quot;});
-&lt;/script&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2l40gx&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Left off on formal charge&lt;/li&gt;
-  &lt;li&gt;Test 2 next Wednesday
-    &lt;ul&gt;
-      &lt;li&gt;Chapters 4 - 6
-        &lt;ul&gt;
-          &lt;li&gt;Just where we left off&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Same rules as last time
-        &lt;ul&gt;
-          &lt;li&gt;Bring photo id&lt;/li&gt;
-          &lt;li&gt;bring pencil&lt;/li&gt;
-          &lt;li&gt;non-programmable calculator&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-3b922.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;ch-6-continued-pt-2&quot;&gt;Ch 6 continued (pt 2)&lt;/h1&gt;
-
-&lt;h2 id=&quot;example-formal-charge-so2&quot;&gt;Example: Formal Charge, SO2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:06:38.049121&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-c0d17.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Formal charges: located on “appropriate atoms”&lt;/li&gt;
-      &lt;li&gt;Audio 0:10:37.025317&lt;/li&gt;
-      &lt;li&gt;Per atom, to calculate formal charge, you take the valence electrons minus the electrons on it minus the number of pairs on it.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-assigning-formal-charges&quot;&gt;Practice Problem Assigning Formal Charges&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:12:40.335303&lt;/li&gt;
-  &lt;li&gt;OCN-&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-59e5e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;rules-of-resonance-structures&quot;&gt;Rules of Resonance Structures&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:19:11.165662&lt;/li&gt;
-  &lt;li&gt;Resonance structures must have the same connectivity.
-    &lt;ul&gt;
-      &lt;li&gt;Only electron positions can change.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Resonance structures must have the same number of electrons.&lt;/li&gt;
-  &lt;li&gt;Second row elements have a maximum of eight electrons.
-    &lt;ul&gt;
-      &lt;li&gt;Bonding and nonbonding&lt;/li&gt;
-      &lt;li&gt;Third row can have expanded octet&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Formal charges must total the same.
-    &lt;ul&gt;
-      &lt;li&gt;Better structures have fewer formal charges.&lt;/li&gt;
-      &lt;li&gt;Better structures have smaller formal charges.&lt;/li&gt;
-      &lt;li&gt;Better structures have the negative formal charge on the more electronegative atom.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;expanded-octets-odd-electron-and-other-species-the-exceptions-to-the-octet-rule&quot;&gt;Expanded Octets, Odd-Electron, and Other Species: The Exceptions to the Octet “Rule”&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:21:06.805441&lt;/li&gt;
-  &lt;li&gt;The exceptions:&lt;/li&gt;
-  &lt;li&gt;Expanded octets:
-    &lt;ul&gt;
-      &lt;li&gt;Molecules or ions with more than eight electrons around an atom&lt;/li&gt;
-      &lt;li&gt;Involve the nonmetal elements located in the 3rd period
-and below&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Nonmetals (3rd period down in the periodic table) follow the
-octet rule when they are not the “center” atom.
-    &lt;ul&gt;
-      &lt;li&gt;The center atom is the atom in the molecule where the
-other elements individually bond to (attach).&lt;/li&gt;
-      &lt;li&gt;When they are the center atom, they can accommodate more than eight electrons.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Using empty valence d orbitals that are predicted by
-quantum theory&lt;/li&gt;
-  &lt;li&gt;Odd-electron species (free radicals or radicals):&lt;/li&gt;
-  &lt;li&gt;Molecules or ions with an odd number of electrons
-    &lt;ul&gt;
-      &lt;li&gt;Legitimate Lewis structures cannot be written for they do not meet the “octet rule” as required by the Lewis model.&lt;/li&gt;
-      &lt;li&gt;Example: NO
-        &lt;ul&gt;
-          &lt;li&gt;Has 11 valence electrons&lt;/li&gt;
-          &lt;li&gt;Distribution of 11 electrons cannot meet the criteria under the Lewis model.&lt;/li&gt;
-          &lt;li&gt;NO does exist as a molecule.
-            &lt;ul&gt;
-              &lt;li&gt;The Lewis model is not sophisticated enough to work for an odd number of electron compounds.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:22:20.060270&lt;/li&gt;
-  &lt;li&gt;Incomplete octets:
-    &lt;ul&gt;
-      &lt;li&gt;Elements (specifically metalloids and H atom) whose tendency is not to have a complete octet
-        &lt;ul&gt;
-          &lt;li&gt;H can only accompany two electrons (duet).&lt;/li&gt;
-          &lt;li&gt;Boron (metalloid)
-            &lt;ul&gt;
-              &lt;li&gt;Prefer 6 electrons than 8 electrons&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-94170.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What is the formal charge on the sulfur for best structure for the sulfate anion, SO4^2-?
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:27:21.796062&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-ef25e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;Most people said plus 2, but the answer is actually 0&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;bond-energies&quot;&gt;Bond Energies&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:36.686918&lt;/li&gt;
-  &lt;li&gt;Chemical reactions involve breaking bonds in
-reactant molecules and making new bonds to
-create the products.&lt;/li&gt;
-  &lt;li&gt;The change in energy for a reaction can be
-estimated by comparing the cost of breaking old
-bonds to the energy released from making new
-bonds.&lt;/li&gt;
-  &lt;li&gt;The amount of energy, in the gaseous state, that it
-takes to break one mole of a bond in a compound is called the bond energy.&lt;/li&gt;
-  &lt;li&gt;Audio 0:34:03.982413&lt;/li&gt;
-  &lt;li&gt;The energy change required to break a particular bond in one mole of gaseous molecules is the bond energy&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-02de3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;trends-in-bond-energies&quot;&gt;Trends in Bond Energies&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:36:20.771621&lt;/li&gt;
-  &lt;li&gt;In general, the more electrons two atoms share, the
-stronger the covalent bond.
-    &lt;ul&gt;
-      &lt;li&gt;For comparison of bonds between like atoms&lt;/li&gt;
-      &lt;li&gt;C≡C (837 kJ) &amp;gt; C═C (611 kJ) &amp;gt; C—C (347 kJ)&lt;/li&gt;
-      &lt;li&gt;C≡N (891 kJ) &amp;gt; C ═ N (615 kJ) &amp;gt; C—N (305 kJ)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In general, the shorter the covalent bond, the stronger
-the bond.
-    &lt;ul&gt;
-      &lt;li&gt;For comparison of bonds between like atoms&lt;/li&gt;
-      &lt;li&gt;Br—F (237 kJ) &amp;gt; Br—Cl (218 kJ) &amp;gt; Br—Br (193 kJ)&lt;/li&gt;
-      &lt;li&gt;Bonds get weaker down the column.&lt;/li&gt;
-      &lt;li&gt;Bonds get stronger across the period.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;average-bond-energies&quot;&gt;Average Bond Energies&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-537b9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;covalent-bonding-model-versus-reality-for-bond-strength&quot;&gt;Covalent Bonding: Model versus Reality for Bond Strength&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:39:20.498710&lt;/li&gt;
-  &lt;li&gt;Lewis theory predicts that the more electrons two atoms
-share, the stronger the bond.
-    &lt;ul&gt;
-      &lt;li&gt;Single bond &amp;lt; Double bond &amp;lt; Triple bond&lt;/li&gt;
-      &lt;li&gt;Lewis theory would predict that double bonds are twice as strong as single bonds, but the reality is they are less than twice as strong.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Bond strength&lt;/em&gt; is measured by how much energy must be
-added into the bond to break it in half.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;covalent-bonding-model-versus-reality-for-bond-length&quot;&gt;Covalent Bonding: Model versus Reality for Bond Length&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:40:57.263317&lt;/li&gt;
-  &lt;li&gt;Lewis theory predicts that the more electrons two atoms share, the shorter the bond should be.
-    &lt;ul&gt;
-      &lt;li&gt;When comparing bonds to like atoms&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Bond length is determined by measuring the distance between the nuclei of bonded atoms.&lt;/li&gt;
-  &lt;li&gt;In general, triple bonds are shorter than double bonds, and double bonds are shorter than single bonds.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-e6a78.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;bond-lengths&quot;&gt;Bond Lengths&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:42:20.387950&lt;/li&gt;
-  &lt;li&gt;The distance between the nuclei of bonded atoms is
-called the bond length.&lt;/li&gt;
-  &lt;li&gt;Because the actual bond length depends on the other
-atoms around the bond, we often use the average
-bond length.
-    &lt;ul&gt;
-      &lt;li&gt;Averaged for similar bonds from many compounds&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-30-week-7-day-3-9dd7b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;bond energy&lt;/td&gt;
-      &lt;td&gt;the amount of energy, in the gaseous state, that it takes to break one mole of a bond in a compound&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;bond strength&lt;/td&gt;
-      &lt;td&gt;measured by how much energy must be added into the bond to break it in half&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;bond length&lt;/td&gt;
-      &lt;td&gt;determined by measuring the distance between the nuclei of bonded atoms&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;as bonds get longer they get _&lt;/td&gt;
-      &lt;td&gt;weaker&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;bonds get _ down a column and _ across a period&lt;/td&gt;
-      &lt;td&gt;weaker / stronger&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Fri, 30 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/09/30/week-7-day-3.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/30/week-7-day-3.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 7 - Day 2</title>
-        <description>
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-7-day-2.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;2uPgaNgRUms&quot;});
-&lt;/script&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2l4077&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;No recitation tonight&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;ch-6---lecture-1-chemical-bonding-i&quot;&gt;Ch 6 - Lecture 1 (Chemical Bonding I)&lt;/h1&gt;
-
-&lt;h2 id=&quot;covalent-bonding-model-vs-reality&quot;&gt;Covalent Bonding Model vs. Reality&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:01:17.116824&lt;/li&gt;
-  &lt;li&gt;molecular compounds have low melting points and boiling
-points
-    &lt;ul&gt;
-      &lt;li&gt;MP generally &amp;lt; 300°C&lt;/li&gt;
-      &lt;li&gt;molecular compounds are found in all 3 states at room
-temperature&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;melting and boiling involve breaking the attractions
-between the molecules, but not the bonds between the
-atoms
-    &lt;ul&gt;
-      &lt;li&gt;the covalent bonds are strong&lt;/li&gt;
-      &lt;li&gt;the attractions between the molecules are generally weak&lt;/li&gt;
-      &lt;li&gt;the polarity of the covalent bonds influences the strength of the intermolecular attractions&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;intermolecular-attractions-vs-bonding&quot;&gt;Intermolecular Attractions vs. Bonding&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-a1912.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;covalent-bonding-model-vs-reality-1&quot;&gt;Covalent Bonding Model vs. Reality&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:03:16.295803&lt;/li&gt;
-  &lt;li&gt;some molecular solids are brittle and hard, but many are soft and waxy&lt;/li&gt;
-  &lt;li&gt;the kind and strength of the intermolecular
-attractions varies based on many factors&lt;/li&gt;
-  &lt;li&gt;the covalent bonds are not broken
-molecular compounds do not conduct electricity in the
-liquid state&lt;/li&gt;
-  &lt;li&gt;molecular acids conduct electricity when dissolved in
-water, but not in the solid state&lt;/li&gt;
-  &lt;li&gt;in molecular solids, there are no charged particles around
-to allow the material to conduct&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;when dissolved in water, molecular acids are ionized, and have the ability to move through the structure and
-therefore conduct electricity&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:04:17.779258&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-540ad.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;polar-covalent-bonding&quot;&gt;Polar Covalent Bonding&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:05:06.884522&lt;/li&gt;
-  &lt;li&gt;Covalent bonding between unlike atoms results in unequal sharing of the electrons.
-    &lt;ul&gt;
-      &lt;li&gt;One atom pulls the electrons in the bond closer to
-its side.&lt;/li&gt;
-      &lt;li&gt;One end of the bond has larger electron density than
-the other.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The result is a polar covalent bond.
-    &lt;ul&gt;
-      &lt;li&gt;Bond polarity&lt;/li&gt;
-      &lt;li&gt;The end with the larger electron density gets a partial
-negative charge.&lt;/li&gt;
-      &lt;li&gt;The end that is electron deficient gets a partial positive charge.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electronegativity-en&quot;&gt;Electronegativity (EN)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:06:39.736104&lt;/li&gt;
-  &lt;li&gt;A measure of an elements ability to pull electrons toward it&lt;/li&gt;
-  &lt;li&gt;An empirical scale drawn from measured properties of many
-molecules&lt;/li&gt;
-  &lt;li&gt;provides “rule of thumb” to predict molecular properties&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electronegativity&quot;&gt;Electronegativity&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:07:30.692317&lt;/li&gt;
-  &lt;li&gt;The ability of an atom to attract bonding electrons to itself is called &lt;em&gt;electronegativity&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;An empirical scale drawn from measured properties of many molecules&lt;/li&gt;
-  &lt;li&gt;provides “rule of thumb” to predict molecular properties&lt;/li&gt;
-  &lt;li&gt;The larger the difference in electronegativity, the more polar the bond.
-    &lt;ul&gt;
-      &lt;li&gt;Negative end toward more electronegative atom&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:07:45.217060&lt;/li&gt;
-  &lt;li&gt;Scale defined so Fluorine is the most electronegative,
-Francium the least&lt;/li&gt;
-  &lt;li&gt;Increases across a period (left to right) and decreases
-down a group (top to bottom)
-    &lt;ul&gt;
-      &lt;li&gt;Noble gas atoms are not assigned EN values.&lt;/li&gt;
-      &lt;li&gt;Opposite of atomic size trend&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-6c0e6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;Audio 0:09:56.193372&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-b7aeb.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electronegativity-example&quot;&gt;Electronegativity Example&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:11:11.916765&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-0419e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;bond-dipole-moments&quot;&gt;Bond Dipole Moments&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:11:29.357496&lt;/li&gt;
-  &lt;li&gt;Dipole moment, µ, is a measure of bond polarity.
-    &lt;ul&gt;
-      &lt;li&gt;A dipole is a material with a + and − end.&lt;/li&gt;
-      &lt;li&gt;It is directly proportional to the size of the partial charges (q) and directly proportional to the distance (r) between them.
-        &lt;ul&gt;
-          &lt;li&gt;µ (dipole moment) = (q)(r)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Measured in Debyes, D&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Generally, the more electrons two atoms share and the larger the atoms are, the larger the dipole moment.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-7f268.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electronegativity-difference-and-bond-type&quot;&gt;Electronegativity Difference and Bond Type&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:13:12.370573&lt;/li&gt;
-  &lt;li&gt;If the difference in electronegativity between bonded
-atoms is 0, the bond is pure covalent.
-    &lt;ul&gt;
-      &lt;li&gt;Equal sharing of the atoms in the bond&lt;/li&gt;
-      &lt;li&gt;If the difference in electronegativity between bonded atoms is 0.1 to 0.4, the bond is nonpolar covalent.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;If the difference in electronegativity between bonded
-atoms is 0.5 to 1.9, the bond is polar covalent.
-    &lt;ul&gt;
-      &lt;li&gt;Unequal sharing of electrons between the atoms in
-the bond&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;If the difference in electronegativity between bonded
-atoms is larger than or equal to 2.0, the bond is ionic.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;percent-ionic-character&quot;&gt;Percent Ionic Character&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:15:43.076694&lt;/li&gt;
-  &lt;li&gt;The percent ionic character is the percentage of a bond’s measured dipole moment compared to what it would be if the electrons were completely transferred.&lt;/li&gt;
-  &lt;li&gt;The percent ionic character indicates the degree to which the electron is transferred.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-419d5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;molecular-structure-i-octet-rule&quot;&gt;Molecular Structure I: Octet Rule&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:16:44.675983&lt;/li&gt;
-  &lt;li&gt;Generally eight electrons in valence shell&lt;/li&gt;
-  &lt;li&gt;exceptions for H, Li, (2 electrons) and Be
-and B (only 2 and 3 electrons)&lt;/li&gt;
-  &lt;li&gt;“Octet Expansion”: S, P, etc where can
-have more than 8 electrons when central
-atom&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;writing-lewis-structures-for-molecular-compounds&quot;&gt;Writing Lewis Structures for Molecular Compounds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:17:58.111765&lt;/li&gt;
-  &lt;li&gt;Write the correct skeletal structure for the molecule.
-    &lt;ul&gt;
-      &lt;li&gt;The less electronegative atom in the molecule is usually the center atom.
-        &lt;ul&gt;
-          &lt;li&gt;Simple molecules have a “center” atom to which all of the other atoms in the molecules are attached (bonded) to.
-            &lt;ul&gt;
-              &lt;li&gt;For example, for CO2, the center atom is C, so both O atoms are attached to the carbon atom.
-                &lt;ul&gt;
-                  &lt;li&gt;Audio 0:18:55.177204&lt;/li&gt;
-                  &lt;li&gt;O–C–O&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;The more electronegative atoms are usually terminal (attached to the center atom).
-        &lt;ul&gt;
-          &lt;li&gt;Hydrogen atoms are always in the terminal position.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Determine the total number of valence electrons each atom brings to form the
-molecule.
-    &lt;ul&gt;
-      &lt;li&gt;Examples:
-        &lt;ul&gt;
-          &lt;li&gt;For the molecule H–Br: H atom brings 1 electron and Br atoms brings 7 electrons for a total 8 electrons&lt;/li&gt;
-          &lt;li&gt;In polyatomic ions, the charge on the ion also must be accounted. For the polyatomic ion NO2 –, a total of 18 electrons are brought in: 5 electrons from N, total 12 from O (2 oxygen atoms × 2), and 2 from the 2+ charge.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;writing-lewis-structures-for-molecular-compounds-1&quot;&gt;Writing Lewis Structures for Molecular Compounds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:20:36.268038&lt;/li&gt;
-  &lt;li&gt;Distribute the electrons among the atoms in the molecule giving octets (or duets in the case of hydrogen) to as many atoms as possible.
-    &lt;ul&gt;
-      &lt;li&gt;The best practice is to place two electrons around an atom at a time.
-        &lt;ul&gt;
-          &lt;li&gt;Bonding pairs: electrons between two atoms&lt;/li&gt;
-          &lt;li&gt;Nonbonding or lone pairs: electrons not participating in bonding but complete the atom’s “octet”&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;The total number of electrons brought in must be accounted for in the Lewis structure and must not violate any criteria (i.e., H atoms can only have single bonds or two electrons total).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;If any atoms lack an octet, form double or triple bonds as necessary to give
-them octets.
-    &lt;ul&gt;
-      &lt;li&gt;Atoms that can multiple bond with each other or to themselves are as follows:
-        &lt;ul&gt;
-          &lt;li&gt;Double bond (4 electrons or two pairs of electrons between atoms): C, O, N, S, &amp;amp; P&lt;/li&gt;
-          &lt;li&gt;Triple bond (6 electrons or three pairs of electrons between atoms): C,O, N, &amp;amp; S&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-writing-lewis-structures-for-polyatomic-ions&quot;&gt;Practice Problem Writing Lewis Structures for Polyatomic Ions&lt;/h2&gt;
-
-&lt;p&gt;NH4+&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:23:57.666020&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-94b06.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O3&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-8b4db.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;resonance-and-formal-charges&quot;&gt;Resonance and Formal Charges&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:31:22.898676&lt;/li&gt;
-  &lt;li&gt;Two additional concepts to write the best
-possible Lewis structures for a large number
-of compounds&lt;/li&gt;
-  &lt;li&gt;The concepts are:
-    &lt;ul&gt;
-      &lt;li&gt;Resonance, used when two or more valid Lewis structures can be drawn for the same compound&lt;/li&gt;
-      &lt;li&gt;Formal charge, an electron bookkeeping system that allows us to discriminate between alternative Lewis structures&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;resonance&quot;&gt;Resonance&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:45.308690&lt;/li&gt;
-  &lt;li&gt;Lewis theory localizes the electrons between the atoms that are bonding
-together.&lt;/li&gt;
-  &lt;li&gt;Extensions of Lewis theory suggest that there is some degree of
-delocalization of the electrons; the concept is called resonance.
-    &lt;ul&gt;
-      &lt;li&gt;Delocalization of charge helps to stabilize the molecule.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;When there is more than one Lewis structure for a molecule that differ only in the position of the electrons, they are called resonance structures.
-    &lt;ul&gt;
-      &lt;li&gt;The actual molecule is a combination of the resonance forms—a resonance hybrid.&lt;/li&gt;
-      &lt;li&gt;The molecule does not resonate between the two forms, though we often draw it that way.
-        &lt;ul&gt;
-          &lt;li&gt;Example: O3 molecule&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-41ac8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-9d45a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Resonance hybrid: Just as the offspring of two different dog breeds is a hybrid that is intermediate between the two breeds (a), the structure of a resonance hybrid is intermediate between that of the contributing resonance structures (b).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ex&quot;&gt;Ex&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:38:19.039491&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-bc865.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker&quot;&gt;Clicker&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:38:59.721909&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-b3ab7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Draw the Lewis structure for CO3^2- including any valid resonance structures.
-    &lt;ul&gt;
-      &lt;li&gt;two single bonds and one double bond&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;formal-charge&quot;&gt;Formal Charge&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:42:50.124155&lt;/li&gt;
-  &lt;li&gt;Are all Resonance Structures equally good?
-    &lt;ul&gt;
-      &lt;li&gt;NO&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;so how do we decide which to give more weight?&lt;/li&gt;
-  &lt;li&gt;Audio 0:43:41.519126&lt;/li&gt;
-  &lt;li&gt;charge an atom would have if all bonding electrons are shared equally between the bonded atoms.
-{(# of valence electrons) + (# of nonbonding electrons)- (1/2 × # of bonding electrons)}
-    &lt;ol&gt;
-      &lt;li&gt;The sum of all formal charges in a neutral molecule must be zero.&lt;/li&gt;
-      &lt;li&gt;The sum of all formal charges in an ion must equal the charge of the ion.&lt;/li&gt;
-      &lt;li&gt;Small (or zero) formal charges on individual atoms are better than large ones.&lt;/li&gt;
-      &lt;li&gt;When formal charge cannot be avoided, negative formal charge should reside on the most electronegative atom.&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:44:42.818811&lt;/li&gt;
-  &lt;li&gt;Example: The molecule HF has 0 (zero) formal charge.
-    &lt;ul&gt;
-      &lt;li&gt;The formal charge on H atom: Formal charge = 1 − [0 + ½ (2)] = 0&lt;/li&gt;
-      &lt;li&gt;The formal charge on F atom: Formal charge = 7 − [6 + ½ (2)] = 0&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-09-28-week-7-day-2-b79d6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;empirical formula&lt;/td&gt;
-      &lt;td&gt;simplest whole-number ratio of the atoms of elements in a compound&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;molecular compounds have _ melting points and boiling points&lt;/td&gt;
-      &lt;td&gt;low&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;polar covalent bond&lt;/td&gt;
-      &lt;td&gt;results from covalent bonding between unlike atoms results in unequal sharing of the electrons&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;electronegativity&lt;/td&gt;
-      &lt;td&gt;the ability of an atom to attract bonding electrons to itself&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;electronegativity _ across a period&lt;/td&gt;
-      &lt;td&gt;increases left to right&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;electronegativity _ down a group&lt;/td&gt;
-      &lt;td&gt;decreases&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;dipole moment (µ)&lt;/td&gt;
-      &lt;td&gt;measure of bond polarity (= q * r)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;pure covalent&lt;/td&gt;
-      &lt;td&gt;the bond is this when the difference in electronegativity between bonded atoms is 0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;nonpolar covalent&lt;/td&gt;
-      &lt;td&gt;if the difference in electronegativity between bonded atoms is 0.1 to 0.4, the bond is&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;percent ionic character&lt;/td&gt;
-      &lt;td&gt;the percentage of a bond’s measured dipole moment compared to what it would be if the electrons were completely transferred&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;resonance&lt;/td&gt;
-      &lt;td&gt;when two or more valid Lewis structures can be drawn for the same compound&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;formal charge&lt;/td&gt;
-      &lt;td&gt;an electron bookkeeping system that allows us to discriminate between alternative Lewis structures&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;resonance structures&lt;/td&gt;
-      &lt;td&gt;when there is more than one Lewis structure for a molecule that differ only in the position of the electrons&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;formal charge&lt;/td&gt;
-      &lt;td&gt;charge an atom would have if all bonding electrons are shared equally between the bonded atoms&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Wed, 28 Sep 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/09/28/week-7-day-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/09/28/week-7-day-2.html</guid>
         
         
       </item>
