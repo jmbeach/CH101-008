@@ -3,9 +3,8 @@ layout: post
 title: Test 3 Recitation 1
 ---
 
-# Answers in here aren't correct yet. Check back later
-
 + Consider the molecule below. Determine the molecular geometry at each of the 3 labeled atoms.
+  + ![](../../../assets/2016-10-15-test-3-recitation-1-55f8d.png)
   + <input name="1" type="radio" value="a"/> 1 = trigonal planar, 2 = tetrahedral, 3 = trigonal pyramidal
   + <input name="1" type="radio" value="b"/> l = tetrahedral, 2 = tetrahedral, 3 =tetrahedral
   + <input name="1" type="radio" value="c"/> 1 = trigonal planar, 2 = tetrahedral, 3 = tetrahedral
@@ -61,7 +60,7 @@ title: Test 3 Recitation 1
   + <input name="8" type="radio" value="d"/> 8 sigma, 1 pi
 
 <script>
-var answers = ["d", "e", "b", "e", "a", "c", "c", "a", "d", "d", "a", "c"];
+var answers = ["a", "b", "a", "c", "a", "c", "a", "d"];
 function getAnswer(number) {
   return $("input[name*="+number+"]:checked").val()
 }
