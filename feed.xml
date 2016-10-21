@@ -6,13 +6,29 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Oct 2016 15:29:18 -0500</pubDate>
-    <lastBuildDate>Fri, 21 Oct 2016 15:29:18 -0500</lastBuildDate>
+    <pubDate>Fri, 21 Oct 2016 15:59:26 -0500</pubDate>
+    <lastBuildDate>Fri, 21 Oct 2016 15:59:26 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Week 10 - Day 3</title>
-        <description>&lt;h1 id=&quot;review-of-clicker-question&quot;&gt;Review of Clicker Question&lt;/h1&gt;
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-10-day-3.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:1em;right:1em; background:black;padding:.5em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;oHUamCIMHbg&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;review-of-clicker-question&quot;&gt;Review of Clicker Question&lt;/h1&gt;
 
 &lt;h2 id=&quot;what-is-the-percent-yield-of-c2h2-if-6280-g-of-water-yields-1538-g-of-c2h2-using-the-following-equation&quot;&gt;What is the percent yield of C2H2 if 62.80 g of water yields 15.38 g of C2H2 using the following equation.&lt;/h2&gt;
 
