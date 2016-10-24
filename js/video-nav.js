@@ -15,6 +15,16 @@ function onYouTubeIframeAPIReady() {
 
 function AudioNavigator(opts) {
   var self = this;
+  var btnHide = $("#hide-player");
+  var btnShow = $("#show-player");
+  btnHide.click(function() {
+    btnHide.parent().toggle()
+    btnShow.parent().toggle();
+  });
+  btnShow.click(function() {
+    btnHide.parent().toggle()
+    btnShow.parent().toggle();
+  });
   self.videoId = opts.videoId;
   self.player = null;
   $.AudioNavigator = this;

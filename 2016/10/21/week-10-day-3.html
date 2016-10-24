@@ -95,9 +95,13 @@
 </a>
 </p>
 
-<div style="position:fixed;bottom:1em;right:1em; background:black;padding:.5em">
+<div style="position:fixed;bottom:0em;right:0em; background:black;padding:.2em">
 	<h2 style="margin:0;color:white">Navigate using audio</h2>
 	<div id="player"></div>
+	<input id="hide-player" type="button" value="Hide" style="display:block" />
+</div>
+<div style="position:fixed;bottom:0em;right:0em;background-color:#666;display:none">
+	<input id="show-player" type="button" value="Show Audio Navigator" />
 </div>
 
 <script>
@@ -109,12 +113,20 @@
 <h2 id="what-is-the-percent-yield-of-c2h2-if-6280-g-of-water-yields-1538-g-of-c2h2-using-the-following-equation">What is the percent yield of C2H2 if 62.80 g of water yields 15.38 g of C2H2 using the following equation.</h2>
 
 <ul>
-  <li>CaC2(s) + 2 H2O(l) → Ca(OH)2(aq) + C2H2(g)</li>
-  <li>A) 13.84%</li>
-  <li>B) 33.90%</li>
-  <li>C) 91.47%</li>
-  <li>D) 48.10%</li>
-  <li>E) 68.52%</li>
+  <li>CaC2(s) + 2 H2O(l) → Ca(OH)2(aq) + C2H2(g)
+    <ul>
+      <li>A) 13.84%</li>
+      <li>B) 33.90%</li>
+      <li>C) 91.47%</li>
+      <li>D) 48.10%</li>
+      <li>E) 68.52%
+        <ul>
+          <li><input type="button" onclick="$('#cp1').toggle()" value="show/hide answer" /></li>
+          <li><span id="cp1" style="display:none">B</span></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
   <li>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/GbJl17Y5UDA" frameborder="0" allowfullscreen=""></iframe>
   </li>
