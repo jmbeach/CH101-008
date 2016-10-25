@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Oct 2016 16:58:16 -0500</pubDate>
-    <lastBuildDate>Mon, 24 Oct 2016 16:58:16 -0500</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2016 12:21:57 -0500</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2016 12:21:57 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -319,6 +319,185 @@ or if the concentration unit is Molarity, then it can be written as M1·V1 = M2�
         <pubDate>Mon, 24 Oct 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/10/24/week-11-day-1-end-of-ch-8.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/24/week-11-day-1-end-of-ch-8.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Recitation Week 10 (test 3 - Recitation 2)</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;1) Draw the molecular orbital diagrams to determine which of the following is most stable.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) F2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) F2^2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Ne2^2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) O2^2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) F2^2-&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;a1&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-10-24-recitation-week-10-test-3-recitation-2-28b22.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#a1').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2) Use molecular orbital diagrams to determine which of the following are paramagnetic.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) O2^2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) Ne2^2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) O2^2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) F2^2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) None of the above are paramagnetic&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;a2&quot; style=&quot;display:none&quot;&gt;At six or twelve valence electrons, it is paramagnetic&lt;/span&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#a2').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;3) Draw the molecular orbital diagram needed, and determine which of the following is paramagnetic.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) B2^2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) B2^2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) N2^2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) C2^2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) B2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;4) Draw the molecular orbital diagram shown to determine which of the following is most stable.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) C2^2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) N2^2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) B2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) C2^2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) B2^2+&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;5) Which statement regarding stable heteronuclear diatomic molecules is false?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) All have bond orders greater than zero.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) The antibonding molecular orbitals have more of the character of the more electropositive element than of the more electronegative element.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Their molecular orbital diagrams are more symmetrical than those of homonuclear diatomic molecules.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) The bonding molecular orbitals have more of the character of the more electronegative element than of the less electronegative element.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) The greater is the difference in energy between two overlapping atomic orbitals, the more polar the resulting bond is, due to electrons occupying the resulting bonding molecular orbital.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;6) When the equation below is correctly balanced, the coefficients a, b, c, d have which values?
+    &lt;ul&gt;
+      &lt;li&gt;a Fe3O4(s) + b C(s) -&amp;gt; c Fe(l) + d CO2(g)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 1232&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 1321&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 2121&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 2132&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;a2&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-10-24-recitation-week-10-test-3-recitation-2-eb86b.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#a2').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;7) How many grams of Li3N can be formed from 1.75 moles of Li? Assume an excess of nitrogen.
+    &lt;ul&gt;
+      &lt;li&gt;6 Li(s) + N2(g) -&amp;gt; 2 Li3N(s)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 18.3 g Li3N&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 20.3 g Li3N&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 58.3 g Li3N&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 61.0 g Li3N&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 15.1 g Li3N&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;8) A 14.01 g sample of N2 reacts with 3.02 g of H2 to form ammonia (NH3). If ammonia is the only product, what mass of ammonia is formed?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 17.03 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; B) 1.10 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; C) 14.01 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; D) 3.02 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; E) 23.07 g&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;9) Consider the following balanced reaction. How many grams of water are required to form 75.9 g of HNO3? Assume that there is excess NO2 present. The molar masses are as follows: H2O = 18.02 g/mol, HNO3 = 63.02 g/mol.
+    &lt;ul&gt;
+      &lt;li&gt;3 NO2(g) + H2O(l) -&amp;gt; 2 HNO3(aq) + NO(g)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 38.0 g H20&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 21.7 g H20&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 43.4 g H20&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 10.9 g H20&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 26.5 g H2O&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;10) Give the theoretical yield, in moles, of CO2 from the reaction of 4.00 moles of C8H18 with 4.00 moles of 02.
+    &lt;ul&gt;
+      &lt;li&gt;2C8H18 + 25O2 -&amp;gt; 16CO2 + 18H2O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.640 moles&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 64.0 moles&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 2.56 moles&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 16.0 moles&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;11) Determine the limiting reactant (LR) and the mass (in g) of nitrogen that can be formed from 50.0 g N204 and 45.0 g N2H4. Some possibly useful molar masses are as follows: N204 = 92.02 g/mol, N2H4 = 32.05 g/mol.
+    &lt;ul&gt;
+      &lt;li&gt;N204(1) + 2 N2H4(1) 3 N2(g) + 4 H20(g)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) LR = N2H4, 59.0 g N2 formed&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) LR = N2O4, 105 g N2 formed&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) LR = N2O4, 45.7 g N2 formed&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) LR = N2H4, 13.3 g N2 formed&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) No LR, 45.0 g N2 formed&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;12) Give the percent yield when 28.16 g of CO2 are formed from the reaction of 4.000 moles of QH18 with 4.000 moles of O2.
+    &lt;ul&gt;
+      &lt;li&gt;2 C8H18 + 25 O2 -&amp;gt; 16 CO2 + 18 H2O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 20.00%&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 25.00%&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 50.00%&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 12.50%&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+var answers = [&quot;d&quot;, &quot;d&quot;, &quot;e&quot;, &quot;d&quot;, &quot;c&quot;, &quot;a&quot;, &quot;b&quot;, &quot;a&quot;, &quot;d&quot;, &quot;c&quot;, &quot;c&quot;, &quot;b&quot;];
+function getAnswer(number) {
+  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
+}
+function validate() {
+  var any = false;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (!answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
+      any = true;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
+    }
+  }
+  if (any) {
+    toastr.error(&quot;You did not answer every question!&quot;);
+  }
+  return !any;
+}
+function grade() {
+  if (!validate()) return;
+  var correct = 0;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (answers[i-1] == answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
+      correct++;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
+    }
+  }
+  toastr.success(&quot;Your grade is &quot;+ ((correct/answers.length) * 100).toFixed(2) + &quot; out of 100&quot;);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/10/24/recitation-week-10-test-3-recitation-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/24/recitation-week-10-test-3-recitation-2.html</guid>
         
         
       </item>
@@ -2599,567 +2778,6 @@ function grade() {
         <pubDate>Mon, 10 Oct 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/10/10/test-2-answers-review.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/10/test-2-answers-review.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Remainder of Ch 9</title>
-        <description>&lt;h2 id=&quot;solution-stoichiometry&quot;&gt;Solution Stoichiometry&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Molarity (moles solute/liter of solution) relates the moles of solute to the liters of solution.
-    &lt;ul&gt;
-      &lt;li&gt;Molarity can be used to convert between amount of reactants and/ or products in a chemical reaction when either the reactant or product is given in volume.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Example: 20.0 mL of 0.50 M NaCl&lt;/li&gt;
-  &lt;li&gt;Molarity of A × Volume of A = moles A&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-4c493.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-solution-stoichiometry&quot;&gt;Practice Problem: Solution Stoichiometry&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What volume (in L) of 0.150 M KCl solution will completely react with 0.150 L of a 0.175 M Pb(NO3)2 solution?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;types-of-aqueous-solutions-and-solubility&quot;&gt;Types of Aqueous Solutions and Solubility&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Consider two familiar aqueous solutions: salt water and
-sugar water.
-    &lt;ul&gt;
-      &lt;li&gt;Salt water is a homogeneous mixture of NaCl and H2O.&lt;/li&gt;
-      &lt;li&gt;Sugar water is a homogeneous mixture of C12H22O11 and H2O.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;How do solids such as salt and sugar dissolve in water?
-    &lt;ul&gt;
-      &lt;li&gt;Likes dissolve likes.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;what-happens-when-a-solute-dissolves&quot;&gt;What Happens When a Solute Dissolves?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;There are attractive forces between the solute particles holding them together.&lt;/li&gt;
-  &lt;li&gt;There are also attractive forces between the solvent molecules.&lt;/li&gt;
-  &lt;li&gt;When we mix the solute with the solvent, there are attractive forces between the solute particles and the solvent molecules.&lt;/li&gt;
-  &lt;li&gt;If the attractions between solute and solvent are strong enough, the solute will dissolve.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-06cb1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;charge-distribution-in-a-water-molecule&quot;&gt;Charge Distribution in a Water Molecule&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;There is an uneven distribution of electrons
-within the water molecule.
-    &lt;ul&gt;
-      &lt;li&gt;This causes the oxygen side of the molecule to have a partial negative charge (δ–) and the hydrogen side to have a partial positive charge (δ+).&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-00739.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;solute-and-solvent-interactions-in-an-ionic-solution-a-salt-solution&quot;&gt;Solute and Solvent Interactions in an Ionic Solution: A Salt Solution&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;When sodium chloride is put into water, the attraction of Na+ and Cl– ions to water molecules competes with the attraction among the oppositely charged ions themselves.
-    &lt;ul&gt;
-      &lt;li&gt;Sodium chloride is an ionic compound (metal + nonmetal).&lt;/li&gt;
-      &lt;li&gt;Ionic compounds when dissolved in water are called salt solutions.&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-8bdc5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sodium-chloride-nacl-dissolving-in-water&quot;&gt;Sodium Chloride (NaCl) Dissolving in Water&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Each ion is attracted to the surrounding water molecules and pulled off and away from the crystal.&lt;/li&gt;
-  &lt;li&gt;When it enters the solution, the ion is surrounded by water molecules, insulating it from other ions.&lt;/li&gt;
-  &lt;li&gt;The result is a solution with free moving charged
-particles able to conduct electricity.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-e43f3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electrolyte-and-nonelectrolyte-solutions&quot;&gt;Electrolyte and Nonelectrolyte Solutions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Materials that dissolve in water to form a solution that will conduct electricity are called &lt;em&gt;electrolytes&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Materials that dissolve in water to form a solution that will not conduct electricity are called &lt;em&gt;nonelectrolytes&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;A solution of salt (an electrolyte) conducts electrical current. A solution of sugar (a nonelectrolyte) does not.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-f3045.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;salt-versus-sugar-dissolved-in-water-nacl-solution-sugarwater-solution&quot;&gt;Salt versus Sugar Dissolved in Water NaCl solution Sugar–water solution&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-08f44.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electrolyte-solutions-what-are-they&quot;&gt;Electrolyte Solutions: What Are They?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Electrolytes are classified by how they dissolve in water.
-    &lt;ul&gt;
-      &lt;li&gt;If their dissociation is into ions:
-        &lt;ul&gt;
-          &lt;li&gt;Strong electrolytes
-            &lt;ul&gt;
-              &lt;li&gt;Completely dissociate into ions&lt;/li&gt;
-              &lt;li&gt;Example: CaCl2(s) → Ca2+ + 2 Cl−&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Weak electrolytes
-            &lt;ul&gt;
-              &lt;li&gt;Partial dissociation into their ions&lt;/li&gt;
-              &lt;li&gt;Example: HCOOH(aq) H+ + HCOO−&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Molecular compounds that dissolve in water but do not form ions when they go into solution are called nonelectrolytes.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electrolyte-solutions-strong-and-weak&quot;&gt;Electrolyte Solutions: Strong and Weak&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Ionic substances&lt;/em&gt; such as sodium chloride (NaCl) that completely dissociate into ions when they dissolve in water are &lt;em&gt;strong electrolytes&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-aacc8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Acids&lt;/em&gt; are compounds that when dissolved in water dissociate to give H+&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Bases&lt;/em&gt; are compounds that when dissolved in water dissociate to give OH-
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-8adef.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Depending on the acid or base, their dissociation in water can be complete or partial.
-    &lt;ul&gt;
-      &lt;li&gt;Example:
-        &lt;ul&gt;
-          &lt;li&gt;HCl(aq) hydrochloric acid is a strong acid.
-            &lt;ul&gt;
-              &lt;li&gt;It dissociates completely in water.
-                &lt;ul&gt;
-                  &lt;li&gt;HCl would be a &lt;em&gt;strong electrolyte&lt;/em&gt;.&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Acetic acid (e.g., vinegar) (HC2H3O2) is a weak acid—it dissociates partially in water.
-            &lt;ul&gt;
-              &lt;li&gt;HC2H3O2 is a &lt;em&gt;weak electrolyte&lt;/em&gt;.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-e329b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electrolyte-and-nonelectrolyte-solutions-1&quot;&gt;Electrolyte and Nonelectrolyte Solutions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sugar (C12H22O11) is a molecular compound.
-    &lt;ul&gt;
-      &lt;li&gt;Most &lt;em&gt;molecular compounds&lt;/em&gt; (except for acids and bases) dissolve in water as intact molecules.
-        &lt;ul&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-62e5d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Nonelectrolyte&lt;/em&gt; solution&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electrolytic-properties-of-solution&quot;&gt;Electrolytic Properties of Solution&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-52934.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-solubility-of-ionic-compounds&quot;&gt;The Solubility of Ionic Compounds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;When an ionic compound dissolves in water, the resulting solution contains:
-    &lt;ul&gt;
-      &lt;li&gt;Not the intact ionic compound itself, but its component ions dissolved in water&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;NOT all ionic compounds dissolve in water.
-    &lt;ul&gt;
-      &lt;li&gt;Example:
-        &lt;ul&gt;
-          &lt;li&gt;If we add AgCl to water, for example, it remains solid and appears as a white powder at the bottom of the water.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In general, a compound is termed &lt;em&gt;soluble&lt;/em&gt; if it dissolves in water and &lt;em&gt;insoluble&lt;/em&gt; if it does not.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;solubility-of-salts&quot;&gt;Solubility of Salts&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;If solid silver nitrate (AgNO3) is added to water, it dissolves and forms a strong electrolyte solution.&lt;/li&gt;
-  &lt;li&gt;Silver chloride (AgCl), on the other hand, is almost completely insoluble.
-    &lt;ul&gt;
-      &lt;li&gt;If solid AgCl is mixed with water, virtually all of it remains as a solid within the liquid water.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-253b6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;when-will-a-salt-dissolve&quot;&gt;When Will a Salt Dissolve?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Whether a particular compound is soluble or insoluble depends on several factors.&lt;/li&gt;
-  &lt;li&gt;Predicting whether a compound will dissolve in water is not easy.&lt;/li&gt;
-  &lt;li&gt;The best way to do it is to do some experiments to test whether a compound will dissolve in water, and then develop some rules based on those experimental results.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;solubility-rules&quot;&gt;Solubility Rules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-3ee05.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-ionic-compound-solubility&quot;&gt;Practice Problem: Ionic Compound Solubility&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Predict whether each compound is soluble or insoluble&lt;/li&gt;
-  &lt;li&gt;(a) PbCl2&lt;/li&gt;
-  &lt;li&gt;(b) CuCl2&lt;/li&gt;
-  &lt;li&gt;(c) Ca(NO3)2&lt;/li&gt;
-  &lt;li&gt;(d) BaSO4&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;precipitation-reactions-make-a-solid-by-mixing-two-aqueous-solutions&quot;&gt;Precipitation Reactions: Make a Solid by Mixing Two Aqueous Solutions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Precipitation reactions&lt;/em&gt; are reactions in which a
-solid forms when we mix two solutions.
-    &lt;ul&gt;
-      &lt;li&gt;Reactions between aqueous solutions of ionic compounds produce an ionic compound that is insoluble in water.&lt;/li&gt;
-      &lt;li&gt;The insoluble product is called a &lt;em&gt;precipitate&lt;/em&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;precipitation-of-leadii-iodide&quot;&gt;Precipitation of Lead(II) Iodide&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2 KI(aq) + Pb(NO3)2(aq) → 2 KNO3(aq) + PbI(s)&lt;/li&gt;
-  &lt;li&gt;(soluble) (soluble) (soluble) (insoluble)&lt;/li&gt;
-  &lt;li&gt;When a potassium iodide solution is mixed with a lead(II) nitrate solution, a yellow lead(II) iodide precipitate forms.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-8d82e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;no-precipitation-means-no-chemical-reaction-has-occurred&quot;&gt;No Precipitation Means No Chemical Reaction Has Occurred&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Precipitation reactions do not always occur when two aqueous solutions are mixed.
-    &lt;ul&gt;
-      &lt;li&gt;Combine solutions of KI and NaCl and nothing happens.&lt;/li&gt;
-      &lt;li&gt;KI(aq) + NaCl(aq) → No Reaction&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-70012.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;predicting-precipitation-reactions&quot;&gt;Predicting Precipitation Reactions&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Determine what ions each of the aqueous reactants have.&lt;/li&gt;
-  &lt;li&gt;Determine formulas of possible products.
-    &lt;ul&gt;
-      &lt;li&gt;Exchange (switch) ions.&lt;/li&gt;
-      &lt;li&gt;Cation ((+) ion) from one reactant pairs up with the anion ((–) ion) from the other reactant&lt;/li&gt;
-      &lt;li&gt;Balance charges of combined ions to get the formula of each product.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Determine the solubility of each product in water.
-    &lt;ul&gt;
-      &lt;li&gt;Use the solubility rules to determine if a product is insoluble or slightly soluble (e.g., it will precipitate) or if it forms a soluble compound.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;predicting-precipitation-reactions-continued&quot;&gt;Predicting Precipitation Reactions: Continued&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;If products are insoluble, write their formulas as the products of the reaction using (s) after the formula to indicate solid. Write any soluble products with (aq) after the formula to indicate aqueous.&lt;/li&gt;
-  &lt;li&gt;Balance the equation.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;predicting-precipitation-reactions-illustration&quot;&gt;Predicting Precipitation Reactions: Illustration&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-5dd93.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-writing-precipitation-equations&quot;&gt;Practice Problem: Writing Precipitation Equations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Write an equation for the precipitation reaction that occurs (if any) when you mix potassium carbonate and nickel (II) chloride&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-writing-precipitation-equations-1&quot;&gt;Practice Problem: Writing Precipitation Equations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Write an equation for the precipitation reaction that occurs (if any) when you mix solutions of sodium nitrate and lithium sulfate.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;representing-aqueous-reactions&quot;&gt;Representing Aqueous Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;An equation showing the &lt;em&gt;complete neutral formulas&lt;/em&gt; for each compound in the aqueous reaction as if they existed as molecules is called a &lt;em&gt;molecular equation&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;2 KOH(aq) + Mg(NO3)2(aq) → 2 KNO3(aq) + Mg(OH)2(s)&lt;/li&gt;
-  &lt;li&gt;In actual solutions of soluble ionic compounds, dissolved substances are present as ions. Equations that describe the material’s structure when dissolved are called complete ionic equations.&lt;/li&gt;
-  &lt;li&gt;2 K+(aq) + 2 OH−(aq) + Mg2+(aq) + 2 NO3 −(aq) → 2 K+(aq) + 2 NO3 −(aq) + Mg(OH)2(s)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ionic-equation-rules&quot;&gt;Ionic Equation Rules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Rules of writing the complete ionic equation:
-    &lt;ul&gt;
-      &lt;li&gt;Aqueous (aq) strong electrolytes are written as ions.
-        &lt;ul&gt;
-          &lt;li&gt;Soluble salts, strong acids, strong bases&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Insoluble substances, weak electrolytes, and nonelectrolytes are written in molecule form.
-        &lt;ul&gt;
-          &lt;li&gt;Solids (s), liquids (l), and gases (g) are not dissolved, this is why they are in a molecule form.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;2 K+(aq) + 2 OH−(aq) + Mg2+(aq) + 2 NO3 −(aq) →
-    &lt;ul&gt;
-      &lt;li&gt;2 K+(aq) + 2 NO3 −(aq) + Mg(OH)2(s)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ionic-equation-writing&quot;&gt;Ionic Equation Writing&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;These ions are called &lt;em&gt;spectator ions&lt;/em&gt; because they do not participate in the reaction.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-eab44.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;net-ionic-equation&quot;&gt;Net Ionic Equation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-7b066.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;When the spectator ions are removed, the chemical reaction is referred to as the &lt;em&gt;net ionic equation&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;2 OH−(aq) + Mg2+(aq) → Mg(OH)2(s)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;So a net ionic equation differs from a complete ionic equation because it does NOT have spectator ions in the equation.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;examples-of-writing-molecular-complete-ionic-and-net-ionic-equations&quot;&gt;Examples of Writing Molecular, Complete Ionic, and Net Ionic Equations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Molecular:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-c9c18.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Complete ionic:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-d7b4a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Net ionic:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-cade2.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;examples-of-writing-molecular-complete-ionic-and-net-ionic-equations-1&quot;&gt;Examples of Writing Molecular, Complete Ionic, and Net Ionic Equations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Molecular:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-de639.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Complete ionic:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-7050f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Net ionic:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-11fe1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-writing-net-ionic-equations&quot;&gt;Practice Problem: Writing Net Ionic Equations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Write the complete ionic equation and the net ionic equation for the reaction of strontium chloride and lithium phosphate&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;acids&quot;&gt;Acids&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Acids are molecular compounds that form H+ when dissolved in water.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-a43c6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-0d511.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Acids are composed of hydrogen, usually written first in their formula, and one or more nonmetals, written second.
-    &lt;ul&gt;
-      &lt;li&gt;Examples:
-        &lt;ul&gt;
-          &lt;li&gt;HCl, H2SO4 , HNO3, CH3COOH&lt;/li&gt;
-          &lt;li&gt;(acetic acid or vinegar)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Properties of acids:
-    &lt;ul&gt;
-      &lt;li&gt;Sour taste&lt;/li&gt;
-      &lt;li&gt;Dissolve many metals such as Zn, Fe, Mg, but not Au, Ag, Pt&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;acidbase-classification-arrhenius&quot;&gt;Acid–Base Classification: Arrhenius&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Simplest of Acid–Base Classification Arrhenius Definitions:
-    &lt;ul&gt;
-      &lt;li&gt;Acid: Substance that produces H+&lt;/li&gt;
-      &lt;li&gt;HCl(aq) -&amp;gt; H+(aq) + Cl–(aq)
-        &lt;ul&gt;
-          &lt;li&gt;Polyprotic acids
-            &lt;ul&gt;
-              &lt;li&gt;These acids contain more than one ionizable proton and release them sequentially.&lt;/li&gt;
-              &lt;li&gt;For example, sulfuric acid, H2SO4, is a diprotic acid.&lt;/li&gt;
-              &lt;li&gt;It is strong in its first ionizable proton, but weak in its second.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Base: Substance that produces OH− ions in aqueous solution
-    &lt;ul&gt;
-      &lt;li&gt;NaOH(aq) -&amp;gt; Na+(aq) + OH–(aq)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;some-common-acids-and-bases&quot;&gt;Some Common Acids and Bases&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-c524f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;binary-acids-and-oxyacids&quot;&gt;Binary Acids and Oxyacids&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Binary Acids:
-    &lt;ul&gt;
-      &lt;li&gt;Have H+1 cation and nonmetal anion&lt;/li&gt;
-      &lt;li&gt;Example:
-        &lt;ul&gt;
-          &lt;li&gt;HCl(aq) hydrochloric acid, HF(aq) hydrofluoric acid&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Oxyacids:
-    &lt;ul&gt;
-      &lt;li&gt;Have H+ cation and polyatomic anion&lt;/li&gt;
-      &lt;li&gt;Example:
-        &lt;ul&gt;
-          &lt;li&gt;HNO3 (nitric acid), H2SO4 (sulfuric acid)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-663ec.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;electrolytes&lt;/td&gt;
-      &lt;td&gt;materials that dissolve in water to form a solution that will conduct electricity&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;nonelectrolytes&lt;/td&gt;
-      &lt;td&gt;materials that dissolve in water to form a solution that will not conduct electricity are called&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;acids&lt;/td&gt;
-      &lt;td&gt;compounds that when dissolved in water dissociate to give H+&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;bases&lt;/td&gt;
-      &lt;td&gt;compounds that when dissolved in water dissociate to give OH-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;soluble&lt;/td&gt;
-      &lt;td&gt;compound which dissolves in water&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;precipitation reactions&lt;/td&gt;
-      &lt;td&gt;reactions in which a solid forms when we mix two solutions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;precipitate&lt;/td&gt;
-      &lt;td&gt;insoluble product from a precipitation reaction&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;complete ionic equations&lt;/td&gt;
-      &lt;td&gt;equations that describe the material’s structure when dissolved&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;spectator ions&lt;/td&gt;
-      &lt;td&gt;ions which do not participate in the reaction&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;net ionic equation&lt;/td&gt;
-      &lt;td&gt;when the spectator ions are removed in chemical reactions&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Mon, 10 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/10/10/remainder-of-ch-7.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/10/remainder-of-ch-7.html</guid>
         
         
       </item>
