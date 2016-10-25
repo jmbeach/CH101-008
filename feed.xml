@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Oct 2016 12:21:57 -0500</pubDate>
-    <lastBuildDate>Tue, 25 Oct 2016 12:21:57 -0500</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2016 12:22:32 -0500</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2016 12:22:32 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -390,9 +390,9 @@ or if the concentration unit is Molarity, then it can be written as M1Â·V1 = M2Â
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;a2&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-10-24-recitation-week-10-test-3-recitation-2-eb86b.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;a3&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-10-24-recitation-week-10-test-3-recitation-2-eb86b.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#a2').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#a3').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;7) How many grams of Li3N can be formed from 1.75 moles of Li? Assume an excess of nitrogen.
