@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Oct 2016 12:22:32 -0500</pubDate>
-    <lastBuildDate>Tue, 25 Oct 2016 12:22:32 -0500</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2016 19:03:36 -0500</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2016 19:03:36 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -223,15 +223,21 @@ solution.
   &lt;li&gt;Audio 0:32:28.311372&lt;/li&gt;
   &lt;li&gt;Determine the molarity of a solution formed by dissolving 97.7 g LiBr in enough water to yield 750.0 mL of solution. (Li: 6.941, Br: 79.90)
     &lt;ul&gt;
-      &lt;li&gt;
-        &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LPQJppk1v6M&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-      &lt;/li&gt;
       &lt;li&gt;A) 1.50 M&lt;/li&gt;
       &lt;li&gt;B) 1.18 M&lt;/li&gt;
       &lt;li&gt;C) 0.130 M&lt;/li&gt;
       &lt;li&gt;D) 0.768 M&lt;/li&gt;
       &lt;li&gt;E) 2.30 M&lt;/li&gt;
     &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp2&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LPQJppk1v6M&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -284,8 +290,18 @@ or if the concentration unit is Molarity, then it can be written as M1·V1 = M2�
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:47:55.628953&lt;/li&gt;
-  &lt;li&gt;What is the concentration of HCl in the final solution when 65 mL of a 9.0 M HCl solution is diluted with pure water to a total volume of .15 mL?&lt;/li&gt;
+  &lt;li&gt;What is the concentration of HCl in the final solution when 65 mL of a 9.0 M HCl solution is diluted with pure water to a total volume of .15 L?
+    &lt;ul&gt;
+      &lt;li&gt;A) 2.1 × 10-2 M&lt;/li&gt;
+      &lt;li&gt;B) 3.9 M&lt;/li&gt;
+      &lt;li&gt;C) 21 M&lt;/li&gt;
+      &lt;li&gt;D) 3.9 × 103 M&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp2&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
 
