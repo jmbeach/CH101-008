@@ -132,12 +132,16 @@ solution.
 
 + Audio 0:32:28.311372
 + Determine the molarity of a solution formed by dissolving 97.7 g LiBr in enough water to yield 750.0 mL of solution. (Li: 6.941, Br: 79.90)
-  + <iframe width="560" height="315" src="https://www.youtube.com/embed/LPQJppk1v6M" frameborder="0" allowfullscreen></iframe>
   + A) 1.50 M
   + B) 1.18 M
   + C) 0.130 M
   + D) 0.768 M
   + E) 2.30 M
+
+<span id="cp2" style="display:none">A</span>
+<input type="button" onclick="$('#cp2').toggle()" value="show/hide answer"/>
+
++ <iframe width="560" height="315" src="https://www.youtube.com/embed/LPQJppk1v6M" frameborder="0" allowfullscreen></iframe>
 
 ## Practice Problem: Calculating Concentrations
 
@@ -169,7 +173,14 @@ or if the concentration unit is Molarity, then it can be written as M1·V1 = M2�
 ## Clicker 3
 
 + Audio 0:47:55.628953
-+ What is the concentration of HCl in the final solution when 65 mL of a 9.0 M HCl solution is diluted with pure water to a total volume of .15 mL?
++ What is the concentration of HCl in the final solution when 65 mL of a 9.0 M HCl solution is diluted with pure water to a total volume of .15 L?
+  + A) 2.1 × 10-2 M
+  + B) 3.9 M
+  + C) 21 M
+  + D) 3.9 × 10^3 M
+
+<span id="cp3" style="display:none">B</span>
+<input type="button" onclick="$('#cp3').toggle()" value="show/hide answer"/>
 
 # Vocab
 
