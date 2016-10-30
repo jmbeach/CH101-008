@@ -6,9 +6,399 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Oct 2016 19:06:00 -0500</pubDate>
-    <lastBuildDate>Tue, 25 Oct 2016 19:06:00 -0500</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2016 17:56:25 -0500</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2016 17:56:25 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 11 - Day 2</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2pqdkt&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-11-day-2.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; style=&quot;display:block&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
+	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;eGIHL70805s&quot;});
+&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:04:20.568986&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;How many molecules of sucrose (C12H22O11, molar mass = 342.30 g/mol) are contained in 14.3 mL of 0.140 M sucrose solution&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A) 8.29 * 10^22 molecules C12H22O11&lt;/li&gt;
+  &lt;li&gt;B) 1.21 * 10^21 molecules C12H22O11&lt;/li&gt;
+  &lt;li&gt;C) 6.15 * 10^22 molecules C12H22O11&lt;/li&gt;
+  &lt;li&gt;D) 1.63 * 10^23 molecules C12H22O11&lt;/li&gt;
+  &lt;li&gt;E) 5.90 * 10^24 molecules C12H22O11&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp2&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nH1OLgwioK8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;solution-stoichiometry&quot;&gt;Solution Stoichiometry&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:07:44.395193&lt;/li&gt;
+  &lt;li&gt;Molarity (moles solute/liter of solution) relates the moles of solute to the liters of solution.
+    &lt;ul&gt;
+      &lt;li&gt;Molarity can be used to convert between amount of reactants and/ or products in a chemical reaction when either the reactant or product is given in volume.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example: 20.0 mL of 0.50 M NaCl&lt;/li&gt;
+  &lt;li&gt;Molarity of A × Volume of A = moles A&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-4c493.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-solution-stoichiometry&quot;&gt;Practice Problem: Solution Stoichiometry&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:08:39.470935&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What volume (in L) of 0.150 M KCl solution will completely react with 0.150 L of a 0.175 M Pb(NO3)2 solution?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YBpMn3WIXro&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:16:26.983035&lt;/li&gt;
+  &lt;li&gt;What volume of 0.244 M KCl solution is required to react exactly with 50.0 mL of 0.210 M PB(NO3)2 solution?
+    &lt;ul&gt;
+      &lt;li&gt;A) 97.4 mL&lt;/li&gt;
+      &lt;li&gt;B) 116 mL&lt;/li&gt;
+      &lt;li&gt;C) 43.0 mL&lt;/li&gt;
+      &lt;li&gt;D) 86.1 mL&lt;/li&gt;
+      &lt;li&gt;E) 58.1 mL&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp3&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_z2k9DAKhCM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;types-of-aqueous-solutions-and-solubility&quot;&gt;Types of Aqueous Solutions and Solubility&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:31.538420&lt;/li&gt;
+  &lt;li&gt;You can’t add infinite amounts of solute to your solution&lt;/li&gt;
+  &lt;li&gt;Consider two familiar aqueous solutions: salt water and
+sugar water.
+    &lt;ul&gt;
+      &lt;li&gt;Salt water is a homogeneous mixture of NaCl and H2O.&lt;/li&gt;
+      &lt;li&gt;Sugar water is a homogeneous mixture of C12H22O11 and H2O.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;How do solids such as salt and sugar dissolve in water?
+    &lt;ul&gt;
+      &lt;li&gt;Likes dissolve likes.&lt;/li&gt;
+      &lt;li&gt;If your solute has roughly similar properties to your solvent, it will dissolve&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-happens-when-a-solute-dissolves&quot;&gt;What Happens When a Solute Dissolves?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:19.196102&lt;/li&gt;
+  &lt;li&gt;There are attractive forces between the solute particles holding them together.&lt;/li&gt;
+  &lt;li&gt;There are also attractive forces between the solvent molecules.&lt;/li&gt;
+  &lt;li&gt;When we mix the solute with the solvent, there are attractive forces between the solute particles and the solvent molecules.&lt;/li&gt;
+  &lt;li&gt;If the attractions between solute and solvent are strong enough, the solute will dissolve.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-06cb1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;charge-distribution-in-a-water-molecule&quot;&gt;Charge Distribution in a Water Molecule&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:25:45.466724&lt;/li&gt;
+  &lt;li&gt;There is an uneven distribution of electrons
+within the water molecule.
+    &lt;ul&gt;
+      &lt;li&gt;This causes the oxygen side of the molecule to have a partial negative charge (δ–) and the hydrogen side to have a partial positive charge (δ+).&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-00739.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;solute-and-solvent-interactions-in-an-ionic-solution-a-salt-solution&quot;&gt;Solute and Solvent Interactions in an Ionic Solution: A Salt Solution&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:59.261993&lt;/li&gt;
+  &lt;li&gt;When sodium chloride is put into water, the attraction of Na+ and Cl– ions to water molecules competes with the attraction among the oppositely charged ions themselves.
+    &lt;ul&gt;
+      &lt;li&gt;Sodium chloride is an ionic compound (metal + nonmetal).&lt;/li&gt;
+      &lt;li&gt;Ionic compounds when dissolved in water are called salt solutions.&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-8bdc5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sodium-chloride-nacl-dissolving-in-water&quot;&gt;Sodium Chloride (NaCl) Dissolving in Water&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Each ion is attracted to the surrounding water molecules and pulled off and away from the crystal.&lt;/li&gt;
+  &lt;li&gt;When it enters the solution, the ion is surrounded by water molecules, insulating it from other ions.&lt;/li&gt;
+  &lt;li&gt;The result is a solution with free moving charged
+particles able to conduct electricity.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-e43f3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electrolyte-and-nonelectrolyte-solutions&quot;&gt;Electrolyte and Nonelectrolyte Solutions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:29:17.039172&lt;/li&gt;
+  &lt;li&gt;Materials that dissolve in water to form a solution that will conduct electricity are called &lt;em&gt;electrolytes&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Materials that dissolve in water to form a solution that will not conduct electricity are called &lt;em&gt;nonelectrolytes&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;A solution of salt (an electrolyte) conducts electrical current. A solution of sugar (a nonelectrolyte) does not.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-f3045.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;salt-versus-sugar-dissolved-in-water-nacl-solution-sugarwater-solution&quot;&gt;Salt versus Sugar Dissolved in Water NaCl solution Sugar–water solution&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-08f44.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electrolyte-solutions-what-are-they&quot;&gt;Electrolyte Solutions: What Are They?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:31:02.947720&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Electrolytes&lt;/em&gt; are classified by how they dissolve in water.
+    &lt;ul&gt;
+      &lt;li&gt;If their dissociation is into ions:
+        &lt;ul&gt;
+          &lt;li&gt;Strong electrolytes
+            &lt;ul&gt;
+              &lt;li&gt;Completely dissociate into ions&lt;/li&gt;
+              &lt;li&gt;Example: CaCl2(s) → Ca2+ + 2 Cl−&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Weak electrolytes
+            &lt;ul&gt;
+              &lt;li&gt;Partial dissociation into their ions&lt;/li&gt;
+              &lt;li&gt;Example: HCOOH(aq) H+ + HCOO−&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Molecular compounds that dissolve in water but do not form ions when they go into solution are called nonelectrolytes.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electrolyte-solutions-strong-and-weak&quot;&gt;Electrolyte Solutions: Strong and Weak&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:53.074436&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Ionic substances&lt;/em&gt; such as sodium chloride (NaCl) that completely dissociate into ions when they dissolve in water are &lt;em&gt;strong electrolytes&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-aacc8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Acids&lt;/em&gt; are compounds that when dissolved in water dissociate to give H+&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Bases&lt;/em&gt; are compounds that when dissolved in water dissociate to give OH-
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-8adef.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Depending on the acid or base, their dissociation in water can be complete or partial.
+    &lt;ul&gt;
+      &lt;li&gt;Example:
+        &lt;ul&gt;
+          &lt;li&gt;HCl(aq) hydrochloric acid is a strong acid.
+            &lt;ul&gt;
+              &lt;li&gt;It dissociates completely in water.
+                &lt;ul&gt;
+                  &lt;li&gt;HCl would be a &lt;em&gt;strong electrolyte&lt;/em&gt;.&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Acetic acid (e.g., vinegar) (HC2H3O2) is a weak acid—it dissociates partially in water.
+            &lt;ul&gt;
+              &lt;li&gt;HC2H3O2 is a &lt;em&gt;weak electrolyte&lt;/em&gt;.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-e329b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:58.662109&lt;/li&gt;
+  &lt;li&gt;Which of the following will have the highest electrical conductivity?
+    &lt;ul&gt;
+      &lt;li&gt;A) 0.045 M Al2(SO4)3&lt;/li&gt;
+      &lt;li&gt;B) 0.050 M (NH4)2CO3&lt;/li&gt;
+      &lt;li&gt;C) 0.10 M NaBr&lt;/li&gt;
+      &lt;li&gt;D) 0.10 M Kl&lt;/li&gt;
+      &lt;li&gt;E) 0.10 M KF&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp4&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp4').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;electrolyte-and-nonelectrolyte-solutions-1&quot;&gt;Electrolyte and Nonelectrolyte Solutions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sugar (C12H22O11) is a molecular compound.
+    &lt;ul&gt;
+      &lt;li&gt;Most &lt;em&gt;molecular compounds&lt;/em&gt; (except for acids and bases) dissolve in water as intact molecules.
+        &lt;ul&gt;
+          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-62e5d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Nonelectrolyte&lt;/em&gt; solution&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;electrolytic-properties-of-solution&quot;&gt;Electrolytic Properties of Solution&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-52934.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-solubility-of-ionic-compounds&quot;&gt;The Solubility of Ionic Compounds&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:39:50.836785&lt;/li&gt;
+  &lt;li&gt;When an ionic compound dissolves in water, the resulting solution contains:
+    &lt;ul&gt;
+      &lt;li&gt;Not the intact ionic compound itself, but its component ions dissolved in water&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;NOT all ionic compounds dissolve in water.
+    &lt;ul&gt;
+      &lt;li&gt;Example:
+        &lt;ul&gt;
+          &lt;li&gt;If we add AgCl to water, for example, it remains solid and appears as a white powder at the bottom of the water.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In general, a compound is termed &lt;em&gt;soluble&lt;/em&gt; if it dissolves in water and &lt;em&gt;insoluble&lt;/em&gt; if it does not.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;solubility-of-salts&quot;&gt;Solubility of Salts&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:41:22.482755&lt;/li&gt;
+  &lt;li&gt;If solid silver nitrate (AgNO3) is added to water, it dissolves and forms a strong electrolyte solution.&lt;/li&gt;
+  &lt;li&gt;Silver chloride (AgCl), on the other hand, is almost completely insoluble.
+    &lt;ul&gt;
+      &lt;li&gt;If solid AgCl is mixed with water, virtually all of it remains as a solid within the liquid water.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-253b6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;when-will-a-salt-dissolve&quot;&gt;When Will a Salt Dissolve?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:41:46.575491&lt;/li&gt;
+  &lt;li&gt;Whether a particular compound is soluble or insoluble depends on several factors.&lt;/li&gt;
+  &lt;li&gt;Predicting whether a compound will dissolve in water is not easy.&lt;/li&gt;
+  &lt;li&gt;The best way to do it is to do some experiments to test whether a compound will dissolve in water, and then develop some rules based on those experimental results.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;solubility-rules&quot;&gt;Solubility Rules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:41:59.485417&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-3ee05.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-ionic-compound-solubility&quot;&gt;Practice Problem: Ionic Compound Solubility&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Predict whether each compound is soluble or insoluble&lt;/li&gt;
+  &lt;li&gt;(a) PbCl2&lt;/li&gt;
+  &lt;li&gt;(b) CuCl2&lt;/li&gt;
+  &lt;li&gt;(c) Ca(NO3)2&lt;/li&gt;
+  &lt;li&gt;(d) BaSO4&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eiMtcbD8PBQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;electrolytes&lt;/td&gt;
+      &lt;td&gt;materials that dissolve in water to form a solution that will conduct electricity&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;nonelectrolytes&lt;/td&gt;
+      &lt;td&gt;materials that dissolve in water to form a solution that will not conduct electricity are called&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;acids&lt;/td&gt;
+      &lt;td&gt;compounds that when dissolved in water dissociate to give H+&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;bases&lt;/td&gt;
+      &lt;td&gt;compounds that when dissolved in water dissociate to give OH-&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;soluble&lt;/td&gt;
+      &lt;td&gt;compound which dissolves in water&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Wed, 26 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/10/26/week-11-day-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/26/week-11-day-2.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 11 - Day 1 (End of Ch 8)</title>
@@ -2498,302 +2888,6 @@ theory.
         <pubDate>Mon, 10 Oct 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/10/10/week-9-day-1-chapter-7-pt-2.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/10/week-9-day-1-chapter-7-pt-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Test 2 - Answers/Review</title>
-        <description>&lt;h2 id=&quot;questions&quot;&gt;Questions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;How many different values of ml are possible in the 5d sublevel?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 5&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 4&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 8&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In which orbital below would an electron (on average) be farthest from the nucleus?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1s&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 3d&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 3s&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 5f&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 2p&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Predict the charge of the most stable ion of magnesium
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 2+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 1-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; +&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 2-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 3+&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Give the ground state electron configuration for Rb+
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; [Ar]4s24p6&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; [Kr]5s1&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; [Kr]5s24d2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; [Kr]5s2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; [Ar]4s23d 104p6&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Place the following in order of decreasing magnitude of lattice energy
-    &lt;ul&gt;
-      &lt;li&gt;KF MgS RbI&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; RbI &amp;gt; KF &amp;gt; MgS&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; RbI &amp;gt; MgS &amp;gt; KF&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; MgS &amp;gt; KF &amp;gt; RbI&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; KF &amp;gt; RbI &amp;gt; MgS&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; MgS &amp;gt; RbI &amp;gt; KF&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;What is the empirical formula for C8H16O4?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; C2H4O&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; CHO&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; CH2O&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; CHO2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; C2H5O&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;What is the mass of 9.00 x 10^22 molecules of NH3?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 0.00878 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2.55 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 0.393 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 114g&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Place the following elements in order of increasing electronegativity
-    &lt;ul&gt;
-      &lt;li&gt;Li Fr P&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; P &amp;lt; Li &amp;lt; Fr&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Fr &amp;lt; Li &amp;lt; P&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Fr &amp;lt; P &amp;lt; Li&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Li &amp;lt; P &amp;lt; Fr&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; P &amp;lt; Fr &amp;lt; Li&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Place the following in order of increasing X-A-X bond angle, where A represents the central atom and X represents the outer atoms in each molecule
-    &lt;ul&gt;
-      &lt;li&gt;HCN H2O H3O+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; H2O &amp;lt; H3O+ &amp;lt; HCN&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; H3O+ &amp;lt; H2O &amp;lt; HCN&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; HCN &amp;lt; H3O+ &amp;lt; H2O&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; H2O &amp;lt; HCN &amp;lt; H3O+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; HCN &amp;lt; H2O &amp;lt; H3O+&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Determine the electron geometry, molecular geometry and polarity of HBrO2.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; eg = trigonal bipyramidal, mg = trigonal planar, nonpolar&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; eg = octahedral, mg = square planar, nonpolar&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; eg = tetrahedral, mg = linear, nonpolar&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; eg = tetrahedral, mg = bent, polar&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; eg = linear, mg = linear, polar&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Combustion analysis of an unknown compound containing only carbon and hydrogen produced 2.277 g of CO2 and 1.161 g of H2O. What is the empirical formula of the compound?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; C5H2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; CH2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C4H10&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; C2H5&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;What is the mass of 0.500 mol of trichlorofluoromethane, CCl3F?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 275 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 3.64 * 10^-3 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 137 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 68.7 g&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Use Lewis theory to determine the chemical formula for the compound formed between Mg and N
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Mg2N3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; MgN&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; MgN2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Mg2N&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; Mg3N2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Place the following in order of decreasing radius
-    &lt;ul&gt;
-      &lt;li&gt;Te2- F- O2-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; F— &amp;gt; O2- &amp;gt; Te2-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; F- &amp;gt; Te2- &amp;gt; O2-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Te2- &amp;gt; F- &amp;gt; O2-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Te2- &amp;gt; O2- &amp;gt; F-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; O2- &amp;gt; F- &amp;gt; Te2-&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Which one of the following elements is a poor conductor of heat and electricity?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; copper&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; iron&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; iodine&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; lead&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;How many electrons are in the ion, S2-?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 14&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 34&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 30&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 18&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Identify the correct values for a 2p sublevel
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; n = 3, l = 1, ml = 0&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; n = 2, l = 1, ml = 0&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; n = 1, l = 0, ml = 0&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; n = 2, l = 1, ml = +2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; n = 4, l = -1, ml = +2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Which of the following transitions (in a hydrogen atom) represent absorption of the smallest
- frequency photon?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; n = 1 to n = 4&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; n = 5 to n = 1&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; n = 3 to n = 1&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; n = 5 to n = 6&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; n = 1 to n = 2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;What is the energy of light associated with a transition from 3s to 8p in a hydrogen atom? Does this represent absorption or emission of a photon? The Rydberg constant is 1.097 x 10^-2
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 2.08 x 10^-19 J, emission&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2.08 x 10^-19 J, absorption&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 4.54 x 10^-19 J, absorption&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 4.54 x 10^-19 .1, emission&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 6.81 x 10^-20 J, absorption&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Identify an anion
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; An atom that has lost an electron&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; an atom that has lost a neutron and a proton&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; an atom that has gained an electron&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; an atom that has gained a neutron and a proton&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Neon belongs to the &lt;strong&gt;__&lt;/strong&gt; of the periodic table
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; alkali metal&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; noble gas&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; halogen&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; alkaline earth metal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Which species has the highest ionization energy?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Al2+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; Mg+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Mg&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Al+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; Mg2+&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Choose the compound below that should have the highest melting point according to the ionic bonding model
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; CaS&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; MgO&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; LiF&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; AlN&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; RbF&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Give the structure for lithium chlorate
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; LiClO3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; LiClO4&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; LiClO&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; LiClO2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;What is the empirical formula of a compound that is 48.6% C, 8.2% H, and 43.2% 0 by mass?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; C3H6O2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; C6HO5&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C6H12O4&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; C4H8O3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; C3HO2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Give the number of valence electrons for SI4
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 28&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 34&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 32&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 30&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Draw the best Lewis structure for CH3+1. What is the formal charge on the C?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; -1&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 0&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script&gt;
-var answers = [
-&quot;b&quot;, &quot;d&quot;, &quot;a&quot;, &quot;e&quot;, &quot;c&quot;, &quot;a&quot;, &quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;d&quot;,
-&quot;d&quot;, &quot;d&quot;, &quot;e&quot;, &quot;d&quot;, &quot;c&quot;, &quot;d&quot;, &quot;b&quot;, &quot;d&quot;, &quot;b&quot;, &quot;c&quot;,
-&quot;b&quot;, &quot;e&quot;, &quot;d&quot;, &quot;a&quot;, &quot;a&quot;, &quot;b&quot;, &quot;c&quot;];
-function getAnswer(number) {
-  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
-}
-function validate() {
-  var any = false;
-  for (var i = 1; i &lt; answers.length+1; i++) {
-    var answer = getAnswer(i);
-    if (!answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
-      any = true;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
-    }
-  }
-  if (any) {
-    toastr.error(&quot;You did not answer every question!&quot;);
-  }
-  return !any;
-}
-function grade() {
-  if (!validate()) return;
-  var correct = 0;
-  for (var i = 1; i &lt; answers.length+1; i++) {
-    var answer = getAnswer(i);
-    if (answers[i-1] == answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
-      correct++;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
-    }
-  }
-  toastr.success(&quot;Your grade is &quot;+ ((correct/answers.length) * 100).toFixed(2) + &quot; out of 100&quot;);
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 10 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/10/10/test-2-answers-review.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/10/test-2-answers-review.html</guid>
         
         
       </item>
