@@ -34,10 +34,10 @@ function AudioNavigator(opts) {
   firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
   self.onPlayerReady = function(event) {
-		event.target.playVideo();
-		setTimeout(function() {
-			event.target.seekTo(0);
-		},1000);
+		// event.target.playVideo();
+		// setTimeout(function() {
+		// 	event.target.seekTo(0);
+		// },1000);
   }
 
   var done = false;
@@ -68,6 +68,7 @@ function AudioNavigator(opts) {
   var findAudioTag = function() {
 		var nextTag = self.tags[self.currentTag+1];
 		var previousTag = self.tags[self.currentTag-1];
+    if (!self.player.getCurrentTime) return;
     if (nextTag && self.player.getCurrentTime() > self.tags[self.currentTag + 1].toSeconds()) {
       self.currentTag++;
 			nextTag = self.tags[self.currentTag+1];
@@ -86,6 +87,7 @@ function AudioNavigator(opts) {
       }
     }
   }
+
   $(function() {
 		var filter = function(i,p) {
 			if ($(p).children().length > 0) {
@@ -101,7 +103,7 @@ function AudioNavigator(opts) {
     }
     setInterval(function() {
 			var previousAudioTag = self.currentTag;
-			findAudioTag(false);
+			findAudioTag();
       if (previousAudioTag != self.currentTag) {
         $("html, body").animate({
           scrollTop: self.tags[self.currentTag].element.offset().top - 100
