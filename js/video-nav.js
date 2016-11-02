@@ -17,6 +17,8 @@ function AudioNavigator(opts) {
   var self = this;
   var btnHide = $("#hide-player");
   var btnShow = $("#show-player");
+  var btnPrev = $("#previous");
+  var btnNext = $("#next");
   btnHide.click(function() {
     btnHide.parent().toggle()
     btnShow.parent().toggle();
@@ -25,6 +27,12 @@ function AudioNavigator(opts) {
     btnHide.parent().toggle()
     btnShow.parent().toggle();
   });
+  btnPrev.click(function() {
+    self.player.seekTo(self.tags[self.currentTag-1].toSeconds()-1);
+  })
+  btnNext.click(function() {
+    self.player.seekTo(self.tags[self.currentTag+1].toSeconds()-1);
+  })
   self.videoId = opts.videoId;
   self.player = null;
   $.AudioNavigator = this;

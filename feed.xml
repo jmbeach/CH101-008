@@ -6,9 +6,582 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Nov 2016 10:14:29 -0500</pubDate>
-    <lastBuildDate>Tue, 01 Nov 2016 10:14:29 -0500</lastBuildDate>
+    <pubDate>Wed, 02 Nov 2016 15:45:05 -0500</pubDate>
+    <lastBuildDate>Wed, 02 Nov 2016 15:45:05 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 12 - Day 2 (Ch 9 - Pt 3)</title>
+        <description>&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:38.000666&lt;/li&gt;
+  &lt;li&gt;Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of Na2CO3 and HCl are mixed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-name-an-oxyacid&quot;&gt;How to Name an Oxyacid&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:03:09.986990&lt;/li&gt;
+  &lt;li&gt;If a polyatomic ion name ends in
+    &lt;ul&gt;
+      &lt;li&gt;–ate, then change the ending to a&lt;/li&gt;
+      &lt;li&gt;–ic suffix.&lt;/li&gt;
+      &lt;li&gt;Example:
+        &lt;ul&gt;
+          &lt;li&gt;NO3 − is the nitrate ion, so it would become nitric.&lt;/li&gt;
+          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-79ae9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If a polyatomic ion name ends in
+    &lt;ul&gt;
+      &lt;li&gt;–ite, then change the ending to a&lt;/li&gt;
+      &lt;li&gt;–ous suffix.&lt;/li&gt;
+      &lt;li&gt;Example:
+        &lt;ul&gt;
+          &lt;li&gt;SO3 2− is the sulfite ion, so it would become sulfurous.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-3dc01.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Finally, write the word acid at the end of all names.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-naming-acids&quot;&gt;Practice Naming Acids&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:04:58.589530
+    &lt;ol&gt;
+      &lt;li&gt;H2S
+        &lt;ul&gt;
+          &lt;li&gt;Hydrosulfuric acid&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;HClO3
+        &lt;ul&gt;
+          &lt;li&gt;chloric acid&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;HC2H3O2
+        &lt;ul&gt;
+          &lt;li&gt;acetic acid&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What is the name for an aqueous solution of HIO
+    &lt;ul&gt;
+      &lt;li&gt;A) hydroiodic acid&lt;/li&gt;
+      &lt;li&gt;B) hypoiodous acid&lt;/li&gt;
+      &lt;li&gt;C) iodous acid&lt;/li&gt;
+      &lt;li&gt;D) iodic acid&lt;/li&gt;
+      &lt;li&gt;E) periodic acid&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;B&lt;/p&gt;
+
+&lt;h2 id=&quot;acidbase-chemical-reactions&quot;&gt;Acid–Base Chemical Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:08:22.756094&lt;/li&gt;
+  &lt;li&gt;Audio 0:12:28.774412&lt;/li&gt;
+  &lt;li&gt;Acid–Base Reaction:
+    &lt;ul&gt;
+      &lt;li&gt;An acid reacts with a base producing water (or in some cases a weak electrolyte) and a salt.&lt;/li&gt;
+      &lt;li&gt;An acid–base reaction is also called a neutralization reaction.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In acid–base reactions, as in precipitation reactions, the reactions occur when the anion from one reactant combines with the cation of the other.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;acidbase-reactions&quot;&gt;Acid–Base Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:19.839427&lt;/li&gt;
+  &lt;li&gt;When an acid and base react, the reaction is called a &lt;em&gt;neutralization reaction&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;Example:
+        &lt;ul&gt;
+          &lt;li&gt;2 HNO3(aq) + Ca(OH)2(aq) → Ca(NO3)2(aq) + 2 H2O(l)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;As long as the salt that forms is soluble in water, the net ionic equation for an acid–base reaction is:
+    &lt;ul&gt;
+      &lt;li&gt;H+(aq) + OH–(aq) → H2O(l)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A neutralization reaction is completed when the moles of acid equal the moles of base in the solution.
+    &lt;ul&gt;
+      &lt;li&gt;Moles of acid = Moles of base&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A neutralization reaction does not always mean that the pH of the solution is 7.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;acids-and-bases-in-solution&quot;&gt;Acids and Bases in Solution&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:16:36.637260&lt;/li&gt;
+  &lt;li&gt;Acids ionize in water to form H+ ions; more precisely, the H from the acid molecule is donated to a water molecule to form hydronium ion, H3O+.&lt;/li&gt;
+  &lt;li&gt;Most chemists use H+ and H3O+ interchangeably.&lt;/li&gt;
+  &lt;li&gt;Bases dissociate in water to form OH– ions.
+    &lt;ul&gt;
+      &lt;li&gt;Bases, such as NH3, that do not contain OH– ions produce OH– by pulling H off water molecules.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In the reaction of an acid with a base, the H+ from the acid combines with the OH– from the base to make water.
+– The cation from the base combines with the anion from the acid to make the salt.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-58d2d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;acidbase-reaction&quot;&gt;Acid–Base Reaction&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)&lt;/li&gt;
+  &lt;li&gt;The reaction of hydrochloric acid (acid) and sodium hydroxide (base) forms sodium chloride (soluble salt) and water.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-c4a5d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;predict-the-product-of-acidbase-reactions&quot;&gt;Predict the Product of Acid–Base Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HCl(aq) + Ba(OH)2(aq) → ?&lt;/li&gt;
+  &lt;li&gt;(H+ + Cl−) + (Ba2+ + OH−) → (H+ + OH−) + (Ba2+ + Cl−)
+    &lt;ul&gt;
+      &lt;li&gt;HCl(aq) + Ba(OH)2(aq) → H2O(l) + BaCl2&lt;/li&gt;
+      &lt;li&gt;2 HCl(aq) + Ba(OH)2(aq) → 2 H2O(l) + BaCl2(aq)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;predict-the-product-of-acidbase-reactions-1&quot;&gt;Predict the Product of Acid–Base Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:18:17.410585&lt;/li&gt;
+  &lt;li&gt;H2SO4(aq) + LiOH(aq) → ?&lt;/li&gt;
+  &lt;li&gt;(H+ + SO4 2−) + (Li+ + OH−) → (H+ + OH−) + (Li+ + SO4 2−)
+    &lt;ul&gt;
+      &lt;li&gt;H2SO4(aq) + LiOH(aq) → H2O(l) + Li2SO4&lt;/li&gt;
+      &lt;li&gt;H2SO4(aq) + 2 LiOH(aq) → 2 H2O(l) + Li2SO4(aq)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:21:18.340305&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Which of the following is an acid-base reaction?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A) C(s) + O2(g) -&amp;gt; CO2(g)&lt;/li&gt;
+  &lt;li&gt;B) 2 HClO4(aq) + Ca(OH)2(aq) -&amp;gt; 2H2O(l) + Ca(ClO4)2(aq)&lt;/li&gt;
+  &lt;li&gt;C)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;B&lt;/p&gt;
+
+&lt;h2 id=&quot;acidbase-titrations&quot;&gt;Acid–Base Titrations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:21:37.385327&lt;/li&gt;
+  &lt;li&gt;This is a problem because some things can not be legally put down the sink and it depends on the acidity&lt;/li&gt;
+  &lt;li&gt;In a &lt;em&gt;titration&lt;/em&gt;, a substance in a solution of known concentration is reacted with another substance in a solution of unknown concentration.&lt;/li&gt;
+  &lt;li&gt;When exactly enough solution has been added the reactants are in their stoichiometric ratio. Called the &lt;em&gt;equivalence point&lt;/em&gt;
+    &lt;ul&gt;
+      &lt;li&gt;The solution of known concentration is added slowly from an instrument called a burette.
+        &lt;ul&gt;
+          &lt;li&gt;A long glass tube with precise volume markings that allows small additions of solution&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The titrant is the solution in the burette.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-35f33.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;acidbase-titrations-1&quot;&gt;Acid–Base Titrations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:25:27.198386&lt;/li&gt;
+  &lt;li&gt;In acid–base titrations, because both the reactant and product solutions are colorless, a chemical is added that changes color when the solution undergoes large changes in acidity/alkalinity.
+    &lt;ul&gt;
+      &lt;li&gt;The chemical is called an &lt;em&gt;indicator&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The &lt;em&gt;endpoint&lt;/em&gt; of a reaction is when the indicator color changes.&lt;/li&gt;
+  &lt;li&gt;The endpoint of an acid–base titration is where the number of moles of H+ equals the number of moles of OH–.
+    &lt;ul&gt;
+      &lt;li&gt;This is known as the &lt;em&gt;equivalence point&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;acidbase-titration&quot;&gt;Acid–Base Titration&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:39.290296&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-d1b7f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;titration&quot;&gt;Titration&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-51964.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;In this titration, NaOH is added to a dilute HCl solution. When the NaOH and HCl reach stoichiometric proportions (the equivalence point), the indicator changes color to pink.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-acidbase-titration&quot;&gt;Practice Problem: Acid–Base Titration&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:01.268341&lt;/li&gt;
+  &lt;li&gt;The titration of a 10.00 mL sample of HCL solution of unknown concentration requires 12.54 ml of a 0.100 M NaOH solution to reach the equivalence point. What is the concentration of the unknown HCl solution in M?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-4&quot;&gt;Clicker 4&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:33:40.733664&lt;/li&gt;
+  &lt;li&gt;The titration of 25.0 mL of an unknown concentration of H2SO4 solution requires 83.6 mL of 0.12 M LiOH solution. What is the concentration of the H2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gas-evolution-chemical-reactions&quot;&gt;Gas-Evolution Chemical Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:41:08.439627&lt;/li&gt;
+  &lt;li&gt;In a gas-evolution reaction, a gas forms, resulting in bubbling.&lt;/li&gt;
+  &lt;li&gt;In both acid–base and gas-evolution reactions, as in precipitation reactions, the reactions occur when the anion from one reactant combines with the cation of the other.
+    &lt;ul&gt;
+      &lt;li&gt;Many gas-evolution reactions are also acid– base reactions.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;example-of-gas-evolution-reactions&quot;&gt;Example of Gas-Evolution Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:42:31.119388&lt;/li&gt;
+  &lt;li&gt;Some reactions form a gas directly from the ion exchange.
+    &lt;ul&gt;
+      &lt;li&gt;K2S(aq) + H2SO4(aq) → K2SO4(aq) + H2S(g)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Other reactions form a gas by the decomposition of one of the ion exchange products into a gas and water.
+    &lt;ul&gt;
+      &lt;li&gt;NaHCO3(aq) + HCl(aq) → NaCl(aq) + H2CO3(aq)&lt;/li&gt;
+      &lt;li&gt;H2CO3(aq) → H2O(l) + CO2(g)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gas-evolution-reaction&quot;&gt;Gas-Evolution Reaction&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:44:17.526266&lt;/li&gt;
+  &lt;li&gt;NaHCO3(aq) + HCl(aq) H2O(l) + NaCl(aq) + CO2(g)&lt;/li&gt;
+  &lt;li&gt;When aqueous sodium bicarbonate is mixed with aqueous hydrochloric acid, gaseous CO2 bubbles are the result of the reaction.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-9a206.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;types-of-compounds-that-undergo-gasevolution-reactions&quot;&gt;Types of Compounds That Undergo GasEvolution Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:44:59.297799&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-f8880.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;oxidationreduction-reactions&quot;&gt;Oxidation–Reduction Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The reactions in which electrons are transferred from one reactant to the other are called oxidation–reduction reactions.
+    &lt;ul&gt;
+      &lt;li&gt;These are also called redox reactions.&lt;/li&gt;
+      &lt;li&gt;Many redox reactions involve the reaction of a substance with oxygen.&lt;/li&gt;
+      &lt;li&gt;Examples:&lt;/li&gt;
+      &lt;li&gt;2 C8H18(l) + 25 O2(g) → 16 CO2(g) + 18 H2O(g) (combustion)&lt;/li&gt;
+      &lt;li&gt;2 H2(g) + O2(g) → 2 H2O(g)&lt;/li&gt;
+      &lt;li&gt;4 Fe(s) + 3 O2(g) → 2 Fe2O3(s) (rusting)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;oxidation-and-reduction-redox&quot;&gt;Oxidation and Reduction (Redox)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To convert a free element into an ion, the atoms must gain or lose electrons.
+    &lt;ul&gt;
+      &lt;li&gt;NOTE: If one atom loses electrons, another must accept them.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Atoms that &lt;em&gt;lose electrons&lt;/em&gt; are being &lt;em&gt;oxidized&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;The reaction is referred to as &lt;em&gt;oxidation&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Atoms that &lt;em&gt;gain electrons&lt;/em&gt; are being &lt;em&gt;reduced&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;The reaction is referred to as &lt;em&gt;reduction&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example: 2 Na(s) + Cl2(g) → 2 NaCl(s)
+    &lt;ul&gt;
+      &lt;li&gt;Na → Na+ + 1 e– (oxidation; sodium lost electrons)&lt;/li&gt;
+      &lt;li&gt;Cl2 + 2 e– → 2 Cl– (reduction; chlorine atom gained electrons)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;redox-reactions&quot;&gt;Redox Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Oxidation and reduction must occur simultaneously.
+    &lt;ul&gt;
+      &lt;li&gt;If an atom loses electrons, another atom must take them.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The reactant that reduces an element in another reactant is called the reducing agent.
+    &lt;ul&gt;
+      &lt;li&gt;The &lt;em&gt;reducing agent&lt;/em&gt; contains the element that is oxidized.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The reactant that oxidizes an element in another reactant is called the &lt;em&gt;oxidizing agent&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;The oxidizing agent contains the element that is reduced.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example: 2 Na(s) + Cl2(g) → 2 NaCl(s)
+    &lt;ul&gt;
+      &lt;li&gt;Na is oxidized, while Cl is reduced.&lt;/li&gt;
+      &lt;li&gt;Na is the reducing agent, and Cl2 is the oxidizing agent.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;oxidation-states-electron-book-keeping&quot;&gt;Oxidation States: “Electron Book Keeping”&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For reactions that are not metal + nonmetal, or do not involve O2, a method for determining how the electrons are transferred is required to determine which element is being oxidized and which element is being reduced.&lt;/li&gt;
+  &lt;li&gt;Chemists assign a number to each element in a reaction called an &lt;em&gt;oxidation state&lt;/em&gt; that allows them to determine the electron flow in the reaction.
+    &lt;ul&gt;
+      &lt;li&gt;Even though they look like them, oxidation states are not ion charges!
+        &lt;ul&gt;
+          &lt;li&gt;Oxidation states are imaginary charges assigned based on a set of rules.&lt;/li&gt;
+          &lt;li&gt;Ion charges are real, measurable charges.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;rules-for-assigning-oxidation-states&quot;&gt;Rules for Assigning Oxidation States&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The following rules are in order of priority:
+    &lt;ol&gt;
+      &lt;li&gt;Free elements have an oxidation state = 0.
+        &lt;ul&gt;
+          &lt;li&gt;Na = 0 and Cl2 = 0 in 2 Na(s) + Cl2(g)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Monatomic ions have an oxidation state equal to their charge.
+        &lt;ul&gt;
+          &lt;li&gt;Na = +1 and Cl = −1 in NaCl&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;(a) The sum of the oxidation states of all the atoms in a compound is 0.
+        &lt;ul&gt;
+          &lt;li&gt;Na = +1 and Cl = −1 in NaCl, (+1) + (−1) = 0&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;rules-for-assigning-oxidation-states-continued&quot;&gt;Rules for Assigning Oxidation States Continued&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;(b) The sum of the oxidation states of all the atoms in a polyatomic ion equals the charge on the ion.
+    &lt;ul&gt;
+      &lt;li&gt;N = +5 and O = −2 in NO3 –, (+5) + 3(−2) = −1&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;(a) Group I metals have an oxidation state of +1 in all their compounds.
+    &lt;ul&gt;
+      &lt;li&gt;Na = +1 in NaCl&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;(b) Group II metals have an oxidation state of +2 in all their compounds.
+    &lt;ul&gt;
+      &lt;li&gt;Mg = +2 in MgCl2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In their compounds, nonmetals have oxidation states according to the following table.
+    &lt;ul&gt;
+      &lt;li&gt;Nonmetals higher on the table take priority.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;rules-for-assigning-oxidation-states-1&quot;&gt;Rules for Assigning Oxidation States&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-7847e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-assigning-oxidation-states&quot;&gt;Practice Problem: Assigning Oxidation States&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Assign an oxidation state to each atom in each element, ion or compound
+(a) Cl2 (b) Na+ (c) KF (d) CO2 (e) SO4^2- (f) K2O2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;identifying-redox-reactions&quot;&gt;Identifying Redox Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Oxidation: An increase in oxidation state&lt;/li&gt;
+  &lt;li&gt;Reduction: A decrease in oxidation state
+    &lt;ul&gt;
+      &lt;li&gt;Carbon changes from an oxidation state of 0 to an oxidation state of +4.
+        &lt;ul&gt;
+          &lt;li&gt;Carbon loses electrons and is oxidized.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Sulfur changes from an oxidation state of 0 to an oxidation state of –2.
+        &lt;ul&gt;
+          &lt;li&gt;Sulfur gains electrons and is reduced.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;redox-reaction&quot;&gt;Redox Reaction&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;NOTE:&lt;/li&gt;
+  &lt;li&gt;The transfer of electrons does not need to be a complete transfer (as
+occurs in the formation of an ionic compound) for the reaction to
+qualify as oxidation–reduction.
+    &lt;ul&gt;
+      &lt;li&gt;For example, consider the reaction between hydrogen gas and chlorine gas:
+        &lt;ul&gt;
+          &lt;li&gt;H2(g) + Cl2(g) → 2 HCl(g)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;When hydrogen bonds to chlorine, the electrons are unevenly shared, resulting in:
+    &lt;ul&gt;
+      &lt;li&gt;An increase of electron density (reduction) for chlorine&lt;/li&gt;
+      &lt;li&gt;A decrease in electron density (oxidation) for hydrogen&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;combustion-as-redox&quot;&gt;Combustion as Redox&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 H2(g) + O2(g) → 2 H2O(g)&lt;/li&gt;
+  &lt;li&gt;Hydrogen and Oxygen reacts to form water in the gaseous state (steam).&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-0a7d6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-oxidation-states-and-identifying&quot;&gt;Practice Problem: Oxidation States and Identifying&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What Is Being Oxidized and What Is Being Reduced Use oxidation state to identify the element that is oxidized
+and the element that is reduced:&lt;/li&gt;
+  &lt;li&gt;Mg(s) +2 H2O(l) à Mg(OH)2(aq) + H2(g)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;redox-without-combustion&quot;&gt;Redox without Combustion&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 Na(s) + Cl2(g) → 2 NaCl(s)&lt;/li&gt;
+  &lt;li&gt;Sodium metal transfers electrons to chlorine gas to form solid sodium chloride. The sodium metal is reduced and chlorine is oxidized.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-bce0d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-oxidation-states-and-identifying-1&quot;&gt;Practice Problem: Oxidation States and Identifying&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What Is Being Oxidized and What Is Being Reduced&lt;/li&gt;
+  &lt;li&gt;Determine whether or not each reaction is an oxidation-reduction reaction. For each oxidation-reduction reaction, identify the oxidizing agent and the reducing agent.
+    &lt;ul&gt;
+      &lt;li&gt;a) 2 Mg(s) + O2(g) à 2 MgO(s)&lt;/li&gt;
+      &lt;li&gt;b) 2HBr(aq) + Ca(OH)2(aq) à 2 H2O(l) + CaBr2(aq)&lt;/li&gt;
+      &lt;li&gt;c) Zn(s) + Fe2+(aq) à Zn2+(aq) + Fe(s)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;titration&lt;/td&gt;
+      &lt;td&gt;when a substance in a solution of known concentration is reacted with another substance in a solution of unknown concentration&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;equivalence point&lt;/td&gt;
+      &lt;td&gt;when exactly enough solution has been added the reactants are in their stoichiometric ratio&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;indicator&lt;/td&gt;
+      &lt;td&gt;chemical that changes color when the solution undergoes large changes in acidity/alkalinity&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;endpoint&lt;/td&gt;
+      &lt;td&gt;when the indicator changes color during titration&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;equivalence point&lt;/td&gt;
+      &lt;td&gt;when the number of moles of H+ equals the number of moles of OH– in an acid-base titration&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;oxidation&lt;/td&gt;
+      &lt;td&gt;when atoms lose electrons&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;reduction&lt;/td&gt;
+      &lt;td&gt;when atoms gain electrons&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;reducing agent&lt;/td&gt;
+      &lt;td&gt;contains the element that is oxidized in a redox reaction&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;oxidizing agent&lt;/td&gt;
+      &lt;td&gt;the reactant that oxidizes an element in another reactant in a redox reaction&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Wed, 02 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/11/02/week-12-day-2-ch-9-pt-3.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/02/week-12-day-2-ch-9-pt-3.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 12 - Day 1 (Ch 9 - Pt 2)</title>
@@ -533,12 +1106,13 @@ solid forms when we mix two solutions.
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
 	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
 	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; style=&quot;display:block&quot; /&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
 	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
-	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 
 &lt;script&gt;
@@ -927,12 +1501,13 @@ particles able to conduct electricity.&lt;/li&gt;
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
 	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
 	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; style=&quot;display:block&quot; /&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
 	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
-	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 
 &lt;script&gt;
@@ -1434,12 +2009,13 @@ function grade() {
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
 	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
 	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; style=&quot;display:block&quot; /&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
 	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
-	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 
 &lt;script&gt;
@@ -1578,12 +2154,13 @@ function grade() {
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
 	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
 	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; style=&quot;display:block&quot; /&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
 	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
-	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 
 &lt;script&gt;
@@ -1843,12 +2420,13 @@ to eat.&lt;/li&gt;
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
 	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
 	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; style=&quot;display:block&quot; /&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
 	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
-	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 
 &lt;script&gt;
@@ -2323,12 +2901,13 @@ function grade() {
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
 	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
 	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; style=&quot;display:block&quot; /&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
 	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
-	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 
 &lt;script&gt;
@@ -2552,433 +3131,6 @@ molecule.&lt;/li&gt;
         <pubDate>Fri, 14 Oct 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/10/14/week-9-day-3.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/14/week-9-day-3.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 9 - Day 2 (Ch 7 pt 3)</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2n02mh&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-9-day-2-ch-7-continued.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; style=&quot;display:block&quot; /&gt;
-&lt;/div&gt;
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
-	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
-	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;9OlJjyNuvhA&quot;});
-&lt;/script&gt;
-
-&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:00:05.264857&lt;/li&gt;
-  &lt;li&gt;Recitation this evening
-    &lt;ul&gt;
-      &lt;li&gt;Intends on going through problems from test 2 that gave people trouble&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:00:49.953369&lt;/li&gt;
-  &lt;li&gt;Give the hybridization for the O in OF2&lt;/li&gt;
-  &lt;li&gt;A) sp&lt;/li&gt;
-  &lt;li&gt;B) sp3&lt;/li&gt;
-  &lt;li&gt;C) sp2&lt;/li&gt;
-  &lt;li&gt;D) sp3d&lt;/li&gt;
-  &lt;li&gt;E) sp3d2&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c3&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HwZ8hb7nDHQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h1 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:06:22.158125&lt;/li&gt;
-  &lt;li&gt;Give the hybridization for the S in SO3
-    &lt;ul&gt;
-      &lt;li&gt;A) sp&lt;/li&gt;
-      &lt;li&gt;B) sp3&lt;/li&gt;
-      &lt;li&gt;C) sp2&lt;/li&gt;
-      &lt;li&gt;D) sp3d&lt;/li&gt;
-      &lt;li&gt;E) sp3d2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c1&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c1').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:08:06.363102&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;How many of the following molecules have sp2 hybridization on the central atom?&lt;/li&gt;
-  &lt;li&gt;HCN SO2 OCl2 XeCl2&lt;/li&gt;
-  &lt;li&gt;A) 4&lt;/li&gt;
-  &lt;li&gt;B) 3&lt;/li&gt;
-  &lt;li&gt;C) 2&lt;/li&gt;
-  &lt;li&gt;D) 1&lt;/li&gt;
-  &lt;li&gt;E) 0&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c2&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;ex-multi-central-atom-lewis-structures-isomers-of-c2h4o&quot;&gt;Ex: Multi-Central Atom Lewis Structures Isomers of C2H4O&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:13:35.404261&lt;/li&gt;
-  &lt;li&gt;Acetaldehyde: CH3CHO,&lt;/li&gt;
-  &lt;li&gt;Ethenol (aka vinyl alcohol): CH2CHOH&lt;/li&gt;
-  &lt;li&gt;oxirane (aka ethylene oxide): CH2OCH2&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4yqKdTsWl18&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:20:19.010276&lt;/li&gt;
-  &lt;li&gt;Explaination of the Bonds to O
-    &lt;ul&gt;
-      &lt;li&gt;(More complicated example than what you’ll see in this class)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;molecular-orbital-mo-theory-electron-delocalization&quot;&gt;Molecular Orbital (MO) Theory: Electron Delocalization&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:25:00.394253&lt;/li&gt;
-  &lt;li&gt;In MO theory:
-    &lt;ul&gt;
-      &lt;li&gt;Applies Schrödinger’s wave equation to the molecule to calculate a set of &lt;em&gt;molecular orbitals&lt;/em&gt;
-        &lt;ul&gt;
-          &lt;li&gt;The equation solution is estimated.&lt;/li&gt;
-          &lt;li&gt;The estimated solution is evaluated and adjusted until the energy of the orbital is minimized.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In this treatment, the electrons belong to the whole
-molecule, so the orbitals belong to the whole molecule.
-    &lt;ul&gt;
-      &lt;li&gt;Delocalization&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;lcao-linear-combination-of-atomic-orbitals&quot;&gt;LCAO: Linear Combination of Atomic Orbitals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:28:20.033639&lt;/li&gt;
-  &lt;li&gt;The simplest guess starts with the atomic orbitals of the atoms adding together to make molecular orbitals; this is called the &lt;em&gt;linear combination of atomic orbitals (LCAO)&lt;/em&gt; method.
-    &lt;ul&gt;
-      &lt;li&gt;Weighted sum
-        &lt;ul&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-12-week-9-day-2-ch-7-continued-bff57.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Because the orbitals are wave functions, the waves can combine either &lt;em&gt;constructively&lt;/em&gt; or &lt;em&gt;destructively&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-12-week-9-day-2-ch-7-continued-a1699.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;molecular-orbitals&quot;&gt;Molecular Orbitals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:34:23.118169&lt;/li&gt;
-  &lt;li&gt;When the wave functions combine constructively, the resulting molecular orbital has less energy than the original atomic orbitals
-    &lt;ul&gt;
-      &lt;li&gt;Called a &lt;em&gt;bonding molecular orbital&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;Designated: σ, π&lt;/li&gt;
-      &lt;li&gt;Most of the electron density between the nuclei&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;When the wave functions combine destructively, the
-resulting molecular orbital has more energy than the
-original atomic orbital.
-    &lt;ul&gt;
-      &lt;li&gt;Called an &lt;em&gt;antibonding molecular orbital&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;Designated: σ&lt;em&gt;, π&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;Most of the electron density outside the nuclei&lt;/li&gt;
-      &lt;li&gt;Nodes between nuclei&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;interaction-of-1s-orbitals&quot;&gt;Interaction of 1s Orbitals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-29626.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;molecular-orbital-theory&quot;&gt;Molecular Orbital Theory&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:35:37.151782&lt;/li&gt;
-  &lt;li&gt;Use Aufbau approach for MO’s (as we did for
-individual atoms)&lt;/li&gt;
-  &lt;li&gt;electrons go into lowest energy MO’s first&lt;/li&gt;
-  &lt;li&gt;pair up when they have to&lt;/li&gt;
-  &lt;li&gt;Audio 0:35:48.854160&lt;/li&gt;
-  &lt;li&gt;Electrons in bonding MOs are stabilizing.
-    &lt;ul&gt;
-      &lt;li&gt;Lower energy than the atomic orbitals&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Electrons in antibonding MOs are destabilizing.
-    &lt;ul&gt;
-      &lt;li&gt;Higher in energy than atomic orbitals&lt;/li&gt;
-      &lt;li&gt;Electron density located outside the internuclear axis&lt;/li&gt;
-      &lt;li&gt;Electrons in antibonding orbitals cancel stability gained by electrons in bonding orbitals.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;mo-and-properties&quot;&gt;MO and Properties&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:36:16.115964&lt;/li&gt;
-  &lt;li&gt;Bond order = ½ (# Bonding Electrons – # Antibonding
-Electrons)&lt;/li&gt;
-  &lt;li&gt;Bond order = difference between number of electrons in bonding and antibonding orbitals
-    &lt;ul&gt;
-      &lt;li&gt;Only need to consider valence electrons&lt;/li&gt;
-      &lt;li&gt;Audio 0:37:10.304038&lt;/li&gt;
-      &lt;li&gt;May be a fraction&lt;/li&gt;
-      &lt;li&gt;Higher bond order = stronger and shorter bonds&lt;/li&gt;
-      &lt;li&gt;If bond order = 0, then the bond is unstable compared to individual atoms and no bond will form.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A substance will be paramagnetic if its MO diagram has unpaired electrons.
-    &lt;ul&gt;
-      &lt;li&gt;If all electrons are paired, it is diamagnetic.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:38:35.652895&lt;/li&gt;
-  &lt;li&gt;Ex:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-fe93a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Bond order = ½ (# Bonding Electrons – # Antibonding Electrons)&lt;/li&gt;
-  &lt;li&gt;Bond Order H2 = ½ (2 – 0) = 1
-    &lt;ul&gt;
-      &lt;li&gt;Corresponds to a sigma bond&lt;/li&gt;
-      &lt;li&gt;Also coincides with Lewis models&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;why-doesnt-the-molecule-he2-exist&quot;&gt;Why Doesn’t the Molecule He2 Exist?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:39:48.795249&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-e029f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Bond order = ½ (# Bonding Electrons – # Antibonding Electrons)&lt;/li&gt;
-  &lt;li&gt;Bond Order He2 = ½ (2 – 2) =0
-    &lt;ul&gt;
-      &lt;li&gt;Because the bond order is zero, dihelium doesn’t exist&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;why-does-the-molecule-he2-exist&quot;&gt;Why Does the Molecule He2+ Exist?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:41:11.115795&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-d88bd.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Bond order = ½ (# Bonding Electrons – # Antibonding Electrons)&lt;/li&gt;
-  &lt;li&gt;Bond Order He2+ = ½ (2 – 1) =1/2
-    &lt;ul&gt;
-      &lt;li&gt;Nonzero, so it works&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;summarizing-lcaomo-theory&quot;&gt;Summarizing LCAO–MO Theory&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:42:32.896527&lt;/li&gt;
-  &lt;li&gt;Molecular orbitals (MOs) are a linear combination of atomic orbitals (AOs).
-    &lt;ul&gt;
-      &lt;li&gt;The total number of MOs formed from a particular set of AOs always equals the number of AOs in the set.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;When two AOs combine to form two MOs, one MO is lower in energy (the bonding MO) and the other is higher in energy (the antibonding MO).&lt;/li&gt;
-  &lt;li&gt;When assigning the electrons of a molecule to MOs, we fill the lowest energy MOs first with a maximum of two spin-paired electrons per orbital.&lt;/li&gt;
-  &lt;li&gt;When assigning electrons to two MOs of the same energy, Hund’s rule is followed to fill the orbitals singly first, with parallel spins, before pairing.&lt;/li&gt;
-  &lt;li&gt;The bond order in a diatomic molecule is the number of electrons in bonding MOs minus the number in antibonding MOs divided by two.
-    &lt;ul&gt;
-      &lt;li&gt;Stable bonds require a positive bond order (more electrons in bonding MOs than in antibonding MOs).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;MOs are named by type: σ, π, with a subscript to indicate what AOs they were formed from.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-on-bond-order-h2-&quot;&gt;Practice Problem on Bond Order H2-&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:44:01.684960&lt;/li&gt;
-&lt;/ul&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/C9Wm46nXBxU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;period-two-homonuclear-diatomic-molecules&quot;&gt;Period Two Homonuclear Diatomic Molecules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-4fec5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;interaction-of-p-orbitals&quot;&gt;Interaction of p Orbitals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-b7390.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-4b9fc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;molecular-orbital-energy-ordering&quot;&gt;Molecular Orbital Energy Ordering&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-fd509.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-on-molecular-orbital-theory-n2--ion-determine-the-electron-configuration-and-whether-the-ion-is-para-or-diamagnetic&quot;&gt;Practice Problem on Molecular Orbital Theory N2- ion. Determine the electron configuration, and whether the ion is para or diamagnetic&lt;/h2&gt;
-
-&lt;h2 id=&quot;molecular-orbital-energy-diagrams-for-secondperiod-p-block-homonuclear-diatomic-molecules&quot;&gt;Molecular Orbital Energy Diagrams for SecondPeriod-p-Block Homonuclear Diatomic Molecules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-1b505.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-32e24.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;heteronuclear-diatomic-molecules-and-ions&quot;&gt;Heteronuclear Diatomic Molecules and Ions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;When the combining atomic orbitals are identical and of equal energy, the contribution of each atomic orbital to the molecular orbital is equal.&lt;/li&gt;
-  &lt;li&gt;When the combining atomic orbitals are different types and energies, contributions to the MOs are different:&lt;/li&gt;
-  &lt;li&gt;The more electronegative an atom is, the lower in energy are its orbitals.&lt;/li&gt;
-  &lt;li&gt;Lower energy atomic orbitals contribute more to the bonding MOs.&lt;/li&gt;
-  &lt;li&gt;Higher energy atomic orbitals contribute more to the antibonding MOs.&lt;/li&gt;
-  &lt;li&gt;Nonbonding MOs remain localized on the atom donating its atomic orbitals.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;second-period-heteronuclear-diatomic-molecules&quot;&gt;Second-Period Heteronuclear Diatomic Molecules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-6c33b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-on-molecular-orbital-theory-cn-&quot;&gt;Practice Problem on Molecular Orbital Theory CN-&lt;/h2&gt;
-
-&lt;h2 id=&quot;mo-and-polyatomic-molecules&quot;&gt;MO and Polyatomic Molecules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;When many atoms are combined together, the atomic
-orbitals of all the atoms are combined to make a set of
-molecular orbitals, which are delocalized over the entire
-molecule.&lt;/li&gt;
-  &lt;li&gt;Gives results that better match real molecule properties than either Lewis or valence bond theories&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-63adc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-fb96c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-ce2bf.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;bonding-in-metals-and-semiconductors&quot;&gt;Bonding in Metals and Semiconductors&lt;/h2&gt;
-
-&lt;h2 id=&quot;bonding-in-metals-and-semiconductors-1&quot;&gt;Bonding in Metals and Semiconductors&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The simplest theory of metallic bonding involves the metal atoms releasing their valence electrons to be shared as a pool by all the atoms/ ions in the metal.
-    &lt;ul&gt;
-      &lt;li&gt;An organization of metal cation islands in a sea of electrons&lt;/li&gt;
-      &lt;li&gt;Electrons delocalized throughout the metal structure&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Bonding results from attraction of cation for the delocalized electrons.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-2323c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-47239.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;semiconductors-and-band-theory&quot;&gt;Semiconductors and Band Theory&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Band Theory:&lt;/li&gt;
-  &lt;li&gt;Electrons become mobile when they make a transition from the highest occupied molecular orbital into higher energy empty molecular orbitals.&lt;/li&gt;
-  &lt;li&gt;These occupied molecular orbitals are referred to as the valence band.&lt;/li&gt;
-  &lt;li&gt;The unoccupied orbitals the conduction band.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-628e3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-48d05.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-c961e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;molecular orbital theory&lt;/td&gt;
-      &lt;td&gt;applies Schrödinger’s wave equation to the molecule to calculate a set of molecular orbitals&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;molecular orbital&lt;/td&gt;
-      &lt;td&gt;orbitals which hold electrons which belong to an entire molecule&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;linear combination of atomic orbitals (LCAO)&lt;/td&gt;
-      &lt;td&gt;weighted sum of orbitals which helps predicting the optimal energy/shape of orbitals (aka let’s take 10% of s and 90% of p)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;bonding molecular orbital&lt;/td&gt;
-      &lt;td&gt;molecular orbitals which have wave functions which combine constructively&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;bonding molecular orbitals result in an orbital which has (more or less?) energy than the originals&lt;/td&gt;
-      &lt;td&gt;less&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;antibonding molecular orbitals&lt;/td&gt;
-      &lt;td&gt;bonding molecular orbitals which have wave functions which combine destructively&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;bond order&lt;/td&gt;
-      &lt;td&gt;half of the difference of the number of bonding electrons and antibonding electrons&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Wed, 12 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/10/12/week-9-day-2-ch-7-continued.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/12/week-9-day-2-ch-7-continued.html</guid>
         
         
       </item>
