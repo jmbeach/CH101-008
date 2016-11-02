@@ -6,9 +6,519 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Oct 2016 17:56:25 -0500</pubDate>
-    <lastBuildDate>Sun, 30 Oct 2016 17:56:25 -0500</lastBuildDate>
+    <pubDate>Tue, 01 Nov 2016 10:14:29 -0500</pubDate>
+    <lastBuildDate>Tue, 01 Nov 2016 10:14:29 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 12 - Day 1 (Ch 9 - Pt 2)</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2pvcqm&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker&quot;&gt;Clicker&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;K2SO4 is soluble
+    &lt;ul&gt;
+      &lt;li&gt;True or false?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp1&quot; style=&quot;display:none&quot;&gt;True&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp1').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:02:17.485831&lt;/li&gt;
+  &lt;li&gt;Ba2SO4 is soluble
+    &lt;ul&gt;
+      &lt;li&gt;True or false&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp2&quot; style=&quot;display:none&quot;&gt;False&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:02:34.417038&lt;/li&gt;
+  &lt;li&gt;NH4CO3 is slightly soluble
+    &lt;ul&gt;
+      &lt;li&gt;True or false&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp3&quot; style=&quot;display:none&quot;&gt;False&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:03:48.102896&lt;/li&gt;
+  &lt;li&gt;Ba(OH)2 is slightly soluble
+    &lt;ul&gt;
+      &lt;li&gt;True or false&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp4&quot; style=&quot;display:none&quot;&gt;True&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp4').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.softschools.com/quizzes/chemistry/solubility_rules/quiz1333.html&quot;&gt;Practice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;solubility-rules&quot;&gt;Solubility Rules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:05:30.256563&lt;/li&gt;
+  &lt;li&gt;Rules chart reminder&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-3ee05.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ni(II)I2 is soluble
+    &lt;ul&gt;
+      &lt;li&gt;True or false&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp5&quot; style=&quot;display:none&quot;&gt;True&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp5').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Which pair of compounds is soluble in water?&lt;/li&gt;
+  &lt;li&gt;Hg2Cl2 and HgBr2&lt;/li&gt;
+  &lt;li&gt;NiS and Li2S&lt;/li&gt;
+  &lt;li&gt;NH4I and Ni(NO3)2&lt;/li&gt;
+  &lt;li&gt;LiNO3 and CuCO3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp6&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp6').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;precipitation-reactions-make-a-solid-by-mixing-two-aqueous-solutions&quot;&gt;Precipitation Reactions: Make a Solid by Mixing Two Aqueous Solutions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:08:44.222690&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Precipitation reactions&lt;/em&gt; are reactions in which a
+solid forms when we mix two solutions.
+    &lt;ul&gt;
+      &lt;li&gt;Reactions between aqueous solutions of ionic compounds produce an ionic compound that is insoluble in water.&lt;/li&gt;
+      &lt;li&gt;The insoluble product is called a &lt;em&gt;precipitate&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;precipitation-of-leadii-iodide&quot;&gt;Precipitation of Lead(II) Iodide&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:09:26.908352&lt;/li&gt;
+  &lt;li&gt;2 KI(aq) + Pb(NO3)2(aq) → 2 KNO3(aq) + PbI(s)&lt;/li&gt;
+  &lt;li&gt;(soluble) (soluble) (soluble) (insoluble)&lt;/li&gt;
+  &lt;li&gt;When a potassium iodide solution is mixed with a lead(II) nitrate solution, a yellow lead(II) iodide precipitate forms.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-8d82e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;no-precipitation-means-no-chemical-reaction-has-occurred&quot;&gt;No Precipitation Means No Chemical Reaction Has Occurred&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:10:12.926214&lt;/li&gt;
+  &lt;li&gt;Precipitation reactions do not always occur when two aqueous solutions are mixed.
+    &lt;ul&gt;
+      &lt;li&gt;Combine solutions of KI and NaCl and nothing happens.&lt;/li&gt;
+      &lt;li&gt;KI(aq) + NaCl(aq) → No Reaction&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-70012.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;predicting-precipitation-reactions&quot;&gt;Predicting Precipitation Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:10:38.716069
+    &lt;ol&gt;
+      &lt;li&gt;Determine what ions each of the aqueous reactants have.&lt;/li&gt;
+      &lt;li&gt;Determine formulas of possible products.
+        &lt;ul&gt;
+          &lt;li&gt;Exchange (switch) ions.
+            &lt;ul&gt;
+              &lt;li&gt;Cation ((+) ion) from one reactant pairs up with the anion ((–) ion) from the other reactant&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Balance charges of combined ions to get the formula of each product.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Determine the solubility of each product in water.
+        &lt;ul&gt;
+          &lt;li&gt;Use the solubility rules to determine if a product is insoluble or slightly soluble (e.g., it will precipitate) or if it forms a soluble compound.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;predicting-precipitation-reactions-continued&quot;&gt;Predicting Precipitation Reactions: Continued&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:05.429090
+    &lt;ol&gt;
+      &lt;li&gt;If products are insoluble, write their formulas as the products of the reaction using (s) after the formula to indicate solid. Write any soluble products with (aq) after the formula to indicate aqueous.&lt;/li&gt;
+      &lt;li&gt;Balance the equation.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;predicting-precipitation-reactions-illustration&quot;&gt;Predicting Precipitation Reactions: Illustration&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:36.769404&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-5dd93.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-writing-precipitation-equations&quot;&gt;Practice Problem: Writing Precipitation Equations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:14.065533&lt;/li&gt;
+  &lt;li&gt;Write an equation for the precipitation reaction that occurs (if any) when you mix potassium carbonate and nickel (II) chloride&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lNh0vdAuP9k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-writing-precipitation-equations-1&quot;&gt;Practice Problem: Writing Precipitation Equations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Write an equation for the precipitation reaction that occurs (if any) when you mix solutions of sodium nitrate and lithium sulfate.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/r03jHN3RZIw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;representing-aqueous-reactions&quot;&gt;Representing Aqueous Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:16:07.721765&lt;/li&gt;
+  &lt;li&gt;An equation showing the &lt;em&gt;complete neutral formulas&lt;/em&gt; for each compound in the aqueous reaction as if they existed as molecules is called a &lt;em&gt;molecular equation&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;2 KOH(aq) + Mg(NO3)2(aq) → 2 KNO3(aq) + Mg(OH)2(s)&lt;/li&gt;
+  &lt;li&gt;In actual solutions of soluble ionic compounds, dissolved substances are present as ions. Equations that describe the material’s structure when dissolved are called complete ionic equations.&lt;/li&gt;
+  &lt;li&gt;2 K+(aq) + 2 OH−(aq) + Mg2+(aq) + 2 NO3 −(aq) → 2 K+(aq) + 2 NO3 −(aq) + Mg(OH)2(s)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ionic-equation-rules&quot;&gt;Ionic Equation Rules&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:19:13.203961&lt;/li&gt;
+  &lt;li&gt;Rules of writing the complete ionic equation:
+    &lt;ul&gt;
+      &lt;li&gt;Aqueous (aq) strong electrolytes are written as ions.
+        &lt;ul&gt;
+          &lt;li&gt;Soluble salts, strong acids, strong bases&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Insoluble substances, weak electrolytes, and nonelectrolytes are written in molecule form.
+        &lt;ul&gt;
+          &lt;li&gt;Solids (s), liquids (l), and gases (g) are not dissolved, this is why they are in a molecule form.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2 K+(aq) + 2 OH−(aq) + Mg2+(aq) + 2 NO3 −(aq) →
+    &lt;ul&gt;
+      &lt;li&gt;2 K+(aq) + 2 NO3 −(aq) + Mg(OH)2(s)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ionic-equation-writing&quot;&gt;Ionic Equation Writing&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:24.122121&lt;/li&gt;
+  &lt;li&gt;These ions are called &lt;em&gt;spectator ions&lt;/em&gt; because they do not participate in the reaction.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-eab44.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;Don’t actually participate in the reaction&lt;/li&gt;
+      &lt;li&gt;We can just not write them&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;net-ionic-equation&quot;&gt;Net Ionic Equation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:21:22.026776&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-7b066.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;When the spectator ions are removed, the chemical reaction is referred to as the &lt;em&gt;net ionic equation&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;2 OH−(aq) + Mg2+(aq) → Mg(OH)2(s)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;So a net ionic equation differs from a complete ionic equation because it &lt;em&gt;does NOT have spectator ions&lt;/em&gt; in the equation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;examples-of-writing-molecular-complete-ionic-and-net-ionic-equations&quot;&gt;Examples of Writing Molecular, Complete Ionic, and Net Ionic Equations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:55.540858&lt;/li&gt;
+  &lt;li&gt;Molecular:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-c9c18.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Complete ionic:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-d7b4a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Net ionic:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-cade2.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;examples-of-writing-molecular-complete-ionic-and-net-ionic-equations-1&quot;&gt;Examples of Writing Molecular, Complete Ionic, and Net Ionic Equations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:25:03.741978&lt;/li&gt;
+  &lt;li&gt;Molecular:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-de639.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Complete ionic:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-7050f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Net ionic:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-11fe1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-writing-net-ionic-equations&quot;&gt;Practice Problem: Writing Net Ionic Equations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:27:36.224611&lt;/li&gt;
+  &lt;li&gt;Write the complete ionic equation and the net ionic equation for the reaction of strontium chloride and lithium phosphate&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eehoZpsbMzA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:31:48.436051&lt;/li&gt;
+  &lt;li&gt;Give the complete ionic equation for the reaction (if any) that occurs when aqueous solutions of lithium sulfide and copper (II) nitrate are mixed.
+    &lt;ul&gt;
+      &lt;li&gt;A) Li+(aq)+SO4 2-(aq)+Cu+(aq)+NO3 - (aq) → CuS(s)+Li+(aq) + NO3 - (aq)&lt;/li&gt;
+      &lt;li&gt;B) Li+(aq) + S- (aq) + Cu+(aq) + NO3 - (aq) → CuS(s) + LiNO3(aq)&lt;/li&gt;
+      &lt;li&gt;C) 2Li+(aq)+S2-(aq)+Cu2+(aq) + 2NO3 - (aq)→Cu2+(aq)+S2-(aq) +2LiNO3(s)&lt;/li&gt;
+      &lt;li&gt;D) 2 Li+(aq)+S2-(aq)+Cu2+(aq)+2NO3 - (aq)→ CuS(s) + 2Li+ (aq) + 2NO3 - (aq)&lt;/li&gt;
+      &lt;li&gt;E) No reaction occurs.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/57oSiH6V_FY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp7&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp7').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/types-of-chemical-reactions/a/complete-ionic-and-net-ionic-equations&quot;&gt;Khan Academy Practice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;acids&quot;&gt;Acids&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:35:26.115777&lt;/li&gt;
+  &lt;li&gt;Acids are molecular compounds that form H+ when dissolved in water.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-a43c6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-0d511.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Acids are composed of hydrogen, usually written first in their formula, and one or more nonmetals, written second.
+    &lt;ul&gt;
+      &lt;li&gt;Examples:
+        &lt;ul&gt;
+          &lt;li&gt;HCl, H2SO4 , HNO3, CH3COOH&lt;/li&gt;
+          &lt;li&gt;(acetic acid or vinegar)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Properties of acids:
+    &lt;ul&gt;
+      &lt;li&gt;Sour taste&lt;/li&gt;
+      &lt;li&gt;Dissolve many metals such as Zn, Fe, Mg, but not Au, Ag, Pt&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;acidbase-classification-arrhenius&quot;&gt;Acid–Base Classification: Arrhenius&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:39:40.222603&lt;/li&gt;
+  &lt;li&gt;Simplest of Acid–Base Classification Arrhenius Definitions:
+    &lt;ul&gt;
+      &lt;li&gt;Acid: Substance that produces H+&lt;/li&gt;
+      &lt;li&gt;HCl(aq) -&amp;gt; H+(aq) + Cl–(aq)
+        &lt;ul&gt;
+          &lt;li&gt;Polyprotic acids
+            &lt;ul&gt;
+              &lt;li&gt;These acids contain more than one ionizable proton and release them sequentially.&lt;/li&gt;
+              &lt;li&gt;For example, sulfuric acid, H2SO4, is a diprotic acid.&lt;/li&gt;
+              &lt;li&gt;It is strong in its first ionizable proton, but weak in its second.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Base: Substance that produces OH− ions in aqueous solution
+    &lt;ul&gt;
+      &lt;li&gt;NaOH(aq) -&amp;gt; Na+(aq) + OH–(aq)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;some-common-acids-and-bases&quot;&gt;Some Common Acids and Bases&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:42:45.997556&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-c524f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;binary-acids-and-oxyacids&quot;&gt;Binary Acids and Oxyacids&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:44:10.272181&lt;/li&gt;
+  &lt;li&gt;Binary Acids:
+    &lt;ul&gt;
+      &lt;li&gt;Have H+1 cation and nonmetal anion&lt;/li&gt;
+      &lt;li&gt;Example:
+        &lt;ul&gt;
+          &lt;li&gt;HCl(aq) hydrochloric acid, HF(aq) hydrofluoric acid&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Oxyacids:
+    &lt;ul&gt;
+      &lt;li&gt;Have H+ cation and polyatomic anion&lt;/li&gt;
+      &lt;li&gt;Example:
+        &lt;ul&gt;
+          &lt;li&gt;HNO3 (nitric acid), H2SO4 (sulfuric acid)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-663ec.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.quia.com/hm/498413.html&quot;&gt;Practice&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;naming-binary-acids&quot;&gt;Naming Binary Acids&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:45:15.616894&lt;/li&gt;
+  &lt;li&gt;Write a hydro- prefix.&lt;/li&gt;
+  &lt;li&gt;Follow with the nonmetal name.&lt;/li&gt;
+  &lt;li&gt;Change the ending on the nonmetal name to ic.&lt;/li&gt;
+  &lt;li&gt;Write the word acid at the end of the name.&lt;/li&gt;
+  &lt;li&gt;Example:
+    &lt;ul&gt;
+      &lt;li&gt;What is the name of HI(aq)?&lt;/li&gt;
+      &lt;li&gt;The H in the formula is Hydro.&lt;/li&gt;
+      &lt;li&gt;The I (nonmetal in the formula) is iodine changed to iodic.&lt;/li&gt;
+      &lt;li&gt;The name is hydroiodic acid.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-88740.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-name-an-oxyacid&quot;&gt;How to Name an Oxyacid&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:46:05.679461&lt;/li&gt;
+  &lt;li&gt;If a polyatomic ion name ends in
+    &lt;ul&gt;
+      &lt;li&gt;–ate, then change the ending to a&lt;/li&gt;
+      &lt;li&gt;–ic suffix.&lt;/li&gt;
+      &lt;li&gt;Example:
+        &lt;ul&gt;
+          &lt;li&gt;NO3 − is the nitrate ion, so it would become nitric.&lt;/li&gt;
+          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-79ae9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If a polyatomic ion name ends in
+    &lt;ul&gt;
+      &lt;li&gt;–ite, then change the ending to a&lt;/li&gt;
+      &lt;li&gt;–ous suffix.&lt;/li&gt;
+      &lt;li&gt;Example:
+        &lt;ul&gt;
+          &lt;li&gt;SO3 2− is the sulfite ion, so it would become sulfurous.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-3dc01.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Finally, write the word acid at the end of all names.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;precipitation reactions&lt;/td&gt;
+      &lt;td&gt;reactions in which a solid forms when we mix two solutions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;precipitate&lt;/td&gt;
+      &lt;td&gt;insoluble product from a precipitation reaction&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;complete ionic equations&lt;/td&gt;
+      &lt;td&gt;equations that describe the material’s structure when dissolved&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;spectator ions&lt;/td&gt;
+      &lt;td&gt;ions which do not participate in the reaction&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;net ionic equation&lt;/td&gt;
+      &lt;td&gt;when the spectator ions are removed in chemical reactions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;neutralization reaction&lt;/td&gt;
+      &lt;td&gt;when an acid reacts with a base producing water and a salt&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Mon, 31 Oct 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/10/31/week-12-day-1-ch-9-pt-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/31/week-12-day-1-ch-9-pt-2.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 11 - Day 2</title>
@@ -27,6 +537,8 @@
 &lt;/div&gt;
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
 	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 
 &lt;script&gt;
@@ -419,6 +931,8 @@ particles able to conduct electricity.&lt;/li&gt;
 &lt;/div&gt;
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
 	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 
 &lt;script&gt;
@@ -924,6 +1438,8 @@ function grade() {
 &lt;/div&gt;
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
 	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 
 &lt;script&gt;
@@ -1066,6 +1582,8 @@ function grade() {
 &lt;/div&gt;
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
 	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 
 &lt;script&gt;
@@ -1329,6 +1847,8 @@ to eat.&lt;/li&gt;
 &lt;/div&gt;
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
 	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 
 &lt;script&gt;
@@ -1807,6 +2327,8 @@ function grade() {
 &lt;/div&gt;
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
 	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 
 &lt;script&gt;
@@ -2051,6 +2573,8 @@ molecule.&lt;/li&gt;
 &lt;/div&gt;
 &lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
 	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
 &lt;/div&gt;
 
 &lt;script&gt;
@@ -2455,439 +2979,6 @@ molecule.&lt;/li&gt;
         <pubDate>Wed, 12 Oct 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/10/12/week-9-day-2-ch-7-continued.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/12/week-9-day-2-ch-7-continued.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 9 - Day 1 (Chapter 7 pt 2)</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2mglz7&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-9-day-1-chapter-7-pt-2.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; style=&quot;display:block&quot; /&gt;
-&lt;/div&gt;
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
-	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;9OlJjyNuvhA&quot;});
-&lt;/script&gt;
-
-&lt;h1 id=&quot;announcements&quot;&gt;Announcements&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:00:14.957544&lt;/li&gt;
-  &lt;li&gt;Student Affiliates of the American Chemical Society&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;unhybridized-carbon-orbitals-in-ch4-predict-the-wrong-bonding-and-geometry&quot;&gt;Unhybridized Carbon Orbitals in CH4: Predict the Wrong Bonding and Geometry&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:01:26.977877&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-cb002.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;valence-bond-theory-and-hybridization-ch4&quot;&gt;Valence Bond Theory and Hybridization CH4&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;One of the issues that arises is that the number of partially filled or empty atomic orbitals did not predict the number of bonds or orientation of bonds.
-    &lt;ul&gt;
-      &lt;li&gt;C = 2s^2 2px^1 2py^1 2pz^0 would predict two or three bonds that are 90° apart, rather than four bonds that are 109.5° apart.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;To adjust for these inconsistencies, it was postulated
-that the valence atomic orbitals could hybridize before
-bonding took place.
-    &lt;ul&gt;
-      &lt;li&gt;One hybridization of C is to mix all the 2s and 2p orbitals to get four orbitals that point at the corners of a tetrahedron.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;hybridization&quot;&gt;Hybridization&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:02:36.629512&lt;/li&gt;
-  &lt;li&gt;Some atoms hybridize their orbitals to maximize bonding.
-    &lt;ul&gt;
-      &lt;li&gt;More bonds = more full orbitals = more stability&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Hybridizing is mixing different types of orbitals in the valence shell to make a new set of degenerate orbitals.
-    &lt;ul&gt;
-      &lt;li&gt;sp, sp2 , sp3 , sp3d, sp3d2
-        &lt;ul&gt;
-          &lt;li&gt;Four Hybrid orbitals&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The same type of atom can have different types of
-hybridization.
-    &lt;ul&gt;
-      &lt;li&gt;C = sp, sp2 , sp3&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-0a945.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;If we need a trigonal planar
-        &lt;ul&gt;
-          &lt;li&gt;Hybridize s and sp2&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;hybrid-orbitals&quot;&gt;Hybrid Orbitals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:04:49.597515&lt;/li&gt;
-  &lt;li&gt;The number of standard atomic orbitals combined = the number of hybrid orbitals formed.
-    &lt;ul&gt;
-      &lt;li&gt;Example for carbon:
-        &lt;ul&gt;
-          &lt;li&gt;Combining a 2s with a 3p gives four sp3 hybrid orbitals.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;H cannot hybridize.
-        &lt;ul&gt;
-          &lt;li&gt;Its valence shell only has one orbital.
-            &lt;ul&gt;
-              &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-de764.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-              &lt;li&gt;Audio 0:05:51.042164&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The number and type of standard atomic orbitals combined determines the shape of the hybrid orbitals.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The particular kind of hybridization that occurs is the one that yields the lowest overall energy for the molecule.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:06:49.243321&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-0661e.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Take the s and 3 p orbitals and make four sp3 orbitals
-        &lt;ul&gt;
-          &lt;li&gt;Makes the tetrahedral geometry&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sp3-hybridization&quot;&gt;sp3 Hybridization&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:08:30.906596&lt;/li&gt;
-  &lt;li&gt;Atom with four electron groups around it:
-    &lt;ul&gt;
-      &lt;li&gt;Tetrahedral geometry&lt;/li&gt;
-      &lt;li&gt;109.5° angles between hybrid orbitals&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Atom uses hybrid orbitals for all bonds and lone pairs&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-c3b83.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:08:43.856308&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;formation-of-sp-hybrid-orbitals&quot;&gt;Formation of sp Hybrid Orbitals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-21870.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;formation-of-sp2-hybrid-orbitals&quot;&gt;Formation of sp2 Hybrid Orbitals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:09:19.885131&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-c9583.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:09:46.537377&lt;/li&gt;
-  &lt;li&gt;Give the electron geometry (eg), molecular geometry (mg), and hybridization for H2O&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A) eg = tetrahedral, mg = bent, sp3
-B) eg = trigonal pyramidal, mg = trigonal pyramidal, sp3
-C) eg = tetrahedral, mg = trigonal pyramidal, sp3
-D) eg = bent, mg = bent, sp3
-E) eg = trigonal planar, gm = trigonal planar, sp3&lt;/p&gt;
-
-&lt;p&gt;&lt;span id=&quot;c1&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;lt;input type=”button” onclick=”$(“#c1”).toggle()” value=”show/hide answer”/&amp;gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;sp3d-hybridized-orbital&quot;&gt;sp3d Hybridized Orbital&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:13:35.100695&lt;/li&gt;
-  &lt;li&gt;Atom with five electron groups around it:
-    &lt;ul&gt;
-      &lt;li&gt;Trigonal bipyramid electron geometry&lt;/li&gt;
-      &lt;li&gt;Seesaw, T-shape, linear&lt;/li&gt;
-      &lt;li&gt;120° and 90° bond angles&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Use empty d orbitals from valence shell&lt;/li&gt;
-  &lt;li&gt;d orbitals—used to make π bonds&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-a95a3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sp3d-hybridized-orbital-1&quot;&gt;sp3d Hybridized Orbital&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-3c596.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sp3d2&quot;&gt;sp3d2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Atom with six electron groups around it:
-    &lt;ul&gt;
-      &lt;li&gt;Octahedral electron
-geometry&lt;/li&gt;
-      &lt;li&gt;Square pyramid, square planar&lt;/li&gt;
-      &lt;li&gt;90° bond angles&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Use empty d orbitals from valence shell to form hybrid&lt;/li&gt;
-  &lt;li&gt;d orbitals—used to make π bonds&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-83015.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sp3d2-1&quot;&gt;sp3d2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-4ed96.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-7402d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;and--bonds&quot;&gt;σ and π bonds:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;σ bonds –overlap along bond axis&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-55082.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;hybridization-sp2&quot;&gt;Hybridization: sp2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:19:16.146819&lt;/li&gt;
-  &lt;li&gt;Atom with three electron groups around it:&lt;/li&gt;
-  &lt;li&gt;Atom uses hybrid orbitals for σ bonds and lone pairs and uses nonhybridized p orbital for π bond&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-8d794.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-926a0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sigma-and-pi-bonding&quot;&gt;Sigma and Pi Bonding&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:20:37.534711&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-579ce.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;orbital-diagrams-of-bonding-h2co&quot;&gt;Orbital Diagrams of Bonding: H2CO&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:21:03.253240&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-19166.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;“Overlap” between a sp2 hybrid orbital on C and s 1s orbital on H gives σ bond.&lt;/li&gt;
-  &lt;li&gt;“Overlap” between unhybridized p orbitals on C and O gives π bond.&lt;/li&gt;
-  &lt;li&gt;“Overlap” between C sp2 hybrid orbital and O sp2 gives σ bond&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;types-of-bonds&quot;&gt;Types of Bonds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:24:50.789254&lt;/li&gt;
-  &lt;li&gt;A &lt;em&gt;sigma (σ) bond&lt;/em&gt; results when the interacting atomic orbitals point
-along the axis connecting the two bonding nuclei.
-    &lt;ul&gt;
-      &lt;li&gt;Either standard atomic orbitals or hybrids
-        &lt;ul&gt;
-          &lt;li&gt;s to s, p to p, hybrid to hybrid, s to hybrid, etc.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A &lt;em&gt;pi (π) bond&lt;/em&gt; results when the bonding atomic orbitals are parallel to each other and perpendicular to the axis connecting the two bonding nuclei.
-    &lt;ul&gt;
-      &lt;li&gt;Between unhybridized parallel p orbitals&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The interaction between parallel orbitals is not as strong as between orbitals that point at each other; therefore, σ bonds are stronger than π bonds.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;bond-rotation&quot;&gt;Bond Rotation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:21.602225&lt;/li&gt;
-  &lt;li&gt;Because of the orbitals that form the σ bond point along the internuclear axis, rotation around that bond does not require breaking the interaction between the orbitals.&lt;/li&gt;
-  &lt;li&gt;But the orbitals that form the π bond interact above and below the internuclear axis, so rotation around the axis requires the breaking of the interaction between the orbitals.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-5ad3a.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;With a single bond, you have free rotation of the molecule around the bond
-        &lt;ul&gt;
-          &lt;li&gt;The rotation does not impact the strength of the bond&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;With a double bond, you’d have to break the bond to rotate
-        &lt;ul&gt;
-          &lt;li&gt;It actually freezes the structure of the molecule&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;cis--trans-isomers-of-12-dichloroethane&quot;&gt;Cis &amp;amp; Trans Isomers of 1,2-Dichloroethane&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:28:53.696722&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-c71b2.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Same compound, different properties&lt;/li&gt;
-      &lt;li&gt;Think about trans-fats
-        &lt;ul&gt;
-          &lt;li&gt;Still fat, but way more harmful&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:21.778478&lt;/li&gt;
-  &lt;li&gt;place the following in order of decreasing dipole moment
-I. cis-CHCl=CHCl II. trans-CHCl=CHCl III. cis-CHF=CHF&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A) III &amp;gt; I &amp;gt; II
-B) II &amp;gt; I &amp;gt; III
-C) I &amp;gt; III &amp;gt; II
-D) II &amp;gt; III &amp;gt; I
-E) I = III &amp;gt; II&lt;/p&gt;
-
-&lt;p&gt;&lt;span id=&quot;c2&quot; style=&quot;display:none&quot;&gt;A. The trans dichloroethane actually cancels itself out and has 0 dipole moment. Then for the cis flourine, it has higher dipole moment than I, so A.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;lt;input type=”button” onclick=”$(“#c2”).toggle()” value=”show/hide answer”/&amp;gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;sp-hybridization-and-triple-bonds&quot;&gt;sp Hybridization and Triple Bonds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:35:28.142277&lt;/li&gt;
-  &lt;li&gt;Atom with two electron groups:
-    &lt;ul&gt;
-      &lt;li&gt;Linear shape&lt;/li&gt;
-      &lt;li&gt;180° bond angle&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Atom uses hybrid orbitals for σ bonds or lone pairs and uses nonhybridized p orbitals for π bonds&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-39107.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;formation-of-sp-hybrid-orbital-in-ethyne&quot;&gt;Formation of sp Hybrid Orbital in Ethyne&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:36:27.515559&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-week-9-day-1-chapter-7-pt-2-aaffa.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;predicting-hybridization-and-bonding-scheme&quot;&gt;Predicting Hybridization and Bonding Scheme&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:36:53.510663
-    &lt;ol&gt;
-      &lt;li&gt;Start by drawing the Lewis structure.&lt;/li&gt;
-      &lt;li&gt;Use VSEPR theory to predict the electron group
-geometry around each central atom.&lt;/li&gt;
-      &lt;li&gt;Use Table 7.1 to select the hybridization
-scheme that matches the electron group
-geometry.&lt;/li&gt;
-      &lt;li&gt;Sketch the atomic and hybrid orbitals on the
-atoms in the molecule, showing overlap of the
-appropriate orbitals.&lt;/li&gt;
-      &lt;li&gt;Label the bonds as σ or π.&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-on-hybridization-acetaldehyde-ch3cho&quot;&gt;Practice Problem on Hybridization Acetaldehyde: CH3CHO&lt;/h2&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/s2h_3daFZwQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;problems-with-valence-bond-vb-theory&quot;&gt;Problems with Valence Bond (VB) Theory&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:43:09.953460&lt;/li&gt;
-  &lt;li&gt;VB theory predicts many properties better than Lewis
-theory.
-    &lt;ul&gt;
-      &lt;li&gt;Bonding schemes, bond strengths, bond lengths, bond rigidity&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;However, there are still many properties of molecules it doesn’t predict perfectly.
-    &lt;ul&gt;
-      &lt;li&gt;Magnetic behavior of O2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Resonance hybrids: VB theory presumes the electrons are localized in orbitals on the atoms in the molecule, so doesn’t really address resonance structures&lt;/li&gt;
-  &lt;li&gt;Aka, we still have shortcomings&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;term&lt;/th&gt;
-      &lt;th&gt;definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;hybridization&lt;/td&gt;
-      &lt;td&gt;mixing different types of orbitals in the valence shell to make a new set of degenerate orbitals&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;sp2 hybridization&lt;/td&gt;
-      &lt;td&gt;atom with three electron groups around it (uses nonhybridized p orbital for pi bond)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;sigma (σ) bond&lt;/td&gt;
-      &lt;td&gt;results when the interacting atomic orbitals point along the axis connecting the two bonding nuclei&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;pi bond&lt;/td&gt;
-      &lt;td&gt;results when the bonding atomic orbitals are parallel to each other and perpendicular to the axis connecting the two bonding nuclei&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;sigma bonds are (stronger or weaker?) than pi bonds&lt;/td&gt;
-      &lt;td&gt;stronger&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Mon, 10 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/10/10/week-9-day-1-chapter-7-pt-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/10/week-9-day-1-chapter-7-pt-2.html</guid>
         
         
       </item>
