@@ -6,18 +6,1078 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Nov 2016 16:07:57 -0500</pubDate>
-    <lastBuildDate>Wed, 02 Nov 2016 16:07:57 -0500</lastBuildDate>
+    <pubDate>Mon, 07 Nov 2016 16:54:25 -0600</pubDate>
+    <lastBuildDate>Mon, 07 Nov 2016 16:54:25 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
+        <title>Week 13 - Day 1 (Ch 10 - pt 1)</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2r2v9c&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-13-day-1-ch-10-pt-1.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
+	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;CdMnsyMnbx8&quot;});
+&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Test Wednesday&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:51.121105&lt;/li&gt;
+  &lt;li&gt;Which choice gives the correct oxidation numbers for all three elements in Rb2SO3 in the order that the elements are shown in the formula?
+    &lt;ul&gt;
+      &lt;li&gt;A) -2, +6, -2&lt;/li&gt;
+      &lt;li&gt;B) -1, +4, -3&lt;/li&gt;
+      &lt;li&gt;C) +2, +4, -2&lt;/li&gt;
+      &lt;li&gt;D) +1, +4, -2&lt;/li&gt;
+      &lt;li&gt;E) +1, +6, -6&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp1&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp1').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;chapter-10&quot;&gt;Chapter 10&lt;/h1&gt;
+
+&lt;h2 id=&quot;thermochemistry&quot;&gt;Thermochemistry&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:03:04.167112&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-374c0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;nature-of-energy-work-and-heat&quot;&gt;Nature of Energy, Work, and Heat&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:03:40.491883&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Energy&lt;/em&gt; is anything that has the capacity to do work.
+    &lt;ul&gt;
+      &lt;li&gt;Think of &lt;em&gt;energy&lt;/em&gt; as a quantity an object or collection of objects can possess&lt;/li&gt;
+      &lt;li&gt;Energy can be exchanged between objects through contact.&lt;/li&gt;
+      &lt;li&gt;For example:
+        &lt;ul&gt;
+          &lt;li&gt;through collisions&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Work&lt;/em&gt; is a force acting over a distance.
+    &lt;ul&gt;
+      &lt;li&gt;Energy = work = force × distance&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Heat&lt;/em&gt; is the flow of energy caused by a difference in temperature.&lt;/li&gt;
+  &lt;li&gt;Think of heat and work as the two different ways that an object can exchange energy with other objects.
+    &lt;ul&gt;
+      &lt;li&gt;Either out of it, or into it&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;classification-of-energy&quot;&gt;Classification of Energy&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:06:25.636622&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Kinetic energy&lt;/em&gt; is energy of motion or energy that is being transferred.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Thermal energy&lt;/em&gt; is the energy associated with temperature.
+    &lt;ul&gt;
+      &lt;li&gt;Thermal energy is a form of kinetic energy.&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-60814.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;classification-of-energy-1&quot;&gt;Classification of Energy&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:08:21.249403&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Potential energy&lt;/em&gt; is energy that is stored in an object or energy associated with the composition and position of the object.
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:09:49.310141&lt;/li&gt;
+      &lt;li&gt;Energy stored in the structure of a compound is potential energy.&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-c9ec0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;manifestations-of-energy&quot;&gt;Manifestations of Energy&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:15.834511&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-07-week-13-day-1-ch-10-pt-1-5a7c6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;some-forms-of-energy&quot;&gt;Some Forms of Energy&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:00.066117&lt;/li&gt;
+  &lt;li&gt;Heat or thermal energy
+    &lt;ul&gt;
+      &lt;li&gt;Kinetic energy associated with molecular motion&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Electrical
+    &lt;ul&gt;
+      &lt;li&gt;Kinetic energy associated with the flow of electrical charge&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Light or radiant energy
+    &lt;ul&gt;
+      &lt;li&gt;Kinetic energy associated with energy transitions in an atom&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Nuclear
+    &lt;ul&gt;
+      &lt;li&gt;Potential energy in the nucleus of atoms&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Chemical
+    &lt;ul&gt;
+      &lt;li&gt;Potential energy due to the structure of the atoms, the attachment between atoms, the atoms’ positions relative to each other in a molecule, or the molecules’ relative positions in the structure&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;units-of-energy&quot;&gt;Units of Energy&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:14:08.320504&lt;/li&gt;
+  &lt;li&gt;The amount of kinetic energy an object has is directly proportional to its mass and velocity.
+    &lt;ul&gt;
+      &lt;li&gt;KE = ½mv2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;When the mass is in kg and velocity is in m/s, the unit for kinetic energy is a &lt;em&gt;joule&lt;/em&gt; (J).
+    &lt;ul&gt;
+      &lt;li&gt;1 J = kg m2/s2 = 1 N m&lt;/li&gt;
+      &lt;li&gt;1 joule of energy is the amount of energy needed to move a 1 kg mass at a speed of 1 m/s.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A &lt;em&gt;calorie&lt;/em&gt; (cal) is the amount of energy needed to raise the temperature of one gram of water 1 °C.
+    &lt;ul&gt;
+      &lt;li&gt;1 kcal = energy needed to raise 1000 g of water 1 °C&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A food Calorie (Cal) is 1000 calories.
+    &lt;ul&gt;
+      &lt;li&gt;1 kcal is equivalent to ONE food Calorie = kcals.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conversion-between-energy-units&quot;&gt;Conversion between Energy Units&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-07-week-13-day-1-ch-10-pt-1-7346c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conservation-of-energy&quot;&gt;Conservation of Energy&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:18:02.274506&lt;/li&gt;
+  &lt;li&gt;The &lt;em&gt;law of conservation of energy&lt;/em&gt; states that energy can be neither created nor destroyed.&lt;/li&gt;
+  &lt;li&gt;When energy is transferred between objects, or converted from one form to another, the total amount of energy present at the beginning must be present at the end.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-07-week-13-day-1-ch-10-pt-1-2f303.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;system-and-surroundings&quot;&gt;System and Surroundings&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;System&lt;/em&gt; is defined as the material within which the process we are studying happens.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Surroundings&lt;/em&gt; are defined as everything else with which the system can exchange energy.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Thermodynamics&lt;/em&gt; is the study of energy that is exchanged between the system and the surroundings.
+    &lt;ul&gt;
+      &lt;li&gt;Energy can flow from the system to the surroundings.
+        &lt;ul&gt;
+          &lt;li&gt;Energy of the system drops; energy of surroundings increases.&lt;/li&gt;
+          &lt;li&gt;&lt;em&gt;Exothermic&lt;/em&gt; (flow out of system)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Energy can flow into the system from the surroundings.
+        &lt;ul&gt;
+          &lt;li&gt;Energy of the system increases; energy of the surroundings decreases.&lt;/li&gt;
+          &lt;li&gt;&lt;em&gt;Endothermic&lt;/em&gt; (flow into system)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;comparing-the-amount-of-energy-in-the-system-and-surroundings-during-transfer&quot;&gt;Comparing the Amount of Energy in the System and Surroundings during Transfer&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:24:03.313606&lt;/li&gt;
+  &lt;li&gt;Conservation of energy means that the amount of energy gained or lost by the system has to be equal to the amount of energy lost or gained by the surroundings.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-07-week-13-day-1-ch-10-pt-1-e20e4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-first-law-of-thermodynamics-law-of-conservation-of-energy&quot;&gt;The First Law of Thermodynamics: Law of Conservation of Energy&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Thermodynamics&lt;/em&gt; is the study of energy and its interconversions.&lt;/li&gt;
+  &lt;li&gt;Audio 0:24:58.285011&lt;/li&gt;
+  &lt;li&gt;The first law of thermodynamics is the law of conservation of energy.
+    &lt;ul&gt;
+      &lt;li&gt;This means that the total amount of energy in the universe is constant.&lt;/li&gt;
+      &lt;li&gt;Therefore, you can never build a system that will continue to produce energy without some source of energy.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;energy-flow-and-conservation-of-energy&quot;&gt;Energy Flow and Conservation of Energy&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:06.301332&lt;/li&gt;
+  &lt;li&gt;Conservation of energy requires that the sum of the energy changes in the system and the surroundings must be zero.&lt;/li&gt;
+  &lt;li&gt;Change(energyuniverse) = 0
+    &lt;ul&gt;
+      &lt;li&gt;=Change(Energysystem) + Change(Energysurroundings)&lt;/li&gt;
+      &lt;li&gt;ΔEnergyuniverse = 0 = ΔEnergysystem + ΔEnergysurroundings&lt;/li&gt;
+      &lt;li&gt;Δ is the symbol that is used to mean change.
+        &lt;ul&gt;
+          &lt;li&gt;– Final amount – initial amount&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;internal-energy&quot;&gt;Internal Energy&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:27:47.890733&lt;/li&gt;
+  &lt;li&gt;The &lt;em&gt;internal energy&lt;/em&gt; is the sum of the kinetic and potential energies of all of the particles that compose the system.&lt;/li&gt;
+  &lt;li&gt;The change in the internal energy of a system only depends on the amount of energy in the system at the
+beginning and end.
+    &lt;ul&gt;
+      &lt;li&gt;ΔE = Efinal – Einitial&lt;/li&gt;
+      &lt;li&gt;ΔEreaction = Eproducts − Ereactants&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A &lt;em&gt;state function&lt;/em&gt; is a mathematical function whose result only depends on the initial and final conditions, not on the process used.&lt;/li&gt;
+  &lt;li&gt;It is an &lt;em&gt;Extensive Property&lt;/em&gt; –depends upon the amount of material&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;state-function&quot;&gt;State Function&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;To reach the top of the mountain, there are two trails:
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;ol&gt;
+          &lt;li&gt;Long and winding&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;ol&gt;
+          &lt;li&gt;Short but steep&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Regardless of the trail, when you reach the top, you will be 10,000 ft above the base.&lt;/li&gt;
+  &lt;li&gt;The distance from the base to the peak of the mountain is a state function. It depends only on the difference in elevation between the base and the peak, not on how you arrive there!&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-07-week-13-day-1-ch-10-pt-1-625da.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;in-summary&quot;&gt;In Summary:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:33:20.823776&lt;/li&gt;
+  &lt;li&gt;If the reactants have a higher internal energy than the products:
+    &lt;ul&gt;
+      &lt;li&gt;ΔEsys is said to be negative because energy flows OUT of the system into the surroundings.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If the reactants have a lower internal energy than the products:
+    &lt;ul&gt;
+      &lt;li&gt;ΔEsys is said to be positive because energy flows INTO the system from the surroundings.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The internal energy of the system can be thought in a similar manner.
+    &lt;ul&gt;
+      &lt;li&gt;Energy flowing out of the system is like a withdrawal and therefore carries a negative sign.&lt;/li&gt;
+      &lt;li&gt;Energy flowing into the system is like a deposit and carries a positive sign.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;energy-exchange&quot;&gt;Energy Exchange&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:35.272796&lt;/li&gt;
+  &lt;li&gt;Energy is exchanged between the system and surroundings through heat and work.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;q&lt;/em&gt; = heat (thermal) energy&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;w&lt;/em&gt; = work energy&lt;/li&gt;
+      &lt;li&gt;q and w are NOT state functions; their value depends on the process.
+        &lt;ul&gt;
+          &lt;li&gt;ΔE = q + w&lt;/li&gt;
+          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-07-week-13-day-1-ch-10-pt-1-cb3f7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;energy-exchange-1&quot;&gt;Energy Exchange&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:35:29.581181&lt;/li&gt;
+  &lt;li&gt;Chemists are “System Oriented” so energy gained by system is positive, energy lost is negative&lt;/li&gt;
+  &lt;li&gt;doesn’t matter if it is heat flow or work&lt;/li&gt;
+  &lt;li&gt;(Older) engineering convention where heat flow in is positive and work out is positive&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-07-week-13-day-1-ch-10-pt-1-6ea49.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;heat-exchange&quot;&gt;Heat Exchange&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:39.238039&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Heat&lt;/em&gt; is the exchange of thermal energy between a system and surroundings.&lt;/li&gt;
+  &lt;li&gt;Heat exchange occurs when system and surroundings have a difference in temperature.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Temperature&lt;/em&gt; is the measure of the thermal energy within a sample of matter.&lt;/li&gt;
+  &lt;li&gt;Heat flows from matter with high temperature to matter with low temperature until both objects reach the same temperature.
+    &lt;ul&gt;
+      &lt;li&gt;Thermal equilibrium&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quantity-of-heat-energy-absorbed-heat-capacity&quot;&gt;Quantity of Heat Energy Absorbed: Heat Capacity&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:38:11.929773&lt;/li&gt;
+  &lt;li&gt;When a system absorbs heat, its temperature increases.&lt;/li&gt;
+  &lt;li&gt;The increase in temperature is directly proportional to
+the amount of heat absorbed.&lt;/li&gt;
+  &lt;li&gt;The proportionality constant is called the &lt;em&gt;heat
+ capacity, C&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;q = C × ΔT&lt;/li&gt;
+      &lt;li&gt;Units of C are J/°C or J/K.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The larger the heat capacity of the object being studied, the smaller the temperature rise will be for a given amount of heat.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;factors-affecting-heat-capacity&quot;&gt;Factors Affecting Heat Capacity&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The heat capacity of an object depends on its amount of matter.
+    &lt;ul&gt;
+      &lt;li&gt;Directly proportional to mass.&lt;/li&gt;
+      &lt;li&gt;200 g of water requires twice as much heat to raise its temperature by 1 °C as does 100 g of water.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The heat capacity of an object depends on the type of material.
+    &lt;ul&gt;
+      &lt;li&gt;1000 J of heat energy will raise the temperature of 100 g of sand 12 °C, but only raise the temperature of 100 g of water by 2.4 °C.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Which of the following signs on q and w represent a system that is doing work on the surroundings, as well as gaining heat from the surroundings?
+    &lt;ul&gt;
+      &lt;li&gt;A) q=+, w=-&lt;/li&gt;
+      &lt;li&gt;B) q = -, w = +&lt;/li&gt;
+      &lt;li&gt;C) q = +, w = +&lt;/li&gt;
+      &lt;li&gt;D) q = -, w = -&lt;/li&gt;
+      &lt;li&gt;E) None of these represent the system referenced&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp2&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;energy&lt;/td&gt;
+      &lt;td&gt;anything that has the capacity to do work&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;work&lt;/td&gt;
+      &lt;td&gt;force acting over a distance&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;kinetic energy&lt;/td&gt;
+      &lt;td&gt;energy of motion&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;thermal energy&lt;/td&gt;
+      &lt;td&gt;energy associated with temperature&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;potential energy&lt;/td&gt;
+      &lt;td&gt;energy stored in an object or associated with the composition of an object&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;heat&lt;/td&gt;
+      &lt;td&gt;the flow of energy caused by a difference in temperature&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;joule&lt;/td&gt;
+      &lt;td&gt;the unit for kinetic energy (N m)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;calorie&lt;/td&gt;
+      &lt;td&gt;the amount of energy needed to raise the temperature of one gram of water 1 °C&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;law of conservation of energy&lt;/td&gt;
+      &lt;td&gt;states that energy can be neither created nor destroyed&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;system&lt;/td&gt;
+      &lt;td&gt;the material within which the process we are studying happens&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;surroundings&lt;/td&gt;
+      &lt;td&gt;defined as everything other than the system with which the system can exchange energy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;thermodynamics&lt;/td&gt;
+      &lt;td&gt;the study of energy and its interconversions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;internal energy&lt;/td&gt;
+      &lt;td&gt;the sum of the kinetic and potential energies of all of the particles that compose the system&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;state function&lt;/td&gt;
+      &lt;td&gt;mathematical function whose result only depends on the initial and final conditions, not on the process used&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;temperature&lt;/td&gt;
+      &lt;td&gt;the measure of the thermal energy within a sample of matter&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Mon, 07 Nov 2016 00:00:00 -0600</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/11/07/week-13-day-1-ch-10-pt-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/07/week-13-day-1-ch-10-pt-1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Recitation - Week 12 (3rd for test 3)</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;1) Determine the molarity of a solution formed by dissolving 468 mg Of M812 in enough water to yield 50.0 mL
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.0297 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.0337 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.0936 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.0107 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 0.0651 M&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2) Identify acetic acid.&lt;/li&gt;
+  &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) strong electrolyte, weak acid&lt;/li&gt;
+  &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) weak electrolyte, weak acid&lt;/li&gt;
+  &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) strong electrolyte, strong acid&lt;/li&gt;
+  &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) weak electrolyte, strong acid&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) nonelectrolyte&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;3) Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of HOSOA and KOH are mixed.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) H+(aq) + oH-(aq) -&amp;gt; H2O(l)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 2 K+(aq) + SO4^2-(aq) -&amp;gt; K2SO4(s)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) H+(aq) + OH-(aq) + 2 K+(aq) + SO4^2-(aq) -&amp;gt; H2O(l) + K2SO4(S)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) H2^2+(aq) + OH-(ao) -&amp;gt; H2(0H)2(l)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) No reaction occurs.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;4) Pure acetic acid (CH3COOH) is a liquid and is known as glacial acetic acid. Calculate the molarity of a solution prepared by dissolving 15.00 mL of glacial acetic acid at 25°C in sufficient water to give 500.0 n1L of solution. The density of glacial acetic acid at 25°C is 1.05 g/mL.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 1.89 * 10^3 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 31.5 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.0315 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.525 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 5.25 * 10^-4M&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;5) When 7.80 mL of 0.500 M AgNO3 is added to 6.25 mL of 0.300 M NH4Cl, how many grams of AgCl are formed?
+    &lt;ul&gt;
+      &lt;li&gt;AgN03(aq) + NH4Cl(aq) -&amp;gt; AgCl(s) + NH4NO3(aq)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.269 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.553 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.822 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 1.61 g&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;6) Which of the following compounds will undergo a gas-evolving reaction in an aqueous solution?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) CH3COOH&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) HF&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) HCl&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) H2SO4&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) H2CO3&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;7) Determine the concentration of a solution prepared by diluting 20.0 mL of a 0.200 M KCl to 250.0 mL.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.l60 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.0320 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 2.50 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.00800 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 0.0160 M&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;8) What mass (in g) of AgCl is formed from the reaction of 75.0 mL of a 0.078 M AgC2H302 solution with 55.0 mL of 0.109 M MgCl2 solution?
+    &lt;ul&gt;
+      &lt;li&gt;2 AgC2H3O2(aq) + MgCl2(aq) -&amp;gt; 2 AgCl(S) + Mg(C2H3O2)2(aq)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.838 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 1.72 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.859 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 2.56 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 1.70 g&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;9) Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of K2S and Fe(NO3)2 are mixed.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) K+(aq) + N03-(aq) -&amp;gt; KNO3(s)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) Fe2+(aq) + S2-(aq) + 2 K+(aq) + 2 N03-(aq) -&amp;gt; FeS(s) + 2 K+(aq) + 2 NO3-(aq)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Fe2+(aq) + S2-(aq) + 2 K+(aq) + 2 N03-(aq) -&amp;gt; Fe2+(aq) + S2-(aq) + 2 KNO3(s)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) Fe2+(aq) + S2-(aq) -&amp;gt; FeS(s)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) No reaction occurs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;10) All of the following compounds are soluble except
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) Ba(OH)2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) Pb(NO3)2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) ZnCl2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) AgBr&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) Cu(C2H3O2)2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;11) Two samples of potassium iodide are decomposed into their constituent elements. The first sample produced 13.0 g of potassium and 42.3 g of iodine. If the second sample produced 24.4 kg of potassium, how many kg of iodine were produced?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 13.3 kg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 22.5 kg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 79.4 kg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 44.4 kg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 92.4 kg&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;12 Determine the number of grams H2 formed when 250.0 mL of 0.743 M HCl solution reacts with 3.41 * 10^23 atoms of Fe according to the following reaction
+    &lt;ul&gt;
+      &lt;li&gt;2HCl(aq) + Fe(s) -&amp;gt; H2(g) + FeCl2(aq)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.374g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 1.33g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 1.l4g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.l87g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) l.5l g&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+var answers = [&quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;d&quot;, &quot;a&quot;, &quot;e&quot;, &quot;e&quot;, &quot;a&quot;, &quot;d&quot;, &quot;d&quot;, &quot;c&quot;, &quot;d&quot;];
+function getAnswer(number) {
+  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
+}
+function validate() {
+  var any = false;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (!answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
+      any = true;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
+    }
+  }
+  if (any) {
+    toastr.error(&quot;You did not answer every question!&quot;);
+  }
+  return !any;
+}
+function grade() {
+  if (!validate()) return;
+  var correct = 0;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (answers[i-1] == answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
+      correct++;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
+    }
+  }
+  toastr.success(&quot;Your grade is &quot;+ ((correct/answers.length) * 100).toFixed(2) + &quot; out of 100&quot;);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 05 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/11/05/recitation-week-12-3rd-for-test-3.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/05/recitation-week-12-3rd-for-test-3.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 12 - Day 3</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2r2yd9&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-12-day-3.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
+	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;1nNpef6p2h0&quot;});
+&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Next Wednesday is Test 3!!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:03:32.431301&lt;/li&gt;
+  &lt;li&gt;The titration of 80.0 mL of an unknown concentration of H3PO4 solution requires 126 mL of .218 M KOH solution. What is the concentration of H3PO4 solution (in M)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7hW7bBbAAF4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;oxidationreduction-reactions&quot;&gt;Oxidation–Reduction Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:09:22.846460&lt;/li&gt;
+  &lt;li&gt;The reactions in which electrons are transferred from one reactant to the other are called &lt;em&gt;oxidation–reduction reactions&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;These are also called redox reactions.&lt;/li&gt;
+      &lt;li&gt;Many redox reactions involve the reaction of a substance with oxygen.&lt;/li&gt;
+      &lt;li&gt;Examples:&lt;/li&gt;
+      &lt;li&gt;2 C8H18(l) + 25 O2(g) → 16 CO2(g) + 18 H2O(g) (combustion)&lt;/li&gt;
+      &lt;li&gt;2 H2(g) + O2(g) → 2 H2O(g)&lt;/li&gt;
+      &lt;li&gt;4 Fe(s) + 3 O2(g) → 2 Fe2O3(s) (rusting)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;oxidation-and-reduction-redox&quot;&gt;Oxidation and Reduction (Redox)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:11:42.911701&lt;/li&gt;
+  &lt;li&gt;To convert a free element into an ion, the atoms must gain or lose electrons.
+    &lt;ul&gt;
+      &lt;li&gt;NOTE: If one atom loses electrons, another must accept them.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Atoms that &lt;em&gt;lose electrons&lt;/em&gt; are being &lt;em&gt;oxidized&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;The reaction is referred to as &lt;em&gt;oxidation&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Atoms that &lt;em&gt;gain electrons&lt;/em&gt; are being &lt;em&gt;reduced&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;The reaction is referred to as &lt;em&gt;reduction&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Audio 0:14:01.108735&lt;/li&gt;
+  &lt;li&gt;Example: 2 Na(s) + Cl2(g) → 2 NaCl(s)
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:14:42.939831&lt;/li&gt;
+      &lt;li&gt;Na → Na+ + 1 e– (oxidation; sodium lost electrons)&lt;/li&gt;
+      &lt;li&gt;Cl2 + 2 e– → 2 Cl– (reduction; chlorine atom gained electrons)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;redox-reactions&quot;&gt;Redox Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:15:20.876721&lt;/li&gt;
+  &lt;li&gt;Oxidation and reduction must occur simultaneously.
+    &lt;ul&gt;
+      &lt;li&gt;If an atom loses electrons, another atom must take them.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The reactant that reduces an element in another reactant is called the reducing agent.
+    &lt;ul&gt;
+      &lt;li&gt;The &lt;em&gt;reducing agent&lt;/em&gt; contains the element that is oxidized.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The reactant that oxidizes an element in another reactant is called the &lt;em&gt;oxidizing agent&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;The oxidizing agent contains the element that is reduced.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example: 2 Na(s) + Cl2(g) → 2 NaCl(s)
+    &lt;ul&gt;
+      &lt;li&gt;Na is oxidized, while Cl is reduced.&lt;/li&gt;
+      &lt;li&gt;Na is the reducing agent, and Cl2 is the oxidizing agent.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;oxidation-states-electron-book-keeping&quot;&gt;Oxidation States: “Electron Book Keeping”&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:19:09.006032&lt;/li&gt;
+  &lt;li&gt;For reactions that are not metal + nonmetal, or do not involve O2, a method for determining how the electrons are transferred is required to determine which element is being oxidized and which element is being reduced.&lt;/li&gt;
+  &lt;li&gt;Chemists assign a number to each element in a reaction called an &lt;em&gt;oxidation state&lt;/em&gt; that allows them to determine the electron flow in the reaction.
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:20:40.459510&lt;/li&gt;
+      &lt;li&gt;Even though they look like them, oxidation states are not ion charges!
+        &lt;ul&gt;
+          &lt;li&gt;Oxidation states are imaginary charges assigned based on a set of rules.&lt;/li&gt;
+          &lt;li&gt;Ion charges are real, measurable charges.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;rules-for-assigning-oxidation-states&quot;&gt;Rules for Assigning Oxidation States&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:41.166326&lt;/li&gt;
+  &lt;li&gt;The following rules are in order of priority:
+    &lt;ol&gt;
+      &lt;li&gt;Free elements have an oxidation state = 0.
+        &lt;ul&gt;
+          &lt;li&gt;Na = 0 and Cl2 = 0 in 2 Na(s) + Cl2(g)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Monatomic ions have an oxidation state equal to their charge.
+        &lt;ul&gt;
+          &lt;li&gt;Na = +1 and Cl = −1 in NaCl&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;(a) The sum of the oxidation states of all the atoms in a compound is 0.
+        &lt;ul&gt;
+          &lt;li&gt;Na = +1 and Cl = −1 in NaCl, (+1) + (−1) = 0&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;rules-for-assigning-oxidation-states-continued&quot;&gt;Rules for Assigning Oxidation States Continued&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:25:29.324643
+    &lt;ol&gt;
+      &lt;li&gt;(b) The sum of the oxidation states of all the atoms in a polyatomic ion equals the charge on the ion.
+        &lt;ul&gt;
+          &lt;li&gt;N = +5 and O = −2 in NO3 –, (+5) + 3(−2) = −1&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;(a) Group I metals have an oxidation state of +1 in all their compounds.
+        &lt;ul&gt;
+          &lt;li&gt;Na = +1 in NaCl&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;(b) Group II metals have an oxidation state of +2 in all their compounds.
+        &lt;ul&gt;
+          &lt;li&gt;Mg = +2 in MgCl2&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;In their compounds, nonmetals have oxidation states according to the following table.
+        &lt;ul&gt;
+          &lt;li&gt;Nonmetals higher on the table take priority.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;rules-for-assigning-oxidation-states-1&quot;&gt;Rules for Assigning Oxidation States&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-7847e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-assigning-oxidation-states&quot;&gt;Practice Problem: Assigning Oxidation States&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:28:14.744310&lt;/li&gt;
+  &lt;li&gt;Assign an oxidation state to each atom in each element, ion or compound
+(a) Cl2 (b) Na+ (c) KF (d) CO2 (e) SO4^2- (f) K2O2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:35:08.680784&lt;/li&gt;
+  &lt;li&gt;Determine the oxidation state of nitrogen in NO2
+    &lt;ul&gt;
+      &lt;li&gt;A) +5&lt;/li&gt;
+      &lt;li&gt;B) +3&lt;/li&gt;
+      &lt;li&gt;C) 0&lt;/li&gt;
+      &lt;li&gt;D) +2&lt;/li&gt;
+      &lt;li&gt;E) +4&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp2&quot; style=&quot;display:none&quot;&gt;E&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;identifying-redox-reactions&quot;&gt;Identifying Redox Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:40.373032&lt;/li&gt;
+  &lt;li&gt;Oxidation: An increase in oxidation state&lt;/li&gt;
+  &lt;li&gt;Reduction: A decrease in oxidation state&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-04-week-12-day-3-422d3.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Carbon changes from an oxidation state of 0 to an oxidation state of +4.
+        &lt;ul&gt;
+          &lt;li&gt;Carbon loses electrons and is oxidized.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Sulfur changes from an oxidation state of 0 to an oxidation state of –2.
+        &lt;ul&gt;
+          &lt;li&gt;Sulfur gains electrons and is reduced.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;redox-reaction&quot;&gt;Redox Reaction&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:37:34.617890&lt;/li&gt;
+  &lt;li&gt;NOTE:&lt;/li&gt;
+  &lt;li&gt;The transfer of electrons does not need to be a complete transfer (as
+occurs in the formation of an ionic compound) for the reaction to
+qualify as oxidation–reduction.
+    &lt;ul&gt;
+      &lt;li&gt;For example, consider the reaction between hydrogen gas and chlorine gas:
+        &lt;ul&gt;
+          &lt;li&gt;H2(g) + Cl2(g) → 2 HCl(g)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;When hydrogen bonds to chlorine, the electrons are unevenly shared, resulting in:
+    &lt;ul&gt;
+      &lt;li&gt;An increase of electron density (reduction) for chlorine&lt;/li&gt;
+      &lt;li&gt;A decrease in electron density (oxidation) for hydrogen&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;combustion-as-redox&quot;&gt;Combustion as Redox&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 H2(g) + O2(g) → 2 H2O(g)&lt;/li&gt;
+  &lt;li&gt;Hydrogen and Oxygen reacts to form water in the gaseous state (steam).&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-0a7d6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-oxidation-states-and-identifying&quot;&gt;Practice Problem: Oxidation States and Identifying&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:39:01.686365&lt;/li&gt;
+  &lt;li&gt;What Is Being Oxidized and What Is Being Reduced Use oxidation state to identify the element that is oxidized
+and the element that is reduced:&lt;/li&gt;
+  &lt;li&gt;Mg(s) +2 H2O(l) à Mg(OH)2(aq) + H2(g)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:39:32.867693&lt;/li&gt;
+  &lt;li&gt;What element is undergoing reduction (if any) in the following reaction?
+    &lt;ul&gt;
+      &lt;li&gt;Zn(s) + 2AgNO3(aq) -&amp;gt; Zn(NO3)2(aq) + 2 Ag(s)&lt;/li&gt;
+      &lt;li&gt;A) Zn&lt;/li&gt;
+      &lt;li&gt;B) N&lt;/li&gt;
+      &lt;li&gt;C) O&lt;/li&gt;
+      &lt;li&gt;D) Ag&lt;/li&gt;
+      &lt;li&gt;E) This is not an oxidation-reduction reaction&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp3&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;redox-without-combustion&quot;&gt;Redox without Combustion&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 Na(s) + Cl2(g) → 2 NaCl(s)&lt;/li&gt;
+  &lt;li&gt;Sodium metal transfers electrons to chlorine gas to form solid sodium chloride. The sodium metal is reduced and chlorine is oxidized.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-bce0d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-oxidation-states-and-identifying-1&quot;&gt;Practice Problem: Oxidation States and Identifying&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What Is Being Oxidized and What Is Being Reduced&lt;/li&gt;
+  &lt;li&gt;Determine whether or not each reaction is an oxidation-reduction reaction. For each oxidation-reduction reaction, identify the oxidizing agent and the reducing agent.
+    &lt;ul&gt;
+      &lt;li&gt;a) 2 Mg(s) + O2(g) à 2 MgO(s)&lt;/li&gt;
+      &lt;li&gt;b) 2HBr(aq) + Ca(OH)2(aq) à 2 H2O(l) + CaBr2(aq)&lt;/li&gt;
+      &lt;li&gt;c) Zn(s) + Fe2+(aq) à Zn2+(aq) + Fe(s)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;titration&lt;/td&gt;
+      &lt;td&gt;when a substance in a solution of known concentration is reacted with another substance in a solution of unknown concentration&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;equivalence point&lt;/td&gt;
+      &lt;td&gt;when exactly enough solution has been added the reactants are in their stoichiometric ratio&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;indicator&lt;/td&gt;
+      &lt;td&gt;chemical that changes color when the solution undergoes large changes in acidity/alkalinity&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;endpoint&lt;/td&gt;
+      &lt;td&gt;when the indicator changes color during titration&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;equivalence point&lt;/td&gt;
+      &lt;td&gt;when the number of moles of H+ equals the number of moles of OH– in an acid-base titration&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;oxidation&lt;/td&gt;
+      &lt;td&gt;when atoms lose electrons&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;reduction&lt;/td&gt;
+      &lt;td&gt;when atoms gain electrons&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;reducing agent&lt;/td&gt;
+      &lt;td&gt;contains the element that is oxidized in a redox reaction&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;oxidizing agent&lt;/td&gt;
+      &lt;td&gt;the reactant that oxidizes an element in another reactant in a redox reaction&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;oxidation–reduction reactions&lt;/td&gt;
+      &lt;td&gt;reactions in which electrons are transferred from one reactant to the other&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Fri, 04 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/11/04/week-12-day-3.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/04/week-12-day-3.html</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Week 12 - Day 2 (Ch 9 - Pt 3)</title>
-        <description>&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-12-day-2-ch-9-pt-3.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
+	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;xsOcYfP7Pm4&quot;});
+&lt;/script&gt;
+
+&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:00:38.000666&lt;/li&gt;
-  &lt;li&gt;Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of Na2CO3 and HCl are mixed&lt;/li&gt;
+  &lt;li&gt;Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of Na2CO3 and HCl are mixed
+    &lt;ul&gt;
+      &lt;li&gt;A) 2H+(aq)+CO3 2-(aq) → H2CO3(s)&lt;/li&gt;
+      &lt;li&gt;B) 2Na+(aq)+CO3 2-(aq)+2H+(aq) + 2Cl- (aq) → H2CO3(s)+2NaCl(aq)&lt;/li&gt;
+      &lt;li&gt;C) 2H+(aq)+CO3 2-(aq) → H2O(l)+CO2(g)&lt;/li&gt;
+      &lt;li&gt;D) 2Na+(aq)+CO3 2-(aq)+2H+(aq)+2Cl- (aq)→H2CO3(s)+2Na+(aq)+2Cl- (aq)&lt;/li&gt;
+      &lt;li&gt;E) No reaction occurs.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;cp2&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;how-to-name-an-oxyacid&quot;&gt;How to Name an Oxyacid&lt;/h2&gt;
 
@@ -88,7 +1148,8 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;B&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;cp1&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp1').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;acidbase-chemical-reactions&quot;&gt;Acid–Base Chemical Reactions&lt;/h2&gt;
 
@@ -183,15 +1244,19 @@
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:21:18.340305&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Which of the following is an acid-base reaction?&lt;/p&gt;
+  &lt;li&gt;Which of the following is an acid-base reaction?
+    &lt;ul&gt;
+      &lt;li&gt;A) C(s) + O2(g) → CO2(g)&lt;/li&gt;
+      &lt;li&gt;B) 2 HClO4(aq) + Ca(OH)2(aq) → 2 H2O(l) + Ca(ClO4)2(aq)&lt;/li&gt;
+      &lt;li&gt;C) Fe(s) + 2 AgNO3(aq) → 2 Ag(s) + Fe(NO3)2(aq)&lt;/li&gt;
+      &lt;li&gt;D) MgSO4(aq) + Ba(NO3)2(aq) → Mg(NO3)2(aq) + BaSO4(s)&lt;/li&gt;
+      &lt;li&gt;E) None of the above are acid base reactions.&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;A) C(s) + O2(g) -&amp;gt; CO2(g)&lt;/li&gt;
-  &lt;li&gt;B) 2 HClO4(aq) + Ca(OH)2(aq) -&amp;gt; 2H2O(l) + Ca(ClO4)2(aq)&lt;/li&gt;
-  &lt;li&gt;C)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;B&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;cp3&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;acidbase-titrations&quot;&gt;Acid–Base Titrations&lt;/h2&gt;
 
@@ -248,6 +1313,9 @@
 &lt;ul&gt;
   &lt;li&gt;Audio 0:32:01.268341&lt;/li&gt;
   &lt;li&gt;The titration of a 10.00 mL sample of HCL solution of unknown concentration requires 12.54 ml of a 0.100 M NaOH solution to reach the equivalence point. What is the concentration of the unknown HCl solution in M?&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cKzo_JVPhDo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;clicker-4&quot;&gt;Clicker 4&lt;/h2&gt;
@@ -255,6 +1323,9 @@
 &lt;ul&gt;
   &lt;li&gt;Audio 0:33:40.733664&lt;/li&gt;
   &lt;li&gt;The titration of 25.0 mL of an unknown concentration of H2SO4 solution requires 83.6 mL of 0.12 M LiOH solution. What is the concentration of the H2&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Zgo8tHXatzE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;gas-evolution-chemical-reactions&quot;&gt;Gas-Evolution Chemical Reactions&lt;/h2&gt;
@@ -301,280 +1372,6 @@
   &lt;li&gt;Audio 0:44:59.297799&lt;/li&gt;
   &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-f8880.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&quot;oxidationreduction-reactions&quot;&gt;Oxidation–Reduction Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The reactions in which electrons are transferred from one reactant to the other are called oxidation–reduction reactions.
-    &lt;ul&gt;
-      &lt;li&gt;These are also called redox reactions.&lt;/li&gt;
-      &lt;li&gt;Many redox reactions involve the reaction of a substance with oxygen.&lt;/li&gt;
-      &lt;li&gt;Examples:&lt;/li&gt;
-      &lt;li&gt;2 C8H18(l) + 25 O2(g) → 16 CO2(g) + 18 H2O(g) (combustion)&lt;/li&gt;
-      &lt;li&gt;2 H2(g) + O2(g) → 2 H2O(g)&lt;/li&gt;
-      &lt;li&gt;4 Fe(s) + 3 O2(g) → 2 Fe2O3(s) (rusting)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;oxidation-and-reduction-redox&quot;&gt;Oxidation and Reduction (Redox)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To convert a free element into an ion, the atoms must gain or lose electrons.
-    &lt;ul&gt;
-      &lt;li&gt;NOTE: If one atom loses electrons, another must accept them.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Atoms that &lt;em&gt;lose electrons&lt;/em&gt; are being &lt;em&gt;oxidized&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;The reaction is referred to as &lt;em&gt;oxidation&lt;/em&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Atoms that &lt;em&gt;gain electrons&lt;/em&gt; are being &lt;em&gt;reduced&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;The reaction is referred to as &lt;em&gt;reduction&lt;/em&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Example: 2 Na(s) + Cl2(g) → 2 NaCl(s)
-    &lt;ul&gt;
-      &lt;li&gt;Na → Na+ + 1 e– (oxidation; sodium lost electrons)&lt;/li&gt;
-      &lt;li&gt;Cl2 + 2 e– → 2 Cl– (reduction; chlorine atom gained electrons)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;redox-reactions&quot;&gt;Redox Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Oxidation and reduction must occur simultaneously.
-    &lt;ul&gt;
-      &lt;li&gt;If an atom loses electrons, another atom must take them.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The reactant that reduces an element in another reactant is called the reducing agent.
-    &lt;ul&gt;
-      &lt;li&gt;The &lt;em&gt;reducing agent&lt;/em&gt; contains the element that is oxidized.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The reactant that oxidizes an element in another reactant is called the &lt;em&gt;oxidizing agent&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;The oxidizing agent contains the element that is reduced.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Example: 2 Na(s) + Cl2(g) → 2 NaCl(s)
-    &lt;ul&gt;
-      &lt;li&gt;Na is oxidized, while Cl is reduced.&lt;/li&gt;
-      &lt;li&gt;Na is the reducing agent, and Cl2 is the oxidizing agent.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;oxidation-states-electron-book-keeping&quot;&gt;Oxidation States: “Electron Book Keeping”&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;For reactions that are not metal + nonmetal, or do not involve O2, a method for determining how the electrons are transferred is required to determine which element is being oxidized and which element is being reduced.&lt;/li&gt;
-  &lt;li&gt;Chemists assign a number to each element in a reaction called an &lt;em&gt;oxidation state&lt;/em&gt; that allows them to determine the electron flow in the reaction.
-    &lt;ul&gt;
-      &lt;li&gt;Even though they look like them, oxidation states are not ion charges!
-        &lt;ul&gt;
-          &lt;li&gt;Oxidation states are imaginary charges assigned based on a set of rules.&lt;/li&gt;
-          &lt;li&gt;Ion charges are real, measurable charges.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;rules-for-assigning-oxidation-states&quot;&gt;Rules for Assigning Oxidation States&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The following rules are in order of priority:
-    &lt;ol&gt;
-      &lt;li&gt;Free elements have an oxidation state = 0.
-        &lt;ul&gt;
-          &lt;li&gt;Na = 0 and Cl2 = 0 in 2 Na(s) + Cl2(g)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Monatomic ions have an oxidation state equal to their charge.
-        &lt;ul&gt;
-          &lt;li&gt;Na = +1 and Cl = −1 in NaCl&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;(a) The sum of the oxidation states of all the atoms in a compound is 0.
-        &lt;ul&gt;
-          &lt;li&gt;Na = +1 and Cl = −1 in NaCl, (+1) + (−1) = 0&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;rules-for-assigning-oxidation-states-continued&quot;&gt;Rules for Assigning Oxidation States Continued&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;(b) The sum of the oxidation states of all the atoms in a polyatomic ion equals the charge on the ion.
-    &lt;ul&gt;
-      &lt;li&gt;N = +5 and O = −2 in NO3 –, (+5) + 3(−2) = −1&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;(a) Group I metals have an oxidation state of +1 in all their compounds.
-    &lt;ul&gt;
-      &lt;li&gt;Na = +1 in NaCl&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;(b) Group II metals have an oxidation state of +2 in all their compounds.
-    &lt;ul&gt;
-      &lt;li&gt;Mg = +2 in MgCl2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In their compounds, nonmetals have oxidation states according to the following table.
-    &lt;ul&gt;
-      &lt;li&gt;Nonmetals higher on the table take priority.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;rules-for-assigning-oxidation-states-1&quot;&gt;Rules for Assigning Oxidation States&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-7847e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-assigning-oxidation-states&quot;&gt;Practice Problem: Assigning Oxidation States&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Assign an oxidation state to each atom in each element, ion or compound
-(a) Cl2 (b) Na+ (c) KF (d) CO2 (e) SO4^2- (f) K2O2&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;identifying-redox-reactions&quot;&gt;Identifying Redox Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Oxidation: An increase in oxidation state&lt;/li&gt;
-  &lt;li&gt;Reduction: A decrease in oxidation state
-    &lt;ul&gt;
-      &lt;li&gt;Carbon changes from an oxidation state of 0 to an oxidation state of +4.
-        &lt;ul&gt;
-          &lt;li&gt;Carbon loses electrons and is oxidized.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Sulfur changes from an oxidation state of 0 to an oxidation state of –2.
-        &lt;ul&gt;
-          &lt;li&gt;Sulfur gains electrons and is reduced.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;redox-reaction&quot;&gt;Redox Reaction&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;NOTE:&lt;/li&gt;
-  &lt;li&gt;The transfer of electrons does not need to be a complete transfer (as
-occurs in the formation of an ionic compound) for the reaction to
-qualify as oxidation–reduction.
-    &lt;ul&gt;
-      &lt;li&gt;For example, consider the reaction between hydrogen gas and chlorine gas:
-        &lt;ul&gt;
-          &lt;li&gt;H2(g) + Cl2(g) → 2 HCl(g)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;When hydrogen bonds to chlorine, the electrons are unevenly shared, resulting in:
-    &lt;ul&gt;
-      &lt;li&gt;An increase of electron density (reduction) for chlorine&lt;/li&gt;
-      &lt;li&gt;A decrease in electron density (oxidation) for hydrogen&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;combustion-as-redox&quot;&gt;Combustion as Redox&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2 H2(g) + O2(g) → 2 H2O(g)&lt;/li&gt;
-  &lt;li&gt;Hydrogen and Oxygen reacts to form water in the gaseous state (steam).&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-0a7d6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-oxidation-states-and-identifying&quot;&gt;Practice Problem: Oxidation States and Identifying&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What Is Being Oxidized and What Is Being Reduced Use oxidation state to identify the element that is oxidized
-and the element that is reduced:&lt;/li&gt;
-  &lt;li&gt;Mg(s) +2 H2O(l) à Mg(OH)2(aq) + H2(g)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;redox-without-combustion&quot;&gt;Redox without Combustion&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2 Na(s) + Cl2(g) → 2 NaCl(s)&lt;/li&gt;
-  &lt;li&gt;Sodium metal transfers electrons to chlorine gas to form solid sodium chloride. The sodium metal is reduced and chlorine is oxidized.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-bce0d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-oxidation-states-and-identifying-1&quot;&gt;Practice Problem: Oxidation States and Identifying&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What Is Being Oxidized and What Is Being Reduced&lt;/li&gt;
-  &lt;li&gt;Determine whether or not each reaction is an oxidation-reduction reaction. For each oxidation-reduction reaction, identify the oxidizing agent and the reducing agent.
-    &lt;ul&gt;
-      &lt;li&gt;a) 2 Mg(s) + O2(g) à 2 MgO(s)&lt;/li&gt;
-      &lt;li&gt;b) 2HBr(aq) + Ca(OH)2(aq) à 2 H2O(l) + CaBr2(aq)&lt;/li&gt;
-      &lt;li&gt;c) Zn(s) + Fe2+(aq) à Zn2+(aq) + Fe(s)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;titration&lt;/td&gt;
-      &lt;td&gt;when a substance in a solution of known concentration is reacted with another substance in a solution of unknown concentration&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;equivalence point&lt;/td&gt;
-      &lt;td&gt;when exactly enough solution has been added the reactants are in their stoichiometric ratio&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;indicator&lt;/td&gt;
-      &lt;td&gt;chemical that changes color when the solution undergoes large changes in acidity/alkalinity&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;endpoint&lt;/td&gt;
-      &lt;td&gt;when the indicator changes color during titration&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;equivalence point&lt;/td&gt;
-      &lt;td&gt;when the number of moles of H+ equals the number of moles of OH– in an acid-base titration&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;oxidation&lt;/td&gt;
-      &lt;td&gt;when atoms lose electrons&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;reduction&lt;/td&gt;
-      &lt;td&gt;when atoms gain electrons&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;reducing agent&lt;/td&gt;
-      &lt;td&gt;contains the element that is oxidized in a redox reaction&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;oxidizing agent&lt;/td&gt;
-      &lt;td&gt;the reactant that oxidizes an element in another reactant in a redox reaction&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
 </description>
         <pubDate>Wed, 02 Nov 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/11/02/week-12-day-2-ch-9-pt-3.html</link>
@@ -588,6 +1385,28 @@ and the element that is reduced:&lt;/li&gt;
         <description>&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2pvcqm&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-12-day-1-ch-9-pt-2.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
+	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;B76q_sZ4RBs&quot;});
+&lt;/script&gt;
 
 &lt;h1 id=&quot;clicker&quot;&gt;Clicker&lt;/h1&gt;
 
@@ -2401,736 +3220,6 @@ to eat.&lt;/li&gt;
         <pubDate>Wed, 19 Oct 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/10/19/week-10-day-2.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/19/week-10-day-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 10 - Day 1</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2nmciq&quot;&gt;Vocab&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-10-day-1.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
-	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
-	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
-&lt;/div&gt;
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
-	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;evKcskFiEbM&quot;});
-&lt;/script&gt;
-
-&lt;h1 id=&quot;chapter-8&quot;&gt;Chapter 8&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:01:43.748905&lt;/li&gt;
-  &lt;li&gt;Chemical Reactions and Chemical Quantities&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-9b3d1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;climate-change-and-combustion-of-fossil-fuels-the-greenhouse-effect&quot;&gt;Climate Change and Combustion of Fossil Fuels: The Greenhouse Effect&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:02:03.985553&lt;/li&gt;
-  &lt;li&gt;Greenhouse gases in
-the atmosphere:
-    &lt;ul&gt;
-      &lt;li&gt;Allow sunlight to enter the atmosphere&lt;/li&gt;
-      &lt;li&gt;Warm Earth’s surface&lt;/li&gt;
-      &lt;li&gt;Prevent some of the heat generated by the sunlight from escaping
-        &lt;ul&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-f7711.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-          &lt;li&gt;The balance between incoming and outgoing energy from the sun determines Earth’s average temperature.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;global-warming&quot;&gt;Global Warming&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Scientists have measured an average &amp;gt;0.8 °C
-rise in atmospheric temperature since 1860.&lt;/li&gt;
-  &lt;li&gt;During the same period, atmospheric CO2 levels
-have risen &amp;gt;25%.&lt;/li&gt;
-  &lt;li&gt;Are the two trends causal?&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-14dde.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;how-much-matters&quot;&gt;How Much Matters&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:04:16.146433&lt;/li&gt;
-  &lt;li&gt;It’s important to know how much CO2 is in the air. We’re going to learn how to calculate that&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;physical-changes-in-matter&quot;&gt;Physical Changes in Matter&lt;/h2&gt;
-
-&lt;h3 id=&quot;what-is-a-physical-change&quot;&gt;What is a physical change?&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:04:38.768317&lt;/li&gt;
-  &lt;li&gt;Changes that alter &lt;em&gt;only the state or appearance&lt;/em&gt;, but not composition, are &lt;em&gt;physical changes&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;The atoms or molecules that compose a substance do not change their identity during a physical change.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-0c8b9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;When water boils, it changes its state from a liquid to a gas.&lt;/li&gt;
-  &lt;li&gt;The gas remains composed of water molecules, so this is a physical change.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;chemical-changes-in-matter&quot;&gt;Chemical Changes in Matter&lt;/h2&gt;
-
-&lt;h3 id=&quot;what-is-a-chemical-change&quot;&gt;What is a chemical change?&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:05:34.019413&lt;/li&gt;
-  &lt;li&gt;Changes that alter the composition of matter are chemical changes.&lt;/li&gt;
-  &lt;li&gt;During a chemical change, atoms rearrange, transforming the original substances into different substances.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-891a3.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;A rusting nail is a chemical change.&lt;/li&gt;
-      &lt;li&gt;Rust occurs when the iron atoms exchange electrons with oxygen atoms— combining to form a NEW or different chemical substance.&lt;/li&gt;
-      &lt;li&gt;Iron rust is the compound iron(III) oxide (Fe2O3).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A chemical change&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;chemical-reactions&quot;&gt;Chemical Reactions&lt;/h2&gt;
-
-&lt;h2 id=&quot;writing-and-balancing-chemical-reactions&quot;&gt;Writing and Balancing Chemical Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:10:25.923688&lt;/li&gt;
-  &lt;li&gt;Reactions involve chemical changes in matter resulting in new substances.&lt;/li&gt;
-  &lt;li&gt;Reactions involve rearrangement and exchange of atoms to produce new molecules.&lt;/li&gt;
-  &lt;li&gt;A chemical reaction is a written statement.
-    &lt;ul&gt;
-      &lt;li&gt;It states the quantities, the chemical identity of the substances in the reaction, and their physical state.&lt;/li&gt;
-      &lt;li&gt;Example:&lt;/li&gt;
-      &lt;li&gt;CH4(g) + O2(g) → CO2(g) + H2O(l)&lt;/li&gt;
-      &lt;li&gt;Reactants → Products&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;chemical-equations---short-hand-for-describing-a-chemical-reaction&quot;&gt;Chemical Equations - Short hand for Describing a Chemical Reaction&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Chemical equations:&lt;/li&gt;
-  &lt;li&gt;Provide information about the reaction
-    &lt;ul&gt;
-      &lt;li&gt;Molecular or ionic formulas of reactants and products&lt;/li&gt;
-      &lt;li&gt;States of reactants and products&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Gas (g), liquid (l), solid (s), and aqueous (aq)
-    &lt;ul&gt;
-      &lt;li&gt;Relative numbers of reactant and product molecules that are required&lt;/li&gt;
-      &lt;li&gt;Can be used to determine weights of reactants used and products that can be made&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-quantities-in-chemical-reactions&quot;&gt;The Quantities in Chemical Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:13:21.733959&lt;/li&gt;
-  &lt;li&gt;The amount of every substance used and made in a chemical reaction is related to the amounts of all the other substances in the reaction.
-    &lt;ul&gt;
-      &lt;li&gt;Law of conservation of mass&lt;/li&gt;
-      &lt;li&gt;Balancing equations by balancing atoms&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The study of the numerical relationship between chemical quantities in a chemical reaction is called &lt;em&gt;stoichiometry&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-f93d4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-balancing-and-writing-chemical-equations&quot;&gt;Practice Problem: Balancing and Writing Chemical Equations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:15:29.644462&lt;/li&gt;
-  &lt;li&gt;Write a balanced equation for the reaction between solid cobalt (III) oxide and solid carbon to produce solid cobalt and carbon dioxide gas&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-balancing-and-writing-chemical-equations-1&quot;&gt;Practice Problem: Balancing and Writing Chemical Equations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ORQi2C1_YKk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:21:12.182118&lt;/li&gt;
-  &lt;li&gt;Write a balanced equation for the combustion of gaseous butane (C4H10) with gaseous oxygen to give carbon dioxide and gaseous water.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What is the stoichiometric coefficient for oxygen?
-    &lt;ul&gt;
-      &lt;li&gt;B2H6(g) + O2(g) -&amp;gt; B2O3(s) + H2O(g)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;What is the stoichiometric coefficient for oxygen?
-    &lt;ul&gt;
-      &lt;li&gt;A) 1&lt;/li&gt;
-      &lt;li&gt;B) 2&lt;/li&gt;
-      &lt;li&gt;C) 3&lt;/li&gt;
-      &lt;li&gt;D) 4&lt;/li&gt;
-      &lt;li&gt;E) 6&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c2&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:33:38.836503&lt;/li&gt;
-  &lt;li&gt;Balance the following equation with the smallest whole number coefficients. Choose the answer that is the sum of the coefficients in the balanced equation. Do not forget coefficients of “one.”
-    &lt;ul&gt;
-      &lt;li&gt;Cr2(SO4)3 + RbOH -&amp;gt; Cr(OH)3 + Rb2SO4&lt;/li&gt;
-      &lt;li&gt;A) 10&lt;/li&gt;
-      &lt;li&gt;B) 12&lt;/li&gt;
-      &lt;li&gt;C) 13&lt;/li&gt;
-      &lt;li&gt;D) 14&lt;/li&gt;
-      &lt;li&gt;E) 15&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;reaction-stoichiometry-what-is-it-about&quot;&gt;Reaction Stoichiometry: What Is it about?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:36:31.466481&lt;/li&gt;
-  &lt;li&gt;The coefficients in a chemical reaction specify the relative amounts in molecules and in moles of each of the
-substances involved in the reaction.
-    &lt;ul&gt;
-      &lt;li&gt;2 C8H18(l) + 25 O2(g) → 16 CO2(g) + 18 H2O(g)
-        &lt;ul&gt;
-          &lt;li&gt;This could mean molecules or moles&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;What the above BALANCED chemical equation says:
-    &lt;ul&gt;
-      &lt;li&gt;2 molecules of C8H18 react with 25 molecules of O2 to form 16 molecules of CO2 and 18 molecules of H2O.&lt;/li&gt;
-      &lt;li&gt;2 moles of C8H18 react with 25 moles of O2 to form 16 moles of CO2 and 18 moles of H2O.
-        &lt;ul&gt;
-          &lt;li&gt;2 mol C8H18 : 25 mol O2 : 16 mol CO2 : 18 mol H2O&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;cooking-stoichiometry-making-pizza&quot;&gt;Cooking Stoichiometry: Making Pizza&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:38:36.393984&lt;/li&gt;
-  &lt;li&gt;The number of pizzas you can make depends on the
-amount of ingredients you use.&lt;/li&gt;
-  &lt;li&gt;1 crust + 5 oz. tomato sauce + 2 cups cheese → 1 pizza&lt;/li&gt;
-  &lt;li&gt;This relationship can be expressed mathematically.
-    &lt;ul&gt;
-      &lt;li&gt;1 crust : 5 oz. sauce : 2 cups cheese : 1 pizza&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;We can compare the amount of pizza that can be made from 10 cups of cheese:
-    &lt;ul&gt;
-      &lt;li&gt;Since 2 cups cheese : 1 pizza, then:&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-b7e1c.png&quot; alt=&quot;&quot; /&gt;
-        &lt;ul&gt;
-          &lt;li&gt;10 cups of cheese = 5 pizzas&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;mole-to-mole-conversions&quot;&gt;Mole-to-Mole Conversions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:41:17.963464&lt;/li&gt;
-  &lt;li&gt;In the same way that the ratio was used from the pizza recipe example, the &lt;em&gt;stoichiometric ratio&lt;/em&gt; acts as a conversion factor between the amount in moles of a reactant to moles of a product.
-    &lt;ul&gt;
-      &lt;li&gt;2 C8H18(l) + 25 O2(g) → 16 CO2(g) + 18 H2O(g)&lt;/li&gt;
-      &lt;li&gt;Reactant to product:
-        &lt;ul&gt;
-          &lt;li&gt;Stoichiometric ratio: 2 moles C8H18 : 16 moles CO2&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Stoichiometric ratio can be between:
-    &lt;ul&gt;
-      &lt;li&gt;Reactant to reactant
-        &lt;ul&gt;
-          &lt;li&gt;Stoichiometric ratio: 2 moles C8H18 : 25 moles O2&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Product to product:
-        &lt;ul&gt;
-          &lt;li&gt;Stoichiometric ratio: 16 moles CO2 : 18 moles H2O&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;how-many-moles-of-co2-form-if-220-moles-of-c8h18-are-combusted-burned&quot;&gt;How Many Moles of CO2 Form If 22.0 Moles of C8H18 Are combusted (Burned)?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:42:05.496505&lt;/li&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/F2apEW68N8k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;mole-to-mass-and-mass-to-mass-conversions&quot;&gt;Mole-to-Mass and Mass-to-Mass Conversions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Stoichiometric ratios can be used as a conversion factor between the amount in grams (mass) of a reactant used to determine mass (grams) of a product made.&lt;/li&gt;
-  &lt;li&gt;Strategy: A is reactant and B is the product.&lt;/li&gt;
-  &lt;li&gt;Mass of A → Moles of A → Stoichiometric ratio B : A → Moles B → Mass B&lt;/li&gt;
-  &lt;li&gt;mass A × (1 mole A/mol.mass A) × (mole B/mole A) × (mol.mass B/1 mol B)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;physical change&lt;/td&gt;
-      &lt;td&gt;changes that alter only the state or appearance, but not composition&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;chemical changes&lt;/td&gt;
-      &lt;td&gt;changes that alter the composition of matter&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;stoichiometry&lt;/td&gt;
-      &lt;td&gt;the study of the numerical relationship between chemical quantities in a chemical reaction&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;stoichiometric ratio&lt;/td&gt;
-      &lt;td&gt;acts as a conversion factor between the amount in moles of a reactant to moles of a product&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Mon, 17 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/10/17/week-10-day-1.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/17/week-10-day-1.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Test 3 Recitation 1</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Consider the molecule below. Determine the molecular geometry at each of the 3 labeled atoms.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-15-test-3-recitation-1-55f8d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1 = trigonal planar, 2 = tetrahedral, 3 = trigonal pyramidal&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; l = tetrahedral, 2 = tetrahedral, 3 =tetrahedral&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1 = trigonal planar, 2 = tetrahedral, 3 = tetrahedral&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1 = tetrahedral, 2 = tetrahedral, 3 = trigonal planar&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 1 = trigonal planar, 2 = trigonal pyramidal, 3 = trigonal pyramidal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;a1&quot; style=&quot;display:none&quot;&gt;The molar mass is in there to confuse you. You just do x&lt;em&gt;(6.022&lt;/em&gt;10^23)=4.78*10^22&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#a1').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2) Place the following in order of increasing F-A-F bond angle, where A represents the central atom in each molecule.
-    &lt;ul&gt;
-      &lt;li&gt;PF3 OF2 PF4+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; PF3 &amp;lt; OF2 &amp;lt; PF4+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; OF2 &amp;lt; PF3 &amp;lt; PF4+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; OF2 &amp;lt; PF4+ &amp;lt; PF3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; PF4+ &amp;lt; OF2 &amp;lt; PF3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; PF4+ &amp;lt; PF3 &amp;lt; OF2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;3) How many of the following molecules are polar?
-    &lt;ul&gt;
-      &lt;li&gt;BrC13 CS2 SiF4 SO3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 4&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 0&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;4) Give the electron geometry (eg), molecular geometry (mg), and hybridization for XeF4.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; eg = tetrahedral, mg = tetrahedral, sp3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; eg = trigonal pyramidal, mg — trigonal pyramidal, sp3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; eg = octahedral, mg, = square planar, sp3d2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; eg = octahedral, mg = octahedral, sp3d2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; eg = trigonal bipyramidal, mg = seesaw, sp3d&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;5) Give the hybridization for the Br in BrF5.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; sp3d2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; sp3d&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; sp3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; sp2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; sp&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;6) Which of the following statements is true?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; The total number of molecular orbitals formed doesn’t always equal the number of atomic orbitals in the set.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; A bond order of 0 represents a stable chemical bond.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; When two atomic orbitals come together to form two molecular orbitals, one molecular orbital will be lower in energy than the two separate atomic orbitals and one molecular orbital will be higher in energy than the separate atomic orbitals.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; Electrons placed in antibonding orbitals stabilize the ion/molecule.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; All of the above are true.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;7) List the number of sigma bonds and pi bonds in a double bond.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1 sigma, 1 pi&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2 sigma, 0 pi&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 2 sigma, 2 pi&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1 sigma, 2 pi&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;8) Draw the Lewis structure for the molecule CH3CH2CCH. How many sigma and pi bonds does it contain?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 11 sigma, 0 pi&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 9 sigma, I pi&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 8 sigma, 3 pi&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 9 sigma, 2 pi&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 8 sigma, 1 pi&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script&gt;
-var answers = [&quot;a&quot;, &quot;b&quot;, &quot;a&quot;, &quot;c&quot;, &quot;a&quot;, &quot;c&quot;, &quot;a&quot;, &quot;d&quot;];
-function getAnswer(number) {
-  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
-}
-function validate() {
-  var any = false;
-  for (var i = 1; i &lt; answers.length+1; i++) {
-    var answer = getAnswer(i);
-    if (!answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
-      any = true;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
-    }
-  }
-  if (any) {
-    toastr.error(&quot;You did not answer every question!&quot;);
-  }
-  return !any;
-}
-function grade() {
-  if (!validate()) return;
-  var correct = 0;
-  for (var i = 1; i &lt; answers.length+1; i++) {
-    var answer = getAnswer(i);
-    if (answers[i-1] == answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
-      correct++;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
-    }
-  }
-  toastr.success(&quot;Your grade is &quot;+ ((correct/answers.length) * 100).toFixed(2) + &quot; out of 100&quot;);
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 15 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/10/15/test-3-recitation-1.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/15/test-3-recitation-1.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 9 - Day 3 (Ch 7 - pt 4)</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2nazid&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-9-day-3.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
-	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
-	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
-&lt;/div&gt;
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
-	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;R4OVLDPmLsk&quot;});
-&lt;/script&gt;
-
-&lt;h1 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:00:26.347467&lt;/li&gt;
-  &lt;li&gt;Give the hybridization for the C in C2F2&lt;/li&gt;
-  &lt;li&gt;A) sp3d2&lt;/li&gt;
-  &lt;li&gt;B) sp3d&lt;/li&gt;
-  &lt;li&gt;C) sp3&lt;/li&gt;
-  &lt;li&gt;D) sp2&lt;/li&gt;
-  &lt;li&gt;E) sp&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c3&quot; style=&quot;display:none&quot;&gt;E. The lewis structure is linear because of the tripple bond between the two carbon atoms. Linear = sp&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;period-two-homonuclear-diatomic-molecules&quot;&gt;Period Two Homonuclear Diatomic Molecules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:03:34.227150&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-4fec5.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Exactly the same as 1s&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;interaction-of-p-orbitals&quot;&gt;Interaction of p Orbitals&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:06:30.224293&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-b7390.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;blue bond called sigma bond because it is symmetric&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-4b9fc.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Called 2px and 2py because of rotation&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;molecular-orbital-energy-ordering&quot;&gt;Molecular Orbital Energy Ordering&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:10:03.432001&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-fd509.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Complete diagram for determining molecular orbital energy ordering for &amp;lt;= 2p orbitals&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-on-molecular-orbital-theory-n2--ion-determine-the-electron-configuration-and-whether-the-ion-is-para-or-diamagnetic&quot;&gt;Practice Problem on Molecular Orbital Theory N2- ion. Determine the electron configuration, and whether the ion is para or diamagnetic&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:12:43.087962&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;molecular-orbital-energy-diagrams-for-secondperiod-p-block-homonuclear-diatomic-molecules&quot;&gt;Molecular Orbital Energy Diagrams for SecondPeriod-p-Block Homonuclear Diatomic Molecules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:13:49.174841&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-1b505.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Molecular orbital theory accurately predicts magnetism because it shows the unbonded electrons&lt;/li&gt;
-      &lt;li&gt;Also gets the bond order correct&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:18:39.294522&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-32e24.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Mixing orbitals to get optimal energy&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;heteronuclear-diatomic-molecules-and-ions&quot;&gt;Heteronuclear Diatomic Molecules and Ions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:20:09.219234&lt;/li&gt;
-  &lt;li&gt;When the combining atomic orbitals are identical and of equal energy, the contribution of each atomic orbital to the molecular orbital is equal.&lt;/li&gt;
-  &lt;li&gt;When the combining atomic orbitals are different types and energies, contributions to the MOs are different:&lt;/li&gt;
-  &lt;li&gt;The more electronegative an atom is, the lower in energy are its orbitals.&lt;/li&gt;
-  &lt;li&gt;Lower energy atomic orbitals contribute more to the bonding MOs.&lt;/li&gt;
-  &lt;li&gt;Higher energy atomic orbitals contribute more to the antibonding MOs.&lt;/li&gt;
-  &lt;li&gt;Nonbonding MOs remain localized on the atom donating its atomic orbitals.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;second-period-heteronuclear-diatomic-molecules&quot;&gt;Second-Period Heteronuclear Diatomic Molecules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:23:28.652003&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-6c33b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-on-molecular-orbital-theory-cn-&quot;&gt;Practice Problem on Molecular Orbital Theory CN-&lt;/h2&gt;
-
-&lt;h2 id=&quot;mo-and-polyatomic-molecules&quot;&gt;MO and Polyatomic Molecules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:43.466301&lt;/li&gt;
-  &lt;li&gt;When many atoms are combined together, the atomic
-orbitals of all the atoms are combined to make a set of
-molecular orbitals, which are delocalized over the entire
-molecule.&lt;/li&gt;
-  &lt;li&gt;Gives results that better match real molecule properties than either Lewis or valence bond theories&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-63adc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-fb96c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-ce2bf.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;bonding-in-metals-and-semiconductors&quot;&gt;Bonding in Metals and Semiconductors&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:28:15.434098&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-14-week-9-day-3-b109d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-14-week-9-day-3-00096.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:29:39.260232&lt;/li&gt;
-  &lt;li&gt;How many p-orbitals participate in the Molecular orbitals in Benzene and how many MOs does this give?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c3&quot; style=&quot;display:none&quot;&gt;6&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;bonding-in-metals-and-semiconductors-1&quot;&gt;Bonding in Metals and Semiconductors&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:35.553208&lt;/li&gt;
-  &lt;li&gt;The simplest theory of metallic bonding involves the metal atoms releasing their valence electrons to be shared as a pool by all the atoms/ ions in the metal.&lt;/li&gt;
-  &lt;li&gt;An organization of metal cation islands in a sea of electrons&lt;/li&gt;
-  &lt;li&gt;Electrons delocalized throughout the metal structure&lt;/li&gt;
-  &lt;li&gt;Bonding results from attraction of cation for the delocalized electrons.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-2323c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Audio 0:33:43.544569&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-47239.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;semiconductors-and-band-theory&quot;&gt;Semiconductors and Band Theory&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:35:46.508773&lt;/li&gt;
-  &lt;li&gt;Band Theory:&lt;/li&gt;
-  &lt;li&gt;Electrons become mobile when they make a transition from the highest occupied molecular orbital into higher energy empty molecular orbitals.&lt;/li&gt;
-  &lt;li&gt;These occupied molecular orbitals are referred to as the valence band.&lt;/li&gt;
-  &lt;li&gt;The unoccupied orbitals the conduction band.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-628e3.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;silicon is an insulator because it has a large energy gap between the valence band to the conduction band of orbitals&lt;/li&gt;
-      &lt;li&gt;conductors have no gap&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:37:16.124083&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-48d05.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Bigger the gap, the less conduction
-        &lt;ul&gt;
-          &lt;li&gt;The funny thing is that silicon is the thing we use for conduction in transistors
-            &lt;ul&gt;
-              &lt;li&gt;We add stuff&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:38:21.396460&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-c961e.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;We add a little boron and it gives an empty orbital between the valence and the conduction bonds and allows for conduction
-        &lt;ul&gt;
-          &lt;li&gt;They can hop into the empty orbital&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;end-of-ch-7&quot;&gt;End of Ch 7&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;You must finish the homework&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;(lower or higher?) energy atomic orbitals contribute more to the bonding MOs&lt;/td&gt;
-      &lt;td&gt;lower&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;(lower or higher?) energy atomic orbitals contribute more to the antibonding MOs&lt;/td&gt;
-      &lt;td&gt;higher&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;band&lt;/td&gt;
-      &lt;td&gt;when many orbitals are present, their energy difference becomes relatively small and we refer to them as this&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Fri, 14 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/10/14/week-9-day-3.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/14/week-9-day-3.html</guid>
         
         
       </item>
