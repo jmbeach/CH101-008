@@ -57,7 +57,7 @@ title: Week 11 - Day 1 (End of Ch 8)
   + D) 0.310 g
   + E) 2.80 * 10^2 g
 
-<span id="cp1" style="display:none">C</span>
+<span id="cp1" style="display:none">D</span>
 <input type="button" onclick="$('#cp1').toggle()" value="show/hide answer"/>
 
 + <iframe width="560" height="315" src="https://www.youtube.com/embed/icViM432S-0" frameborder="0" allowfullscreen></iframe>
