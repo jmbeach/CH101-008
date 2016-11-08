@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Nov 2016 21:18:32 -0600</pubDate>
-    <lastBuildDate>Mon, 07 Nov 2016 21:18:32 -0600</lastBuildDate>
+    <pubDate>Tue, 08 Nov 2016 10:09:36 -0600</pubDate>
+    <lastBuildDate>Tue, 08 Nov 2016 10:09:36 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -503,7 +503,11 @@ the amount of heat absorbed.&lt;/li&gt;
       &lt;li&gt;Bring a photo ID, a calculator and a pencil (a periodic table will be provided for you).&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Test 3 is on &lt;em&gt;chapter 7 through the beginning of chapter 10&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Test 3 is on &lt;em&gt;chapter 7 through the beginning of chapter 10&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;I recommend going to the &lt;a href=&quot;https://secure.ecollege.com/alabama/index.learn?action=welcome&quot;&gt;MyLabsPlus&lt;/a&gt; website and doing the “End of Chapter Problems” for these chapters.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;The easiest way to study for this test is to go back through the clicker questions and practice problems from the notes on these sections and to try to work the recitation questions. Most of the practice problems have videos which are nice for learning how to work them.
     &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/11/07/test-3-all-clicker-questions-since-test-2.html&quot;&gt;All Clicker Questions Since Test 2&lt;/a&gt;&lt;/li&gt;
@@ -602,7 +606,7 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c3&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
+&lt;p&gt;&lt;span id=&quot;c3&quot; style=&quot;display:none&quot;&gt;Answer: B. To get this, draw the lewis structure for OF2. Then count the lone pairs and the number of atoms bonded to O. This is the steric number. if the steric number is 4, the atom is sp3, if it’s 3 -&amp;gt; sp2, if it’s 2 -&amp;gt; sp&lt;/span&gt;
 &lt;input type=&quot;button&quot; onclick=&quot;$('#c3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -617,7 +621,7 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c4&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;c4&quot; style=&quot;display:none&quot;&gt;Answer: C. To get this, draw the lewis structure for SO3. Then count the lone pairs and the number of atoms bonded to S. This is the steric number. if the steric number is 4, the atom is sp3, if it’s 3 -&amp;gt; sp2, if it’s 2 -&amp;gt; sp&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c4').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
@@ -634,7 +638,7 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c5&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;c5&quot; style=&quot;display:none&quot;&gt;Answer: D. To get this, draw the lewis structure for each molecule. Then count the lone pairs and the number of atoms bonded to the central atoms. This is the steric number. if the steric number is 4, the atom is sp3, if it’s 3 -&amp;gt; sp2, if it’s 2 -&amp;gt; sp&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c5').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
