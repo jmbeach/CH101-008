@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Nov 2016 18:08:55 -0600</pubDate>
-    <lastBuildDate>Mon, 07 Nov 2016 18:08:55 -0600</lastBuildDate>
+    <pubDate>Mon, 07 Nov 2016 21:13:23 -0600</pubDate>
+    <lastBuildDate>Mon, 07 Nov 2016 21:13:23 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -558,7 +558,578 @@ the amount of heat absorbed.&lt;/li&gt;
     
       <item>
         <title>Test 3 - All Clicker Questions Since Test 2</title>
-        <description>
+        <description>&lt;ul&gt;
+  &lt;li&gt;1) Give the electron geometry (eg), molecular geometry (mg), and hybridization for H2O
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) eg = tetrahedral, mg = bent, sp3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) eg = trigonal pyramidal, mg = trigonal pyramidal, sp3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) eg = tetrahedral, mg = trigonal pyramidal, sp3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) eg = bent, mg = bent, sp3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) eg = trigonal planar, gm = trigonal planar, sp3&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c1&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c1').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2) place the following in order of decreasing dipole moment&lt;/li&gt;
+  &lt;li&gt;I. cis-CHCl=CHCl II. trans-CHCl=CHCl III. cis-CHF=CHF
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) III &amp;gt; I &amp;gt; II&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) II &amp;gt; I &amp;gt; III&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) I &amp;gt; III &amp;gt; II&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) II &amp;gt; III &amp;gt; I&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) I = III &amp;gt; II&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c2&quot; style=&quot;display:none&quot;&gt;A. The trans dichloroethane actually cancels itself out and has 0 dipole moment. Then for the cis flourine, it has higher dipole moment than I, so A.&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3) Give the hybridization for the O in OF2
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) sp&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) sp3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) sp2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) sp3d&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) sp3d2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c3&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;4) Give the hybridization for the S in SO3
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) sp&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) sp3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) sp2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) sp3d&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) sp3d2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c4&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c4').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;5) How many of the following molecules have sp2 hybridization on the central atom?&lt;/li&gt;
+  &lt;li&gt;HCN SO2 OCl2 XeCl2
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 4&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 0&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c5&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c5').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;6) Give the hybridization for the C in C2F2
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) sp3d2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) sp3d&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) sp3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) sp2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) sp&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c6&quot; style=&quot;display:none&quot;&gt;E. The lewis structure is linear because of the tripple bond between the two carbon atoms. Linear = sp&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c6').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;7) How many p-orbitals participate in the Molecular orbitals in Benzene and how many MOs does this give?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 4&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 6&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 12&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c7&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c7').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;8) A chemical change
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) occurs when methane gas is burned.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) occurs when paper is shredded.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) occurs when water is vaporized.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) occurs when salt is dissolved in water.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) occurs when powdered lemonade is stirred into water.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c8&quot; style=&quot;display:none&quot;&gt;A &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ORQi2C1_YKk&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c8').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;9) What is the stoichiometric coefficient for oxygen?
+    &lt;ul&gt;
+      &lt;li&gt;B2H6(g) + O2(g) -&amp;gt; B2O3(s) + H2O(g)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;What is the stoichiometric coefficient for oxygen?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 4&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 6&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c9&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c9').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;10) Balance the following equation with the smallest whole number coefficients. Choose the answer that is the sum of the coefficients in the balanced equation. Do not forget coefficients of “one.”
+    &lt;ul&gt;
+      &lt;li&gt;Cr2(SO4)3 + RbOH -&amp;gt; Cr(OH)3 + Rb2SO4&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 10&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 12&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 13&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 14&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 15&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c10&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c10').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;11) What is the percent yield of C2H2 if 62.80 g of water yields 15.38 g of C2H2 using the following equation.
+    &lt;ul&gt;
+      &lt;li&gt;CaC2(s) + 2 H2O(l) → Ca(OH)2(aq) + C2H2(g)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 13.84%&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 33.90%&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 91.47%&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 48.10%&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 68.52%&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c11&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#cp11').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;12) Determine the percent yield of a reaction that produces 28.65 g of Fe when 50.00 g of Fe2O3 react with excess Al to produce aluminum oxide and Fe. (Al: 26.98, Fe: 55.85)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 61.03 %&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 28.65 %&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 57.30 %&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 20.02 %&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 81.93 %&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c12&quot; style=&quot;display:none&quot;&gt;E &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1hqJXNTVNx0&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c12').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;13) In the reaction of Zn with hydrochloric acid (HCl) to give zinc(II) chloride and hydrogen, 25.0 grams of Zn have reacted with 17.5 g of HCl. How many grams of H2 will be produced? (Zn: 65.38, Cl: 35.45)&lt;/li&gt;
+  &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.385 g H2&lt;/li&gt;
+  &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.484 g H2&lt;/li&gt;
+  &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.765 g H2&lt;/li&gt;
+  &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 25.0 g H2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c13&quot; style=&quot;display:none&quot;&gt;Answer: B &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KkilKk-MK5E&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c13').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;14) According to the following reaction, what amount of Al2S3 remains when 20.00 g of Al2S3 and 2.00 g of H2O are reacted? A few of the molar masses are as follows: Al2S3 = 150.17 g/mol, H20 = 18.02 g/mol.
+    &lt;ul&gt;
+      &lt;li&gt;Al2S3 + 6H2O -&amp;gt; 2Al(OH)3 + 3H2S&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 14.00 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 8.33 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 19.78 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 17.22 g&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c14&quot; style=&quot;display:none&quot;&gt;Answer: E &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fdwzsQVTKv8&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c14').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;15) Two samples of calcium and fluoride are decomposed into their constituent elements. The first sample showed that the yield of products was 100% (really!). If the second sample produced 294 mg of fluorine, how many g of calcium were formed? (Ca: 40.08, F: 19.00)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.280 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 3.10 * 10^2 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 3.13 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.310 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 2.80 * 10^2 g&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c15&quot; style=&quot;display:none&quot;&gt;D &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/icViM432S-0&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c15').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;16) Determine the molarity of a solution formed by dissolving 97.7 g LiBr in enough water to yield 750.0 mL of solution. (Li: 6.941, Br: 79.90)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 1.50 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 1.18 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.130 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.768 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 2.30 M&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c16&quot; style=&quot;display:none&quot;&gt;A &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LPQJppk1v6M&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c16').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;17) What is the concentration of HCl in the final solution when 65 mL of a 9.0 M HCl solution is diluted with pure water to a total volume of .15 L?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 2.1 × 10-2 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 3.9 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 21 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 3.9 × 10^3 M&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c17&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c17').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;18) How many molecules of sucrose (C12H22O11, molar mass = 342.30 g/mol) are contained in 14.3 mL of 0.140 M sucrose solution
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 8.29 * 10^22 molecules C12H22O11&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 1.21 * 10^21 molecules C12H22O11&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 6.15 * 10^22 molecules C12H22O11&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 1.63 * 10^23 molecules C12H22O11&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 5.90 * 10^24 molecules C12H22O11&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c18&quot; style=&quot;display:none&quot;&gt;B &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nH1OLgwioK8&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c18').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;19) What volume of 0.244 M KCl solution is required to react exactly with 50.0 mL of 0.210 M PB(NO3)2 solution?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 97.4 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 116 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 43.0 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 86.1 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 58.1 mL&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c19&quot; style=&quot;display:none&quot;&gt;D &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_z2k9DAKhCM&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c19').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;20) Which of the following will have the highest electrical conductivity?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.045 M Al2(SO4)3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.050 M (NH4)2CO3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.10 M NaBr&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.10 M Kl&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 0.10 M KF&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c20&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c20').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;21) K2SO4 is soluble
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; True&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; False&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c21&quot; style=&quot;display:none&quot;&gt;True&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c21').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;22) Ba2SO4 is soluble
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; True&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; False&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c22&quot; style=&quot;display:none&quot;&gt;False&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c22').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;23) NH4CO3 is slightly soluble
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; True&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; False&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c23&quot; style=&quot;display:none&quot;&gt;False (It’s very soluble)&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c23').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;24) Ba(OH)2 is slightly soluble
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; True&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; False&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c24&quot; style=&quot;display:none&quot;&gt;True&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c24').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;25) Ni(II)I2 is soluble
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; True&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; False&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c25&quot; style=&quot;display:none&quot;&gt;True&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c25').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;26) Which pair of compounds is soluble in water?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) Hg2Cl2 and HgBr2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) NiS and Li2S&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) NH4I and Ni(NO3)2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) LiNO3 and CuCO3&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c26&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c26').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;27) Give the complete ionic equation for the reaction (if any) that occurs when aqueous solutions of lithium sulfide and copper (II) nitrate are mixed.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) Li+(aq)+SO4 2-(aq)+Cu+(aq)+NO3 - (aq) → CuS(s)+Li+(aq) + NO3 - (aq)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) Li+(aq) + S- (aq) + Cu+(aq) + NO3 - (aq) → CuS(s) + LiNO3(aq)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 2Li+(aq)+S2-(aq)+Cu2+(aq) + 2NO3 - (aq)→Cu2+(aq)+S2-(aq) +2LiNO3(s)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 2 Li+(aq)+S2-(aq)+Cu2+(aq)+2NO3 - (aq)→ CuS(s) + 2Li+ (aq) + 2NO3 - (aq)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) No reaction occurs.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c27&quot; style=&quot;display:none&quot;&gt;D &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/57oSiH6V_FY&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c27').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;28) Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of Na2CO3 and HCl are mixed
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;28&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 2H+(aq)+CO3 2-(aq) → H2CO3(s)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;28&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 2Na+(aq)+CO3 2-(aq)+2H+(aq) + 2Cl- (aq) → H2CO3(s)+2NaCl(aq)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;28&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 2H+(aq)+CO3 2-(aq) → H2O(l)+CO2(g)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;28&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 2Na+(aq)+CO3 2-(aq)+2H+(aq)+2Cl- (aq)→H2CO3(s)+2Na+(aq)+2Cl- (aq)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;28&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) No reaction occurs.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c28&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c28').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;29) What is the name for an aqueous solution of HIO
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;29&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) hydroiodic acid&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;29&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) hypoiodous acid&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;29&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) iodous acid&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;29&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) iodic acid&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;29&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) periodic acid&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c29&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c29').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;30) Which of the following is an acid-base reaction?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;30&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) C(s) + O2(g) → CO2(g)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;30&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 2 HClO4(aq) + Ca(OH)2(aq) → 2 H2O(l) + Ca(ClO4)2(aq)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;30&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Fe(s) + 2 AgNO3(aq) → 2 Ag(s) + Fe(NO3)2(aq)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;30&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) MgSO4(aq) + Ba(NO3)2(aq) → Mg(NO3)2(aq) + BaSO4(s)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;30&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) None of the above are acid base reactions.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c30&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c30').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;31) The titration of 25.0 mL of an unknown concentration of H2SO4 solution requires 83.6 mL of 0.12 M LiOH solution. What is the concentration of the H2SO4 solution?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;31&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.20 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;31&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.40 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;31&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.10 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;31&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.36 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;31&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 0.25 M&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c31&quot; style=&quot;display:none&quot;&gt;A &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Zgo8tHXatzE&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c31').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;32) The titration of 80.0 mL of an unknown concentration of H3PO4 solution requires 126 mL of .218 M KOH solution. What is the concentration of H3PO4 solution (in M)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;32&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 1.03 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;32&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.343 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;32&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.114 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;32&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.138 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;32&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 0.0461 M&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c32&quot; style=&quot;display:none&quot;&gt;C &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7hW7bBbAAF4&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c32').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;33) Determine the oxidation state of nitrogen in NO2
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;33&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) +5&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;33&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) +3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;33&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;33&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) +2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;33&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) +4&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c33&quot; style=&quot;display:none&quot;&gt;E&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c33').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;34) What element is undergoing reduction (if any) in the following reaction?
+    &lt;ul&gt;
+      &lt;li&gt;Zn(s) + 2AgNO3(aq) -&amp;gt; Zn(NO3)2(aq) + 2 Ag(s)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;34&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) Zn&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;34&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) N&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;34&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;34&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) Ag&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;34&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) This is not an oxidation-reduction reaction&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c34&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c34').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;35) Which choice gives the correct oxidation numbers for all three elements in Rb2SO3 in the order that the elements are shown in the formula?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;35&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) -2, +6, -2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;35&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) -1, +4, -3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;35&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) +2, +4, -2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;35&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) +1, +4, -2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;35&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) +1, +6, -6&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c35&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c35').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;36) Which of the following signs on q and w represent a system that is doing work on the surroundings, as well as gaining heat from the surroundings?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;36&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) q = +, w = -&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;36&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) q = -, w = +&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;36&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) q = +, w = +&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;36&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) q = -, w = -&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;36&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) None of these represent the system referenced&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c36&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c36').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;script&gt;
+var answers = [&quot;a&quot;, &quot;a&quot;, &quot;b&quot;, &quot;c&quot;, &quot;d&quot;, &quot;e&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;, &quot;e&quot;, &quot;b&quot;, &quot;e&quot;, &quot;d&quot;, &quot;a&quot;, &quot;b&quot;, &quot;b&quot;, &quot;d&quot;, &quot;a&quot;, &quot;a&quot;, &quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;a&quot;, &quot;c&quot;, &quot;d&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;c&quot;, &quot;e&quot;, &quot;d&quot;, &quot;d&quot;, &quot;a&quot;];
+function getAnswer(number) {
+  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
+}
+function validate() {
+  var any = false;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (!answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
+      any = true;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
+    }
+  }
+  if (any) {
+    toastr.error(&quot;You did not answer every question!&quot;);
+  }
+  return !any;
+}
+function grade() {
+  if (!validate()) return;
+  var correct = 0;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (answers[i-1] == answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
+      correct++;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
+    }
+  }
+  toastr.success(&quot;Your grade is &quot;+ ((correct/answers.length) * 100).toFixed(2) + &quot; out of 100&quot;);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Nov 2016 00:00:00 -0600</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/11/07/test-3-all-clicker-questions-since-test-2.html</link>
@@ -763,7 +1334,15 @@ function grade() {
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:03:32.431301&lt;/li&gt;
-  &lt;li&gt;The titration of 80.0 mL of an unknown concentration of H3PO4 solution requires 126 mL of .218 M KOH solution. What is the concentration of H3PO4 solution (in M)&lt;/li&gt;
+  &lt;li&gt;The titration of 80.0 mL of an unknown concentration of H3PO4 solution requires 126 mL of .218 M KOH solution. What is the concentration of H3PO4 solution (in M)
+    &lt;ul&gt;
+      &lt;li&gt;A) 1.03 M&lt;/li&gt;
+      &lt;li&gt;B) 0.343 M&lt;/li&gt;
+      &lt;li&gt;C) 0.114 M&lt;/li&gt;
+      &lt;li&gt;D) 0.138 M&lt;/li&gt;
+      &lt;li&gt;E) 0.0461 M&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7hW7bBbAAF4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
   &lt;/li&gt;
@@ -1394,7 +1973,15 @@ and the element that is reduced:&lt;/li&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:33:40.733664&lt;/li&gt;
-  &lt;li&gt;The titration of 25.0 mL of an unknown concentration of H2SO4 solution requires 83.6 mL of 0.12 M LiOH solution. What is the concentration of the H2&lt;/li&gt;
+  &lt;li&gt;The titration of 25.0 mL of an unknown concentration of H2SO4 solution requires 83.6 mL of 0.12 M LiOH solution. What is the concentration of the H2SO4 solution?
+    &lt;ul&gt;
+      &lt;li&gt;A) 0.20 M&lt;/li&gt;
+      &lt;li&gt;B) 0.40 M&lt;/li&gt;
+      &lt;li&gt;C) 0.10 M&lt;/li&gt;
+      &lt;li&gt;D) 0.36 M&lt;/li&gt;
+      &lt;li&gt;E) 0.25 M&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Zgo8tHXatzE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
   &lt;/li&gt;
@@ -1552,11 +2139,14 @@ and the element that is reduced:&lt;/li&gt;
 &lt;input type=&quot;button&quot; onclick=&quot;$('#cp5').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Which pair of compounds is soluble in water?&lt;/li&gt;
-  &lt;li&gt;Hg2Cl2 and HgBr2&lt;/li&gt;
-  &lt;li&gt;NiS and Li2S&lt;/li&gt;
-  &lt;li&gt;NH4I and Ni(NO3)2&lt;/li&gt;
-  &lt;li&gt;LiNO3 and CuCO3&lt;/li&gt;
+  &lt;li&gt;Which pair of compounds is soluble in water?
+    &lt;ul&gt;
+      &lt;li&gt;Hg2Cl2 and HgBr2&lt;/li&gt;
+      &lt;li&gt;NiS and Li2S&lt;/li&gt;
+      &lt;li&gt;NH4I and Ni(NO3)2&lt;/li&gt;
+      &lt;li&gt;LiNO3 and CuCO3&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;span id=&quot;cp6&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;
@@ -2017,14 +2607,15 @@ solid forms when we mix two solutions.
 &lt;h1 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;How many molecules of sucrose (C12H22O11, molar mass = 342.30 g/mol) are contained in 14.3 mL of 0.140 M sucrose solution&lt;/p&gt;
+  &lt;li&gt;How many molecules of sucrose (C12H22O11, molar mass = 342.30 g/mol) are contained in 14.3 mL of 0.140 M sucrose solution
+    &lt;ul&gt;
+      &lt;li&gt;A) 8.29 * 10^22 molecules C12H22O11&lt;/li&gt;
+      &lt;li&gt;B) 1.21 * 10^21 molecules C12H22O11&lt;/li&gt;
+      &lt;li&gt;C) 6.15 * 10^22 molecules C12H22O11&lt;/li&gt;
+      &lt;li&gt;D) 1.63 * 10^23 molecules C12H22O11&lt;/li&gt;
+      &lt;li&gt;E) 5.90 * 10^24 molecules C12H22O11&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;A) 8.29 * 10^22 molecules C12H22O11&lt;/li&gt;
-  &lt;li&gt;B) 1.21 * 10^21 molecules C12H22O11&lt;/li&gt;
-  &lt;li&gt;C) 6.15 * 10^22 molecules C12H22O11&lt;/li&gt;
-  &lt;li&gt;D) 1.63 * 10^23 molecules C12H22O11&lt;/li&gt;
-  &lt;li&gt;E) 5.90 * 10^24 molecules C12H22O11&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;span id=&quot;cp2&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
