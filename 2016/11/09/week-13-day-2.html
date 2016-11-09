@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Week 13 - Day 2</title>
-  <meta name="description" content="3rd Tests">
+  <meta name="description" content=" Download Word (docx): 		">
 
   <link rel="stylesheet" href="/CH101-008/bower_components/icono/dist/icono.min.css">
   <link rel="stylesheet" href="/CH101-008/bower_components/jquery-ui/themes/base/all.css">
@@ -88,7 +88,30 @@
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    <h1 id="rd-tests">3rd Tests</h1>
+    
+<p class="downloadDoc"> Download Word (docx): 
+<a target="_blank" href="/CH101-008/assets/week-13-day-2.docx">
+		<span class="icono-document"></span>
+</a>
+</p>
+
+<div style="position:fixed;bottom:0em;right:0em; background:black;padding:.2em">
+	<h2 style="margin:0;color:white">Navigate using audio</h2>
+	<div id="player"></div>
+	<div></div>
+	<input id="hide-player" type="button" value="Hide" />
+	<input id="previous" type="button" value="&lt;&lt;" />
+	<input id="next" type="button" value="&gt;&gt;" />
+</div>
+<div style="position:fixed;bottom:0em;right:0em;background-color:#666;display:none">
+	<input id="show-player" type="button" value="Show Audio Navigator" />
+</div>
+
+<script>
+  new AudioNavigator({videoId:"WbUwcNLIcp0"});
+</script>
+
+<h1 id="rd-tests">3rd Tests</h1>
 
 <ul>
   <li>Chapters 6.10 - 10.3</li>
@@ -153,8 +176,9 @@
   </li>
 </ul>
 
-<p><span id="c39" style="display:none">D</span>
-<input type="button" onclick="$('#c39').toggle()" value="show/hide answer" /></p>
+<p><span id="c39" style="display:none">D</span></p>
+
+<p><input type="button" onclick="$('#c39').toggle()" value="show/hide answer" /></p>
 
 <ul>
   <li>
@@ -166,30 +190,60 @@
 
 <ul>
   <li>Audio 0:14:22.599679</li>
-  <li>When an…
-<span id="c40" style="display:none">Answer: A. Sulfides accept for sodium. Sulfide is 2- so it just goes into the Mn.</span>
-<input type="button" onclick="$('#c40').toggle()" value="show/hide answer" /></li>
+  <li>When an aqueous solution of manganese (II) nitrate is
+combined with an aqueous solution of ammonium sulfide,
+what should precipitate out?
+    <ul>
+      <li>A) MnS</li>
+      <li>B) Mn(SO3)2</li>
+      <li>C) Mn(SO4)2</li>
+      <li>D) Mn2SO3</li>
+      <li>E) Mn2SO4</li>
+    </ul>
+  </li>
 </ul>
+
+<p><span id="c40" style="display:none">Answer: A. Sulfides accept for sodium. Sulfide is 2- so it just goes into the Mn.</span></p>
+
+<p><input type="button" onclick="$('#c40').toggle()" value="show/hide answer" /></p>
 
 <h2 id="clicker-5">Clicker 5</h2>
 
 <ul>
   <li>Audio 0:17:34.714245</li>
-  <li>Give the net ionic equation for the reaction</li>
+  <li>Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of K2S and Fe(NO3)2 are mixed.
+    <ul>
+      <li>A) K+(aq) + NO3 - (aq) → KNO3(s)</li>
+      <li>B) Fe2+(aq) + S2-(aq) + 2 K+(aq) + 2 NO3 - (aq) → FeS(s) + 2 K+(aq) + 2 NO3 - (aq)</li>
+      <li>C) Fe2+(aq) + S2-(aq) + 2 K+(aq) + 2 NO3 - (aq) → Fe2+(aq) + S2-(aq) + 2 KNO3(s)</li>
+      <li>D) Fe2+(aq) + S2-(aq) → FeS(s)</li>
+      <li>E) No reaction occurs.</li>
+    </ul>
+  </li>
 </ul>
 
-<p><span id="c41" style="display:none">Answer: D</span>
-<input type="button" onclick="$('#c41').toggle()" value="show/hide answer" /></p>
+<p><span id="c41" style="display:none">Answer: D</span></p>
+
+<p><input type="button" onclick="$('#c41').toggle()" value="show/hide answer" /></p>
 
 <h2 id="clicker-6">Clicker 6</h2>
 
 <ul>
   <li>Audio 0:20:52.685314</li>
-  <li>Determine the reducing agent in the following</li>
+  <li>Determine the reducing agent in the following reaction. 2 Li(s) + Fe(C2H3O2)2(aq) → 2 LiC2H3O2(aq) + Fe(s)
+    <ul>
+      <li>A) O</li>
+      <li>B) H</li>
+      <li>C) C</li>
+      <li>D) Fe</li>
+      <li>E) Li</li>
+    </ul>
+  </li>
 </ul>
 
-<p><span id="c42" style="display:none">Answer: E. Lithium is the substance that is losing its electrons and causing the reaction to be reduced</span>
-<input type="button" onclick="$('#c42').toggle()" value="show/hide answer" /></p>
+<p><span id="c42" style="display:none">Answer: E. Lithium is the substance that is losing its electrons and causing the reaction to be reduced</span></p>
+
+<p><input type="button" onclick="$('#c42').toggle()" value="show/hide answer" /></p>
 
 <h2 id="clicker-7">Clicker 7</h2>
 
@@ -206,10 +260,12 @@
   </li>
   <li>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cQ4Su46RmfM" frameborder="0" allowfullscreen=""></iframe>
-    <p><span id="c43" style="display:none">Answer: E. Looking for six or twelve valence electrons</span>
-<input type="button" onclick="$('#c43').toggle()" value="show/hide answer" /></p>
   </li>
 </ul>
+
+<p><span id="c43" style="display:none">Answer: E. Looking for six or twelve valence electrons</span></p>
+
+<p><input type="button" onclick="$('#c43').toggle()" value="show/hide answer" /></p>
 
 <h2 id="clicker-8">Clicker 8</h2>
 
@@ -222,12 +278,14 @@
       <li>B) 0.580 mol N2</li>
       <li>C) 18.5 mol N2</li>
       <li>D) 0.724 mol N2</li>
+      <li>E) 1.73 mol N2</li>
     </ul>
   </li>
 </ul>
 
-<p><span id="c44" style="display:none">Answer: A</span>
-<input type="button" onclick="$('#c44').toggle()" value="show/hide answer" /></p>
+<p><span id="c44" style="display:none">Answer: A</span></p>
+
+<p><input type="button" onclick="$('#c44').toggle()" value="show/hide answer" /></p>
 
 <h2 id="clicker-9">Clicker 9</h2>
 
@@ -235,30 +293,63 @@
   <li>Audio 0:34:13.545160</li>
   <li>According to the following reaction, how many grams of sulfur are formed when 37.4 g of water are formed? (S: 32.07, H: 1.0079, O: 15.999)
     <ul>
-      <li>2H2S(g) + SO2(g) -&gt; 3 S(s) + 2H2O
-<span id="c45" style="display:none"><img src="../../../assets/2016-11-09-week-13-day-2-10097.png" alt="" /></span>
-<input type="button" onclick="$('#c45').toggle()" value="show/hide answer" /></li>
+      <li>2H2S(g) + SO2(g) -&gt; 3 S(s) + 2H2O</li>
+      <li>A) 99.8 g S</li>
+      <li>B) 66.6 g S</li>
+      <li>C) 56.1 g S</li>
+      <li>D) 44.4 g S</li>
+      <li>E) 14.0 g S</li>
     </ul>
   </li>
 </ul>
 
+<p><span id="c45" style="display:none"><img src="../../../assets/2016-11-09-week-13-day-2-5ac09.png" alt="" /></span></p>
+
+<p><input type="button" onclick="$('#c45').toggle()" value="show/hide answer" /></p>
+
 <h2 id="clicker-10">Clicker 10</h2>
 
 <ul>
-  <li>Audio 0:37:15.066241
-<span id="c46" style="display:none"><img src="../../../assets/2016-11-09-week-13-day-2-533b5.png" alt="" /></span>
-<input type="button" onclick="$('#c46').toggle()" value="show/hide answer" /></li>
+  <li>Audio 0:37:15.066241</li>
+  <li>Determine the theoretical yield of HCl if 60.0 g of BCl3 and 37.5 g of H2O are reacted according to the following balanced reaction. (molar mass of BCl3 = 117.16 g/mol, B: 10.81, Cl:35.45, O:15.999, H:1.0079)
+    <ul>
+      <li>BCl3(g) + 3 H2O(l) → H3BO3(s) + 3 HCl(g)</li>
+      <li>A) 75.9 g HCl</li>
+      <li>B) 132 g HCl</li>
+      <li>C) 187 g HCl</li>
+      <li>D) 56.0 g HCl</li>
+      <li>E) 25.3 g HCl</li>
+    </ul>
+  </li>
 </ul>
+
+<p><span id="c46" style="display:none"><img src="../../../assets/2016-11-09-week-13-day-2-533b5.png" alt="" /></span></p>
+
+<p><input type="button" onclick="$('#c46').toggle()" value="show/hide answer" /></p>
 
 <h2 id="clicker-11">Clicker 11</h2>
 
 <ul>
   <li>Audio 0:45:58.730799</li>
-  <li>Calcium oxide …
-+
-<span id="c47" style="display:none"><img src="../../../assets/2016-11-09-week-13-day-2-e236c.png" alt="" /></span>
-<input type="button" onclick="$('#c47').toggle()" value="show/hide answer" /></li>
+  <li>Calcium oxide reacts with water in a combination reaction to produce calcium hydroxide:
+    <ul>
+      <li>CaO(s) + H2O(l) → Ca(OH)2(s)</li>
+    </ul>
+  </li>
+  <li>A 5.00-g sample of CaO is reacted with 4.83 g of H2O. How many grams of water remain after the reaction is complete? (Ca:40.08, O:15.999, H:1.0079)
+    <ul>
+      <li>A) 0.00</li>
+      <li>B) 0.00991</li>
+      <li>C) 3.22</li>
+      <li>D) 1.04</li>
+      <li>E) 0.179</li>
+    </ul>
+  </li>
 </ul>
+
+<p><span id="c47" style="display:none"><img src="../../../assets/2016-11-09-week-13-day-2-e236c.png" alt="" /></span></p>
+
+<p><input type="button" onclick="$('#c47').toggle()" value="show/hide answer" /></p>
 
   </div>
 

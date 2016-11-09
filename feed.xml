@@ -6,13 +6,36 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Nov 2016 14:17:30 -0600</pubDate>
-    <lastBuildDate>Wed, 09 Nov 2016 14:17:30 -0600</lastBuildDate>
+    <pubDate>Wed, 09 Nov 2016 15:50:26 -0600</pubDate>
+    <lastBuildDate>Wed, 09 Nov 2016 15:50:26 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
         <title>Week 13 - Day 2</title>
-        <description>&lt;h1 id=&quot;rd-tests&quot;&gt;3rd Tests&lt;/h1&gt;
+        <description>
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-13-day-2.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
+	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;WbUwcNLIcp0&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;rd-tests&quot;&gt;3rd Tests&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Chapters 6.10 - 10.3&lt;/li&gt;
@@ -77,8 +100,9 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c39&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c39').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;c39&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c39').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -90,30 +114,60 @@
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:14:22.599679&lt;/li&gt;
-  &lt;li&gt;When an…
-&lt;span id=&quot;c40&quot; style=&quot;display:none&quot;&gt;Answer: A. Sulfides accept for sodium. Sulfide is 2- so it just goes into the Mn.&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c40').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;When an aqueous solution of manganese (II) nitrate is
+combined with an aqueous solution of ammonium sulfide,
+what should precipitate out?
+    &lt;ul&gt;
+      &lt;li&gt;A) MnS&lt;/li&gt;
+      &lt;li&gt;B) Mn(SO3)2&lt;/li&gt;
+      &lt;li&gt;C) Mn(SO4)2&lt;/li&gt;
+      &lt;li&gt;D) Mn2SO3&lt;/li&gt;
+      &lt;li&gt;E) Mn2SO4&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c40&quot; style=&quot;display:none&quot;&gt;Answer: A. Sulfides accept for sodium. Sulfide is 2- so it just goes into the Mn.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c40').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;clicker-5&quot;&gt;Clicker 5&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:17:34.714245&lt;/li&gt;
-  &lt;li&gt;Give the net ionic equation for the reaction&lt;/li&gt;
+  &lt;li&gt;Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of K2S and Fe(NO3)2 are mixed.
+    &lt;ul&gt;
+      &lt;li&gt;A) K+(aq) + NO3 - (aq) → KNO3(s)&lt;/li&gt;
+      &lt;li&gt;B) Fe2+(aq) + S2-(aq) + 2 K+(aq) + 2 NO3 - (aq) → FeS(s) + 2 K+(aq) + 2 NO3 - (aq)&lt;/li&gt;
+      &lt;li&gt;C) Fe2+(aq) + S2-(aq) + 2 K+(aq) + 2 NO3 - (aq) → Fe2+(aq) + S2-(aq) + 2 KNO3(s)&lt;/li&gt;
+      &lt;li&gt;D) Fe2+(aq) + S2-(aq) → FeS(s)&lt;/li&gt;
+      &lt;li&gt;E) No reaction occurs.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c41&quot; style=&quot;display:none&quot;&gt;Answer: D&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c41').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;c41&quot; style=&quot;display:none&quot;&gt;Answer: D&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c41').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;clicker-6&quot;&gt;Clicker 6&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:20:52.685314&lt;/li&gt;
-  &lt;li&gt;Determine the reducing agent in the following&lt;/li&gt;
+  &lt;li&gt;Determine the reducing agent in the following reaction. 2 Li(s) + Fe(C2H3O2)2(aq) → 2 LiC2H3O2(aq) + Fe(s)
+    &lt;ul&gt;
+      &lt;li&gt;A) O&lt;/li&gt;
+      &lt;li&gt;B) H&lt;/li&gt;
+      &lt;li&gt;C) C&lt;/li&gt;
+      &lt;li&gt;D) Fe&lt;/li&gt;
+      &lt;li&gt;E) Li&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c42&quot; style=&quot;display:none&quot;&gt;Answer: E. Lithium is the substance that is losing its electrons and causing the reaction to be reduced&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c42').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;c42&quot; style=&quot;display:none&quot;&gt;Answer: E. Lithium is the substance that is losing its electrons and causing the reaction to be reduced&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c42').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;clicker-7&quot;&gt;Clicker 7&lt;/h2&gt;
 
@@ -130,10 +184,12 @@
   &lt;/li&gt;
   &lt;li&gt;
     &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cQ4Su46RmfM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-    &lt;p&gt;&lt;span id=&quot;c43&quot; style=&quot;display:none&quot;&gt;Answer: E. Looking for six or twelve valence electrons&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c43').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c43&quot; style=&quot;display:none&quot;&gt;Answer: E. Looking for six or twelve valence electrons&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c43').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;clicker-8&quot;&gt;Clicker 8&lt;/h2&gt;
 
@@ -146,12 +202,14 @@
       &lt;li&gt;B) 0.580 mol N2&lt;/li&gt;
       &lt;li&gt;C) 18.5 mol N2&lt;/li&gt;
       &lt;li&gt;D) 0.724 mol N2&lt;/li&gt;
+      &lt;li&gt;E) 1.73 mol N2&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c44&quot; style=&quot;display:none&quot;&gt;Answer: A&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c44').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;c44&quot; style=&quot;display:none&quot;&gt;Answer: A&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c44').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;clicker-9&quot;&gt;Clicker 9&lt;/h2&gt;
 
@@ -159,30 +217,63 @@
   &lt;li&gt;Audio 0:34:13.545160&lt;/li&gt;
   &lt;li&gt;According to the following reaction, how many grams of sulfur are formed when 37.4 g of water are formed? (S: 32.07, H: 1.0079, O: 15.999)
     &lt;ul&gt;
-      &lt;li&gt;2H2S(g) + SO2(g) -&amp;gt; 3 S(s) + 2H2O
-&lt;span id=&quot;c45&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-11-09-week-13-day-2-10097.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c45').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;2H2S(g) + SO2(g) -&amp;gt; 3 S(s) + 2H2O&lt;/li&gt;
+      &lt;li&gt;A) 99.8 g S&lt;/li&gt;
+      &lt;li&gt;B) 66.6 g S&lt;/li&gt;
+      &lt;li&gt;C) 56.1 g S&lt;/li&gt;
+      &lt;li&gt;D) 44.4 g S&lt;/li&gt;
+      &lt;li&gt;E) 14.0 g S&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;&lt;span id=&quot;c45&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-11-09-week-13-day-2-5ac09.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c45').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;clicker-10&quot;&gt;Clicker 10&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Audio 0:37:15.066241
-&lt;span id=&quot;c46&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-11-09-week-13-day-2-533b5.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c46').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Audio 0:37:15.066241&lt;/li&gt;
+  &lt;li&gt;Determine the theoretical yield of HCl if 60.0 g of BCl3 and 37.5 g of H2O are reacted according to the following balanced reaction. (molar mass of BCl3 = 117.16 g/mol, B: 10.81, Cl:35.45, O:15.999, H:1.0079)
+    &lt;ul&gt;
+      &lt;li&gt;BCl3(g) + 3 H2O(l) → H3BO3(s) + 3 HCl(g)&lt;/li&gt;
+      &lt;li&gt;A) 75.9 g HCl&lt;/li&gt;
+      &lt;li&gt;B) 132 g HCl&lt;/li&gt;
+      &lt;li&gt;C) 187 g HCl&lt;/li&gt;
+      &lt;li&gt;D) 56.0 g HCl&lt;/li&gt;
+      &lt;li&gt;E) 25.3 g HCl&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c46&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-11-09-week-13-day-2-533b5.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c46').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;clicker-11&quot;&gt;Clicker 11&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:45:58.730799&lt;/li&gt;
-  &lt;li&gt;Calcium oxide …
-+
-&lt;span id=&quot;c47&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-11-09-week-13-day-2-e236c.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c47').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Calcium oxide reacts with water in a combination reaction to produce calcium hydroxide:
+    &lt;ul&gt;
+      &lt;li&gt;CaO(s) + H2O(l) → Ca(OH)2(s)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A 5.00-g sample of CaO is reacted with 4.83 g of H2O. How many grams of water remain after the reaction is complete? (Ca:40.08, O:15.999, H:1.0079)
+    &lt;ul&gt;
+      &lt;li&gt;A) 0.00&lt;/li&gt;
+      &lt;li&gt;B) 0.00991&lt;/li&gt;
+      &lt;li&gt;C) 3.22&lt;/li&gt;
+      &lt;li&gt;D) 1.04&lt;/li&gt;
+      &lt;li&gt;E) 0.179&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c47&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-11-09-week-13-day-2-e236c.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c47').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 09 Nov 2016 00:00:00 -0600</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/11/09/week-13-day-2.html</link>
