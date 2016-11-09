@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Nov 2016 10:56:21 -0600</pubDate>
-    <lastBuildDate>Wed, 09 Nov 2016 10:56:21 -0600</lastBuildDate>
+    <pubDate>Wed, 09 Nov 2016 10:57:23 -0600</pubDate>
+    <lastBuildDate>Wed, 09 Nov 2016 10:57:23 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -3427,7 +3427,7 @@ or if the concentration unit is Molarity, then it can be written as M1Â·V1 = M2Â
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;a11&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;assets/2016-10-24-recitation-week-10-test-3-recitation-2-2b6f0.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span id=&quot;a11&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-10-24-recitation-week-10-test-3-recitation-2-2b6f0.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#a11').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
