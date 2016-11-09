@@ -6,9 +6,190 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Nov 2016 10:57:23 -0600</pubDate>
-    <lastBuildDate>Wed, 09 Nov 2016 10:57:23 -0600</lastBuildDate>
+    <pubDate>Wed, 09 Nov 2016 14:17:30 -0600</pubDate>
+    <lastBuildDate>Wed, 09 Nov 2016 14:17:30 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 13 - Day 2</title>
+        <description>&lt;h1 id=&quot;rd-tests&quot;&gt;3rd Tests&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chapters 6.10 - 10.3&lt;/li&gt;
+  &lt;li&gt;Nonprogrammable calculator&lt;/li&gt;
+  &lt;li&gt;Pencil&lt;/li&gt;
+  &lt;li&gt;Eraser&lt;/li&gt;
+  &lt;li&gt;If you arrive after 7pm, you have taken your drop grade.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;review-day&quot;&gt;Review Day&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Clicker 1&lt;/li&gt;
+  &lt;li&gt;Audio 0:04:25.997870&lt;/li&gt;
+  &lt;li&gt;Which of the following signs on q and w represent a system that is doing work on the surroundings, as well as gaining heat from the surroundings?
+    &lt;ul&gt;
+      &lt;li&gt;A) q=+, w=-&lt;/li&gt;
+      &lt;li&gt;B) q = -, w = +&lt;/li&gt;
+      &lt;li&gt;C) q = +, w = +&lt;/li&gt;
+      &lt;li&gt;D) q = -, w = -&lt;/li&gt;
+      &lt;li&gt;E) None of these represent the system referenced&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c37&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c37').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:06:45.527461&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Which of the following signs on q and w represent a system that the surroundings are doing work on, as well as gaining heat from the surroundings?
+    &lt;ul&gt;
+      &lt;li&gt;A) q = +, w = -&lt;/li&gt;
+      &lt;li&gt;B) q = -, w = +&lt;/li&gt;
+      &lt;li&gt;C) q = +, w = +&lt;/li&gt;
+      &lt;li&gt;D) q = -, w = -&lt;/li&gt;
+      &lt;li&gt;E) None of these represent the system referenced&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c38&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c38').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How many of the following molecules are polar?&lt;/li&gt;
+  &lt;li&gt;PCl5 COS XeO3 SeBr2
+    &lt;ul&gt;
+      &lt;li&gt;A) 2&lt;/li&gt;
+      &lt;li&gt;B) 0&lt;/li&gt;
+      &lt;li&gt;C) 1&lt;/li&gt;
+      &lt;li&gt;D) 3&lt;/li&gt;
+      &lt;li&gt;E) 4&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c39&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c39').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lEtFzd6XBus&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-4&quot;&gt;Clicker 4&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:14:22.599679&lt;/li&gt;
+  &lt;li&gt;When an…
+&lt;span id=&quot;c40&quot; style=&quot;display:none&quot;&gt;Answer: A. Sulfides accept for sodium. Sulfide is 2- so it just goes into the Mn.&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c40').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-5&quot;&gt;Clicker 5&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:17:34.714245&lt;/li&gt;
+  &lt;li&gt;Give the net ionic equation for the reaction&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c41&quot; style=&quot;display:none&quot;&gt;Answer: D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c41').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;clicker-6&quot;&gt;Clicker 6&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:52.685314&lt;/li&gt;
+  &lt;li&gt;Determine the reducing agent in the following&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c42&quot; style=&quot;display:none&quot;&gt;Answer: E. Lithium is the substance that is losing its electrons and causing the reaction to be reduced&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c42').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;clicker-7&quot;&gt;Clicker 7&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:39.117323&lt;/li&gt;
+  &lt;li&gt;Draw the appropriate molecular orbital diagram and determine which of the following are paramagnetic.
+    &lt;ul&gt;
+      &lt;li&gt;A) B2^2+&lt;/li&gt;
+      &lt;li&gt;B) B2^2-&lt;/li&gt;
+      &lt;li&gt;C) N2^2+&lt;/li&gt;
+      &lt;li&gt;D) C2^2-&lt;/li&gt;
+      &lt;li&gt;E) B2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cQ4Su46RmfM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+    &lt;p&gt;&lt;span id=&quot;c43&quot; style=&quot;display:none&quot;&gt;Answer: E. Looking for six or twelve valence electrons&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c43').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-8&quot;&gt;Clicker 8&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:30:33.281519&lt;/li&gt;
+  &lt;li&gt;How many moles of nitrogen are formed when 58.6 g of KNO3 decomposes according to the following reaction? The molar mass of KNO3 is 101.11 g/mol
+    &lt;ul&gt;
+      &lt;li&gt;4KNO3(s) -&amp;gt; 2K2O(s) + 2N2(g) + 5O2(g)&lt;/li&gt;
+      &lt;li&gt;A) 0.290 mol N2&lt;/li&gt;
+      &lt;li&gt;B) 0.580 mol N2&lt;/li&gt;
+      &lt;li&gt;C) 18.5 mol N2&lt;/li&gt;
+      &lt;li&gt;D) 0.724 mol N2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c44&quot; style=&quot;display:none&quot;&gt;Answer: A&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c44').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;clicker-9&quot;&gt;Clicker 9&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:13.545160&lt;/li&gt;
+  &lt;li&gt;According to the following reaction, how many grams of sulfur are formed when 37.4 g of water are formed? (S: 32.07, H: 1.0079, O: 15.999)
+    &lt;ul&gt;
+      &lt;li&gt;2H2S(g) + SO2(g) -&amp;gt; 3 S(s) + 2H2O
+&lt;span id=&quot;c45&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-11-09-week-13-day-2-10097.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c45').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-10&quot;&gt;Clicker 10&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:37:15.066241
+&lt;span id=&quot;c46&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-11-09-week-13-day-2-533b5.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c46').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-11&quot;&gt;Clicker 11&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:45:58.730799&lt;/li&gt;
+  &lt;li&gt;Calcium oxide …
++
+&lt;span id=&quot;c47&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-11-09-week-13-day-2-e236c.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c47').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 09 Nov 2016 00:00:00 -0600</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/11/09/week-13-day-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/09/week-13-day-2.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 13 - Day 1 (Ch 10 - pt 1)</title>
@@ -3301,192 +3482,6 @@ or if the concentration unit is Molarity, then it can be written as M1·V1 = M2�
         <pubDate>Mon, 24 Oct 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/10/24/week-11-day-1-end-of-ch-8.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/24/week-11-day-1-end-of-ch-8.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Recitation Week 10 (test 3 - Recitation 2)</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;1) Draw the molecular orbital diagrams to determine which of the following is most stable.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) F2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) F2^2+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Ne2^2+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) O2^2+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) F2^2-&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;&lt;span id=&quot;a1&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-10-24-recitation-week-10-test-3-recitation-2-28b22.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#a1').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;2) Use molecular orbital diagrams to determine which of the following are paramagnetic.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) O2^2-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) Ne2^2+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) O2^2+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) F2^2+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) None of the above are paramagnetic&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;&lt;span id=&quot;a2&quot; style=&quot;display:none&quot;&gt;At six or twelve valence electrons, it is paramagnetic&lt;/span&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#a2').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;3) Draw the molecular orbital diagram needed, and determine which of the following is paramagnetic.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) B2^2+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) B2^2-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) N2^2+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) C2^2-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) B2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;4) Draw the molecular orbital diagram shown to determine which of the following is most stable.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) C2^2+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) N2^2+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) B2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) C2^2-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) B2^2+&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;5) Which statement regarding stable heteronuclear diatomic molecules is false?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) All have bond orders greater than zero.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) The antibonding molecular orbitals have more of the character of the more electropositive element than of the more electronegative element.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Their molecular orbital diagrams are more symmetrical than those of homonuclear diatomic molecules.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) The bonding molecular orbitals have more of the character of the more electronegative element than of the less electronegative element.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) The greater is the difference in energy between two overlapping atomic orbitals, the more polar the resulting bond is, due to electrons occupying the resulting bonding molecular orbital.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;6) When the equation below is correctly balanced, the coefficients a, b, c, d have which values?
-    &lt;ul&gt;
-      &lt;li&gt;a Fe3O4(s) + b C(s) -&amp;gt; c Fe(l) + d CO2(g)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 1232&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 1321&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 2121&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 2132&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;a3&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-10-24-recitation-week-10-test-3-recitation-2-eb86b.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#a3').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;7) How many grams of Li3N can be formed from 1.75 moles of Li? Assume an excess of nitrogen.
-    &lt;ul&gt;
-      &lt;li&gt;6 Li(s) + N2(g) -&amp;gt; 2 Li3N(s)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 18.3 g Li3N&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 20.3 g Li3N&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 58.3 g Li3N&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 61.0 g Li3N&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 15.1 g Li3N&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;8) A 14.01 g sample of N2 reacts with 3.02 g of H2 to form ammonia (NH3). If ammonia is the only product, what mass of ammonia is formed?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 17.03 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; B) 1.10 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; C) 14.01 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; D) 3.02 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; E) 23.07 g&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;9) Consider the following balanced reaction. How many grams of water are required to form 75.9 g of HNO3? Assume that there is excess NO2 present. The molar masses are as follows: H2O = 18.02 g/mol, HNO3 = 63.02 g/mol.
-    &lt;ul&gt;
-      &lt;li&gt;3 NO2(g) + H2O(l) -&amp;gt; 2 HNO3(aq) + NO(g)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 38.0 g H20&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 21.7 g H20&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 43.4 g H20&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 10.9 g H20&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 26.5 g H2O&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;10) Give the theoretical yield, in moles, of CO2 from the reaction of 4.00 moles of C8H18 with 4.00 moles of 02.
-    &lt;ul&gt;
-      &lt;li&gt;2C8H18 + 25O2 -&amp;gt; 16CO2 + 18H2O&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.640 moles&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 64.0 moles&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 2.56 moles&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 16.0 moles&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;11) Determine the limiting reactant (LR) and the mass (in g) of nitrogen that can be formed from 50.0 g N204 and 45.0 g N2H4. Some possibly useful molar masses are as follows: N204 = 92.02 g/mol, N2H4 = 32.05 g/mol.
-    &lt;ul&gt;
-      &lt;li&gt;N204(1) + 2 N2H4(1) 3 N2(g) + 4 H20(g)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) LR = N2H4, 59.0 g N2 formed&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) LR = N2O4, 105 g N2 formed&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) LR = N2O4, 45.7 g N2 formed&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) LR = N2H4, 13.3 g N2 formed&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) No LR, 45.0 g N2 formed&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;a11&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-10-24-recitation-week-10-test-3-recitation-2-2b6f0.png&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#a11').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;12) Give the percent yield when 28.16 g of CO2 are formed from the reaction of 4.000 moles of QH18 with 4.000 moles of O2.
-    &lt;ul&gt;
-      &lt;li&gt;2 C8H18 + 25 O2 -&amp;gt; 16 CO2 + 18 H2O&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 20.00%&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 25.00%&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 50.00%&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 12.50%&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script&gt;
-var answers = [&quot;d&quot;, &quot;d&quot;, &quot;e&quot;, &quot;d&quot;, &quot;c&quot;, &quot;a&quot;, &quot;b&quot;, &quot;a&quot;, &quot;d&quot;, &quot;c&quot;, &quot;c&quot;, &quot;b&quot;];
-function getAnswer(number) {
-  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
-}
-function validate() {
-  var any = false;
-  for (var i = 1; i &lt; answers.length+1; i++) {
-    var answer = getAnswer(i);
-    if (!answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
-      any = true;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
-    }
-  }
-  if (any) {
-    toastr.error(&quot;You did not answer every question!&quot;);
-  }
-  return !any;
-}
-function grade() {
-  if (!validate()) return;
-  var correct = 0;
-  for (var i = 1; i &lt; answers.length+1; i++) {
-    var answer = getAnswer(i);
-    if (answers[i-1] == answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
-      correct++;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
-    }
-  }
-  toastr.success(&quot;Your grade is &quot;+ ((correct/answers.length) * 100).toFixed(2) + &quot; out of 100&quot;);
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 24 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/10/24/recitation-week-10-test-3-recitation-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/24/recitation-week-10-test-3-recitation-2.html</guid>
         
         
       </item>
