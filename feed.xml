@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Nov 2016 15:52:30 -0600</pubDate>
-    <lastBuildDate>Wed, 09 Nov 2016 15:52:30 -0600</lastBuildDate>
+    <pubDate>Wed, 09 Nov 2016 17:18:57 -0600</pubDate>
+    <lastBuildDate>Wed, 09 Nov 2016 17:18:57 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -114,8 +114,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;Audio 0:14:22.599679&lt;/li&gt;
-  &lt;li&gt;When an aqueous solution of manganese (II) nitrate is
-combined with an aqueous solution of ammonium sulfide,
+  &lt;li&gt;When an aqueous solution of manganese (II) nitrate is combined with an aqueous solution of ammonium sulfide,
 what should precipitate out?
     &lt;ul&gt;
       &lt;li&gt;A) MnS&lt;/li&gt;
@@ -847,8 +846,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c1&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c1').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c1&quot; style=&quot;display:none&quot;&gt;A&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c1').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;2) place the following in order of decreasing dipole moment&lt;/li&gt;
@@ -863,8 +862,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c2&quot; style=&quot;display:none&quot;&gt;A. The trans dichloroethane actually cancels itself out and has 0 dipole moment. Then for the cis flourine, it has higher dipole moment than I, so A.&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c2&quot; style=&quot;display:none&quot;&gt;A. The trans dichloroethane actually cancels itself out and has 0 dipole moment. Then for the cis flourine, it has higher dipole moment than I, so A.&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;3) Give the hybridization for the O in OF2
@@ -878,8 +877,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c3&quot; style=&quot;display:none&quot;&gt;Answer: B. To get this, draw the lewis structure for OF2. Then count the lone pairs and the number of atoms bonded to O. This is the steric number. if the steric number is 4, the atom is sp3, if it’s 3 -&amp;gt; sp2, if it’s 2 -&amp;gt; sp&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c3&quot; style=&quot;display:none&quot;&gt;Answer: B. To get this, draw the lewis structure for OF2. Then count the lone pairs and the number of atoms bonded to O. This is the steric number. if the steric number is 4, the atom is sp3, if it's 3 -&amp;gt; sp2, if it's 2 -&amp;gt; sp&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;4) Give the hybridization for the S in SO3
@@ -893,7 +892,7 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c4&quot; style=&quot;display:none&quot;&gt;Answer: C. To get this, draw the lewis structure for SO3. Then count the lone pairs and the number of atoms bonded to S. This is the steric number. if the steric number is 4, the atom is sp3, if it’s 3 -&amp;gt; sp2, if it’s 2 -&amp;gt; sp&lt;/span&gt;&lt;/p&gt;
+&lt;div id=&quot;c4&quot; style=&quot;display:none&quot;&gt;Answer: C. To get this, draw the lewis structure for SO3. Then count the lone pairs and the number of atoms bonded to S. This is the steric number. if the steric number is 4, the atom is sp3, if it's 3 -&amp;gt; sp2, if it's 2 -&amp;gt; sp&lt;/div&gt;
 
 &lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c4').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
@@ -910,7 +909,7 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c5&quot; style=&quot;display:none&quot;&gt;Answer: D. To get this, draw the lewis structure for each molecule. Then count the lone pairs and the number of atoms bonded to the central atoms. This is the steric number. if the steric number is 4, the atom is sp3, if it’s 3 -&amp;gt; sp2, if it’s 2 -&amp;gt; sp&lt;/span&gt;&lt;/p&gt;
+&lt;div id=&quot;c5&quot; style=&quot;display:none&quot;&gt;Answer: D. To get this, draw the lewis structure for each molecule. Then count the lone pairs and the number of atoms bonded to the central atoms. This is the steric number. if the steric number is 4, the atom is sp3, if it's 3 -&amp;gt; sp2, if it's 2 -&amp;gt; sp&lt;/div&gt;
 
 &lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c5').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
@@ -926,8 +925,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c6&quot; style=&quot;display:none&quot;&gt;E. The lewis structure is linear because of the tripple bond between the two carbon atoms. Linear = sp&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c6').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c6&quot; style=&quot;display:none&quot;&gt;E. The lewis structure is linear because of the tripple bond between the two carbon atoms. Linear = sp&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c6').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;7) How many p-orbitals participate in the Molecular orbitals in Benzene and how many MOs does this give?
@@ -941,8 +940,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c7&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c7').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c7&quot; style=&quot;display:none&quot;&gt;D&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c7').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;8) A chemical change
@@ -956,8 +955,11 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c8&quot; style=&quot;display:none&quot;&gt;A &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ORQi2C1_YKk&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c8').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c8&quot; style=&quot;display:none&quot;&gt;
+A
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ORQi2C1_YKk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c8').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;9) What is the stoichiometric coefficient for oxygen?
@@ -976,8 +978,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c9&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c9').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c9&quot; style=&quot;display:none&quot;&gt;C&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c9').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;10) Balance the following equation with the smallest whole number coefficients. Choose the answer that is the sum of the coefficients in the balanced equation. Do not forget coefficients of “one.”
@@ -992,8 +994,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c10&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c10').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c10&quot; style=&quot;display:none&quot;&gt;B&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c10').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;11) What is the percent yield of C2H2 if 62.80 g of water yields 15.38 g of C2H2 using the following equation.
@@ -1008,8 +1010,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c11&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp11').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c11&quot; style=&quot;display:none&quot;&gt;B&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c11').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;12) Determine the percent yield of a reaction that produces 28.65 g of Fe when 50.00 g of Fe2O3 react with excess Al to produce aluminum oxide and Fe. (Al: 26.98, Fe: 55.85)
@@ -1023,8 +1025,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c12&quot; style=&quot;display:none&quot;&gt;E &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1hqJXNTVNx0&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c12').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c12&quot; style=&quot;display:none&quot;&gt;E &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1hqJXNTVNx0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c12').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;13) In the reaction of Zn with hydrochloric acid (HCl) to give zinc(II) chloride and hydrogen, 25.0 grams of Zn have reacted with 17.5 g of HCl. How many grams of H2 will be produced? (Zn: 65.38, Cl: 35.45)&lt;/li&gt;
@@ -1034,8 +1036,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 25.0 g H2&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c13&quot; style=&quot;display:none&quot;&gt;Answer: B &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KkilKk-MK5E&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c13').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c13&quot; style=&quot;display:none&quot;&gt;Answer: B &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KkilKk-MK5E&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c13').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;14) According to the following reaction, what amount of Al2S3 remains when 20.00 g of Al2S3 and 2.00 g of H2O are reacted? A few of the molar masses are as follows: Al2S3 = 150.17 g/mol, H20 = 18.02 g/mol.
@@ -1050,8 +1052,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c14&quot; style=&quot;display:none&quot;&gt;Answer: E &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fdwzsQVTKv8&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c14').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c14&quot; style=&quot;display:none&quot;&gt;Answer: E &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fdwzsQVTKv8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c14').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;15) Two samples of calcium and fluoride are decomposed into their constituent elements. The first sample showed that the yield of products was 100% (really!). If the second sample produced 294 mg of fluorine, how many g of calcium were formed? (Ca: 40.08, F: 19.00)
@@ -1065,8 +1067,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c15&quot; style=&quot;display:none&quot;&gt;D &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/icViM432S-0&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c15').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c15&quot; style=&quot;display:none&quot;&gt;D &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/icViM432S-0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c15').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;16) Determine the molarity of a solution formed by dissolving 97.7 g LiBr in enough water to yield 750.0 mL of solution. (Li: 6.941, Br: 79.90)
@@ -1080,8 +1082,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c16&quot; style=&quot;display:none&quot;&gt;A &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LPQJppk1v6M&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c16').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c16&quot; style=&quot;display:none&quot;&gt;A &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LPQJppk1v6M&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c16').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;17) What is the concentration of HCl in the final solution when 65 mL of a 9.0 M HCl solution is diluted with pure water to a total volume of .15 L?
@@ -1094,8 +1096,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c17&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c17').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c17&quot; style=&quot;display:none&quot;&gt;B&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c17').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;18) How many molecules of sucrose (C12H22O11, molar mass = 342.30 g/mol) are contained in 14.3 mL of 0.140 M sucrose solution
@@ -1109,8 +1111,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c18&quot; style=&quot;display:none&quot;&gt;B &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nH1OLgwioK8&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c18').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c18&quot; style=&quot;display:none&quot;&gt;B &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nH1OLgwioK8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c18').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;19) What volume of 0.244 M KCl solution is required to react exactly with 50.0 mL of 0.210 M PB(NO3)2 solution?
@@ -1124,8 +1126,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c19&quot; style=&quot;display:none&quot;&gt;D &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_z2k9DAKhCM&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c19').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c19&quot; style=&quot;display:none&quot;&gt;D &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_z2k9DAKhCM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c19').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;20) Which of the following will have the highest electrical conductivity?
@@ -1139,8 +1141,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c20&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c20').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c20&quot; style=&quot;display:none&quot;&gt;A&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c20').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;21) K2SO4 is soluble
@@ -1151,8 +1153,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c21&quot; style=&quot;display:none&quot;&gt;True&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c21').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c21&quot; style=&quot;display:none&quot;&gt;True&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c21').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;22) Ba2SO4 is soluble
@@ -1163,8 +1165,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c22&quot; style=&quot;display:none&quot;&gt;False&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c22').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c22&quot; style=&quot;display:none&quot;&gt;False&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c22').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;23) NH4CO3 is slightly soluble
@@ -1175,8 +1177,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c23&quot; style=&quot;display:none&quot;&gt;False (It’s very soluble)&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c23').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c23&quot; style=&quot;display:none&quot;&gt;False (It's very soluble)&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c23').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;24) Ba(OH)2 is slightly soluble
@@ -1187,8 +1189,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c24&quot; style=&quot;display:none&quot;&gt;True&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c24').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c24&quot; style=&quot;display:none&quot;&gt;True&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c24').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;25) Ni(II)I2 is soluble
@@ -1199,8 +1201,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c25&quot; style=&quot;display:none&quot;&gt;True&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c25').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c25&quot; style=&quot;display:none&quot;&gt;True&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c25').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;26) Which pair of compounds is soluble in water?
@@ -1213,8 +1215,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c26&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c26').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c26&quot; style=&quot;display:none&quot;&gt;C&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c26').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;27) Give the complete ionic equation for the reaction (if any) that occurs when aqueous solutions of lithium sulfide and copper (II) nitrate are mixed.
@@ -1228,8 +1230,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c27&quot; style=&quot;display:none&quot;&gt;D &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/57oSiH6V_FY&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c27').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c27&quot; style=&quot;display:none&quot;&gt;D &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/57oSiH6V_FY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c27').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;28) Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of Na2CO3 and HCl are mixed
@@ -1243,8 +1245,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c28&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c28').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c28&quot; style=&quot;display:none&quot;&gt;C&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c28').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;29) What is the name for an aqueous solution of HIO
@@ -1258,8 +1260,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c29&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c29').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c29&quot; style=&quot;display:none&quot;&gt;B&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c29').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;30) Which of the following is an acid-base reaction?
@@ -1273,8 +1275,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c30&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c30').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c30&quot; style=&quot;display:none&quot;&gt;B&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c30').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;31) The titration of 25.0 mL of an unknown concentration of H2SO4 solution requires 83.6 mL of 0.12 M LiOH solution. What is the concentration of the H2SO4 solution?
@@ -1288,8 +1290,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c31&quot; style=&quot;display:none&quot;&gt;A &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Zgo8tHXatzE&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c31').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c31&quot; style=&quot;display:none&quot;&gt;A &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Zgo8tHXatzE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c31').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;32) The titration of 80.0 mL of an unknown concentration of H3PO4 solution requires 126 mL of .218 M KOH solution. What is the concentration of H3PO4 solution (in M)
@@ -1303,8 +1305,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c32&quot; style=&quot;display:none&quot;&gt;C &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7hW7bBbAAF4&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c32').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c32&quot; style=&quot;display:none&quot;&gt;C &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7hW7bBbAAF4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c32').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;33) Determine the oxidation state of nitrogen in NO2
@@ -1318,8 +1320,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c33&quot; style=&quot;display:none&quot;&gt;E&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c33').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c33&quot; style=&quot;display:none&quot;&gt;E&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c33').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;34) What element is undergoing reduction (if any) in the following reaction?
@@ -1334,8 +1336,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c34&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c34').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c34&quot; style=&quot;display:none&quot;&gt;D&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c34').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;35) Which choice gives the correct oxidation numbers for all three elements in Rb2SO3 in the order that the elements are shown in the formula?
@@ -1349,8 +1351,8 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c35&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c35').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c35&quot; style=&quot;display:none&quot;&gt;D&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c35').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;36) Which of the following signs on q and w represent a system that is doing work on the surroundings, as well as gaining heat from the surroundings?
@@ -1364,11 +1366,181 @@ the amount of heat absorbed.&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;span id=&quot;c36&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c36').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+&lt;div id=&quot;c36&quot; style=&quot;display:none&quot;&gt;A&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c36').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;37) Which of the following signs on q and w represent a system that the surroundings are doing work on, as well as gaining heat from the surroundings?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;37&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) q = +, w = -&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;37&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) q = -, w = +&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;37&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) q = +, w = +&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;37&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) q = -, w = -&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;37&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) None of these represent the system referenced&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div id=&quot;c38&quot; style=&quot;display:none&quot;&gt;C&lt;/div&gt;
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c38').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;38) How many of the following molecules are polar?&lt;/li&gt;
+  &lt;li&gt;PCl5 COS XeO3 SeBr2
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;38&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;38&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;38&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;38&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;38&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 4&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div id=&quot;c39&quot; style=&quot;display:none&quot;&gt;D &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lEtFzd6XBus&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c39').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;39) When an aqueous solution of manganese (II) nitrate is combined with an aqueous solution of ammonium sulfide,
+what should precipitate out?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;39&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) MnS&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;39&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) Mn(SO3)2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;39&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Mn(SO4)2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;39&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) Mn2SO3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;39&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) Mn2SO4&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div id=&quot;c40&quot; style=&quot;display:none&quot;&gt;Answer: A. Sulfides accept for sodium. Sulfide is 2- so it just goes into the Mn.&lt;/div&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c40').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;40) Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of K2S and Fe(NO3)2 are mixed.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;40&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) K+(aq) + NO3 - (aq) → KNO3(s)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;40&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) Fe2+(aq) + S2-(aq) + 2 K+(aq) + 2 NO3 - (aq) → FeS(s) + 2 K+(aq) + 2 NO3 - (aq)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;40&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Fe2+(aq) + S2-(aq) + 2 K+(aq) + 2 NO3 - (aq) → Fe2+(aq) + S2-(aq) + 2 KNO3(s)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;40&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) Fe2+(aq) + S2-(aq) → FeS(s)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;40&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) No reaction occurs.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div id=&quot;c41&quot; style=&quot;display:none&quot;&gt;Answer: D&lt;/div&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c41').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;41) Determine the reducing agent in the following reaction. 2 Li(s) + Fe(C2H3O2)2(aq) → 2 LiC2H3O2(aq) + Fe(s)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;41&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;41&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) H&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;41&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) C&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;41&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) Fe&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;41&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) Li&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div id=&quot;c42&quot; style=&quot;display:none&quot;&gt;Answer: E. Lithium is the substance that is losing its electrons and causing the reaction to be reduced&lt;/div&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c42').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;42) Draw the appropriate molecular orbital diagram and determine which of the following are paramagnetic.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;42&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) B2^2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;42&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) B2^2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;42&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) N2^2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;42&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) C2^2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;42&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) B2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div id=&quot;c43&quot; style=&quot;display:none&quot;&gt;Answer: E. Looking for six or twelve valence electrons
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cQ4Su46RmfM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c43').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;43) How many moles of nitrogen are formed when 58.6 g of KNO3 decomposes according to the following reaction? The molar mass of KNO3 is 101.11 g/mol
+    &lt;ul&gt;
+      &lt;li&gt;4KNO3(s) -&amp;gt; 2K2O(s) + 2N2(g) + 5O2(g)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;43&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.290 mol N2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;43&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.580 mol N2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;43&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 18.5 mol N2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;43&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.724 mol N2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;43&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 1.73 mol N2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div id=&quot;c44&quot; style=&quot;display:none&quot;&gt;Answer: A&lt;/div&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c44').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;44) According to the following reaction, how many grams of sulfur are formed when 37.4 g of water are formed? (S: 32.07, H: 1.0079, O: 15.999)
+    &lt;ul&gt;
+      &lt;li&gt;2H2S(g) + SO2(g) -&amp;gt; 3 S(s) + 2H2O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;44&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 99.8 g S&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;44&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 66.6 g S&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;44&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 56.1 g S&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;44&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 44.4 g S&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;44&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 14.0 g S&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div id=&quot;c45&quot; style=&quot;display:none&quot;&gt;![](../../../assets/2016-11-09-week-13-day-2-5ac09.png)&lt;/div&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c45').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;45) Determine the theoretical yield of HCl if 60.0 g of BCl3 and 37.5 g of H2O are reacted according to the following balanced reaction. (molar mass of BCl3 = 117.16 g/mol, B: 10.81, Cl:35.45, O:15.999, H:1.0079)
+    &lt;ul&gt;
+      &lt;li&gt;BCl3(g) + 3 H2O(l) → H3BO3(s) + 3 HCl(g)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;45&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 75.9 g HCl&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;45&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 132 g HCl&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;45&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 187 g HCl&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;45&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 56.0 g HCl&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;45&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 25.3 g HCl&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div id=&quot;c46&quot; style=&quot;display:none&quot;&gt;![](../../../assets/2016-11-09-week-13-day-2-533b5.png)&lt;/div&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c46').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;46) Calcium oxide reacts with water in a combination reaction to produce calcium hydroxide:
+    &lt;ul&gt;
+      &lt;li&gt;CaO(s) + H2O(l) → Ca(OH)2(s)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A 5.00-g sample of CaO is reacted with 4.83 g of H2O. How many grams of water remain after the reaction is complete? (Ca:40.08, O:15.999, H:1.0079)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;46&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.00&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;46&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.00991&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;46&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 3.22&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;46&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 1.04&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;46&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 0.179&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div id=&quot;c47&quot; style=&quot;display:none&quot;&gt;![](../../../assets/2016-11-09-week-13-day-2-e236c.png)&lt;/div&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c47').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;script&gt;
-var answers = [&quot;a&quot;, &quot;a&quot;, &quot;b&quot;, &quot;c&quot;, &quot;d&quot;, &quot;e&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;, &quot;e&quot;, &quot;b&quot;, &quot;e&quot;, &quot;d&quot;, &quot;a&quot;, &quot;b&quot;, &quot;b&quot;, &quot;d&quot;, &quot;a&quot;, &quot;a&quot;, &quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;a&quot;, &quot;c&quot;, &quot;d&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;c&quot;, &quot;e&quot;, &quot;d&quot;, &quot;d&quot;, &quot;a&quot;];
+var answers = [&quot;a&quot;, &quot;a&quot;, &quot;b&quot;, &quot;c&quot;, &quot;d&quot;, &quot;e&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;, &quot;e&quot;, &quot;b&quot;, &quot;e&quot;, &quot;d&quot;, &quot;a&quot;, &quot;b&quot;, &quot;b&quot;, &quot;d&quot;, &quot;a&quot;, &quot;a&quot;, &quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;a&quot;, &quot;c&quot;, &quot;d&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;c&quot;, &quot;e&quot;, &quot;d&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;, &quot;d&quot;, &quot;a&quot;, &quot;d&quot;, &quot;e&quot;, &quot;e&quot;, &quot;a&quot;, &quot;a&quot;, &quot;d&quot;, &quot;c&quot;];
 function getAnswer(number) {
   return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
 }
