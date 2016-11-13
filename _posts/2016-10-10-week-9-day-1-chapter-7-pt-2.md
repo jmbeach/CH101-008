@@ -90,16 +90,14 @@ hybridization.
 
 + Audio 0:09:46.537377
 + Give the electron geometry (eg), molecular geometry (mg), and hybridization for H2O
-
-A) eg = tetrahedral, mg = bent, sp3
-B) eg = trigonal pyramidal, mg = trigonal pyramidal, sp3
-C) eg = tetrahedral, mg = trigonal pyramidal, sp3
-D) eg = bent, mg = bent, sp3
-E) eg = trigonal planar, gm = trigonal planar, sp3
+  + A) eg = tetrahedral, mg = bent, sp3
+  + B) eg = trigonal pyramidal, mg = trigonal pyramidal, sp3
+  + C) eg = tetrahedral, mg = trigonal pyramidal, sp3
+  + D) eg = bent, mg = bent, sp3
+  + E) eg = trigonal planar, gm = trigonal planar, sp3
 
 <span id="c1" style="display:none">A</span>
-
-<input type="button" onclick="$("#c1").toggle()" value="show/hide answer"/>
+<input type="button" onclick="$('#c1').toggle()" value="show/hide answer"/>
 
 ## sp3d Hybridized Orbital
 
@@ -194,18 +192,15 @@ along the axis connecting the two bonding nuclei.
 
 + Audio 0:32:21.778478
 + place the following in order of decreasing dipole moment
-I. cis-CHCl=CHCl II. trans-CHCl=CHCl III. cis-CHF=CHF
-
-A) III > I > II
-B) II > I > III
-C) I > III > II
-D) II > III > I
-E) I = III > II
-
++ I. cis-CHCl=CHCl II. trans-CHCl=CHCl III. cis-CHF=CHF
+  + A) III > I > II
+  + B) II > I > III
+  + C) I > III > II
+  + D) II > III > I
+  + E) I = III > II
 
 <span id="c2" style="display:none">A. The trans dichloroethane actually cancels itself out and has 0 dipole moment. Then for the cis flourine, it has higher dipole moment than I, so A.</span>
-
-<input type="button" onclick="$("#c2").toggle()" value="show/hide answer"/>
+<input type="button" onclick="$('#c2').toggle()" value="show/hide answer"/>
 
 ## sp Hybridization and Triple Bonds
 

@@ -31,6 +31,8 @@ title: Recitation Week 10 (test 3 - Recitation 2)
   + <input name="3" type="radio" value="c"/> C) N2^2+
   + <input name="3" type="radio" value="d"/> D) C2^2-
   + <input name="3" type="radio" value="e"/> E) B2
+
+
 + 4) Draw the molecular orbital diagram shown to determine which of the following is most stable.
   + <input name="4" type="radio" value="a"/> A) C2^2+
   + <input name="4" type="radio" value="b"/> B) N2^2+
@@ -87,6 +89,11 @@ title: Recitation Week 10 (test 3 - Recitation 2)
   + <input name="11" type="radio" value="c"/> C) LR = N2O4, 45.7 g N2 formed
   + <input name="11" type="radio" value="d"/> D) LR = N2H4, 13.3 g N2 formed
   + <input name="11" type="radio" value="e"/> E) No LR, 45.0 g N2 formed
+
+<span id="a11" style="display:none"><img  src="../../../assets/2016-10-24-recitation-week-10-test-3-recitation-2-2b6f0.png"/></span>
+
+<input type="button" onclick="$('#a11').toggle();" value="show/hide answer"/>
+
 + 12) Give the percent yield when 28.16 g of CO2 are formed from the reaction of 4.000 moles of QH18 with 4.000 moles of O2.
   + 2 C8H18 + 25 O2 -> 16 CO2 + 18 H2O
   + <input name="12" type="radio" value="a"/> A) 20.00%

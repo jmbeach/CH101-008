@@ -23,12 +23,16 @@ title: Test 3 Recitation 1
   + <input name="2" type="radio" value="d"/> PF4+ < OF2 < PF3
   + <input name="2" type="radio" value="e"/> PF4+ < PF3 < OF2
 + 3) How many of the following molecules are polar?
-  + BrC13 CS2 SiF4 SO3
+  + BrCl3 CS2 SiF4 SO3
   + <input name="3" type="radio" value="a"/> 1
   + <input name="3" type="radio" value="b"/> 2
   + <input name="3" type="radio" value="c"/> 3
   + <input name="3" type="radio" value="d"/> 4
   + <input name="3" type="radio" value="e"/> 0
+
+<span id="c3" style="display:none">Answer: A. see comments for more detail. <a href="http://www.tutor-homework.com/Chemistry_Help/Molecular_Geometry/Polar_Or_Nonpolar.html">more info</a></span>
+<input type="button" onclick="$('#c3').toggle()" value="show/hide answer"/>
+
 + 4) Give the electron geometry (eg), molecular geometry (mg), and hybridization for XeF4.
   + <input name="4" type="radio" value="a"/> eg = tetrahedral, mg = tetrahedral, sp3
   + <input name="4" type="radio" value="b"/> eg = trigonal pyramidal, mg — trigonal pyramidal, sp3
@@ -47,6 +51,10 @@ title: Test 3 Recitation 1
   + <input name="6" type="radio" value="c"/> When two atomic orbitals come together to form two molecular orbitals, one molecular orbital will be lower in energy than the two separate atomic orbitals and one molecular orbital will be higher in energy than the separate atomic orbitals.
   + <input name="6" type="radio" value="d"/> Electrons placed in antibonding orbitals stabilize the ion/molecule.
   + <input name="6" type="radio" value="e"/> All of the above are true.
+
+<span id="c6" style="display:none">Answer: sp3d2. Draw the lewis structure. Count up number of atoms bonded and lone pairs. This is your steric number. A steric number of 6 cooresponds to sp3d2.</span>
+<input type="button" onclick="$('#c6').toggle()" value="show/hide answer"/>
+
 + 7) List the number of sigma bonds and pi bonds in a double bond.
   + <input name="7" type="radio" value="a"/> 1 sigma, 1 pi
   + <input name="7" type="radio" value="b"/> 2 sigma, 0 pi
