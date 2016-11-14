@@ -6,9 +6,249 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Nov 2016 17:18:57 -0600</pubDate>
-    <lastBuildDate>Wed, 09 Nov 2016 17:18:57 -0600</lastBuildDate>
+    <pubDate>Sun, 13 Nov 2016 17:57:42 -0600</pubDate>
+    <lastBuildDate>Sun, 13 Nov 2016 17:57:42 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 13 - Day 3</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2r2zzj&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-13-day-3.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
+	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;_HsnvqAFJqI&quot;});
+&lt;/script&gt;
+
+&lt;h2 id=&quot;quantifying-heat-energy&quot;&gt;Quantifying Heat Energy&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:03:56.456416&lt;/li&gt;
+  &lt;li&gt;The &lt;em&gt;heat capacity&lt;/em&gt; of an object is proportional to the following:
+    &lt;ul&gt;
+      &lt;li&gt;Directly proportional to mass&lt;/li&gt;
+      &lt;li&gt;The specific heat of the material&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The quantity of heat absorbed by an object can be determined if the following are known:
+    &lt;ul&gt;
+      &lt;li&gt;Mass&lt;/li&gt;
+      &lt;li&gt;Specific heat capacity&lt;/li&gt;
+      &lt;li&gt;Temperature change&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;specific-heat-capacity&quot;&gt;Specific Heat Capacity&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:05:10.723769&lt;/li&gt;
+  &lt;li&gt;Measure of a substance’s intrinsic ability to absorb heat.&lt;/li&gt;
+  &lt;li&gt;The &lt;em&gt;specific heat capacity&lt;/em&gt; is the amount of heat energy required to raise the temperature of one gram of a substance 1 °C.
+    &lt;ul&gt;
+      &lt;li&gt;Cs&lt;/li&gt;
+      &lt;li&gt;Units J/(g · °C)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The &lt;em&gt;molar heat capacity&lt;/em&gt; is the amount of heat energy required to raise the temperature of one mole of a substance 1 °C.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-11-week-13-day-3-5eafa.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem&quot;&gt;Practice Problem:&lt;/h2&gt;
+
+&lt;h3 id=&quot;temperature-changes-and-heat-capacity&quot;&gt;Temperature Changes and Heat Capacity&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:09:58.630420&lt;/li&gt;
+  &lt;li&gt;You find a pre-1982 penny in the snow. How much heat is absorbed as it warms from -8.0 °C to body temperature, 37.0 °C? Assume the penny is pure copper and has a mass of 3.10 g&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-dAXChFqXLA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:20.872114&lt;/li&gt;
+  &lt;li&gt;A sample of copper absorbs 43.6 kJ of heat, resulting in a temperature rise of 75.0°C, determine the mass (in kg) of the copper sample if the specific heat capacity of copper is 0.385 J/g°C
+    &lt;ul&gt;
+      &lt;li&gt;A) 1.51&lt;/li&gt;
+      &lt;li&gt;B) 6.62&lt;/li&gt;
+      &lt;li&gt;C) 1.26&lt;/li&gt;
+      &lt;li&gt;D) 7.94&lt;/li&gt;
+      &lt;li&gt;E) 3.64&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c1&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c1').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xscFidwNeiU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;heat-transfer-and-final-temperature&quot;&gt;Heat Transfer and Final Temperature&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:17:13.460079&lt;/li&gt;
+  &lt;li&gt;When two objects at different temperatures are placed in contact, heat flows from the material at the higher temperature to the material at the lower temperature.&lt;/li&gt;
+  &lt;li&gt;Heat flows until both materials reach the same final temperature.&lt;/li&gt;
+  &lt;li&gt;The amount of heat energy lost by the hot material equals the amount of heat gained by the cold material.&lt;/li&gt;
+  &lt;li&gt;If one is defined as our system, the other as surroundings then:
+    &lt;ul&gt;
+      &lt;li&gt;qsystem=-qsurroundings&lt;/li&gt;
+      &lt;li&gt;qsys = -qsurr&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-11-week-13-day-3-2af8b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;thermal-energy-transfer&quot;&gt;Thermal Energy Transfer&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:19:06.599992&lt;/li&gt;
+  &lt;li&gt;A block of metal at 55 °C is added to water at 25 °C.&lt;/li&gt;
+  &lt;li&gt;Thermal energy transfers heat from the metal to the water.&lt;/li&gt;
+  &lt;li&gt;The exact final temperature depends on the following:
+    &lt;ul&gt;
+      &lt;li&gt;The mass of the metal&lt;/li&gt;
+      &lt;li&gt;The mass of water&lt;/li&gt;
+      &lt;li&gt;Specific heat capacities of the metal and of water&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-11-week-13-day-3-be1e0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-11-week-13-day-3-9c582.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-thermal-energy-transfer&quot;&gt;Practice Problem: Thermal Energy Transfer&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:19:36.161583&lt;/li&gt;
+  &lt;li&gt;A 32.5 g cube of aluminum initially at 45.8 oC is submerged into 105.3 g of water at 15.4 oC. What is the final temperature? (Assume there is no heat lost)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/XSVBPrueP0s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:13.227245&lt;/li&gt;
+  &lt;li&gt;A 43.9-g piece of copper (CCu= 0.385 J/g°C) at 135.0°C is plunged into 254 g of water at 39.0°C. Assuming that no heat is lost to the surroundings, what will the final temperature of the system be?
+    &lt;ul&gt;
+      &lt;li&gt;A) 100.0°C&lt;/li&gt;
+      &lt;li&gt;B) 40.5°C&lt;/li&gt;
+      &lt;li&gt;C) 62.5°C&lt;/li&gt;
+      &lt;li&gt;D) 87.0°C&lt;/li&gt;
+      &lt;li&gt;E) 53.1°C&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c2&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;pressurevolume-work&quot;&gt;Pressure–Volume Work&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:33:15.662283&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;PV work&lt;/em&gt; is work caused by a volume change against an external pressure.&lt;/li&gt;
+  &lt;li&gt;When gases expand, ΔV is positive, but the system is doing work on the surroundings, so wgas is negative.&lt;/li&gt;
+  &lt;li&gt;As long as the external pressure is kept constant, w = –PΔV.
+    &lt;ul&gt;
+      &lt;li&gt;Workgas = External Pressure × Change in Volumegas&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;To convert the units to joules, use 101.3 J = 1 atm · L.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-11-week-13-day-3-d5c68.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-pressurevolume-work&quot;&gt;Practice Problem: Pressure–Volume Work&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:20.018920&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;To inflate a balloon you must do pressure-volume work on the surroundings. If you inflate a balloon from a volume of 0.100 L to 1.85L, against atmospheric pressure (1.00 atm), how much work is done (in Joules)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ONUQewULhR8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:38:59.416030&lt;/li&gt;
+  &lt;li&gt;Calculate the change in internal energy (delta E) for a system that is giving off 25.0kJ of heat and is changing from 12.00 L to 6.00 L in volume at 1.50 atm pressure (remember that 101.3 J = 1 L*atm)
+25.9 kJ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c3&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LDkgzpBVzOY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;heat capacity&lt;/td&gt;
+      &lt;td&gt;directly proportional to mass&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;specific heat capacity&lt;/td&gt;
+      &lt;td&gt;the amount of heat energy required to raise the temperature of one gram of a substance 1 °C&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;molar heat capacity&lt;/td&gt;
+      &lt;td&gt;the amount of heat energy required to raise the temperature of one mole of a substance 1 °C&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pressure volume work&lt;/td&gt;
+      &lt;td&gt;work caused by a volume change against an external pressure (w = –PΔV)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Fri, 11 Nov 2016 00:00:00 -0600</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/11/11/week-13-day-3.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/11/week-13-day-3.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 13 - Day 2</title>
@@ -3413,338 +3653,6 @@ particles able to conduct electricity.&lt;/li&gt;
         <pubDate>Wed, 26 Oct 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/10/26/week-11-day-2.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/26/week-11-day-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 11 - Day 1 (End of Ch 8)</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2oqbry&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-11-day-1-end-of-ch-8.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
-	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
-	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
-&lt;/div&gt;
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
-	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;Bq35JdxQzxw&quot;});
-&lt;/script&gt;
-
-&lt;h2 id=&quot;practice-problem-combustion-reaction-how-many-grams-of-products-are-formed-during-the-combustion-of-100-g-of-ethanol-and-how-much-oxygen-is-consumed&quot;&gt;Practice Problem: Combustion Reaction How many grams of products are formed during the combustion of 100. g of ethanol? (and how much oxygen is consumed)?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:02:46.104807&lt;/li&gt;
-&lt;/ul&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kgUmvU8Cxfs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;alkali-metal-reaction-a-type-of-chemical-reaction&quot;&gt;Alkali Metal Reaction: A Type of Chemical Reaction&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:07:08.868545&lt;/li&gt;
-  &lt;li&gt;Overview of Alkali Metals:&lt;/li&gt;
-  &lt;li&gt;The alkali metals (group 1A) have ns1 outer electron configurations.
-    &lt;ul&gt;
-      &lt;li&gt;Form +1 cation to “achieve” noble gas configuration.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The reactions of the alkali metals with nonmetals are vigorous.&lt;/li&gt;
-  &lt;li&gt;Common reaction for alkali metals (M) is with halogens (X)
-    &lt;ul&gt;
-      &lt;li&gt;2 M + X2 → 2 MX&lt;/li&gt;
-      &lt;li&gt;Example: 2 Na(s) + Cl2(g) → 2 NaCl(s)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The alkali metals react vigorously with water to form the dissolved alkali metal ion, the hydroxide ion, and hydrogen gas:
-    &lt;ul&gt;
-      &lt;li&gt;2 M(s) + 2 H2O(l) → 2 M+(aq) + 2 OH–(aq) + H2(g)&lt;/li&gt;
-      &lt;li&gt;The reaction is highly exothermic and can be explosive because the heat from the reaction can ignite the hydrogen gas.
-        &lt;ul&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-76f57.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;halogen-reaction-a-type-of-chemical-reaction&quot;&gt;Halogen Reaction: A Type of Chemical Reaction&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:09:58.472842&lt;/li&gt;
-  &lt;li&gt;Halogen Overview:&lt;/li&gt;
-  &lt;li&gt;Group 7 elements that have ns2np5 outer electron configurations:
-    &lt;ul&gt;
-      &lt;li&gt;Mostly form –1 anions (F only forms –1 anion) to achieve the “noble gas configuration”&lt;/li&gt;
-      &lt;li&gt;Most reactive of the nonmetal elements&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The halogens (X) tend to react with metals especially with Group 1 and 2A metals to form ionic compounds such as metal halides (MXn).
-    &lt;ul&gt;
-      &lt;li&gt;2 M + n X2 → 2 MXn&lt;/li&gt;
-      &lt;li&gt;Example: 2 Fe(s) + 3 Cl2(g) → 2 FeCl3(s)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The halogens react with hydrogen to form hydrogen halides.
-    &lt;ul&gt;
-      &lt;li&gt;H2( g) + X2 → 2 HX(g)&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-f98d5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:14:33.764259&lt;/li&gt;
-  &lt;li&gt;Two samples of calcium and fluoride are decomposed into their constituent elements. The first sample showed that the yield of products was 100% (really!). If the second sample produced 294 mg of fluorine, how many g of calcium were formed? (Ca: 40.08, F: 19.00)
-    &lt;ul&gt;
-      &lt;li&gt;A) 0.280 g&lt;/li&gt;
-      &lt;li&gt;B) 3.10 * 10^2 g&lt;/li&gt;
-      &lt;li&gt;C) 3.13 g&lt;/li&gt;
-      &lt;li&gt;D) 0.310 g&lt;/li&gt;
-      &lt;li&gt;E) 2.80 * 10^2 g&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp1&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp1').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/icViM432S-0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:17:21.888102&lt;/li&gt;
-  &lt;li&gt;End of chapter 8&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;chapter-9&quot;&gt;Chapter 9&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Introduction to Solutions &amp;amp; Aqueous Reactions&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;why-a-whole-introductory-chapter-on-chemistry-in-water&quot;&gt;Why a whole “introductory” chapter on chemistry in water?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:18:22.136923&lt;/li&gt;
-  &lt;li&gt;Water is ubiquitous: human body is 50-65% water&lt;/li&gt;
-  &lt;li&gt;Water is (relatively) cheap&lt;/li&gt;
-  &lt;li&gt;Water is a good solvent&lt;/li&gt;
-  &lt;li&gt;Many reactions go faster in water&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;solution-concentration-and-solution-stoichiometry&quot;&gt;Solution Concentration and Solution Stoichiometry&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:20:23.634573&lt;/li&gt;
-  &lt;li&gt;When table salt is mixed with water, it seems to
-disappear or become a liquid, and the mixture is
-homogeneous.
-    &lt;ul&gt;
-      &lt;li&gt;The salt is still there, as you can tell from the taste or simply boiling away the water.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Homogeneous mixtures are called &lt;em&gt;solutions&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;The component of the solution that changes state is
-called the &lt;em&gt;solute&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;The component that keeps its state is called the solvent.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;solution-concentration-categories&quot;&gt;Solution Concentration: Categories&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:22:26.471631&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Dilute solutions&lt;/em&gt; have a small amount of solute compared to solvent.&lt;/li&gt;
-  &lt;li&gt;Concentrated solutions have a large amount of solute compared to solvent&lt;/li&gt;
-  &lt;li&gt;Can also describe Quantitatively&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;old-solution-concentration-molality&quot;&gt;OLD Solution Concentration: Molality&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A (not so) common way to express a solution concentration is molality (M).
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Molality&lt;/em&gt; is the amount of solute (in moles) divided by the mass of solvent (in kg). CH102&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;solution-concentration-molarity&quot;&gt;Solution Concentration: Molarity&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:23:35.675700&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-63cb4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;solution-concentration-molarity-1&quot;&gt;Solution Concentration: Molarity&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:25:57.189268&lt;/li&gt;
-  &lt;li&gt;A common way to express a solution concentration is molarity (M).
-    &lt;ul&gt;
-      &lt;li&gt;Molarity is the amount of solute (in moles) divided by the volume of solution (in liters).&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-1e9a9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;using-molarity-in-calculations&quot;&gt;Using Molarity in Calculations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:25.553273&lt;/li&gt;
-  &lt;li&gt;The molarity of a solution can be used as a conversion
-factor between moles of the solute and liters of the
-solution.
-    &lt;ul&gt;
-      &lt;li&gt;For example: A 0.500 M NaCl solution contains 0.500 mol NaCl for every liter of solution.&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-96bfb.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-calculating-concentrations&quot;&gt;Practice Problem: Calculating Concentrations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:28:53.770758&lt;/li&gt;
-  &lt;li&gt;What is the molarity of a solution made by dissolving 25.5 g of KBr in enough water to give 1.75 L of solution?&lt;/li&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8zmCcA1IK9k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:28.311372&lt;/li&gt;
-  &lt;li&gt;Determine the molarity of a solution formed by dissolving 97.7 g LiBr in enough water to yield 750.0 mL of solution. (Li: 6.941, Br: 79.90)
-    &lt;ul&gt;
-      &lt;li&gt;A) 1.50 M&lt;/li&gt;
-      &lt;li&gt;B) 1.18 M&lt;/li&gt;
-      &lt;li&gt;C) 0.130 M&lt;/li&gt;
-      &lt;li&gt;D) 0.768 M&lt;/li&gt;
-      &lt;li&gt;E) 2.30 M&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp2&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LPQJppk1v6M&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-calculating-concentrations-1&quot;&gt;Practice Problem: Calculating Concentrations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:34:48.656203
-How many liters of a 0.125 M NaOH solution contain 0.255 mol of NaOH?&lt;/li&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/DpitrQkZDwk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;solution-dilution-making-a-solution-from-a-solution-c1v1--c2v2&quot;&gt;Solution Dilution: Making a Solution from a Solution: C1·V1 = C2·V2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:37:43.525017&lt;/li&gt;
-  &lt;li&gt;A dilution is when a new solution is prepared from a stock solution (more concentrated solution).&lt;/li&gt;
-  &lt;li&gt;To make solutions of lower concentrations from these stock solutions, more solvent is added.
-    &lt;ul&gt;
-      &lt;li&gt;The amount of solute doesn’t change; just the volume of solution changes:
-        &lt;ul&gt;
-          &lt;li&gt;moles solute in solution 1 = moles solute in solution 2&lt;/li&gt;
-          &lt;li&gt;The concentrations and volumes of the stock and new solutions are inversely proportional.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The mathematical relationship is C1·V1 = C2·V2,
-or if the concentration unit is Molarity, then it can be written as M1·V1 = M2·V2.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;preparing-300-l-of-0500-m-cacl2-from-a-100-m-stock-solution&quot;&gt;Preparing 3.00 L of 0.500 M CaCl2 from a 10.0 M Stock Solution&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:40:33.998639&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-b57ac.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-calculating-concentrations-to-what-volume-should-0200-l-of-15-m-naoh-solution-be-diluted-to-give-a-3-m-naoh-solution&quot;&gt;Practice Problem: Calculating Concentrations To what volume should 0.200 L of 15 M NaOH solution be diluted to give a 3 M NaOH solution?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:42:51.333854&lt;/li&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xu7LDV2D1BY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:47:55.628953&lt;/li&gt;
-  &lt;li&gt;What is the concentration of HCl in the final solution when 65 mL of a 9.0 M HCl solution is diluted with pure water to a total volume of .15 L?
-    &lt;ul&gt;
-      &lt;li&gt;A) 2.1 × 10-2 M&lt;/li&gt;
-      &lt;li&gt;B) 3.9 M&lt;/li&gt;
-      &lt;li&gt;C) 21 M&lt;/li&gt;
-      &lt;li&gt;D) 3.9 × 10^3 M&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp3&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;solution&lt;/td&gt;
-      &lt;td&gt;homogeneous mixtures&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;solute&lt;/td&gt;
-      &lt;td&gt;component of solution which changes state&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;dilute solutions&lt;/td&gt;
-      &lt;td&gt;solutions which have a small amount of solute compared to solvent&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;molarity&lt;/td&gt;
-      &lt;td&gt;amount of solute (in moles) divided by the volume of solution (in liters)&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Mon, 24 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/10/24/week-11-day-1-end-of-ch-8.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/24/week-11-day-1-end-of-ch-8.html</guid>
         
         
       </item>
