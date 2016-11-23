@@ -6,9 +6,1123 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Nov 2016 17:57:42 -0600</pubDate>
-    <lastBuildDate>Sun, 13 Nov 2016 17:57:42 -0600</lastBuildDate>
+    <pubDate>Tue, 22 Nov 2016 18:02:28 -0600</pubDate>
+    <lastBuildDate>Tue, 22 Nov 2016 18:02:28 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 15 - Day 1 (Start Ch 11)</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:59.904181&lt;/li&gt;
+  &lt;li&gt;2 - 4:30 saturday and sunday after next
+    &lt;ul&gt;
+      &lt;li&gt;review sessions in shelby hall&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:02:40.435200&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How much energy is evolved during the formation of 197 g of Fe according to the reaction below? (Fe: 55.85)
+Fe2O3(s)+2Al(s)-&amp;gt;Al2O3(s)+2Fe(s) delta H rxn = -852kJ&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A) 1.52*10^3 kJ&lt;/li&gt;
+  &lt;li&gt;B) 3.02*10^3 kJ&lt;/li&gt;
+  &lt;li&gt;C) 8.40*10^3 kJ&lt;/li&gt;
+  &lt;li&gt;D) 964 kJ&lt;/li&gt;
+  &lt;li&gt;E) 482 kJ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c12&quot; style=&quot;display:none&quot;&gt;Answer: A &lt;img src=&quot;../../../assets/2016-11-21-week-15-day-1-start-ch-11-e8f83.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c12').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;gas-pressure&quot;&gt;Gas Pressure&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:07:39.758980&lt;/li&gt;
+  &lt;li&gt;Gas pressure is a result of the constant movement of the gas molecules and their collisions with the surfaces around them.&lt;/li&gt;
+  &lt;li&gt;The pressure of a gas depends on several factors:
+    &lt;ul&gt;
+      &lt;li&gt;Number of gas particles in a given volume&lt;/li&gt;
+      &lt;li&gt;Volume of the container&lt;/li&gt;
+      &lt;li&gt;Average speed of the gas particles&lt;/li&gt;
+      &lt;li&gt;Mass of the gas particles&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gas-pressure-1&quot;&gt;Gas Pressure&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The total pressure exerted by a gas depends on frequency of collisions &amp;amp; momentum change during a collision:&lt;/li&gt;
+  &lt;li&gt;Number of gas particles in a given volume
+    &lt;ul&gt;
+      &lt;li&gt;The fewer the gas particles, the lower the force per unit area and the lower the pressure.
+        &lt;ul&gt;
+          &lt;li&gt;A low density of gas particles results in low pressure. A high density of gas particles results in high pressure.&lt;/li&gt;
+          &lt;li&gt;As volume increases, concentration of gas molecules decreases (number of molecules does not change, but since the volume increases, the concentration goes down).
+            &lt;ul&gt;
+              &lt;li&gt;This, in turn, results in fewer molecular collisions, which results in lower pressure.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Momentum of individual molecules
+    &lt;ul&gt;
+      &lt;li&gt;speed and mass of molecules
+        &lt;ul&gt;
+          &lt;li&gt;Temperature&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-21-week-15-day-1-start-ch-11-372df.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;atmospheric-pressure-effects&quot;&gt;Atmospheric Pressure Effects&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:10:36.762960&lt;/li&gt;
+  &lt;li&gt;Variation in pressure in Earthʼ s atmosphere creates wind, and changes in pressure help us to predict weather.
+    &lt;ul&gt;
+      &lt;li&gt;The H in this map indicates regions of high pressure, usually associated with clear weather.&lt;/li&gt;
+      &lt;li&gt;The L indicates regions of low pressure, usually associated with unstable weather.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The number of gas particles in a given volume decreases with increasing altitude.
+    &lt;ul&gt;
+      &lt;li&gt;Hence, pressure decreases with increasing altitude.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-21-week-15-day-1-start-ch-11-d21c4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pressure-imbalance-in-the-ear&quot;&gt;Pressure Imbalance in the Ear&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:11:41.834490&lt;/li&gt;
+  &lt;li&gt;If there is a difference in pressure across the eardrum membrane, the membrane will be pushed out.
+    &lt;ul&gt;
+      &lt;li&gt;The result is what we commonly call a “popped eardrum.”&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-21-week-15-day-1-start-ch-11-531fe.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pressure-units&quot;&gt;Pressure Units&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:12.088425&lt;/li&gt;
+  &lt;li&gt;Common units of pressure:
+    &lt;ul&gt;
+      &lt;li&gt;Millimeter of mercury (Hg)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;mmHg
+    &lt;ul&gt;
+      &lt;li&gt;Torr&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Same as millimeter of mercury
+    &lt;ul&gt;
+      &lt;li&gt;Atmosphere (atm)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Conversion between pressure units:
+    &lt;ul&gt;
+      &lt;li&gt;1 mmHg = 1 torr&lt;/li&gt;
+      &lt;li&gt;760 mmHg = 1 atm&lt;/li&gt;
+      &lt;li&gt;760 torr = 1 atm&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-21-week-15-day-1-start-ch-11-555b9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-table-of-pressure-units&quot;&gt;A Table of Pressure Units&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:17:58.486884&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-21-week-15-day-1-start-ch-11-9dd27.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-manometer&quot;&gt;The Manometer&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:18:10.818952&lt;/li&gt;
+  &lt;li&gt;The pressure of a gas trapped in a container can be measured with an instrument called a manometer.&lt;/li&gt;
+  &lt;li&gt;Manometers are U-shaped tubes partially filled with a liquid that are connected to the gas sample on one side and open to the air on the other.&lt;/li&gt;
+  &lt;li&gt;A competition is established between the pressures of the atmosphere and the gas.
+    &lt;ul&gt;
+      &lt;li&gt;The difference in the liquid levels is a measure of the difference in pressure between the gas and the atmosphere.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;For this sample, the gas pressure is greater than atmospheric pressure; the mercury level on the left side of the tube is higher than the level on the right.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-21-week-15-day-1-start-ch-11-df2f9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;basic-properties-of-gases&quot;&gt;Basic Properties of Gases&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:20:54.286850&lt;/li&gt;
+  &lt;li&gt;There are four basic properties of a gas:
+    &lt;ul&gt;
+      &lt;li&gt;Pressure (P)
+        &lt;ul&gt;
+          &lt;li&gt;Units in atmosphere (atm)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Volume (V)
+        &lt;ul&gt;
+          &lt;li&gt;Units in liters (L)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Temperature (T)
+        &lt;ul&gt;
+          &lt;li&gt;Units in Kelvin (K)
+            &lt;ul&gt;
+              &lt;li&gt;Where Kelvin (K) = Celsius T + 273&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Amount in moles (n)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;These properties are interrelated.
+    &lt;ul&gt;
+      &lt;li&gt;When one changes, it affects the others.
+        &lt;ul&gt;
+          &lt;li&gt;The simple gas laws describe the relationships between pairs of these properties.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-simple-gas-laws&quot;&gt;The Simple Gas Laws&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:11.105305&lt;/li&gt;
+  &lt;li&gt;The simple gas laws are as follows:
+    &lt;ul&gt;
+      &lt;li&gt;Boyleʼs Law&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Investigates pressure and volume relationship
+    &lt;ul&gt;
+      &lt;li&gt;Charlesʼs Law&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Investigates volume and temperature relationship
+    &lt;ul&gt;
+      &lt;li&gt;Avogadroʼs Law&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Investigates volume and amount (mole) relationship&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;boyles-law-volume-and-pressure&quot;&gt;Boyleʼs Law: Volume and Pressure&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:25:25.284216&lt;/li&gt;
+  &lt;li&gt;Robert Boyle (1627–1691) and Robert Hooke used a J-tube to measure the volume of a sample of gas at different pressures.&lt;/li&gt;
+  &lt;li&gt;They trapped a sample of air in the J-tube and added mercury to increase the pressure on the gas.
+    &lt;ul&gt;
+      &lt;li&gt;They observed an inverse relationship between volume and pressure.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hence, an increase in one causes a decrease in the other.&lt;/li&gt;
+  &lt;li&gt;Inverse Relationship As the volume of a gas sample is decreased, gas molecules collide with surrounding surfaces more frequently, resulting in greater pressure. A plot of the volume of a gas versus pressure. The plot shows that volume and pressure are inversely related.&lt;/li&gt;
+  &lt;li&gt;Pressure of a gas is inversely proportional to its volume when temperature and the amount of gas are held constant.
+    &lt;ul&gt;
+      &lt;li&gt;As P increases, V decreases by the same factor.&lt;/li&gt;
+      &lt;li&gt;P × V = constant&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Graphing Boyle’s Law
+    &lt;ul&gt;
+      &lt;li&gt;A graph of P versus V results in a curve.&lt;/li&gt;
+      &lt;li&gt;A graph of P versus 1/V results in a straight line plot.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Relationship:
+    &lt;ul&gt;
+      &lt;li&gt;P1 × V1 = P2 × V2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;boyles-law-and-diving&quot;&gt;Boyleʼs Law and Diving&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:17.106941&lt;/li&gt;
+  &lt;li&gt;For every 10 m of depth, a diver experiences approximately one additional atmosphere of pressure due to the weight of the surrounding water.
+    &lt;ul&gt;
+      &lt;li&gt;At 20 m, for example, the diver experiences approximately 3 atm of pressure.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If a diver holds his or her breath and rises to the surface quickly, the outside pressure drops to 1 atm.
+    &lt;ul&gt;
+      &lt;li&gt;According to Boyleʼs law, what should happen to the volume of air in the lungs?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Because the pressure is decreasing by a factor of 3, the volume will expand by a factor of 3, causing damage to internal organs.&lt;/li&gt;
+  &lt;li&gt;Always exhale when rising!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What volume (in mL) will a sample of F2 gas occupy in a syringe at 5.5 atm, if the F2 has a volume of 25.0 mL at 1.2 atm?
+    &lt;ul&gt;
+      &lt;li&gt;A) 11 mL&lt;/li&gt;
+      &lt;li&gt;B) 17 mL&lt;/li&gt;
+      &lt;li&gt;C) 3.8 mL&lt;/li&gt;
+      &lt;li&gt;D) 5.5 mL&lt;/li&gt;
+      &lt;li&gt;E) 7.6 mL&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c13&quot; style=&quot;display:none&quot;&gt;Answer: D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c13').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;charless-law-volume-and-temperature-have-a-direct-relationship&quot;&gt;Charlesʼs Law: Volume and Temperature Have a Direct Relationship&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:32:43.927172&lt;/li&gt;
+  &lt;li&gt;The volume of a fixed amount of gas at a constant pressure increases linearly with increasing temperature in kelvins.
+    &lt;ul&gt;
+      &lt;li&gt;Volume and temperature have a direct relationship&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;if the volume of a gas increases with increasing temperature.&lt;/li&gt;
+  &lt;li&gt;V = constant × T (T measured in kelvins)&lt;/li&gt;
+  &lt;li&gt;V/T = constant&lt;/li&gt;
+  &lt;li&gt;(V1/T1) = (V2/T2)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;charless-law-graphically&quot;&gt;Charlesʼs Law: Graphically&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:58.249430&lt;/li&gt;
+  &lt;li&gt;The extrapolated lines cannot be measured experimentally because all gases condense into liquids before –273.15 °C is reached.&lt;/li&gt;
+  &lt;li&gt;If the lines are extrapolated back to a volume of 0, they all show the same temperature, −273.15 °C = 0 K, called &lt;em&gt;absolute zero&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-21-week-15-day-1-start-ch-11-d1079.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;charless-law-a-molecular-view&quot;&gt;Charlesʼs Law: A Molecular View&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When the temperature of a gas sample increases, the gas particles move faster.
+    &lt;ul&gt;
+      &lt;li&gt;Collisions with the walls are more frequent.&lt;/li&gt;
+      &lt;li&gt;The force exerted with each collision is greater.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The only way for the pressure (the force per unit area) to remain constant is for the gas to occupy a larger volume so that collisions become less frequent and occur over a larger area.&lt;/li&gt;
+  &lt;li&gt;If a filled balloon is moved from an ice water bath to a boiling water bath, its volume expands as the gas particles within the balloon move faster (due to the increased temperature) and collectively occupy more space.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:37:40.527989&lt;/li&gt;
+  &lt;li&gt;To what temperature must a balloon, initially at 25 C and 2.00 L, be heated in order to have a volume of 6.00L?
+    &lt;ul&gt;
+      &lt;li&gt;A) 993 K&lt;/li&gt;
+      &lt;li&gt;B) 403 K&lt;/li&gt;
+      &lt;li&gt;C) 75 K&lt;/li&gt;
+      &lt;li&gt;D) 655 K&lt;/li&gt;
+      &lt;li&gt;E) 894 K&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c14&quot; style=&quot;display:none&quot;&gt;Answer: A &lt;img src=&quot;../../../assets/2016-11-21-week-15-day-1-start-ch-11-615cd.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c14').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;gas pressure dependencies&lt;/td&gt;
+      &lt;td&gt;number of gas particles in a given volume and momentum of particles&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;manometer&lt;/td&gt;
+      &lt;td&gt;measures pressure of gas trapped in a container&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;boyle’s law&lt;/td&gt;
+      &lt;td&gt;p1 * v1 = p2 * v2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;charle’s law&lt;/td&gt;
+      &lt;td&gt;v = constant * T (direct relationship)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Mon, 21 Nov 2016 00:00:00 -0600</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/11/21/week-15-day-1-start-ch-11.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/21/week-15-day-1-start-ch-11.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 14 - Day 3</title>
+        <description>&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use the standard reaction enthalpies given below to determine ΔH°rxn for the following reaction 2 NO(g) + O2(g) → 2 NO2(g) ΔH°rxn = ?
+    &lt;ul&gt;
+      &lt;li&gt;Given:
+        &lt;ul&gt;
+          &lt;li&gt;N2(g) + O2(g) → 2 NO(g) ΔH°rxn = +183 kJ&lt;/li&gt;
+          &lt;li&gt;1/2 N2(g) + O2(g) → NO2(g) ΔH°rxn = +33 kJ&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;A) -150. kJ&lt;/li&gt;
+      &lt;li&gt;B) -117 kJ&lt;/li&gt;
+      &lt;li&gt;C) -333 kJ&lt;/li&gt;
+      &lt;li&gt;D) +115 kJ&lt;/li&gt;
+      &lt;li&gt;E) +238 kJ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c9&quot; style=&quot;display:none&quot;&gt;Answer: B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c9').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;standard-conditions-and-standard-enthalpy-of-formation-hf&quot;&gt;Standard Conditions and Standard Enthalpy of Formation (ΔHf)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:21.144316&lt;/li&gt;
+  &lt;li&gt;The &lt;em&gt;standard state&lt;/em&gt; is the state of a material at a defined set of conditions.
+    &lt;ul&gt;
+      &lt;li&gt;Pure gas at exactly 1 atm pressure&lt;/li&gt;
+      &lt;li&gt;Pure solid or liquid in its most stable form at exactly 1 atm pressure and temperature of interest
+        &lt;ul&gt;
+          &lt;li&gt;Usually 25 °C&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Substance in a solution with concentration 1 M&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The &lt;em&gt;standard enthalpy change&lt;/em&gt;, ΔH°, is the enthalpy change when all reactants and products are in their standard states.
+    &lt;ul&gt;
+      &lt;li&gt;Audio 0:02:59.978786&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The &lt;em&gt;standard enthalpy of formation, ΔH°f&lt;/em&gt;, is the enthalpy change for the reaction forming 1 mole of a pure compound from its constituent elements.
+    &lt;ul&gt;
+      &lt;li&gt;The elements must be in their standard states.&lt;/li&gt;
+      &lt;li&gt;The ΔHf° for a pure element in its standard state = 0 kJ/mol.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;table-of-standard-enthalpies-hf&quot;&gt;Table of Standard Enthalpies (ΔHf)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:05:22.505566&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-18-week-14-day-3-b6a17.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-standard-enthalpies-of-formation-hf&quot;&gt;Practice Problem: Standard Enthalpies of Formation (ΔHf)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:08:11.763970&lt;/li&gt;
+  &lt;li&gt;Write the appropriate equations for the heats of formation of MgCO3(s) and C6H12O6(s)
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qcCO2suoEKc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The standard enthalpy of formation (ΔHo f) for potassium chloride is the enthalpy change for the reaction:
+    &lt;ul&gt;
+      &lt;li&gt;A) K(g) + ½Cl2(g) è KCl(g)&lt;/li&gt;
+      &lt;li&gt;B) K+(g) + Cl- (g) è KCl(s)&lt;/li&gt;
+      &lt;li&gt;C) 2K(s) + Cl2(g) è 2KCl(s)&lt;/li&gt;
+      &lt;li&gt;D) K(s) + ½Cl2(g) è KCl(s)&lt;/li&gt;
+      &lt;li&gt;E) K+(g) + Cl- (g) è KCl(g)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c10&quot; style=&quot;display:none&quot;&gt;Answer: D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c10').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;calculating-standard-enthalpy-change-for-a-reaction&quot;&gt;Calculating Standard Enthalpy Change for a Reaction&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:36.053007&lt;/li&gt;
+  &lt;li&gt;Any reaction can be written as the sum of formation reactions (or the reverse of formation reactions) for the reactants and products.&lt;/li&gt;
+  &lt;li&gt;The ΔH° for the reaction is then the sum of the ΔHf° for the component reactions. ΔH° reaction = ∑nΔHf °(products) − ∑nΔHf °(reactants) ∑ means sum. n is the stoichiometric coefficient of the reaction.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ch4g--2-o2g--co2g--2h2og&quot;&gt;CH4(g) + 2 O2(g) → CO2(g) + 2H2O(g)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;C(s, graphite) + 2 H2(g) → CH4(g) ΔHf°= − 74.6 kJ/mol CH4&lt;/li&gt;
+  &lt;li&gt;C(s, graphite) + O2(g) → CO2(g) ΔHf°= −393.5 kJ/mol CO2&lt;/li&gt;
+  &lt;li&gt;H2(g) + ½ O2(g) → H2O(g) ΔHf° = −241.8 kJ/mol H2O&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BX7vQb9TNaI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ch4g--2-o2g--co2g--2h2og-1&quot;&gt;CH4(g) + 2 O2(g) → CO2(g) + 2H2O(g)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:17:54.502946&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-18-week-14-day-3-5494e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-18-week-14-day-3-30489.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-standard-enthalpies-of-formation-hf-&quot;&gt;Practice Problem: Standard Enthalpies of Formation (ΔHf )&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:18:40.315050&lt;/li&gt;
+  &lt;li&gt;What is the change in enthalpy for the reaction 4NH3(g) + 5O2(g) è 4NO(g) + 6H2O(g)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mkb1n3-xIPs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:21:26.032462&lt;/li&gt;
+  &lt;li&gt;Use the ΔH°f information provided to calculate ΔH°rxn for the following SO2Cl2(g) + 2 H2O(l) → 2 HCl(g) + H2SO4(l) ΔH°rxn = ?
+    &lt;ul&gt;
+      &lt;li&gt;ΔH° f (kJ/mol)&lt;/li&gt;
+      &lt;li&gt;SO2Cl2(g) -364&lt;/li&gt;
+      &lt;li&gt;H2O(l) -286&lt;/li&gt;
+      &lt;li&gt;HCl(g) -92&lt;/li&gt;
+      &lt;li&gt;H2SO4(l) -814&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A) -256 kJ&lt;/li&gt;
+  &lt;li&gt;B) +161 kJ&lt;/li&gt;
+  &lt;li&gt;C) -62 kJ&lt;/li&gt;
+  &lt;li&gt;D) +800. kJ&lt;/li&gt;
+  &lt;li&gt;E) -422 kJ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c11&quot; style=&quot;display:none&quot;&gt;Answer: C&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c11').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ionic-bonding-and-the-crystal-lattice&quot;&gt;Ionic Bonding and the Crystal Lattice&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:20.219643&lt;/li&gt;
+  &lt;li&gt;The extra energy that is released comes from the formation of a structure in which every cation is surrounded by anions, and vice versa.&lt;/li&gt;
+  &lt;li&gt;This structure is called a crystal lattice.&lt;/li&gt;
+  &lt;li&gt;The crystal lattice is held together by the electrostatic attraction of the cations for all the surrounding anions.&lt;/li&gt;
+  &lt;li&gt;The crystal lattice maximizes the attractions between cations and anions, leading to the most stable arrangement.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;lattice-energy&quot;&gt;Lattice Energy&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The extra stability that accompanies the formation of the crystal lattice is measured as the lattice energy.&lt;/li&gt;
+  &lt;li&gt;The lattice energy is the energy released when the solid crystal forms from separate ions in the gas state.
+    &lt;ul&gt;
+      &lt;li&gt;Always exothermic&lt;/li&gt;
+      &lt;li&gt;Hard to measure directly, but can be calculated from knowledge of other processes&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Lattice energy depends directly on the size of charges and inversely on distance between ions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;determining-lattice-energy-the-bornhaber-cycle&quot;&gt;Determining Lattice Energy: The Born–Haber Cycle&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The &lt;em&gt;Born–Haber cycle&lt;/em&gt; is a hypothetical series of reactions that represents the formation of an ionic compound from its constituent elements.&lt;/li&gt;
+  &lt;li&gt;The reactions are chosen so that the change in enthalpy of each reaction is known except for the last one, which is the lattice energy.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bornhaber-cycle-and-hesss-law&quot;&gt;Born–Haber Cycle and Hess’s Law&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-18-week-14-day-3-ca0e4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Use Hess’s law to add up enthalpy changes of other reactions to determine the lattice energy.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-18-week-14-day-3-4399c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;trends-in-lattice-energy-ion-size&quot;&gt;Trends in Lattice Energy: Ion Size&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:31:13.639819&lt;/li&gt;
+  &lt;li&gt;The force of attraction between charged particles is inversely proportional to the distance between them.&lt;/li&gt;
+  &lt;li&gt;Larger ions mean the center of positive charge (nucleus of the cation) is farther away from the negative charge (electrons of the anion).
+    &lt;ul&gt;
+      &lt;li&gt;Larger ion = weaker attraction&lt;/li&gt;
+      &lt;li&gt;Weaker attraction = smaller lattice energy&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;lattice-energy-versus-ion-size&quot;&gt;Lattice Energy versus Ion Size&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:31:57.501608&lt;/li&gt;
+  &lt;li&gt;The force of attraction between oppositely charged particles is directly proportional to the product of the charges.&lt;/li&gt;
+  &lt;li&gt;Larger charge means the ions are more strongly attracted.
+    &lt;ul&gt;
+      &lt;li&gt;Larger charge = stronger attraction&lt;/li&gt;
+      &lt;li&gt;Stronger attraction = larger lattice energy&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-18-week-14-day-3-5a223.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;trends-in-lattice-energy-ion-charge&quot;&gt;Trends in Lattice Energy: Ion Charge&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The force of attraction between oppositely charged particles is directly proportional to the product of the charges.&lt;/li&gt;
+  &lt;li&gt;Larger charge means the ions are more strongly attracted.
+    &lt;ul&gt;
+      &lt;li&gt;Larger charge = stronger attraction&lt;/li&gt;
+      &lt;li&gt;Stronger attraction = larger lattice energy&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Of the two factors, ion charge is generally more important.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-18-week-14-day-3-9358b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;which-compound-should-have-the-largest-lattice-energy&quot;&gt;Which compound should have the largest lattice energy?&lt;/h2&gt;
+
+&lt;h1 id=&quot;ch-11&quot;&gt;Ch 11&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What is a Gas?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;bond energy&lt;/td&gt;
+      &lt;td&gt;amount of energy it takes to break one mole of a bond in a compound&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;standard state&lt;/td&gt;
+      &lt;td&gt;state of a material at a defined set of conditions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;standard enthalpy change (ΔH°)&lt;/td&gt;
+      &lt;td&gt;the enthalpy change when all reactants and products are in their standard states&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;standard enthalpy of formation (ΔH°f)&lt;/td&gt;
+      &lt;td&gt;the enthalpy change for the reaction forming 1 mole of a pure compound from its constituent elements&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Born–Haber cycle&lt;/td&gt;
+      &lt;td&gt;a hypothetical series of reactions that represents the formation of an ionic compound from its constituent elements&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Fri, 18 Nov 2016 00:00:00 -0600</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/11/18/week-14-day-3.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/18/week-14-day-3.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 14 - Day 2</title>
+        <description>&lt;h2 id=&quot;clicker-1&quot;&gt;clicker 1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Given w=0, an endothermic reaction has the following
+    &lt;ul&gt;
+      &lt;li&gt;A) +ΔH and -ΔE&lt;/li&gt;
+      &lt;li&gt;B) - ΔH and +ΔE&lt;/li&gt;
+      &lt;li&gt;C) + ΔH and +ΔE&lt;/li&gt;
+      &lt;li&gt;D) - ΔH and –ΔE&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c6&quot; style=&quot;display:none&quot;&gt;If w = 0, no work done, endothermic so heat must flow into the system
+both positive (C)&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c6').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A piece of iron (mass = 25.0 g) at 398 K is placed in a styrofoam cup containing 25.0 mL of water at 298 K. Assuming that no heat is lost to the cup or the surroundings, what will the final temperature of the water be? The specific heat capacity of iron = 0.449 J/g C
+    &lt;ul&gt;
+      &lt;li&gt;A) 348 K&lt;/li&gt;
+      &lt;li&gt;B) 308 K&lt;/li&gt;
+      &lt;li&gt;C) 287 K&lt;/li&gt;
+      &lt;li&gt;D) 325 K&lt;/li&gt;
+      &lt;li&gt;E) 388 K&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c7&quot; style=&quot;display:none&quot;&gt;Answer: B &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cG6zPlmIk9g&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c7').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;hesss-law-relationships-involving-hrxn&quot;&gt;Hess’s Law: Relationships Involving ΔHrxn&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Enthalpy of a reaction is always associated with a particular reaction.
+    &lt;ul&gt;
+      &lt;li&gt;If the reaction is changed (e.g., reversed, doubled), the ΔH reflects those changes.
+        &lt;ul&gt;
+          &lt;li&gt;Enthalpy is an extensive physical thermal property.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Example:
+    &lt;ul&gt;
+      &lt;li&gt;When a reaction is multiplied by a factor, ΔHrxn is multiplied by that factor because ΔHrxn is extensive.
+        &lt;ul&gt;
+          &lt;li&gt;C(s) + O2(g) → CO2(g) ΔH = −393.5 kJ
+            &lt;ul&gt;
+              &lt;li&gt;2 C(s) + 2 O2(g) → 2 CO2(g) ΔH = 2(−393.5 kJ) = −787.0 kJ.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;If a reaction is reversed, then the sign of ΔH is changed.
+        &lt;ul&gt;
+          &lt;li&gt;CO2(g) → C(s) + O2(g) ΔH = +393.5 kJ&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;relationships-involving-hrxn-hesss-law&quot;&gt;Relationships Involving ΔHrxn Hess’s Law&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If a reaction can be expressed as a series of steps, then the ΔHrxn for the overall reaction is the sum of the heats of reaction for each step.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-16-week-14-day-2-64bca.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-16-week-14-day-2-ff56d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-hesss-law&quot;&gt;Practice Problem: Hess’s Law&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Find ΔHrxn for: 3C(s) + 4H2(g) -&amp;gt; C3H8(g)&lt;/li&gt;
+  &lt;li&gt;use:
+    &lt;ul&gt;
+      &lt;li&gt;C3H8(g) + 5O2(g) -&amp;gt; 3CO2(g) + 4H2O(g) ΔH= -2043 kJ&lt;/li&gt;
+      &lt;li&gt;C(s) + O2(g) -&amp;gt; CO2(g) ΔH= -393.5 kJ&lt;/li&gt;
+      &lt;li&gt;2H2(g) + O2(g) -&amp;gt; 2H2O(g) ΔH= -483.6 kJ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/een57GXMuKM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use the standard reaction enthalpies given below to determine ΔH°rxn for the following reaction
+    &lt;ul&gt;
+      &lt;li&gt;P4(g) + 10 Cl2(g) → 4PCl5(s) ΔH°rxn = ?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Given:
+    &lt;ul&gt;
+      &lt;li&gt;PCl5(s) → PCl3(g) + Cl2(g) ΔH°rxn = +157 kJ&lt;/li&gt;
+      &lt;li&gt;P4(g) + 6 Cl2(g) → 4 PCl3(g) ΔH°rxn
+        &lt;ul&gt;
+          &lt;li&gt;A) -1835 kJ&lt;/li&gt;
+          &lt;li&gt;B) -1364 kJ&lt;/li&gt;
+          &lt;li&gt;C) -1050. kJ&lt;/li&gt;
+          &lt;li&gt;D) -1786 kJ&lt;/li&gt;
+          &lt;li&gt;E) -2100. kJ&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c7&quot; style=&quot;display:none&quot;&gt;Answer: A &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TzY2Y0j8J-A&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c7').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;bond-energies&quot;&gt;Bond Energies&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chemical reactions involve breaking bonds in reactant molecules and making new bonds to create the products.&lt;/li&gt;
+  &lt;li&gt;The ΔHreaction can be estimated by comparing the cost of breaking old bonds to the income from making new bonds.&lt;/li&gt;
+  &lt;li&gt;The amount of energy it takes to break one mole of a bond in a compound is called the &lt;em&gt;bond energy&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;In the gas state&lt;/li&gt;
+      &lt;li&gt;Homolytically—each atom gets ½ bonding electrons&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;determining-enthalpies-from-bond-energies&quot;&gt;Determining Enthalpies from Bond Energies&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The actual bond energy depends on the surrounding atoms and other factors.&lt;/li&gt;
+  &lt;li&gt;Average bond energies can be used to estimate the ΔHrxn.
+    &lt;ul&gt;
+      &lt;li&gt;Works best when all reactants and products in gas state&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Bond breaking is endothermic, ΔH(breaking) = (+) value.&lt;/li&gt;
+  &lt;li&gt;Bond making is exothermic, ΔH(making) = (−) value.
+    &lt;ul&gt;
+      &lt;li&gt;ΔHrxn = ∑ (ΔH(bonds broken)) + ∑ (ΔH(bonds formed))&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;trends-in-bond-energies&quot;&gt;Trends in Bond Energies&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;In general, the more electrons two atoms share, the stronger the covalent bond. – Must be comparing bonds between like atoms
+    &lt;ul&gt;
+      &lt;li&gt;C≡C (837 kJ) &amp;gt; C═C (611 kJ) &amp;gt; C—C (347 kJ)&lt;/li&gt;
+      &lt;li&gt;C≡N (891 kJ) &amp;gt; C═N (615 kJ) &amp;gt; C—N (305 kJ)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In general, the shorter the covalent bond, the stronger the bond.
+    &lt;ul&gt;
+      &lt;li&gt;Must be comparing similar types of bonds&lt;/li&gt;
+      &lt;li&gt;Br—F (237 kJ) &amp;gt; Br—Cl (218 kJ) &amp;gt; Br—Br (193 kJ)&lt;/li&gt;
+      &lt;li&gt;Bonds get weaker down the column.&lt;/li&gt;
+      &lt;li&gt;Bonds get stronger across the period.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;table-of-average-bond-energies&quot;&gt;Table of Average Bond Energies&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-16-week-14-day-2-a681e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-16-week-14-day-2-157b7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-hrxn-from-bond-energies&quot;&gt;Practice Problem: ΔHrxn from Bond Energies&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hydrogen gas can be made by the reaction of methane gas and steam:
+    &lt;ul&gt;
+      &lt;li&gt;CH4(g) + 2 H2O(g) è 4 H2(g) + CO2(g)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Use bond energies to calculate ΔHrxn for this reaction&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/U0K3MFemXac&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-4&quot;&gt;Clicker 4&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Use the bond energies provided to estimate ΔH°rxn for the reaction
+below.
+    &lt;ul&gt;
+      &lt;li&gt;C2H4(g) + H2(g) → C2H6(g) ΔH°rxn = ?&lt;/li&gt;
+      &lt;li&gt;Bond Bond Energy (kJ/mol)
+        &lt;ul&gt;
+          &lt;li&gt;C-C 347&lt;/li&gt;
+          &lt;li&gt;C-H 414&lt;/li&gt;
+          &lt;li&gt;C=C 611&lt;/li&gt;
+          &lt;li&gt;C≡C 837&lt;/li&gt;
+          &lt;li&gt;H-H 436&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A) -128 kJ&lt;/li&gt;
+  &lt;li&gt;B) +98 kJ&lt;/li&gt;
+  &lt;li&gt;C) +700 kJ&lt;/li&gt;
+  &lt;li&gt;D) -102 kJ&lt;/li&gt;
+  &lt;li&gt;E) -166 kJ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c8&quot; style=&quot;display:none&quot;&gt;Answer: A&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c8').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Nov 2016 00:00:00 -0600</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/11/16/week-14-day-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/16/week-14-day-2.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 14 - Day 1</title>
+        <description>&lt;h1 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A sample of NI3 is contained in a piston and cylinder. The
+samples rapidly decomposes to form nitrogen gas and
+iodine gas, and releases 3.30 kJ of heat and does 950 J of
+work. What is ∆E?
+    &lt;ul&gt;
+      &lt;li&gt;A) -953.3 J&lt;/li&gt;
+      &lt;li&gt;B) +953.3 J&lt;/li&gt;
+      &lt;li&gt;C) -4250 J&lt;/li&gt;
+      &lt;li&gt;D) -946.7 J&lt;/li&gt;
+      &lt;li&gt;E) +4250 J&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c4&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c4').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;exchanging-energy-between-system-and-surroundings&quot;&gt;Exchanging Energy between System and Surroundings&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Exchange of heat energy
+    &lt;ul&gt;
+      &lt;li&gt;q = mass × specific heat × ΔTemperature&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Exchange of work
+    &lt;ul&gt;
+      &lt;li&gt;w = −Pressure × ΔVolume&lt;/li&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-14-week-14-day-1-9b866.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;measuring-e-calorimetry-at-constant-volume&quot;&gt;Measuring ΔE: Calorimetry at Constant Volume&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Because ΔE = q + w, ΔE can be determined by measuring q and w.&lt;/li&gt;
+  &lt;li&gt;In practice, it is easiest to do a process in such a way that there is no change in volume, so w = 0.
+    &lt;ul&gt;
+      &lt;li&gt;At constant volume, ΔEsystem = qsystem.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In practice, temperature changes of individual chemicals involved in the reaction cannot be observed directly, so instead the temperature change in the surroundings is measured.
+    &lt;ul&gt;
+      &lt;li&gt;Using an insulated container (e.g., controlled surroundings)&lt;/li&gt;
+      &lt;li&gt;qsystem = −qsurroundings&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The surrounding area is called a &lt;em&gt;bomb calorimeter&lt;/em&gt; and is usually made of a sealed, insulated container filled with water.
+    &lt;ul&gt;
+      &lt;li&gt;qsurroundings = qcalorimeter = –qsystem&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bomb-calorimeter&quot;&gt;Bomb Calorimeter&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-14-week-14-day-1-04617.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;It is used to measure ΔE because it is a constant volume system.&lt;/li&gt;
+  &lt;li&gt;The heat capacity of the calorimeter is the amount of heat absorbed by the calorimeter for each degree rise in temperature and is called the &lt;em&gt;calorimeter constant&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;Ccal, kJ/°C&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-measuring-erxn-in-a-bomb-calorimeter&quot;&gt;Practice Problem: Measuring ΔErxn in a Bomb Calorimeter&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When 1.010 g of sucrose (C12H22O11) undergoes combustion in a bomb calorimeter, the temperature rises from 24.92 oC to 28.33 oC. Find ΔErxn for the combustion of sucrose (in kJ/mol). The heat capacity of the calorimeter is 4.90 kJ/oC.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OLgjmQiatiQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A 35.6 g sample of ethanol (C2H5OH) is burned in a bomb calorimeter, according to the following reaction. If the temperature rose from 35.0 to 76.0°C and the heat capacity of the calorimeter is 23.3 kJ/°C, what is the value of ΔErxn? The molar mass of ethanol is 46.07 g/mol.
+    &lt;ul&gt;
+      &lt;li&gt;C2H5OH(l) + 3 O2(g) → 2 CO2(g) + 3 H2O(g) ΔErxn = ?&lt;/li&gt;
+      &lt;li&gt;A) -1.24 × 103 kJ/mol&lt;/li&gt;
+      &lt;li&gt;B) +1.24 × 103 kJ/mol&lt;/li&gt;
+      &lt;li&gt;C) -8.09 × 103 kJ/mol&lt;/li&gt;
+      &lt;li&gt;D) -9.55 × 103 kJ/mol&lt;/li&gt;
+      &lt;li&gt;E) +9.55 × 103 kJ/mol&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c5&quot; style=&quot;display:none&quot;&gt;A &lt;img src=&quot;../../../assets/2016-11-14-week-14-day-1-ad42a.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c5').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;enthalpy-heat-evolved-at-constant-pressure&quot;&gt;Enthalpy: Heat Evolved at Constant Pressure&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Bomb” Calorimetry is nice but…. we would like to work at atmospheric pressure&lt;/li&gt;
+  &lt;li&gt;For a system at e.g. atmospheric pressure the total energy is E plus the energy required to push the gas aside to make space for the system: PV&lt;/li&gt;
+  &lt;li&gt;The &lt;em&gt;enthalpy, H&lt;/em&gt;, of a system is the sum of the internal energy of the system and the product of pressure and volume.
+    &lt;ul&gt;
+      &lt;li&gt;H is a state function.
+        &lt;ul&gt;
+          &lt;li&gt;H = E + PV&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The &lt;em&gt;enthalpy change, ΔH&lt;/em&gt;, of a reaction is the heat evolved in a reaction at constant pressure.
+    &lt;ul&gt;
+      &lt;li&gt;ΔHreaction = qreaction at constant pressure&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Usually ΔH and ΔE are similar in value; the difference is largest for reactions that produce or use large quantities of gas.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;endothermic-and-exothermic-reactions&quot;&gt;Endothermic and Exothermic Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When ΔH is negative, heat is being released by the system into the surroundings.
+    &lt;ul&gt;
+      &lt;li&gt;The surroundings will “feel” hot.&lt;/li&gt;
+      &lt;li&gt;Temperature of the surroundings increased from the energy released by the system.&lt;/li&gt;
+      &lt;li&gt;This is called an &lt;em&gt;exothermic reaction&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;When ΔH is positive, heat is being absorbed by the system from the surroundings.
+    &lt;ul&gt;
+      &lt;li&gt;The surroundings will “feel” cold.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Temperature of the surroundings decreased because energy left the surroundings to flow into the system.&lt;/li&gt;
+  &lt;li&gt;This is called an &lt;em&gt;endothermic reaction&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;particulate-view-of-exothermic-reactions&quot;&gt;Particulate View of Exothermic Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For an exothermic reaction, the surrounding’s temperature rises due to a release of thermal energy by the reaction.&lt;/li&gt;
+  &lt;li&gt;This extra thermal energy comes from the conversion of some of the chemical potential energy in the reactants into kinetic energy in the form of heat.&lt;/li&gt;
+  &lt;li&gt;During the course of a reaction, existing bonds are broken and new bonds are made.&lt;/li&gt;
+  &lt;li&gt;The products of the reaction have less chemical potential energy than the reactants.&lt;/li&gt;
+  &lt;li&gt;The difference in energy is released as heat.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;particulate-view-of-endothermic-reactions&quot;&gt;Particulate View of Endothermic Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;In an endothermic reaction, the surrounding’s temperature drops due to absorption of some of its thermal energy by the reaction.&lt;/li&gt;
+  &lt;li&gt;During the course of a reaction, existing bonds are broken and new bonds are made.&lt;/li&gt;
+  &lt;li&gt;The products of the reaction have more chemical potential energy than the reactants.&lt;/li&gt;
+  &lt;li&gt;To acquire this extra energy, some of the thermal energy of the surroundings is converted into chemical potential energy stored in the products.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;enthalpy-of-chemical-reaction&quot;&gt;Enthalpy of Chemical Reaction&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The enthalpy change in a chemical reaction is an extensive property.
+    &lt;ul&gt;
+      &lt;li&gt;The more reactants you use, the larger the enthalpy change.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;By convention, we calculate the enthalpy change for the number of moles of reactants in the reaction as written. C3H8(g) + 5 O2(g) → 3 CO2(g) + 4 H2O(g) ΔH = −2044 kJ 1 mol C3H8(g) = –2044 kJ or 5 mol O2(g) = –2044 kJ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-enthalpy-stoichiometry&quot;&gt;Practice Problem: Enthalpy Stoichiometry&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Calculate the heat (in kJ) associated with the complete combustion of all of the propane in a 13.2 kg propane tank: C3H8(g) + 5O2(g) è 3CO2(g) + 4H2O(g) ΔHrxn= -2044 kJ&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jQ6wejwYHYM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;measuring-h-calorimetry-at-constant-pressure&quot;&gt;Measuring ΔH: Calorimetry at Constant Pressure&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reactions done in aqueous solution are at constant pressure.&lt;/li&gt;
+  &lt;li&gt;The calorimeter is often nested foam cups containing the solution.
+    &lt;ul&gt;
+      &lt;li&gt;qreaction = –qsolution = –(masssolution × Cs, solution × ΔT)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ΔHreaction = qconstant pressure = qreaction
+    &lt;ul&gt;
+      &lt;li&gt;To get ΔHreaction per mol, divide by the number of moles.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-14-week-14-day-1-e8196.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-calorimetry-magnesium-metal-reacts-with-hydrochloric-acid&quot;&gt;Practice Problem: Calorimetry Magnesium metal reacts with hydrochloric acid:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mg(s) + 2HCl(aq) –&amp;gt; MgCl2 + H2(g) you combine 0.158 g of Mg with enough HCl to make 100.0 mL of solution in a coffee-cup calorimeter. T of the solution rises from 25.6 oC to 32.8 oC. Find ΔHrxn, assume density of solution is 1.00g/ml&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8DMgJ93bmRg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;bomb calorimeter&lt;/td&gt;
+      &lt;td&gt;used to measure ΔE because it is a constant volume system&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;calorimeter constant&lt;/td&gt;
+      &lt;td&gt;the amount of heat absorbed by the calorimeter for each degree rise in temperature (capacity)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;enthalpy (H)&lt;/td&gt;
+      &lt;td&gt;the sum of the internal energy of the system and the product of pressure and volume&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Mon, 14 Nov 2016 00:00:00 -0600</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/11/14/week-14-day-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/14/week-14-day-1.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 13 - Day 3</title>
@@ -1985,1674 +3099,6 @@ function grade() {
         <pubDate>Sat, 05 Nov 2016 00:00:00 -0500</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/11/05/recitation-week-12-3rd-for-test-3.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/05/recitation-week-12-3rd-for-test-3.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 12 - Day 3</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2r2yd9&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-12-day-3.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
-	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
-	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
-&lt;/div&gt;
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
-	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;1nNpef6p2h0&quot;});
-&lt;/script&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Next Wednesday is Test 3!!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:03:32.431301&lt;/li&gt;
-  &lt;li&gt;The titration of 80.0 mL of an unknown concentration of H3PO4 solution requires 126 mL of .218 M KOH solution. What is the concentration of H3PO4 solution (in M)
-    &lt;ul&gt;
-      &lt;li&gt;A) 1.03 M&lt;/li&gt;
-      &lt;li&gt;B) 0.343 M&lt;/li&gt;
-      &lt;li&gt;C) 0.114 M&lt;/li&gt;
-      &lt;li&gt;D) 0.138 M&lt;/li&gt;
-      &lt;li&gt;E) 0.0461 M&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7hW7bBbAAF4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;oxidationreduction-reactions&quot;&gt;Oxidation–Reduction Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:09:22.846460&lt;/li&gt;
-  &lt;li&gt;The reactions in which electrons are transferred from one reactant to the other are called &lt;em&gt;oxidation–reduction reactions&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;These are also called redox reactions.&lt;/li&gt;
-      &lt;li&gt;Many redox reactions involve the reaction of a substance with oxygen.&lt;/li&gt;
-      &lt;li&gt;Examples:&lt;/li&gt;
-      &lt;li&gt;2 C8H18(l) + 25 O2(g) → 16 CO2(g) + 18 H2O(g) (combustion)&lt;/li&gt;
-      &lt;li&gt;2 H2(g) + O2(g) → 2 H2O(g)&lt;/li&gt;
-      &lt;li&gt;4 Fe(s) + 3 O2(g) → 2 Fe2O3(s) (rusting)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;oxidation-and-reduction-redox&quot;&gt;Oxidation and Reduction (Redox)&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:11:42.911701&lt;/li&gt;
-  &lt;li&gt;To convert a free element into an ion, the atoms must gain or lose electrons.
-    &lt;ul&gt;
-      &lt;li&gt;NOTE: If one atom loses electrons, another must accept them.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Atoms that &lt;em&gt;lose electrons&lt;/em&gt; are being &lt;em&gt;oxidized&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;The reaction is referred to as &lt;em&gt;oxidation&lt;/em&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Atoms that &lt;em&gt;gain electrons&lt;/em&gt; are being &lt;em&gt;reduced&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;The reaction is referred to as &lt;em&gt;reduction&lt;/em&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Audio 0:14:01.108735&lt;/li&gt;
-  &lt;li&gt;Example: 2 Na(s) + Cl2(g) → 2 NaCl(s)
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:14:42.939831&lt;/li&gt;
-      &lt;li&gt;Na → Na+ + 1 e– (oxidation; sodium lost electrons)&lt;/li&gt;
-      &lt;li&gt;Cl2 + 2 e– → 2 Cl– (reduction; chlorine atom gained electrons)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;redox-reactions&quot;&gt;Redox Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:15:20.876721&lt;/li&gt;
-  &lt;li&gt;Oxidation and reduction must occur simultaneously.
-    &lt;ul&gt;
-      &lt;li&gt;If an atom loses electrons, another atom must take them.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The reactant that reduces an element in another reactant is called the reducing agent.
-    &lt;ul&gt;
-      &lt;li&gt;The &lt;em&gt;reducing agent&lt;/em&gt; contains the element that is oxidized.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The reactant that oxidizes an element in another reactant is called the &lt;em&gt;oxidizing agent&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;The oxidizing agent contains the element that is reduced.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Example: 2 Na(s) + Cl2(g) → 2 NaCl(s)
-    &lt;ul&gt;
-      &lt;li&gt;Na is oxidized, while Cl is reduced.&lt;/li&gt;
-      &lt;li&gt;Na is the reducing agent, and Cl2 is the oxidizing agent.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;oxidation-states-electron-book-keeping&quot;&gt;Oxidation States: “Electron Book Keeping”&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:19:09.006032&lt;/li&gt;
-  &lt;li&gt;For reactions that are not metal + nonmetal, or do not involve O2, a method for determining how the electrons are transferred is required to determine which element is being oxidized and which element is being reduced.&lt;/li&gt;
-  &lt;li&gt;Chemists assign a number to each element in a reaction called an &lt;em&gt;oxidation state&lt;/em&gt; that allows them to determine the electron flow in the reaction.
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:20:40.459510&lt;/li&gt;
-      &lt;li&gt;Even though they look like them, oxidation states are not ion charges!
-        &lt;ul&gt;
-          &lt;li&gt;Oxidation states are imaginary charges assigned based on a set of rules.&lt;/li&gt;
-          &lt;li&gt;Ion charges are real, measurable charges.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;rules-for-assigning-oxidation-states&quot;&gt;Rules for Assigning Oxidation States&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:23:41.166326&lt;/li&gt;
-  &lt;li&gt;The following rules are in order of priority:
-    &lt;ol&gt;
-      &lt;li&gt;Free elements have an oxidation state = 0.
-        &lt;ul&gt;
-          &lt;li&gt;Na = 0 and Cl2 = 0 in 2 Na(s) + Cl2(g)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Monatomic ions have an oxidation state equal to their charge.
-        &lt;ul&gt;
-          &lt;li&gt;Na = +1 and Cl = −1 in NaCl&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;(a) The sum of the oxidation states of all the atoms in a compound is 0.
-        &lt;ul&gt;
-          &lt;li&gt;Na = +1 and Cl = −1 in NaCl, (+1) + (−1) = 0&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;rules-for-assigning-oxidation-states-continued&quot;&gt;Rules for Assigning Oxidation States Continued&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:25:29.324643
-    &lt;ol&gt;
-      &lt;li&gt;(b) The sum of the oxidation states of all the atoms in a polyatomic ion equals the charge on the ion.
-        &lt;ul&gt;
-          &lt;li&gt;N = +5 and O = −2 in NO3 –, (+5) + 3(−2) = −1&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;(a) Group I metals have an oxidation state of +1 in all their compounds.
-        &lt;ul&gt;
-          &lt;li&gt;Na = +1 in NaCl&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;(b) Group II metals have an oxidation state of +2 in all their compounds.
-        &lt;ul&gt;
-          &lt;li&gt;Mg = +2 in MgCl2&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;In their compounds, nonmetals have oxidation states according to the following table.
-        &lt;ul&gt;
-          &lt;li&gt;Nonmetals higher on the table take priority.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;rules-for-assigning-oxidation-states-1&quot;&gt;Rules for Assigning Oxidation States&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-7847e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-assigning-oxidation-states&quot;&gt;Practice Problem: Assigning Oxidation States&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:28:14.744310&lt;/li&gt;
-  &lt;li&gt;Assign an oxidation state to each atom in each element, ion or compound
-(a) Cl2 (b) Na+ (c) KF (d) CO2 (e) SO4^2- (f) K2O2&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:35:08.680784&lt;/li&gt;
-  &lt;li&gt;Determine the oxidation state of nitrogen in NO2
-    &lt;ul&gt;
-      &lt;li&gt;A) +5&lt;/li&gt;
-      &lt;li&gt;B) +3&lt;/li&gt;
-      &lt;li&gt;C) 0&lt;/li&gt;
-      &lt;li&gt;D) +2&lt;/li&gt;
-      &lt;li&gt;E) +4&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp2&quot; style=&quot;display:none&quot;&gt;E&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;identifying-redox-reactions&quot;&gt;Identifying Redox Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:36:40.373032&lt;/li&gt;
-  &lt;li&gt;Oxidation: An increase in oxidation state&lt;/li&gt;
-  &lt;li&gt;Reduction: A decrease in oxidation state&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-04-week-12-day-3-422d3.png&quot; alt=&quot;&quot; /&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Carbon changes from an oxidation state of 0 to an oxidation state of +4.
-        &lt;ul&gt;
-          &lt;li&gt;Carbon loses electrons and is oxidized.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Sulfur changes from an oxidation state of 0 to an oxidation state of –2.
-        &lt;ul&gt;
-          &lt;li&gt;Sulfur gains electrons and is reduced.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;redox-reaction&quot;&gt;Redox Reaction&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:37:34.617890&lt;/li&gt;
-  &lt;li&gt;NOTE:&lt;/li&gt;
-  &lt;li&gt;The transfer of electrons does not need to be a complete transfer (as
-occurs in the formation of an ionic compound) for the reaction to
-qualify as oxidation–reduction.
-    &lt;ul&gt;
-      &lt;li&gt;For example, consider the reaction between hydrogen gas and chlorine gas:
-        &lt;ul&gt;
-          &lt;li&gt;H2(g) + Cl2(g) → 2 HCl(g)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;When hydrogen bonds to chlorine, the electrons are unevenly shared, resulting in:
-    &lt;ul&gt;
-      &lt;li&gt;An increase of electron density (reduction) for chlorine&lt;/li&gt;
-      &lt;li&gt;A decrease in electron density (oxidation) for hydrogen&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;combustion-as-redox&quot;&gt;Combustion as Redox&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2 H2(g) + O2(g) → 2 H2O(g)&lt;/li&gt;
-  &lt;li&gt;Hydrogen and Oxygen reacts to form water in the gaseous state (steam).&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-0a7d6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-oxidation-states-and-identifying&quot;&gt;Practice Problem: Oxidation States and Identifying&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:39:01.686365&lt;/li&gt;
-  &lt;li&gt;What Is Being Oxidized and What Is Being Reduced Use oxidation state to identify the element that is oxidized
-and the element that is reduced:&lt;/li&gt;
-  &lt;li&gt;Mg(s) +2 H2O(l) à Mg(OH)2(aq) + H2(g)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:39:32.867693&lt;/li&gt;
-  &lt;li&gt;What element is undergoing reduction (if any) in the following reaction?
-    &lt;ul&gt;
-      &lt;li&gt;Zn(s) + 2AgNO3(aq) -&amp;gt; Zn(NO3)2(aq) + 2 Ag(s)&lt;/li&gt;
-      &lt;li&gt;A) Zn&lt;/li&gt;
-      &lt;li&gt;B) N&lt;/li&gt;
-      &lt;li&gt;C) O&lt;/li&gt;
-      &lt;li&gt;D) Ag&lt;/li&gt;
-      &lt;li&gt;E) This is not an oxidation-reduction reaction&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp3&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;redox-without-combustion&quot;&gt;Redox without Combustion&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2 Na(s) + Cl2(g) → 2 NaCl(s)&lt;/li&gt;
-  &lt;li&gt;Sodium metal transfers electrons to chlorine gas to form solid sodium chloride. The sodium metal is reduced and chlorine is oxidized.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-bce0d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-oxidation-states-and-identifying-1&quot;&gt;Practice Problem: Oxidation States and Identifying&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What Is Being Oxidized and What Is Being Reduced&lt;/li&gt;
-  &lt;li&gt;Determine whether or not each reaction is an oxidation-reduction reaction. For each oxidation-reduction reaction, identify the oxidizing agent and the reducing agent.
-    &lt;ul&gt;
-      &lt;li&gt;a) 2 Mg(s) + O2(g) à 2 MgO(s)&lt;/li&gt;
-      &lt;li&gt;b) 2HBr(aq) + Ca(OH)2(aq) à 2 H2O(l) + CaBr2(aq)&lt;/li&gt;
-      &lt;li&gt;c) Zn(s) + Fe2+(aq) à Zn2+(aq) + Fe(s)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;titration&lt;/td&gt;
-      &lt;td&gt;when a substance in a solution of known concentration is reacted with another substance in a solution of unknown concentration&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;equivalence point&lt;/td&gt;
-      &lt;td&gt;when exactly enough solution has been added the reactants are in their stoichiometric ratio&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;indicator&lt;/td&gt;
-      &lt;td&gt;chemical that changes color when the solution undergoes large changes in acidity/alkalinity&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;endpoint&lt;/td&gt;
-      &lt;td&gt;when the indicator changes color during titration&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;equivalence point&lt;/td&gt;
-      &lt;td&gt;when the number of moles of H+ equals the number of moles of OH– in an acid-base titration&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;oxidation&lt;/td&gt;
-      &lt;td&gt;when atoms lose electrons&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;reduction&lt;/td&gt;
-      &lt;td&gt;when atoms gain electrons&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;reducing agent&lt;/td&gt;
-      &lt;td&gt;contains the element that is oxidized in a redox reaction&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;oxidizing agent&lt;/td&gt;
-      &lt;td&gt;the reactant that oxidizes an element in another reactant in a redox reaction&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;oxidation–reduction reactions&lt;/td&gt;
-      &lt;td&gt;reactions in which electrons are transferred from one reactant to the other&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Fri, 04 Nov 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/11/04/week-12-day-3.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/04/week-12-day-3.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 12 - Day 2 (Ch 9 - Pt 3)</title>
-        <description>
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-12-day-2-ch-9-pt-3.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
-	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
-	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
-&lt;/div&gt;
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
-	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;xsOcYfP7Pm4&quot;});
-&lt;/script&gt;
-
-&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:00:38.000666&lt;/li&gt;
-  &lt;li&gt;Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of Na2CO3 and HCl are mixed
-    &lt;ul&gt;
-      &lt;li&gt;A) 2H+(aq)+CO3 2-(aq) → H2CO3(s)&lt;/li&gt;
-      &lt;li&gt;B) 2Na+(aq)+CO3 2-(aq)+2H+(aq) + 2Cl- (aq) → H2CO3(s)+2NaCl(aq)&lt;/li&gt;
-      &lt;li&gt;C) 2H+(aq)+CO3 2-(aq) → H2O(l)+CO2(g)&lt;/li&gt;
-      &lt;li&gt;D) 2Na+(aq)+CO3 2-(aq)+2H+(aq)+2Cl- (aq)→H2CO3(s)+2Na+(aq)+2Cl- (aq)&lt;/li&gt;
-      &lt;li&gt;E) No reaction occurs.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp2&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;how-to-name-an-oxyacid&quot;&gt;How to Name an Oxyacid&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:03:09.986990&lt;/li&gt;
-  &lt;li&gt;If a polyatomic ion name ends in
-    &lt;ul&gt;
-      &lt;li&gt;–ate, then change the ending to a&lt;/li&gt;
-      &lt;li&gt;–ic suffix.&lt;/li&gt;
-      &lt;li&gt;Example:
-        &lt;ul&gt;
-          &lt;li&gt;NO3 − is the nitrate ion, so it would become nitric.&lt;/li&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-79ae9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;If a polyatomic ion name ends in
-    &lt;ul&gt;
-      &lt;li&gt;–ite, then change the ending to a&lt;/li&gt;
-      &lt;li&gt;–ous suffix.&lt;/li&gt;
-      &lt;li&gt;Example:
-        &lt;ul&gt;
-          &lt;li&gt;SO3 2− is the sulfite ion, so it would become sulfurous.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-3dc01.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Finally, write the word acid at the end of all names.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-naming-acids&quot;&gt;Practice Naming Acids&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:04:58.589530
-    &lt;ol&gt;
-      &lt;li&gt;H2S
-        &lt;ul&gt;
-          &lt;li&gt;Hydrosulfuric acid&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;HClO3
-        &lt;ul&gt;
-          &lt;li&gt;chloric acid&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;HC2H3O2
-        &lt;ul&gt;
-          &lt;li&gt;acetic acid&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What is the name for an aqueous solution of HIO
-    &lt;ul&gt;
-      &lt;li&gt;A) hydroiodic acid&lt;/li&gt;
-      &lt;li&gt;B) hypoiodous acid&lt;/li&gt;
-      &lt;li&gt;C) iodous acid&lt;/li&gt;
-      &lt;li&gt;D) iodic acid&lt;/li&gt;
-      &lt;li&gt;E) periodic acid&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp1&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp1').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;acidbase-chemical-reactions&quot;&gt;Acid–Base Chemical Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:08:22.756094&lt;/li&gt;
-  &lt;li&gt;Audio 0:12:28.774412&lt;/li&gt;
-  &lt;li&gt;Acid–Base Reaction:
-    &lt;ul&gt;
-      &lt;li&gt;An acid reacts with a base producing water (or in some cases a weak electrolyte) and a salt.&lt;/li&gt;
-      &lt;li&gt;An acid–base reaction is also called a neutralization reaction.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In acid–base reactions, as in precipitation reactions, the reactions occur when the anion from one reactant combines with the cation of the other.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;acidbase-reactions&quot;&gt;Acid–Base Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:13:19.839427&lt;/li&gt;
-  &lt;li&gt;When an acid and base react, the reaction is called a &lt;em&gt;neutralization reaction&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;Example:
-        &lt;ul&gt;
-          &lt;li&gt;2 HNO3(aq) + Ca(OH)2(aq) → Ca(NO3)2(aq) + 2 H2O(l)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;As long as the salt that forms is soluble in water, the net ionic equation for an acid–base reaction is:
-    &lt;ul&gt;
-      &lt;li&gt;H+(aq) + OH–(aq) → H2O(l)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A neutralization reaction is completed when the moles of acid equal the moles of base in the solution.
-    &lt;ul&gt;
-      &lt;li&gt;Moles of acid = Moles of base&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A neutralization reaction does not always mean that the pH of the solution is 7.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;acids-and-bases-in-solution&quot;&gt;Acids and Bases in Solution&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:16:36.637260&lt;/li&gt;
-  &lt;li&gt;Acids ionize in water to form H+ ions; more precisely, the H from the acid molecule is donated to a water molecule to form hydronium ion, H3O+.&lt;/li&gt;
-  &lt;li&gt;Most chemists use H+ and H3O+ interchangeably.&lt;/li&gt;
-  &lt;li&gt;Bases dissociate in water to form OH– ions.
-    &lt;ul&gt;
-      &lt;li&gt;Bases, such as NH3, that do not contain OH– ions produce OH– by pulling H off water molecules.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In the reaction of an acid with a base, the H+ from the acid combines with the OH– from the base to make water.
-– The cation from the base combines with the anion from the acid to make the salt.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-58d2d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;acidbase-reaction&quot;&gt;Acid–Base Reaction&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)&lt;/li&gt;
-  &lt;li&gt;The reaction of hydrochloric acid (acid) and sodium hydroxide (base) forms sodium chloride (soluble salt) and water.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-c4a5d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;predict-the-product-of-acidbase-reactions&quot;&gt;Predict the Product of Acid–Base Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;HCl(aq) + Ba(OH)2(aq) → ?&lt;/li&gt;
-  &lt;li&gt;(H+ + Cl−) + (Ba2+ + OH−) → (H+ + OH−) + (Ba2+ + Cl−)
-    &lt;ul&gt;
-      &lt;li&gt;HCl(aq) + Ba(OH)2(aq) → H2O(l) + BaCl2&lt;/li&gt;
-      &lt;li&gt;2 HCl(aq) + Ba(OH)2(aq) → 2 H2O(l) + BaCl2(aq)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;predict-the-product-of-acidbase-reactions-1&quot;&gt;Predict the Product of Acid–Base Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:18:17.410585&lt;/li&gt;
-  &lt;li&gt;H2SO4(aq) + LiOH(aq) → ?&lt;/li&gt;
-  &lt;li&gt;(H+ + SO4 2−) + (Li+ + OH−) → (H+ + OH−) + (Li+ + SO4 2−)
-    &lt;ul&gt;
-      &lt;li&gt;H2SO4(aq) + LiOH(aq) → H2O(l) + Li2SO4&lt;/li&gt;
-      &lt;li&gt;H2SO4(aq) + 2 LiOH(aq) → 2 H2O(l) + Li2SO4(aq)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:21:18.340305&lt;/li&gt;
-  &lt;li&gt;Which of the following is an acid-base reaction?
-    &lt;ul&gt;
-      &lt;li&gt;A) C(s) + O2(g) → CO2(g)&lt;/li&gt;
-      &lt;li&gt;B) 2 HClO4(aq) + Ca(OH)2(aq) → 2 H2O(l) + Ca(ClO4)2(aq)&lt;/li&gt;
-      &lt;li&gt;C) Fe(s) + 2 AgNO3(aq) → 2 Ag(s) + Fe(NO3)2(aq)&lt;/li&gt;
-      &lt;li&gt;D) MgSO4(aq) + Ba(NO3)2(aq) → Mg(NO3)2(aq) + BaSO4(s)&lt;/li&gt;
-      &lt;li&gt;E) None of the above are acid base reactions.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp3&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;acidbase-titrations&quot;&gt;Acid–Base Titrations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:21:37.385327&lt;/li&gt;
-  &lt;li&gt;This is a problem because some things can not be legally put down the sink and it depends on the acidity&lt;/li&gt;
-  &lt;li&gt;In a &lt;em&gt;titration&lt;/em&gt;, a substance in a solution of known concentration is reacted with another substance in a solution of unknown concentration.&lt;/li&gt;
-  &lt;li&gt;When exactly enough solution has been added the reactants are in their stoichiometric ratio. Called the &lt;em&gt;equivalence point&lt;/em&gt;
-    &lt;ul&gt;
-      &lt;li&gt;The solution of known concentration is added slowly from an instrument called a burette.
-        &lt;ul&gt;
-          &lt;li&gt;A long glass tube with precise volume markings that allows small additions of solution&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The titrant is the solution in the burette.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-35f33.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;acidbase-titrations-1&quot;&gt;Acid–Base Titrations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:25:27.198386&lt;/li&gt;
-  &lt;li&gt;In acid–base titrations, because both the reactant and product solutions are colorless, a chemical is added that changes color when the solution undergoes large changes in acidity/alkalinity.
-    &lt;ul&gt;
-      &lt;li&gt;The chemical is called an &lt;em&gt;indicator&lt;/em&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The &lt;em&gt;endpoint&lt;/em&gt; of a reaction is when the indicator color changes.&lt;/li&gt;
-  &lt;li&gt;The endpoint of an acid–base titration is where the number of moles of H+ equals the number of moles of OH–.
-    &lt;ul&gt;
-      &lt;li&gt;This is known as the &lt;em&gt;equivalence point&lt;/em&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;acidbase-titration&quot;&gt;Acid–Base Titration&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:39.290296&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-d1b7f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;titration&quot;&gt;Titration&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-51964.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;In this titration, NaOH is added to a dilute HCl solution. When the NaOH and HCl reach stoichiometric proportions (the equivalence point), the indicator changes color to pink.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-acidbase-titration&quot;&gt;Practice Problem: Acid–Base Titration&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:01.268341&lt;/li&gt;
-  &lt;li&gt;The titration of a 10.00 mL sample of HCL solution of unknown concentration requires 12.54 ml of a 0.100 M NaOH solution to reach the equivalence point. What is the concentration of the unknown HCl solution in M?&lt;/li&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cKzo_JVPhDo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-4&quot;&gt;Clicker 4&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:33:40.733664&lt;/li&gt;
-  &lt;li&gt;The titration of 25.0 mL of an unknown concentration of H2SO4 solution requires 83.6 mL of 0.12 M LiOH solution. What is the concentration of the H2SO4 solution?
-    &lt;ul&gt;
-      &lt;li&gt;A) 0.20 M&lt;/li&gt;
-      &lt;li&gt;B) 0.40 M&lt;/li&gt;
-      &lt;li&gt;C) 0.10 M&lt;/li&gt;
-      &lt;li&gt;D) 0.36 M&lt;/li&gt;
-      &lt;li&gt;E) 0.25 M&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Zgo8tHXatzE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;gas-evolution-chemical-reactions&quot;&gt;Gas-Evolution Chemical Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:41:08.439627&lt;/li&gt;
-  &lt;li&gt;In a gas-evolution reaction, a gas forms, resulting in bubbling.&lt;/li&gt;
-  &lt;li&gt;In both acid–base and gas-evolution reactions, as in precipitation reactions, the reactions occur when the anion from one reactant combines with the cation of the other.
-    &lt;ul&gt;
-      &lt;li&gt;Many gas-evolution reactions are also acid– base reactions.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;example-of-gas-evolution-reactions&quot;&gt;Example of Gas-Evolution Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:42:31.119388&lt;/li&gt;
-  &lt;li&gt;Some reactions form a gas directly from the ion exchange.
-    &lt;ul&gt;
-      &lt;li&gt;K2S(aq) + H2SO4(aq) → K2SO4(aq) + H2S(g)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Other reactions form a gas by the decomposition of one of the ion exchange products into a gas and water.
-    &lt;ul&gt;
-      &lt;li&gt;NaHCO3(aq) + HCl(aq) → NaCl(aq) + H2CO3(aq)&lt;/li&gt;
-      &lt;li&gt;H2CO3(aq) → H2O(l) + CO2(g)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;gas-evolution-reaction&quot;&gt;Gas-Evolution Reaction&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:44:17.526266&lt;/li&gt;
-  &lt;li&gt;NaHCO3(aq) + HCl(aq) H2O(l) + NaCl(aq) + CO2(g)&lt;/li&gt;
-  &lt;li&gt;When aqueous sodium bicarbonate is mixed with aqueous hydrochloric acid, gaseous CO2 bubbles are the result of the reaction.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-9a206.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;types-of-compounds-that-undergo-gasevolution-reactions&quot;&gt;Types of Compounds That Undergo GasEvolution Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:44:59.297799&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-f8880.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 02 Nov 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/11/02/week-12-day-2-ch-9-pt-3.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/02/week-12-day-2-ch-9-pt-3.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 12 - Day 1 (Ch 9 - Pt 2)</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2pvcqm&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-12-day-1-ch-9-pt-2.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
-	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
-	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
-&lt;/div&gt;
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
-	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;B76q_sZ4RBs&quot;});
-&lt;/script&gt;
-
-&lt;h1 id=&quot;clicker&quot;&gt;Clicker&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;K2SO4 is soluble
-    &lt;ul&gt;
-      &lt;li&gt;True or false?&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp1&quot; style=&quot;display:none&quot;&gt;True&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp1').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:02:17.485831&lt;/li&gt;
-  &lt;li&gt;Ba2SO4 is soluble
-    &lt;ul&gt;
-      &lt;li&gt;True or false&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp2&quot; style=&quot;display:none&quot;&gt;False&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:02:34.417038&lt;/li&gt;
-  &lt;li&gt;NH4CO3 is slightly soluble
-    &lt;ul&gt;
-      &lt;li&gt;True or false&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp3&quot; style=&quot;display:none&quot;&gt;False&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:03:48.102896&lt;/li&gt;
-  &lt;li&gt;Ba(OH)2 is slightly soluble
-    &lt;ul&gt;
-      &lt;li&gt;True or false&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp4&quot; style=&quot;display:none&quot;&gt;True&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp4').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.softschools.com/quizzes/chemistry/solubility_rules/quiz1333.html&quot;&gt;Practice&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;solubility-rules&quot;&gt;Solubility Rules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:05:30.256563&lt;/li&gt;
-  &lt;li&gt;Rules chart reminder&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-3ee05.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ni(II)I2 is soluble
-    &lt;ul&gt;
-      &lt;li&gt;True or false&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp5&quot; style=&quot;display:none&quot;&gt;True&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp5').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Which pair of compounds is soluble in water?
-    &lt;ul&gt;
-      &lt;li&gt;Hg2Cl2 and HgBr2&lt;/li&gt;
-      &lt;li&gt;NiS and Li2S&lt;/li&gt;
-      &lt;li&gt;NH4I and Ni(NO3)2&lt;/li&gt;
-      &lt;li&gt;LiNO3 and CuCO3&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp6&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp6').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;precipitation-reactions-make-a-solid-by-mixing-two-aqueous-solutions&quot;&gt;Precipitation Reactions: Make a Solid by Mixing Two Aqueous Solutions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:08:44.222690&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Precipitation reactions&lt;/em&gt; are reactions in which a
-solid forms when we mix two solutions.
-    &lt;ul&gt;
-      &lt;li&gt;Reactions between aqueous solutions of ionic compounds produce an ionic compound that is insoluble in water.&lt;/li&gt;
-      &lt;li&gt;The insoluble product is called a &lt;em&gt;precipitate&lt;/em&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;precipitation-of-leadii-iodide&quot;&gt;Precipitation of Lead(II) Iodide&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:09:26.908352&lt;/li&gt;
-  &lt;li&gt;2 KI(aq) + Pb(NO3)2(aq) → 2 KNO3(aq) + PbI(s)&lt;/li&gt;
-  &lt;li&gt;(soluble) (soluble) (soluble) (insoluble)&lt;/li&gt;
-  &lt;li&gt;When a potassium iodide solution is mixed with a lead(II) nitrate solution, a yellow lead(II) iodide precipitate forms.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-8d82e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;no-precipitation-means-no-chemical-reaction-has-occurred&quot;&gt;No Precipitation Means No Chemical Reaction Has Occurred&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:10:12.926214&lt;/li&gt;
-  &lt;li&gt;Precipitation reactions do not always occur when two aqueous solutions are mixed.
-    &lt;ul&gt;
-      &lt;li&gt;Combine solutions of KI and NaCl and nothing happens.&lt;/li&gt;
-      &lt;li&gt;KI(aq) + NaCl(aq) → No Reaction&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-70012.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;predicting-precipitation-reactions&quot;&gt;Predicting Precipitation Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:10:38.716069
-    &lt;ol&gt;
-      &lt;li&gt;Determine what ions each of the aqueous reactants have.&lt;/li&gt;
-      &lt;li&gt;Determine formulas of possible products.
-        &lt;ul&gt;
-          &lt;li&gt;Exchange (switch) ions.
-            &lt;ul&gt;
-              &lt;li&gt;Cation ((+) ion) from one reactant pairs up with the anion ((–) ion) from the other reactant&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Balance charges of combined ions to get the formula of each product.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Determine the solubility of each product in water.
-        &lt;ul&gt;
-          &lt;li&gt;Use the solubility rules to determine if a product is insoluble or slightly soluble (e.g., it will precipitate) or if it forms a soluble compound.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;predicting-precipitation-reactions-continued&quot;&gt;Predicting Precipitation Reactions: Continued&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:12:05.429090
-    &lt;ol&gt;
-      &lt;li&gt;If products are insoluble, write their formulas as the products of the reaction using (s) after the formula to indicate solid. Write any soluble products with (aq) after the formula to indicate aqueous.&lt;/li&gt;
-      &lt;li&gt;Balance the equation.&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;predicting-precipitation-reactions-illustration&quot;&gt;Predicting Precipitation Reactions: Illustration&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:12:36.769404&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-5dd93.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-writing-precipitation-equations&quot;&gt;Practice Problem: Writing Precipitation Equations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:13:14.065533&lt;/li&gt;
-  &lt;li&gt;Write an equation for the precipitation reaction that occurs (if any) when you mix potassium carbonate and nickel (II) chloride&lt;/li&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lNh0vdAuP9k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-writing-precipitation-equations-1&quot;&gt;Practice Problem: Writing Precipitation Equations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Write an equation for the precipitation reaction that occurs (if any) when you mix solutions of sodium nitrate and lithium sulfate.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/r03jHN3RZIw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;representing-aqueous-reactions&quot;&gt;Representing Aqueous Reactions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:16:07.721765&lt;/li&gt;
-  &lt;li&gt;An equation showing the &lt;em&gt;complete neutral formulas&lt;/em&gt; for each compound in the aqueous reaction as if they existed as molecules is called a &lt;em&gt;molecular equation&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;2 KOH(aq) + Mg(NO3)2(aq) → 2 KNO3(aq) + Mg(OH)2(s)&lt;/li&gt;
-  &lt;li&gt;In actual solutions of soluble ionic compounds, dissolved substances are present as ions. Equations that describe the material’s structure when dissolved are called complete ionic equations.&lt;/li&gt;
-  &lt;li&gt;2 K+(aq) + 2 OH−(aq) + Mg2+(aq) + 2 NO3 −(aq) → 2 K+(aq) + 2 NO3 −(aq) + Mg(OH)2(s)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ionic-equation-rules&quot;&gt;Ionic Equation Rules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:19:13.203961&lt;/li&gt;
-  &lt;li&gt;Rules of writing the complete ionic equation:
-    &lt;ul&gt;
-      &lt;li&gt;Aqueous (aq) strong electrolytes are written as ions.
-        &lt;ul&gt;
-          &lt;li&gt;Soluble salts, strong acids, strong bases&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Insoluble substances, weak electrolytes, and nonelectrolytes are written in molecule form.
-        &lt;ul&gt;
-          &lt;li&gt;Solids (s), liquids (l), and gases (g) are not dissolved, this is why they are in a molecule form.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;2 K+(aq) + 2 OH−(aq) + Mg2+(aq) + 2 NO3 −(aq) →
-    &lt;ul&gt;
-      &lt;li&gt;2 K+(aq) + 2 NO3 −(aq) + Mg(OH)2(s)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ionic-equation-writing&quot;&gt;Ionic Equation Writing&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:20:24.122121&lt;/li&gt;
-  &lt;li&gt;These ions are called &lt;em&gt;spectator ions&lt;/em&gt; because they do not participate in the reaction.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-eab44.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;Don’t actually participate in the reaction&lt;/li&gt;
-      &lt;li&gt;We can just not write them&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;net-ionic-equation&quot;&gt;Net Ionic Equation&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:21:22.026776&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-7b066.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;When the spectator ions are removed, the chemical reaction is referred to as the &lt;em&gt;net ionic equation&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;2 OH−(aq) + Mg2+(aq) → Mg(OH)2(s)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;So a net ionic equation differs from a complete ionic equation because it &lt;em&gt;does NOT have spectator ions&lt;/em&gt; in the equation.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;examples-of-writing-molecular-complete-ionic-and-net-ionic-equations&quot;&gt;Examples of Writing Molecular, Complete Ionic, and Net Ionic Equations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:23:55.540858&lt;/li&gt;
-  &lt;li&gt;Molecular:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-c9c18.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Complete ionic:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-d7b4a.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Net ionic:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-cade2.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;examples-of-writing-molecular-complete-ionic-and-net-ionic-equations-1&quot;&gt;Examples of Writing Molecular, Complete Ionic, and Net Ionic Equations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:25:03.741978&lt;/li&gt;
-  &lt;li&gt;Molecular:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-de639.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Complete ionic:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-7050f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Net ionic:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-11fe1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-writing-net-ionic-equations&quot;&gt;Practice Problem: Writing Net Ionic Equations&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:27:36.224611&lt;/li&gt;
-  &lt;li&gt;Write the complete ionic equation and the net ionic equation for the reaction of strontium chloride and lithium phosphate&lt;/li&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eehoZpsbMzA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:31:48.436051&lt;/li&gt;
-  &lt;li&gt;Give the complete ionic equation for the reaction (if any) that occurs when aqueous solutions of lithium sulfide and copper (II) nitrate are mixed.
-    &lt;ul&gt;
-      &lt;li&gt;A) Li+(aq)+SO4 2-(aq)+Cu+(aq)+NO3 - (aq) → CuS(s)+Li+(aq) + NO3 - (aq)&lt;/li&gt;
-      &lt;li&gt;B) Li+(aq) + S- (aq) + Cu+(aq) + NO3 - (aq) → CuS(s) + LiNO3(aq)&lt;/li&gt;
-      &lt;li&gt;C) 2Li+(aq)+S2-(aq)+Cu2+(aq) + 2NO3 - (aq)→Cu2+(aq)+S2-(aq) +2LiNO3(s)&lt;/li&gt;
-      &lt;li&gt;D) 2 Li+(aq)+S2-(aq)+Cu2+(aq)+2NO3 - (aq)→ CuS(s) + 2Li+ (aq) + 2NO3 - (aq)&lt;/li&gt;
-      &lt;li&gt;E) No reaction occurs.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/57oSiH6V_FY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp7&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp7').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/types-of-chemical-reactions/a/complete-ionic-and-net-ionic-equations&quot;&gt;Khan Academy Practice&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;acids&quot;&gt;Acids&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:35:26.115777&lt;/li&gt;
-  &lt;li&gt;Acids are molecular compounds that form H+ when dissolved in water.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-a43c6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-0d511.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Acids are composed of hydrogen, usually written first in their formula, and one or more nonmetals, written second.
-    &lt;ul&gt;
-      &lt;li&gt;Examples:
-        &lt;ul&gt;
-          &lt;li&gt;HCl, H2SO4 , HNO3, CH3COOH&lt;/li&gt;
-          &lt;li&gt;(acetic acid or vinegar)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Properties of acids:
-    &lt;ul&gt;
-      &lt;li&gt;Sour taste&lt;/li&gt;
-      &lt;li&gt;Dissolve many metals such as Zn, Fe, Mg, but not Au, Ag, Pt&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;acidbase-classification-arrhenius&quot;&gt;Acid–Base Classification: Arrhenius&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:39:40.222603&lt;/li&gt;
-  &lt;li&gt;Simplest of Acid–Base Classification Arrhenius Definitions:
-    &lt;ul&gt;
-      &lt;li&gt;Acid: Substance that produces H+&lt;/li&gt;
-      &lt;li&gt;HCl(aq) -&amp;gt; H+(aq) + Cl–(aq)
-        &lt;ul&gt;
-          &lt;li&gt;Polyprotic acids
-            &lt;ul&gt;
-              &lt;li&gt;These acids contain more than one ionizable proton and release them sequentially.&lt;/li&gt;
-              &lt;li&gt;For example, sulfuric acid, H2SO4, is a diprotic acid.&lt;/li&gt;
-              &lt;li&gt;It is strong in its first ionizable proton, but weak in its second.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Base: Substance that produces OH− ions in aqueous solution
-    &lt;ul&gt;
-      &lt;li&gt;NaOH(aq) -&amp;gt; Na+(aq) + OH–(aq)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;some-common-acids-and-bases&quot;&gt;Some Common Acids and Bases&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:42:45.997556&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-c524f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;binary-acids-and-oxyacids&quot;&gt;Binary Acids and Oxyacids&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:44:10.272181&lt;/li&gt;
-  &lt;li&gt;Binary Acids:
-    &lt;ul&gt;
-      &lt;li&gt;Have H+1 cation and nonmetal anion&lt;/li&gt;
-      &lt;li&gt;Example:
-        &lt;ul&gt;
-          &lt;li&gt;HCl(aq) hydrochloric acid, HF(aq) hydrofluoric acid&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Oxyacids:
-    &lt;ul&gt;
-      &lt;li&gt;Have H+ cation and polyatomic anion&lt;/li&gt;
-      &lt;li&gt;Example:
-        &lt;ul&gt;
-          &lt;li&gt;HNO3 (nitric acid), H2SO4 (sulfuric acid)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-663ec.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.quia.com/hm/498413.html&quot;&gt;Practice&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;naming-binary-acids&quot;&gt;Naming Binary Acids&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:45:15.616894&lt;/li&gt;
-  &lt;li&gt;Write a hydro- prefix.&lt;/li&gt;
-  &lt;li&gt;Follow with the nonmetal name.&lt;/li&gt;
-  &lt;li&gt;Change the ending on the nonmetal name to ic.&lt;/li&gt;
-  &lt;li&gt;Write the word acid at the end of the name.&lt;/li&gt;
-  &lt;li&gt;Example:
-    &lt;ul&gt;
-      &lt;li&gt;What is the name of HI(aq)?&lt;/li&gt;
-      &lt;li&gt;The H in the formula is Hydro.&lt;/li&gt;
-      &lt;li&gt;The I (nonmetal in the formula) is iodine changed to iodic.&lt;/li&gt;
-      &lt;li&gt;The name is hydroiodic acid.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-88740.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;how-to-name-an-oxyacid&quot;&gt;How to Name an Oxyacid&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:46:05.679461&lt;/li&gt;
-  &lt;li&gt;If a polyatomic ion name ends in
-    &lt;ul&gt;
-      &lt;li&gt;–ate, then change the ending to a&lt;/li&gt;
-      &lt;li&gt;–ic suffix.&lt;/li&gt;
-      &lt;li&gt;Example:
-        &lt;ul&gt;
-          &lt;li&gt;NO3 − is the nitrate ion, so it would become nitric.&lt;/li&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-79ae9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;If a polyatomic ion name ends in
-    &lt;ul&gt;
-      &lt;li&gt;–ite, then change the ending to a&lt;/li&gt;
-      &lt;li&gt;–ous suffix.&lt;/li&gt;
-      &lt;li&gt;Example:
-        &lt;ul&gt;
-          &lt;li&gt;SO3 2− is the sulfite ion, so it would become sulfurous.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-3dc01.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Finally, write the word acid at the end of all names.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;precipitation reactions&lt;/td&gt;
-      &lt;td&gt;reactions in which a solid forms when we mix two solutions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;precipitate&lt;/td&gt;
-      &lt;td&gt;insoluble product from a precipitation reaction&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;complete ionic equations&lt;/td&gt;
-      &lt;td&gt;equations that describe the material’s structure when dissolved&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;spectator ions&lt;/td&gt;
-      &lt;td&gt;ions which do not participate in the reaction&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;net ionic equation&lt;/td&gt;
-      &lt;td&gt;when the spectator ions are removed in chemical reactions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;neutralization reaction&lt;/td&gt;
-      &lt;td&gt;when an acid reacts with a base producing water and a salt&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Mon, 31 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/10/31/week-12-day-1-ch-9-pt-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/31/week-12-day-1-ch-9-pt-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 11 - Day 2</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2pqdkt&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-11-day-2.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
-	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
-	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
-&lt;/div&gt;
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
-	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;eGIHL70805s&quot;});
-&lt;/script&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:04:20.568986&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;How many molecules of sucrose (C12H22O11, molar mass = 342.30 g/mol) are contained in 14.3 mL of 0.140 M sucrose solution
-    &lt;ul&gt;
-      &lt;li&gt;A) 8.29 * 10^22 molecules C12H22O11&lt;/li&gt;
-      &lt;li&gt;B) 1.21 * 10^21 molecules C12H22O11&lt;/li&gt;
-      &lt;li&gt;C) 6.15 * 10^22 molecules C12H22O11&lt;/li&gt;
-      &lt;li&gt;D) 1.63 * 10^23 molecules C12H22O11&lt;/li&gt;
-      &lt;li&gt;E) 5.90 * 10^24 molecules C12H22O11&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp2&quot; style=&quot;display:none&quot;&gt;B&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nH1OLgwioK8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;solution-stoichiometry&quot;&gt;Solution Stoichiometry&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:07:44.395193&lt;/li&gt;
-  &lt;li&gt;Molarity (moles solute/liter of solution) relates the moles of solute to the liters of solution.
-    &lt;ul&gt;
-      &lt;li&gt;Molarity can be used to convert between amount of reactants and/ or products in a chemical reaction when either the reactant or product is given in volume.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Example: 20.0 mL of 0.50 M NaCl&lt;/li&gt;
-  &lt;li&gt;Molarity of A × Volume of A = moles A&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-4c493.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-solution-stoichiometry&quot;&gt;Practice Problem: Solution Stoichiometry&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:08:39.470935&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;What volume (in L) of 0.150 M KCl solution will completely react with 0.150 L of a 0.175 M Pb(NO3)2 solution?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YBpMn3WIXro&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:16:26.983035&lt;/li&gt;
-  &lt;li&gt;What volume of 0.244 M KCl solution is required to react exactly with 50.0 mL of 0.210 M PB(NO3)2 solution?
-    &lt;ul&gt;
-      &lt;li&gt;A) 97.4 mL&lt;/li&gt;
-      &lt;li&gt;B) 116 mL&lt;/li&gt;
-      &lt;li&gt;C) 43.0 mL&lt;/li&gt;
-      &lt;li&gt;D) 86.1 mL&lt;/li&gt;
-      &lt;li&gt;E) 58.1 mL&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp3&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_z2k9DAKhCM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;types-of-aqueous-solutions-and-solubility&quot;&gt;Types of Aqueous Solutions and Solubility&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:20:31.538420&lt;/li&gt;
-  &lt;li&gt;You can’t add infinite amounts of solute to your solution&lt;/li&gt;
-  &lt;li&gt;Consider two familiar aqueous solutions: salt water and
-sugar water.
-    &lt;ul&gt;
-      &lt;li&gt;Salt water is a homogeneous mixture of NaCl and H2O.&lt;/li&gt;
-      &lt;li&gt;Sugar water is a homogeneous mixture of C12H22O11 and H2O.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;How do solids such as salt and sugar dissolve in water?
-    &lt;ul&gt;
-      &lt;li&gt;Likes dissolve likes.&lt;/li&gt;
-      &lt;li&gt;If your solute has roughly similar properties to your solvent, it will dissolve&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;what-happens-when-a-solute-dissolves&quot;&gt;What Happens When a Solute Dissolves?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:23:19.196102&lt;/li&gt;
-  &lt;li&gt;There are attractive forces between the solute particles holding them together.&lt;/li&gt;
-  &lt;li&gt;There are also attractive forces between the solvent molecules.&lt;/li&gt;
-  &lt;li&gt;When we mix the solute with the solvent, there are attractive forces between the solute particles and the solvent molecules.&lt;/li&gt;
-  &lt;li&gt;If the attractions between solute and solvent are strong enough, the solute will dissolve.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-06cb1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;charge-distribution-in-a-water-molecule&quot;&gt;Charge Distribution in a Water Molecule&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:25:45.466724&lt;/li&gt;
-  &lt;li&gt;There is an uneven distribution of electrons
-within the water molecule.
-    &lt;ul&gt;
-      &lt;li&gt;This causes the oxygen side of the molecule to have a partial negative charge (δ–) and the hydrogen side to have a partial positive charge (δ+).&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-00739.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;solute-and-solvent-interactions-in-an-ionic-solution-a-salt-solution&quot;&gt;Solute and Solvent Interactions in an Ionic Solution: A Salt Solution&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:59.261993&lt;/li&gt;
-  &lt;li&gt;When sodium chloride is put into water, the attraction of Na+ and Cl– ions to water molecules competes with the attraction among the oppositely charged ions themselves.
-    &lt;ul&gt;
-      &lt;li&gt;Sodium chloride is an ionic compound (metal + nonmetal).&lt;/li&gt;
-      &lt;li&gt;Ionic compounds when dissolved in water are called salt solutions.&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-8bdc5.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sodium-chloride-nacl-dissolving-in-water&quot;&gt;Sodium Chloride (NaCl) Dissolving in Water&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Each ion is attracted to the surrounding water molecules and pulled off and away from the crystal.&lt;/li&gt;
-  &lt;li&gt;When it enters the solution, the ion is surrounded by water molecules, insulating it from other ions.&lt;/li&gt;
-  &lt;li&gt;The result is a solution with free moving charged
-particles able to conduct electricity.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-e43f3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electrolyte-and-nonelectrolyte-solutions&quot;&gt;Electrolyte and Nonelectrolyte Solutions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:29:17.039172&lt;/li&gt;
-  &lt;li&gt;Materials that dissolve in water to form a solution that will conduct electricity are called &lt;em&gt;electrolytes&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Materials that dissolve in water to form a solution that will not conduct electricity are called &lt;em&gt;nonelectrolytes&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;A solution of salt (an electrolyte) conducts electrical current. A solution of sugar (a nonelectrolyte) does not.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-f3045.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;salt-versus-sugar-dissolved-in-water-nacl-solution-sugarwater-solution&quot;&gt;Salt versus Sugar Dissolved in Water NaCl solution Sugar–water solution&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-08f44.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electrolyte-solutions-what-are-they&quot;&gt;Electrolyte Solutions: What Are They?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:31:02.947720&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Electrolytes&lt;/em&gt; are classified by how they dissolve in water.
-    &lt;ul&gt;
-      &lt;li&gt;If their dissociation is into ions:
-        &lt;ul&gt;
-          &lt;li&gt;Strong electrolytes
-            &lt;ul&gt;
-              &lt;li&gt;Completely dissociate into ions&lt;/li&gt;
-              &lt;li&gt;Example: CaCl2(s) → Ca2+ + 2 Cl−&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Weak electrolytes
-            &lt;ul&gt;
-              &lt;li&gt;Partial dissociation into their ions&lt;/li&gt;
-              &lt;li&gt;Example: HCOOH(aq) H+ + HCOO−&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Molecular compounds that dissolve in water but do not form ions when they go into solution are called nonelectrolytes.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electrolyte-solutions-strong-and-weak&quot;&gt;Electrolyte Solutions: Strong and Weak&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:32:53.074436&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Ionic substances&lt;/em&gt; such as sodium chloride (NaCl) that completely dissociate into ions when they dissolve in water are &lt;em&gt;strong electrolytes&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-aacc8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Acids&lt;/em&gt; are compounds that when dissolved in water dissociate to give H+&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Bases&lt;/em&gt; are compounds that when dissolved in water dissociate to give OH-
-    &lt;ul&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-8adef.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Depending on the acid or base, their dissociation in water can be complete or partial.
-    &lt;ul&gt;
-      &lt;li&gt;Example:
-        &lt;ul&gt;
-          &lt;li&gt;HCl(aq) hydrochloric acid is a strong acid.
-            &lt;ul&gt;
-              &lt;li&gt;It dissociates completely in water.
-                &lt;ul&gt;
-                  &lt;li&gt;HCl would be a &lt;em&gt;strong electrolyte&lt;/em&gt;.&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Acetic acid (e.g., vinegar) (HC2H3O2) is a weak acid—it dissociates partially in water.
-            &lt;ul&gt;
-              &lt;li&gt;HC2H3O2 is a &lt;em&gt;weak electrolyte&lt;/em&gt;.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-e329b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:36:58.662109&lt;/li&gt;
-  &lt;li&gt;Which of the following will have the highest electrical conductivity?
-    &lt;ul&gt;
-      &lt;li&gt;A) 0.045 M Al2(SO4)3&lt;/li&gt;
-      &lt;li&gt;B) 0.050 M (NH4)2CO3&lt;/li&gt;
-      &lt;li&gt;C) 0.10 M NaBr&lt;/li&gt;
-      &lt;li&gt;D) 0.10 M Kl&lt;/li&gt;
-      &lt;li&gt;E) 0.10 M KF&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp4&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp4').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;electrolyte-and-nonelectrolyte-solutions-1&quot;&gt;Electrolyte and Nonelectrolyte Solutions&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sugar (C12H22O11) is a molecular compound.
-    &lt;ul&gt;
-      &lt;li&gt;Most &lt;em&gt;molecular compounds&lt;/em&gt; (except for acids and bases) dissolve in water as intact molecules.
-        &lt;ul&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-62e5d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Nonelectrolyte&lt;/em&gt; solution&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;electrolytic-properties-of-solution&quot;&gt;Electrolytic Properties of Solution&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-52934.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-solubility-of-ionic-compounds&quot;&gt;The Solubility of Ionic Compounds&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:39:50.836785&lt;/li&gt;
-  &lt;li&gt;When an ionic compound dissolves in water, the resulting solution contains:
-    &lt;ul&gt;
-      &lt;li&gt;Not the intact ionic compound itself, but its component ions dissolved in water&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;NOT all ionic compounds dissolve in water.
-    &lt;ul&gt;
-      &lt;li&gt;Example:
-        &lt;ul&gt;
-          &lt;li&gt;If we add AgCl to water, for example, it remains solid and appears as a white powder at the bottom of the water.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;In general, a compound is termed &lt;em&gt;soluble&lt;/em&gt; if it dissolves in water and &lt;em&gt;insoluble&lt;/em&gt; if it does not.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;solubility-of-salts&quot;&gt;Solubility of Salts&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:41:22.482755&lt;/li&gt;
-  &lt;li&gt;If solid silver nitrate (AgNO3) is added to water, it dissolves and forms a strong electrolyte solution.&lt;/li&gt;
-  &lt;li&gt;Silver chloride (AgCl), on the other hand, is almost completely insoluble.
-    &lt;ul&gt;
-      &lt;li&gt;If solid AgCl is mixed with water, virtually all of it remains as a solid within the liquid water.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-253b6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;when-will-a-salt-dissolve&quot;&gt;When Will a Salt Dissolve?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:41:46.575491&lt;/li&gt;
-  &lt;li&gt;Whether a particular compound is soluble or insoluble depends on several factors.&lt;/li&gt;
-  &lt;li&gt;Predicting whether a compound will dissolve in water is not easy.&lt;/li&gt;
-  &lt;li&gt;The best way to do it is to do some experiments to test whether a compound will dissolve in water, and then develop some rules based on those experimental results.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;solubility-rules&quot;&gt;Solubility Rules&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:41:59.485417&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-3ee05.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;practice-problem-ionic-compound-solubility&quot;&gt;Practice Problem: Ionic Compound Solubility&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Predict whether each compound is soluble or insoluble&lt;/li&gt;
-  &lt;li&gt;(a) PbCl2&lt;/li&gt;
-  &lt;li&gt;(b) CuCl2&lt;/li&gt;
-  &lt;li&gt;(c) Ca(NO3)2&lt;/li&gt;
-  &lt;li&gt;(d) BaSO4&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eiMtcbD8PBQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;electrolytes&lt;/td&gt;
-      &lt;td&gt;materials that dissolve in water to form a solution that will conduct electricity&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;nonelectrolytes&lt;/td&gt;
-      &lt;td&gt;materials that dissolve in water to form a solution that will not conduct electricity are called&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;acids&lt;/td&gt;
-      &lt;td&gt;compounds that when dissolved in water dissociate to give H+&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;bases&lt;/td&gt;
-      &lt;td&gt;compounds that when dissolved in water dissociate to give OH-&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;soluble&lt;/td&gt;
-      &lt;td&gt;compound which dissolves in water&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Wed, 26 Oct 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/10/26/week-11-day-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/10/26/week-11-day-2.html</guid>
         
         
       </item>
