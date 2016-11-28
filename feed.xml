@@ -6,9 +6,344 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Nov 2016 18:02:28 -0600</pubDate>
-    <lastBuildDate>Tue, 22 Nov 2016 18:02:28 -0600</lastBuildDate>
+    <pubDate>Mon, 28 Nov 2016 13:35:58 -0600</pubDate>
+    <lastBuildDate>Mon, 28 Nov 2016 13:35:58 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Week 16 - Day 1</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quizlet.com/_2tt8jg&quot;&gt;Quizlet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
+&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-16-day-1.docx&quot;&gt;
+		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
+	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
+	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
+	&lt;div&gt;&lt;/div&gt;
+	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
+	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
+	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
+	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  new AudioNavigator({videoId:&quot;qUrTbrKfXOs&quot;});
+&lt;/script&gt;
+
+&lt;h1 id=&quot;final&quot;&gt;Final&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Week from today&lt;/li&gt;
+  &lt;li&gt;Slightly more weighted toward things on ch 10 and 11&lt;/li&gt;
+  &lt;li&gt;Review session
+    &lt;ul&gt;
+      &lt;li&gt;2 - 4:30 Saturday and Sunday after next
+        &lt;ul&gt;
+          &lt;li&gt;review sessions in Shelby hall&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Final is 11:30 - 2&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Liquid nitrogen experiment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:06:15.196390&lt;/li&gt;
+  &lt;li&gt;To what volume will a sample of gas expand if it is heated from 50.0 C and 2.33 L to 500.0 C?
+    &lt;ul&gt;
+      &lt;li&gt;A) 5.57 L&lt;/li&gt;
+      &lt;li&gt;B) 23.3 L&lt;/li&gt;
+      &lt;li&gt;C) 0.233 L&lt;/li&gt;
+      &lt;li&gt;D) 0.97 L&lt;/li&gt;
+      &lt;li&gt;E) 0.184 L&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c15&quot; style=&quot;display:none&quot;&gt;Answer: A &lt;img src=&quot;../../../assets/2016-11-28-week-16-day-1-b7e95.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c15').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kj2bx5q-WJA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;avogadros-law-volume-and-moles-have-a-direct-relationship&quot;&gt;Avogadroʼs Law: Volume and Moles Have a Direct Relationship&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:11:31.193983&lt;/li&gt;
+  &lt;li&gt;Volume is directly proportional to the number of gas molecules when pressure and temperature are held constant.
+– More gas molecules = larger volume&lt;/li&gt;
+  &lt;li&gt;Equal volumes of gases contain equal numbers of molecules.
+– The gas doesn’t matter.&lt;/li&gt;
+  &lt;li&gt;V = constant × n (moles)&lt;/li&gt;
+  &lt;li&gt;V/n = constant&lt;/li&gt;
+  &lt;li&gt;(V1/n1) = (V2/n2)&lt;/li&gt;
+  &lt;li&gt;The volume of a gas sample increases linearly with the number of moles of gas in the sample.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-28-week-16-day-1-f508c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:14:23.279569&lt;/li&gt;
+  &lt;li&gt;If a sample of 0.29 moles of Ar occupies 3.8 L under certain conditions, what volume will 0.66 moles occupy under the same conditions?
+    &lt;ul&gt;
+      &lt;li&gt;A) 12&lt;/li&gt;
+      &lt;li&gt;B) 8.6&lt;/li&gt;
+      &lt;li&gt;C) 17&lt;/li&gt;
+      &lt;li&gt;D) 5.0&lt;/li&gt;
+      &lt;li&gt;E) 15&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c16&quot; style=&quot;display:none&quot;&gt;Answer: B &lt;img src=&quot;../../../assets/2016-11-28-week-16-day-1-cfe6a.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c16').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ideal-gas-law-pv--nrt&quot;&gt;Ideal Gas Law: PV = nRT&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:17:10.738500&lt;/li&gt;
+  &lt;li&gt;The simple gas law relationships discussed so far can be combined into a single law that encompasses all of them.
+    &lt;ul&gt;
+      &lt;li&gt;V α (1/P) Boyle’s Law&lt;/li&gt;
+      &lt;li&gt;V α T Charles’s Law&lt;/li&gt;
+      &lt;li&gt;V α n Avogadro’s Law&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ideal gas law: PV = nRT
+– Where
+    &lt;ul&gt;
+      &lt;li&gt;P is pressure in atm&lt;/li&gt;
+      &lt;li&gt;V is volume in liters&lt;/li&gt;
+      &lt;li&gt;n is moles&lt;/li&gt;
+      &lt;li&gt;R is the ideal gas law constant, 0.0821 (L · atm)/(K · mol)
+– T is temperature in kelvins&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ideal-gas-law-pv--nrt-1&quot;&gt;Ideal Gas Law: PV = nRT&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:18:31.572724&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-28-week-16-day-1-ac8d5.png&quot; alt=&quot;&quot; /&gt;
+· The other gas laws are found in the ideal gas law if two variables are kept constant.
+· The ideal gas law allows us to find one of the variables if we know the other three.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-ideal-gas-law&quot;&gt;Practice Problem: Ideal Gas Law&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:19:52.714114&lt;/li&gt;
+  &lt;li&gt;Calculate the volume occupied by 0.845 mol of nitrogen gas at a pressure of 1.37 atm and temperature of 42 °C&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/DRRW3RhAUu8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-ideal-gas-law-1&quot;&gt;Practice Problem: Ideal Gas Law&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Audio 0:22:41.752192&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Calculate the number of moles of gas in a 3.24 L basketball inflated to a total pressure of 24.3 psi&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GFF7Qv7DySE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;standard-conditions&quot;&gt;Standard Conditions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:03.240956&lt;/li&gt;
+  &lt;li&gt;Because the volume of a gas varies with pressure and temperature, chemists have agreed on a set of conditions to report our measurements so that comparison is easy.
+– These are called standard conditions (STP).&lt;/li&gt;
+  &lt;li&gt;Standard pressure = 1 atm&lt;/li&gt;
+  &lt;li&gt;Standard temperature = 273 K = 0 °C&lt;/li&gt;
+  &lt;li&gt;Standard amount = 1 mol&lt;/li&gt;
+  &lt;li&gt;Standard volume = 22.4 L
+– The volume occupied by one mole of a substance is its molar volume at STP (T = 273 K or 0 °C and P = 1atm).&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-28-week-16-day-1-87edf.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molar-volume-at-stp&quot;&gt;Molar Volume at STP&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:28:15.214651&lt;/li&gt;
+  &lt;li&gt;The volume of one mole of gas at STP is called the molar volume.
+    &lt;ul&gt;
+      &lt;li&gt;6.022 × 1023 molecules of gas
+– Note that the type of gas is immaterial.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;It is important to recognize that one-mole measures of different gases have different masses, even though they have the same volume.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;density-of-a-gas&quot;&gt;Density of a Gas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:29:06.988437&lt;/li&gt;
+  &lt;li&gt;Density is the ratio of mass to volume.
+– Density = (mass/volume)&lt;/li&gt;
+  &lt;li&gt;Density of a gas is generally given in grams/liter (g/L).&lt;/li&gt;
+  &lt;li&gt;The mass of 1 mol = molar mass.&lt;/li&gt;
+  &lt;li&gt;The volume of 1 mol at STP = 22.4 L.
+    &lt;ul&gt;
+      &lt;li&gt;Density (d) = [mass of gas (g/mol)]/[volume (L)]
+        &lt;ul&gt;
+          &lt;li&gt;Density (g/L) = (molar mass)/(molar volume)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;density-of-a-gas-at-stp&quot;&gt;Density of a Gas at STP&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:29:33.594188&lt;/li&gt;
+  &lt;li&gt;For example, the densities of helium and nitrogen gas at STP are as follows:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-28-week-16-day-1-71754.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molar-mass-of-a-gas&quot;&gt;Molar Mass of a Gas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:30:27.999878&lt;/li&gt;
+  &lt;li&gt;One of the methods chemists use to determine the molar mass of an unknown substance is to heat a weighed sample until it becomes a gas; measure the temperature, pressure, and volume; and use the ideal gas law.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-28-week-16-day-1-a2cbc.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gas-density&quot;&gt;Gas Density&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:31:34.143033&lt;/li&gt;
+  &lt;li&gt;PV = nRT&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/U0tG-XR9UIA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gas-density-1&quot;&gt;Gas Density&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:08.137349&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-28-week-16-day-1-61612.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-density-of-a-gas&quot;&gt;Practice Problem: Density of a Gas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:25.383706&lt;/li&gt;
+  &lt;li&gt;A sample of gas has a mass of 0.311 g. Its volume is 0.225 L at 55 oC and pressure of 886 mmHg. What is the molar mass?&lt;/li&gt;
+  &lt;li&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kj2bx5q-WJA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mixtures-of-gases-and-partial-pressures&quot;&gt;Mixtures of Gases and Partial Pressures&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Many gas samples are not pure but are mixtures of gases.&lt;/li&gt;
+  &lt;li&gt;Dry air, for example, is a mixture containing nitrogen, oxygen, argon, carbon dioxide, and a few other gases in trace amounts.&lt;/li&gt;
+  &lt;li&gt;Therefore, in certain applications, the mixture can be thought of as one gas.
+– By knowing air’s pressure, volume, and temperature, the total moles of molecules in an air sample can be determined—even though they are different compounds.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-28-week-16-day-1-41e2c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;partial-pressure-pgas&quot;&gt;Partial Pressure: Pgas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:38:48.952989&lt;/li&gt;
+  &lt;li&gt;The pressure of a single gas in a mixture of gases is called its partial pressure.&lt;/li&gt;
+  &lt;li&gt;The partial pressure of a gas can be calculated if
+– a fraction of the mixture it composes and the total pressure are known; or
+– the number of moles of the gas in a container of a given volume and temperature are known.&lt;/li&gt;
+  &lt;li&gt;The sum of the partial pressures of all the gases in the mixture equals the total pressure. This is known as Daltonʼs law of partial pressures.
+    &lt;ul&gt;
+      &lt;li&gt;Ptotal = Pa + Pb + Pc + …&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Gases behave independently.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;partial-pressure-pgas-1&quot;&gt;Partial Pressure: Pgas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:40:46.362349&lt;/li&gt;
+  &lt;li&gt;The pressure due to any individual component in a gas mixture is its partial pressure (Pn).&lt;/li&gt;
+  &lt;li&gt;The partial pressure from the ideal gas law can be determined by assuming that each gas component acts independently.
+    &lt;ul&gt;
+      &lt;li&gt;RT Pn = nn V&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;relationship between volume and moles&lt;/td&gt;
+      &lt;td&gt;V = constant * n(moles)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;standard conditions&lt;/td&gt;
+      &lt;td&gt;Using these conditions 22.4 L is the volume of one mol of any gas (1 atm, 273 K (0 C), 1 mol)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;partial pressure&lt;/td&gt;
+      &lt;td&gt;the pressure of a single gas in a mixture of gases&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Daltonʼs law of partial pressures&lt;/td&gt;
+      &lt;td&gt;Ptotal = Pa + Pb + Pc + …&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Mon, 28 Nov 2016 00:00:00 -0600</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/11/28/week-16-day-1.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/28/week-16-day-1.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 15 - Day 1 (Start Ch 11)</title>
@@ -2937,168 +3272,6 @@ function grade() {
         <pubDate>Mon, 07 Nov 2016 00:00:00 -0600</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/11/07/test-3-all-clicker-questions-since-test-2.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/07/test-3-all-clicker-questions-since-test-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Recitation - Week 12 (3rd for test 3)</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;1) Determine the molarity of a solution formed by dissolving 468 mg Of M812 in enough water to yield 50.0 mL
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.0297 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.0337 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.0936 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.0107 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 0.0651 M&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;2) Identify acetic acid.&lt;/li&gt;
-  &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) strong electrolyte, weak acid&lt;/li&gt;
-  &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) weak electrolyte, weak acid&lt;/li&gt;
-  &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) strong electrolyte, strong acid&lt;/li&gt;
-  &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) weak electrolyte, strong acid&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) nonelectrolyte&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;3) Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of HOSOA and KOH are mixed.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) H+(aq) + oH-(aq) -&amp;gt; H2O(l)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 2 K+(aq) + SO4^2-(aq) -&amp;gt; K2SO4(s)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) H+(aq) + OH-(aq) + 2 K+(aq) + SO4^2-(aq) -&amp;gt; H2O(l) + K2SO4(S)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) H2^2+(aq) + OH-(ao) -&amp;gt; H2(0H)2(l)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) No reaction occurs.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;4) Pure acetic acid (CH3COOH) is a liquid and is known as glacial acetic acid. Calculate the molarity of a solution prepared by dissolving 15.00 mL of glacial acetic acid at 25°C in sufficient water to give 500.0 n1L of solution. The density of glacial acetic acid at 25°C is 1.05 g/mL.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 1.89 * 10^3 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 31.5 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.0315 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.525 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 5.25 * 10^-4M&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;5) When 7.80 mL of 0.500 M AgNO3 is added to 6.25 mL of 0.300 M NH4Cl, how many grams of AgCl are formed?
-    &lt;ul&gt;
-      &lt;li&gt;AgN03(aq) + NH4Cl(aq) -&amp;gt; AgCl(s) + NH4NO3(aq)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.269 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.553 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.822 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 1.61 g&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;6) Which of the following compounds will undergo a gas-evolving reaction in an aqueous solution?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) CH3COOH&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) HF&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) HCl&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) H2SO4&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) H2CO3&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;7) Determine the concentration of a solution prepared by diluting 20.0 mL of a 0.200 M KCl to 250.0 mL.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.l60 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.0320 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 2.50 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.00800 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 0.0160 M&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;8) What mass (in g) of AgCl is formed from the reaction of 75.0 mL of a 0.078 M AgC2H302 solution with 55.0 mL of 0.109 M MgCl2 solution?
-    &lt;ul&gt;
-      &lt;li&gt;2 AgC2H3O2(aq) + MgCl2(aq) -&amp;gt; 2 AgCl(S) + Mg(C2H3O2)2(aq)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.838 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 1.72 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.859 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 2.56 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 1.70 g&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;9) Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of K2S and Fe(NO3)2 are mixed.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) K+(aq) + N03-(aq) -&amp;gt; KNO3(s)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) Fe2+(aq) + S2-(aq) + 2 K+(aq) + 2 N03-(aq) -&amp;gt; FeS(s) + 2 K+(aq) + 2 NO3-(aq)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Fe2+(aq) + S2-(aq) + 2 K+(aq) + 2 N03-(aq) -&amp;gt; Fe2+(aq) + S2-(aq) + 2 KNO3(s)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) Fe2+(aq) + S2-(aq) -&amp;gt; FeS(s)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) No reaction occurs&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;10) All of the following compounds are soluble except
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) Ba(OH)2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) Pb(NO3)2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) ZnCl2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) AgBr&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) Cu(C2H3O2)2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;11) Two samples of potassium iodide are decomposed into their constituent elements. The first sample produced 13.0 g of potassium and 42.3 g of iodine. If the second sample produced 24.4 kg of potassium, how many kg of iodine were produced?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 13.3 kg&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 22.5 kg&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 79.4 kg&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 44.4 kg&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 92.4 kg&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;12 Determine the number of grams H2 formed when 250.0 mL of 0.743 M HCl solution reacts with 3.41 * 10^23 atoms of Fe according to the following reaction
-    &lt;ul&gt;
-      &lt;li&gt;2HCl(aq) + Fe(s) -&amp;gt; H2(g) + FeCl2(aq)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.374g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 1.33g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 1.l4g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.l87g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) l.5l g&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;script&gt;
-var answers = [&quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;d&quot;, &quot;a&quot;, &quot;e&quot;, &quot;e&quot;, &quot;a&quot;, &quot;d&quot;, &quot;d&quot;, &quot;c&quot;, &quot;d&quot;];
-function getAnswer(number) {
-  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
-}
-function validate() {
-  var any = false;
-  for (var i = 1; i &lt; answers.length+1; i++) {
-    var answer = getAnswer(i);
-    if (!answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
-      any = true;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
-    }
-  }
-  if (any) {
-    toastr.error(&quot;You did not answer every question!&quot;);
-  }
-  return !any;
-}
-function grade() {
-  if (!validate()) return;
-  var correct = 0;
-  for (var i = 1; i &lt; answers.length+1; i++) {
-    var answer = getAnswer(i);
-    if (answers[i-1] == answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
-      correct++;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
-    }
-  }
-  toastr.success(&quot;Your grade is &quot;+ ((correct/answers.length) * 100).toFixed(2) + &quot; out of 100&quot;);
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 05 Nov 2016 00:00:00 -0500</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/11/05/recitation-week-12-3rd-for-test-3.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/05/recitation-week-12-3rd-for-test-3.html</guid>
         
         
       </item>
