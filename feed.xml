@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Dec 2016 12:22:41 -0600</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2016 12:22:41 -0600</lastBuildDate>
+    <pubDate>Sun, 04 Dec 2016 12:52:53 -0600</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2016 12:52:53 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -190,6 +190,8 @@ function grade() {
         <pubDate>Sat, 03 Dec 2016 00:00:00 -0600</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/12/03/mock-final.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/12/03/mock-final.html</guid>
+        
+        <category>final</category>
         
         
       </item>
@@ -598,6 +600,8 @@ function grade() {
         <link>http://jmbeach.github.io/CH101-008/2016/12/03/exam-3-review-solutions.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/12/03/exam-3-review-solutions.html</guid>
         
+        <category>test3</category>
+        
         
       </item>
     
@@ -816,6 +820,8 @@ proportional to the square root of the masses so it has to be sixteen times&lt;/
         <pubDate>Fri, 02 Dec 2016 00:00:00 -0600</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/12/02/week-16-day-3-end-of-ch-11.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/12/02/week-16-day-3-end-of-ch-11.html</guid>
+        
+        <category>final</category>
         
         
       </item>
@@ -1149,6 +1155,8 @@ proportional to the square root of the masses so it has to be sixteen times&lt;/
         <pubDate>Wed, 30 Nov 2016 00:00:00 -0600</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/11/30/week-16-day-2.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/30/week-16-day-2.html</guid>
+        
+        <category>final</category>
         
         
       </item>
@@ -1484,6 +1492,8 @@ proportional to the square root of the masses so it has to be sixteen times&lt;/
         <pubDate>Mon, 28 Nov 2016 00:00:00 -0600</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/11/28/week-16-day-1.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/28/week-16-day-1.html</guid>
+        
+        <category>final</category>
         
         
       </item>
@@ -1858,6 +1868,8 @@ Fe2O3(s)+2Al(s)-&amp;gt;Al2O3(s)+2Fe(s) delta H rxn = -852kJ&lt;/p&gt;
         <link>http://jmbeach.github.io/CH101-008/2016/11/21/week-15-day-1-start-ch-11.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/21/week-15-day-1-start-ch-11.html</guid>
         
+        <category>final</category>
+        
         
       </item>
     
@@ -2135,6 +2147,8 @@ Fe2O3(s)+2Al(s)-&amp;gt;Al2O3(s)+2Fe(s) delta H rxn = -852kJ&lt;/p&gt;
         <link>http://jmbeach.github.io/CH101-008/2016/11/18/week-14-day-3.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/18/week-14-day-3.html</guid>
         
+        <category>final</category>
+        
         
       </item>
     
@@ -2361,6 +2375,8 @@ below.
         <pubDate>Wed, 16 Nov 2016 00:00:00 -0600</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/11/16/week-14-day-2.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/16/week-14-day-2.html</guid>
+        
+        <category>final</category>
         
         
       </item>
@@ -2598,6 +2614,8 @@ work. What is ∆E?
         <pubDate>Mon, 14 Nov 2016 00:00:00 -0600</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/11/14/week-14-day-1.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/14/week-14-day-1.html</guid>
+        
+        <category>final</category>
         
         
       </item>
@@ -2838,6 +2856,8 @@ work. What is ∆E?
         <pubDate>Fri, 11 Nov 2016 00:00:00 -0600</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/11/11/week-13-day-3.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/11/week-13-day-3.html</guid>
+        
+        <category>final</category>
         
         
       </item>
