@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Dec 2016 13:33:41 -0600</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2016 13:33:41 -0600</lastBuildDate>
+    <pubDate>Sun, 04 Dec 2016 13:35:19 -0600</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2016 13:35:19 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -154,6 +154,12 @@
     &lt;p&gt;&lt;span id=&quot;c10&quot; style=&quot;display:none&quot;&gt;Answer: B &lt;img src=&quot;../../../assets/2016-12-03-mock-final-b44fb.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 &lt;input type=&quot;button&quot; onclick=&quot;$('#c10').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
+  &lt;li&gt;11) Determine the mass of a ball with a wavelength of 3.45 × 10^-34 m and a velocity of 6.55 m/s.
+A) 0.293 g
+B) 12.6 g
+C) 293 g
+D) 346 g
+E) 3.41 g&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;script&gt;
