@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Dec 2016 13:44:52 -0600</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2016 13:44:52 -0600</lastBuildDate>
+    <pubDate>Sun, 04 Dec 2016 13:45:31 -0600</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2016 13:45:31 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -163,8 +163,8 @@
       &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 3.41 g&lt;/li&gt;
     &lt;/ul&gt;
 
-    &lt;p&gt;&lt;span id=&quot;c10&quot; style=&quot;display:none&quot;&gt;Answer: C &lt;img src=&quot;../../../assets/2016-12-03-mock-final-0f83f.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c10').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;span id=&quot;c11&quot; style=&quot;display:none&quot;&gt;Answer: C &lt;img src=&quot;../../../assets/2016-12-03-mock-final-0f83f.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c11').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
