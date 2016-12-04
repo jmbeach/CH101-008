@@ -6,9 +6,193 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Dec 2016 19:17:35 -0600</pubDate>
-    <lastBuildDate>Sat, 03 Dec 2016 19:17:35 -0600</lastBuildDate>
+    <pubDate>Sun, 04 Dec 2016 12:22:41 -0600</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2016 12:22:41 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Mock Final</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;1) A new compound was recently discovered and found to have an atomic weight of 342.38 amu. This element has two isotopes, the lighter of which has a mass of 340.91 amu and an abundance of 68.322%. What is the mass of the heavier isotope?
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 350.21&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 345.55&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 342.38&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 348.67&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 343.29&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c1&quot; style=&quot;display:none&quot;&gt;Answer: B &lt;img src=&quot;../../../assets/2016-08-24-week-2-recitation-2cb30.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c1').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2) Identify the characteristics of a liquid.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) definite volume and definite shape&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) definite volume and no definite shape&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) no definite volume and definite shape&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) no definite shape and no definite volume&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c2&quot; style=&quot;display:none&quot;&gt;Answer: B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;3) What species is represented by the following information?
+    &lt;ul&gt;
+      &lt;li&gt;p+ = 12 n° = 14 e- = 10&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) Si4+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) Mg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Ne&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) Si&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) Mg2+&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c3&quot; style=&quot;display:none&quot;&gt;Answer: E&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;4) How many moles of Kr are contained in 398 mg of Kr?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 4.75 × 10-3 moles Kr&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 33.4 moles Kr&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 2.11 × 10-4 moles Kr&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 2.99 × 10-3 moles Kr&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 1.19 × 10-4 moles Kr&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c4&quot; style=&quot;display:none&quot;&gt;Answer: A &lt;img src=&quot;../../../assets/2016-12-03-mock-final-2be42.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c4').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;5) How many phosphorus atoms are contained in 158 kg of phosphorus?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 3.07 × 10^27 phosphorus atoms&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 2.95 × 10^27 phosphorus atoms&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 3.25 × 10^28 phosphorus atoms&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 1.18 × 10^24 phosphorus atoms&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 8.47 × 10^24 phosphorus atoms&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c5&quot; style=&quot;display:none&quot;&gt;Answer: A &lt;img src=&quot;../../../assets/2016-12-03-mock-final-bc8f6.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c5').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;6) A student performs an experiment to determine the density of a sugar solution. She obtains the following results: 1.11 g/mL, 1.81 g/mL, 1.95 g/mL, 1.75 g/mL. If the actual value for the density of the sugar solution is 1.75 g/mL, which statement below best describes her results?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) Her results are precise, but not accurate.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) Her results are accurate, but not precise.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Her results are both precise and accurate&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) Her results are neither precise nor accurate.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) It isn’t possible to determine with the information given.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c6&quot; style=&quot;display:none&quot;&gt;Answer: D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c6').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;7) What answer should be reported, with the correct number of significant figures, for the following calculation? (433.621 - 333.9) × 11.900
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 1.19 × 10^3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 1.187 × 10^3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 1.1868 × 10^3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 1.18680 × 10^3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 1.186799 × 10^3&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c7&quot; style=&quot;display:none&quot;&gt;Answer: C &lt;img src=&quot;../../../assets/2016-12-03-mock-final-809df.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c7').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;8) If an object has a density of 8.65 g/cm3, what is its density in units of kg/m3?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 8.65 × 10^-3 kg/m3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 8.65 × 10^-7 kg/m3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 8.65 × 10^3 kg/m3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 8.65 × 10^1 kg/m3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 8.65 × 10^-1 kg/m3&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c8&quot; style=&quot;display:none&quot;&gt;Answer: C &lt;img src=&quot;../../../assets/2016-12-03-mock-final-92246.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c8').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;9) Calculate the energy of the green light emitted, per photon, by a mercury lamp with a frequency of
+    &lt;ul&gt;
+      &lt;li&gt;5.49 × 10^14 Hz.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 2.75 × 10^-19 J&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 3.64 × 10^-19 J&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 5.46 × 10^-19 J&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 1.83 × 10^-19 J&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 4.68 × 10^-19 J&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c9&quot; style=&quot;display:none&quot;&gt;Answer: B &lt;img src=&quot;../../../assets/2016-12-03-mock-final-4b99e.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c9').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+var answers = [
+&quot;b&quot;, &quot;b&quot;, &quot;e&quot;, &quot;a&quot;, &quot;a&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;, &quot;b&quot;
+];
+function getAnswer(number) {
+  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
+}
+function validate() {
+  var any = false;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (!answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
+      any = true;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
+    }
+  }
+  if (any) {
+    toastr.error(&quot;You did not answer every question!&quot;);
+  }
+  return !any;
+}
+function grade() {
+  if (!validate()) return;
+  var correct = 0;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (answers[i-1] == answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
+      correct++;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
+    }
+  }
+  toastr.success(&quot;Your grade is &quot;+ ((correct/answers.length) * 100).toFixed(2) + &quot; out of 100&quot;);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Dec 2016 00:00:00 -0600</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/12/03/mock-final.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/12/03/mock-final.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Exam 3 - Review/Solutions</title>
@@ -2654,277 +2838,6 @@ work. What is ∆E?
         <pubDate>Fri, 11 Nov 2016 00:00:00 -0600</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/11/11/week-13-day-3.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/11/week-13-day-3.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 13 - Day 2</title>
-        <description>
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-13-day-2.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
-	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
-	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
-&lt;/div&gt;
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
-	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;WbUwcNLIcp0&quot;});
-&lt;/script&gt;
-
-&lt;h1 id=&quot;rd-tests&quot;&gt;3rd Tests&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Chapters 6.10 - 10.3&lt;/li&gt;
-  &lt;li&gt;Nonprogrammable calculator&lt;/li&gt;
-  &lt;li&gt;Pencil&lt;/li&gt;
-  &lt;li&gt;Eraser&lt;/li&gt;
-  &lt;li&gt;If you arrive after 7pm, you have taken your drop grade.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;review-day&quot;&gt;Review Day&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Clicker 1&lt;/li&gt;
-  &lt;li&gt;Audio 0:04:25.997870&lt;/li&gt;
-  &lt;li&gt;Which of the following signs on q and w represent a system that is doing work on the surroundings, as well as gaining heat from the surroundings?
-    &lt;ul&gt;
-      &lt;li&gt;A) q=+, w=-&lt;/li&gt;
-      &lt;li&gt;B) q = -, w = +&lt;/li&gt;
-      &lt;li&gt;C) q = +, w = +&lt;/li&gt;
-      &lt;li&gt;D) q = -, w = -&lt;/li&gt;
-      &lt;li&gt;E) None of these represent the system referenced&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c37&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c37').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:06:45.527461&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-2&quot;&gt;clicker 2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Which of the following signs on q and w represent a system that the surroundings are doing work on, as well as gaining heat from the surroundings?
-    &lt;ul&gt;
-      &lt;li&gt;A) q = +, w = -&lt;/li&gt;
-      &lt;li&gt;B) q = -, w = +&lt;/li&gt;
-      &lt;li&gt;C) q = +, w = +&lt;/li&gt;
-      &lt;li&gt;D) q = -, w = -&lt;/li&gt;
-      &lt;li&gt;E) None of these represent the system referenced&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c38&quot; style=&quot;display:none&quot;&gt;C&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#c38').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;How many of the following molecules are polar?&lt;/li&gt;
-  &lt;li&gt;PCl5 COS XeO3 SeBr2
-    &lt;ul&gt;
-      &lt;li&gt;A) 2&lt;/li&gt;
-      &lt;li&gt;B) 0&lt;/li&gt;
-      &lt;li&gt;C) 1&lt;/li&gt;
-      &lt;li&gt;D) 3&lt;/li&gt;
-      &lt;li&gt;E) 4&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c39&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c39').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lEtFzd6XBus&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-4&quot;&gt;Clicker 4&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:14:22.599679&lt;/li&gt;
-  &lt;li&gt;When an aqueous solution of manganese (II) nitrate is combined with an aqueous solution of ammonium sulfide,
-what should precipitate out?
-    &lt;ul&gt;
-      &lt;li&gt;A) MnS&lt;/li&gt;
-      &lt;li&gt;B) Mn(SO3)2&lt;/li&gt;
-      &lt;li&gt;C) Mn(SO4)2&lt;/li&gt;
-      &lt;li&gt;D) Mn2SO3&lt;/li&gt;
-      &lt;li&gt;E) Mn2SO4&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c40&quot; style=&quot;display:none&quot;&gt;Answer: A. Sulfides accept for sodium. Sulfide is 2- so it just goes into the Mn.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c40').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;clicker-5&quot;&gt;Clicker 5&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:17:34.714245&lt;/li&gt;
-  &lt;li&gt;Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of K2S and Fe(NO3)2 are mixed.
-    &lt;ul&gt;
-      &lt;li&gt;A) K+(aq) + NO3 - (aq) → KNO3(s)&lt;/li&gt;
-      &lt;li&gt;B) Fe2+(aq) + S2-(aq) + 2 K+(aq) + 2 NO3 - (aq) → FeS(s) + 2 K+(aq) + 2 NO3 - (aq)&lt;/li&gt;
-      &lt;li&gt;C) Fe2+(aq) + S2-(aq) + 2 K+(aq) + 2 NO3 - (aq) → Fe2+(aq) + S2-(aq) + 2 KNO3(s)&lt;/li&gt;
-      &lt;li&gt;D) Fe2+(aq) + S2-(aq) → FeS(s)&lt;/li&gt;
-      &lt;li&gt;E) No reaction occurs.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c41&quot; style=&quot;display:none&quot;&gt;Answer: D&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c41').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;clicker-6&quot;&gt;Clicker 6&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:20:52.685314&lt;/li&gt;
-  &lt;li&gt;Determine the reducing agent in the following reaction. 2 Li(s) + Fe(C2H3O2)2(aq) → 2 LiC2H3O2(aq) + Fe(s)
-    &lt;ul&gt;
-      &lt;li&gt;A) O&lt;/li&gt;
-      &lt;li&gt;B) H&lt;/li&gt;
-      &lt;li&gt;C) C&lt;/li&gt;
-      &lt;li&gt;D) Fe&lt;/li&gt;
-      &lt;li&gt;E) Li&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c42&quot; style=&quot;display:none&quot;&gt;Answer: E. Lithium is the substance that is losing its electrons and causing the reaction to be reduced&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c42').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;clicker-7&quot;&gt;Clicker 7&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:39.117323&lt;/li&gt;
-  &lt;li&gt;Draw the appropriate molecular orbital diagram and determine which of the following are paramagnetic.
-    &lt;ul&gt;
-      &lt;li&gt;A) B2^2+&lt;/li&gt;
-      &lt;li&gt;B) B2^2-&lt;/li&gt;
-      &lt;li&gt;C) N2^2+&lt;/li&gt;
-      &lt;li&gt;D) C2^2-&lt;/li&gt;
-      &lt;li&gt;E) B2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cQ4Su46RmfM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c43&quot; style=&quot;display:none&quot;&gt;Answer: E. Looking for six or twelve valence electrons&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c43').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;clicker-8&quot;&gt;Clicker 8&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:30:33.281519&lt;/li&gt;
-  &lt;li&gt;How many moles of nitrogen are formed when 58.6 g of KNO3 decomposes according to the following reaction? The molar mass of KNO3 is 101.11 g/mol
-    &lt;ul&gt;
-      &lt;li&gt;4KNO3(s) -&amp;gt; 2K2O(s) + 2N2(g) + 5O2(g)&lt;/li&gt;
-      &lt;li&gt;A) 0.290 mol N2&lt;/li&gt;
-      &lt;li&gt;B) 0.580 mol N2&lt;/li&gt;
-      &lt;li&gt;C) 18.5 mol N2&lt;/li&gt;
-      &lt;li&gt;D) 0.724 mol N2&lt;/li&gt;
-      &lt;li&gt;E) 1.73 mol N2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c44&quot; style=&quot;display:none&quot;&gt;Answer: A&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c44').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;clicker-9&quot;&gt;Clicker 9&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:34:13.545160&lt;/li&gt;
-  &lt;li&gt;According to the following reaction, how many grams of sulfur are formed when 37.4 g of water are formed? (S: 32.07, H: 1.0079, O: 15.999)
-    &lt;ul&gt;
-      &lt;li&gt;2H2S(g) + SO2(g) -&amp;gt; 3 S(s) + 2H2O&lt;/li&gt;
-      &lt;li&gt;A) 99.8 g S&lt;/li&gt;
-      &lt;li&gt;B) 66.6 g S&lt;/li&gt;
-      &lt;li&gt;C) 56.1 g S&lt;/li&gt;
-      &lt;li&gt;D) 44.4 g S&lt;/li&gt;
-      &lt;li&gt;E) 14.0 g S&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c45&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-11-09-week-13-day-2-5ac09.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c45').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;clicker-10&quot;&gt;Clicker 10&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:37:15.066241&lt;/li&gt;
-  &lt;li&gt;Determine the theoretical yield of HCl if 60.0 g of BCl3 and 37.5 g of H2O are reacted according to the following balanced reaction. (molar mass of BCl3 = 117.16 g/mol, B: 10.81, Cl:35.45, O:15.999, H:1.0079)
-    &lt;ul&gt;
-      &lt;li&gt;BCl3(g) + 3 H2O(l) → H3BO3(s) + 3 HCl(g)&lt;/li&gt;
-      &lt;li&gt;A) 75.9 g HCl&lt;/li&gt;
-      &lt;li&gt;B) 132 g HCl&lt;/li&gt;
-      &lt;li&gt;C) 187 g HCl&lt;/li&gt;
-      &lt;li&gt;D) 56.0 g HCl&lt;/li&gt;
-      &lt;li&gt;E) 25.3 g HCl&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c46&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-11-09-week-13-day-2-533b5.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c46').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;clicker-11&quot;&gt;Clicker 11&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:45:58.730799&lt;/li&gt;
-  &lt;li&gt;Calcium oxide reacts with water in a combination reaction to produce calcium hydroxide:
-    &lt;ul&gt;
-      &lt;li&gt;CaO(s) + H2O(l) → Ca(OH)2(s)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A 5.00-g sample of CaO is reacted with 4.83 g of H2O. How many grams of water remain after the reaction is complete? (Ca:40.08, O:15.999, H:1.0079)
-    &lt;ul&gt;
-      &lt;li&gt;A) 0.00&lt;/li&gt;
-      &lt;li&gt;B) 0.00991&lt;/li&gt;
-      &lt;li&gt;C) 3.22&lt;/li&gt;
-      &lt;li&gt;D) 1.04&lt;/li&gt;
-      &lt;li&gt;E) 0.179&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;c47&quot; style=&quot;display:none&quot;&gt;&lt;img src=&quot;../../../assets/2016-11-09-week-13-day-2-e236c.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c47').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 09 Nov 2016 00:00:00 -0600</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/11/09/week-13-day-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/09/week-13-day-2.html</guid>
         
         
       </item>
