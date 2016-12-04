@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Dec 2016 14:09:07 -0600</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2016 14:09:07 -0600</lastBuildDate>
+    <pubDate>Sun, 04 Dec 2016 14:34:17 -0600</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2016 14:34:17 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -216,12 +216,73 @@
     &lt;p&gt;&lt;span id=&quot;c15&quot; style=&quot;display:none&quot;&gt;Answer: B&lt;/span&gt;
 &lt;input type=&quot;button&quot; onclick=&quot;$('#c15').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
+  &lt;li&gt;16) Place the following elements in order of increasing atomic radius.
+    &lt;ul&gt;
+      &lt;li&gt;P Ba Cl&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) Ba &amp;lt; P &amp;lt; Cl&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) P &amp;lt; Cl &amp;lt; Ba&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Cl &amp;lt; P &amp;lt; Ba&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) Cl &amp;lt; Ba &amp;lt; P&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) Ba &amp;lt; Cl &amp;lt; P&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c16&quot; style=&quot;display:none&quot;&gt;Answer: C. lower and leftmost = greater radius &lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c16').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;17) Place the following in order of decreasing IE1.
+    &lt;ul&gt;
+      &lt;li&gt;Cs Mg Ar&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) Cs &amp;gt; Mg &amp;gt; Ar&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) Mg &amp;gt; Ar &amp;gt; Cs&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Ar &amp;gt; Mg &amp;gt; Cs&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) Cs &amp;gt; Ar &amp;gt; Mg&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) Mg &amp;gt; Cs &amp;gt; Ar&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c17&quot; style=&quot;display:none&quot;&gt;Answer: C. up and right is highest &lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c17').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;18) Why does an electron found in a 2s orbital have a lower energy than an electron found in a 2p orbital in multielectron systems?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) Electrons in the 2s orbital are shielded by electrons in the 2p.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) There are more nodes found in the 2s orbital.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Electrons in the 2s orbital can penetrate the 1s orbital and be closer to the nucleus .&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) The larger number of electrons found in the 2p orbital leads to greater repulsion.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) The shape of the orbital ultimately determines the energy of the electrons&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c18&quot; style=&quot;display:none&quot;&gt;Answer: C&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c18').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;19) Give the structure for sodium perchlorate.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) NaClO&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) NaClO2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) NaClO3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) NaClO4&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c19&quot; style=&quot;display:none&quot;&gt;Answer: D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c19').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;20) 20. Calculate the molar mass for Mg(ClO4)2.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 223.21 g/mol&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 123.76 g/mol&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 119.52 g/mol&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 247.52 g/mol&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 75.76 g/mol&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c20&quot; style=&quot;display:none&quot;&gt;Answer: A. &lt;img src=&quot;../../../assets/2016-12-03-mock-final-37e16.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c20').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;script&gt;
 var answers = [
 &quot;b&quot;, &quot;b&quot;, &quot;e&quot;, &quot;a&quot;, &quot;a&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;,
-&quot;c&quot;, &quot;a&quot;, &quot;c&quot;, &quot;e&quot;, &quot;b&quot;
+&quot;c&quot;, &quot;a&quot;, &quot;c&quot;, &quot;e&quot;, &quot;b&quot;, &quot;c&quot;, &quot;c&quot;, &quot;c&quot;, &quot;d&quot;, &quot;a&quot;
 ];
 function getAnswer(number) {
   return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
