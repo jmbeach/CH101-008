@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Exam 3 - Review/Solutions
+tags:
+  - test3
 ---
 
 + 1) Which of the following pairs of aqueous solutions will form a precipitate when mixed

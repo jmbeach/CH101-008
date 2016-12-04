@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Week 6 - Recitation (2nd for test 2)
+tags:
+  - test2
 ---
 
 + Which reaction below represents the electron affinity of Li?

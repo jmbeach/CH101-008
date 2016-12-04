@@ -16,7 +16,7 @@
 title: CH101-008 UA Fall 2016
 email: jmbeach1@crimson.ua.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Notes and study materials for The University of Alabama's Chemistry 101 
+  Notes and study materials for The University of Alabama's Chemistry 101
   course offered Fall 2016.
 baseurl: "/CH101-008" # the subpath of your site, e.g. /blog
 url: "http://jmbeach.github.io" # the base hostname & protocol for your site

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Week 8 - Day 2 (Last before test 2)
+tags:
+  - test2
 ---
 
 {% include download.html %}

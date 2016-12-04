@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Test 3 - All Clicker Questions Since Test 2
+tags:
+  - test3
 ---
 
 + 1) Give the electron geometry (eg), molecular geometry (mg), and hybridization for H2O

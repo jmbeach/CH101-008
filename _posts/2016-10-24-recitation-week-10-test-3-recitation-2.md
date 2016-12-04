@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Recitation Week 10 (test 3 - Recitation 2)
+tags:
+  - test3
 ---
 
 + 1) Draw the molecular orbital diagrams to determine which of the following is most stable.

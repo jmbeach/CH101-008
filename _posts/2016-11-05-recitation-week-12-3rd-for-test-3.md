@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Recitation - Week 12 (3rd for test 3)
+tags:
+  - test3
 ---
 
 + 1) Determine the molarity of a solution formed by dissolving 468 mg Of M812 in enough water to yield 50.0 mL

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Week 9 - Day 1 (Chapter 7 pt 2)
+tags:
+  - test3
 ---
 
 [Quizlet](https://quizlet.com/_2mglz7)

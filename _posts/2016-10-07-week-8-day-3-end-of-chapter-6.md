@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Week 8 - Day 3 (End of Chapter 6)
+tags:
+  - test3
 ---
 
 

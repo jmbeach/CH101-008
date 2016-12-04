@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Week 5 - Recitation (1st for test 2)
+tags:
+  - test2
 ---
 
 + Determine the energy change associated with the transition from n = 2 to n = 5 in the hydrogen atom.

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Week 15 - Day 1 (Start Ch 11)
+tags:
+  - final
 ---
 
 + Audio 0:00:59.904181
@@ -193,7 +195,7 @@ Fe2O3(s)+2Al(s)->Al2O3(s)+2Fe(s) delta H rxn = -852kJ
   + C) 75 K
   + D) 655 K
   + E) 894 K
-  
+
 <span id="c14" style="display:none">Answer: A ![](../../../assets/2016-11-21-week-15-day-1-start-ch-11-615cd.png)</span>
 <input type="button" onclick="$('#c14').toggle()" value="show/hide answer"/>
 

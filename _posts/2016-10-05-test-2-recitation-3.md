@@ -1,6 +1,8 @@
 ---
 layout: post
 title: test 2 - Recitation 3
+tags:
+  - test2
 ---
 
 + How many millimoles of Ca(NO3)2 contain 4.78 × 10^22 formula units of Ca(NO3)2? The molar mass of Ca(NO3)2 is 164.10 g/mol.

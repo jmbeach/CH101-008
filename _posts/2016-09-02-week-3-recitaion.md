@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Week 3 - Recitaion
+tags:
+  - test1
 ---
 
 ## Density table

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Week 16 - Day 3 (End of Ch 11)
+tags:
+  - final
 ---
 
 ## Clicker 1
@@ -122,7 +124,7 @@ proportional to the square root of the masses so it has to be sixteen times
 
 ## Real Gases
 
-+ Audio 0:27:22.870965 
++ Audio 0:27:22.870965
 + A plot of PV/RT versus P for 1 mole of a gas shows the difference between real and ideal gases.
 + It reveals a curve that shows that the PV/RT ratio for a real gas is generally lower than ideal for “low” pressures—meaning that the most important factor is the intermolecular attractions.
 + It reveals a curve that shows that the PV/RT ratio for a real gas is generally higher than ideal for “high” pressures—meaning that the most important factor is the molecular volume.

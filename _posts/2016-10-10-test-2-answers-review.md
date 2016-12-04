@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Test 2 - Answers/Review
+tags:
+  - test2
 ---
 
 ## Questions

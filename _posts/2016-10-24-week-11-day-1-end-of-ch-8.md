@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Week 11 - Day 1 (End of Ch 8)
+tags:
+  - test3
 ---
 
 + [Quizlet](https://quizlet.com/_2oqbry)

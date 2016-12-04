@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Test 3 Recitation 1
+tags:
+  - test3
 ---
 
 + Consider the molecule below. Determine the molecular geometry at each of the 3 labeled atoms.
