@@ -6,9 +6,968 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Nov 2016 13:35:58 -0600</pubDate>
-    <lastBuildDate>Mon, 28 Nov 2016 13:35:58 -0600</lastBuildDate>
+    <pubDate>Sat, 03 Dec 2016 19:17:35 -0600</pubDate>
+    <lastBuildDate>Sat, 03 Dec 2016 19:17:35 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Exam 3 - Review/Solutions</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;1) Which of the following pairs of aqueous solutions will form a precipitate when mixed
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; KOH + Li2S&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; (NH4)2SO4 + LiCl&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Sr(C2H3O2)2 + Li2SO4&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; KNO3+LiOH&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; None of the above solution pairs will produce a precipitate
+&lt;span id=&quot;c1&quot; style=&quot;display:none&quot;&gt;Answer: C&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c1').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2) When 7.80 mL of 0.500 M AgNO3 is added to 6.25 mL of 0.300 M NH4Cl, how many grams of AgCl are formed?
+    &lt;ul&gt;
+      &lt;li&gt;AgNO3(aq) + NH4Cl(aq) -&amp;gt; AgCl(s) + NH4NO3(aq)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 0.269 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 0.553 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 0.822 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1.61 g
+&lt;span id=&quot;c2&quot; style=&quot;display:none&quot;&gt;Answer: A &lt;img src=&quot;../../../assets/2016-12-03-exam-3-review-solutions-b9f9a.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;3) Calcium oxide reacts with water in a combination reaction to produce calcium hydroxide:
+    &lt;ul&gt;
+      &lt;li&gt;CaO(s) + H2O(l) -&amp;gt; Ca(OH)2(s)&lt;/li&gt;
+      &lt;li&gt;A 5.00 g sample of  of CaO is reacted with 4.83 g of H2O. How many grams of water remain after the reaction is complete?&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 0.00&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 0.00991&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 3.22&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1.04&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 0.179
+&lt;span id=&quot;c3&quot; style=&quot;display:none&quot;&gt;Answer: C &lt;img src=&quot;../../../assets/2016-12-03-exam-3-review-solutions-17a56.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;4) Consider the following reaction. How many moles of oxygen are required to produce 4.00 moles of water? Assume that there is excess C3H7SH present.
+    &lt;ul&gt;
+      &lt;li&gt;C3H7SH(l) + 6 O2(g) -&amp;gt; 3 CO2(s) + SO2(s) + 4 H2O(s)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 2.67 moles O2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 6.00 moles O2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 4.00 moles O2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 16.0 moles O2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 1.00 moles O2
+&lt;span id=&quot;c4&quot; style=&quot;display:none&quot;&gt;Answer: B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c4').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;5) How many of the following molecules have sp3d2 hybridization on the central atom?
+    &lt;ul&gt;
+      &lt;li&gt;SeCl6 XeCl4 IF5 AsCl5&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 0&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 4
+&lt;span id=&quot;c5&quot; style=&quot;display:none&quot;&gt;Answer: B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c5').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;6) Which of the following would you expect to have no net dipole moment?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; CHF3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; NF3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; CH2F2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; + &lt;img src=&quot;../../../assets/2016-12-03-exam-3-review-solutions-bba16.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; + &lt;img src=&quot;../../../assets/2016-12-03-exam-3-review-solutions-4ccc4.png&quot; alt=&quot;&quot; /&gt;
+&lt;span id=&quot;c6&quot; style=&quot;display:none&quot;&gt;Answer: D. The reason is that the pulls on the F atoms and H atoms cancel eachother out diagonally. In E, the pull on top is stronger than the pull on bottom&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c6').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;7) Describe a sigma bond
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Side by side overlap of d orbitals&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; end to end overlap of p orbitals&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; s orbital overlapping with the side of a p orbital&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; overlap of two d orbitals&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; p orbital overlapping with an f orbital
+&lt;span id=&quot;c7&quot; style=&quot;display:none&quot;&gt;Answer: B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c7').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;8) Assume the Molecular Orbital diagram for a homonuclear diatomic molecule applies to CN^-. Which of the following is true:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; The molecule is diamagnetic and has a bond order of 3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; The molecule is paramagnetic and has a bond order of 3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; The molecule is paramagnetic and has a bond order of 2.5&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; The molecule is diamagnetic and has a bond order of 2.5&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; The moldecule is paramagnetic and has a bond order of 3.5
+&lt;span id=&quot;c8&quot; style=&quot;display:none&quot;&gt;Answer: A. A molecule is only paramagnetic if it has 6 or twelve valence electrons. &lt;img src=&quot;../../../assets/2016-12-03-exam-3-review-solutions-44c88.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c8').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;9) Dinitrogen monoxide gas decomposes to form nitrogen gas and oxygen gas. How many grams of oxygen are formed when 20.0 g of dinitrogen monoxide decomposes?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 0.138 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 7.27 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 14.5 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 29.1 g
+&lt;span id=&quot;c9&quot; style=&quot;display:none&quot;&gt;Answer: B. &lt;img src=&quot;../../../assets/2016-12-03-exam-3-review-solutions-7b131.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c9').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;10) Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of Na2CO3 and HCl are mixed
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 2 H^+(aq) + CO3^2-(aq) -&amp;gt; H2CO3 (s)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2 Na^+(aq) + CO3^2-(aq) + 2 H^+(aq) + 2 Cl^- (aq) -&amp;gt; H2CO3 (s) + 2 NaCl(aq)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 2 H^+ (aq) + CO3^2-(aq) -&amp;gt; H2O(l) + CO2(g)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 2 Na^+(aq) + CO3^2-(aq) + 2 H^+ (aq) + 2 Cl^-(aq) -&amp;gt; H2CO3(s) + 2Na^+(aq) + 2 Cl^-(aq)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; No reaction occurs
+&lt;span id=&quot;c10&quot; style=&quot;display:none&quot;&gt;Answer: C&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c10').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ll) Based on the balanced chemical equation shown below, determine the molarity of a solution containing Fe2+(aq), if 40.00 mL of the Fe2+(aq) solution is required to completely read With 30.00 mL of a 0.125 M potassium bromate, KBrO3(aq), solution. The chemical equatlon for the reaction is
+    &lt;ul&gt;
+      &lt;li&gt;6 Fe2+(aq) + BrO3-(aq) + 6 H+(aq) -&amp;gt; 6 Fe3+(aq) + Br-(aq) + 3 H2O(l)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 0.0156 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 0.0938 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 0.562 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1.00 M&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c11&quot; style=&quot;display:none&quot;&gt;Answer: C&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c11').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;12) Which of the following signs on q and w represent a system on which the surroundings are doing work, as well as losing heat to the surroundings?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; q = +, w = -&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; q = -, w = +&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; q = +, w = +&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; q = -, w = -&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; None of these represent the system referenced above&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c12&quot; style=&quot;display:none&quot;&gt;Answer: B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c12').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;13) Based on the balanced chemical equation shown below, what volume of 0.250 M K2S2O3(aq), is needed to completely react with 12.44 mL of 0.125 M KI3(aq), according to the following chemical equation.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-12-03-exam-3-review-solutions-28e02.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 3.11 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 6.22 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 12.4 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 49.8 mL&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c13&quot; style=&quot;display:none&quot;&gt;Answer: C &lt;img src=&quot;../../../assets/2016-12-03-exam-3-review-solutions-33013.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c13').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;14) Choose the statement below that is true.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt;A weak acid solution consists of mostly nonionized acid molecules.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; The term “strong electrolyte” means that the substance is extremely reactive.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; A strong acid solution consists of only partially ionized acid molecules.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; The term “weak electrolyte” means that the substance is inert.&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; A molecular compound that does not ionize in solution is considered a strong electrolyte.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c14&quot; style=&quot;display:none&quot;&gt;Answer: A &lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c14').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;15) Automotive air bags inflate when sodium azide decomposes explosively to its constituent elements
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-12-03-exam-3-review-solutions-8450d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;How many grams of sdium azide are required to produce 25.0g of nitrogen?&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1.34&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 0.595&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 58.0&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 38.7&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 87.0&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c15&quot; style=&quot;display:none&quot;&gt;Answer: D &lt;img src=&quot;../../../assets/2016-12-03-exam-3-review-solutions-f704b.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c15').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;16) Draw the Lewis structure for the molecule CH3CH2CCH. How many sigma and pi bonds does it contain?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 11 sigma, 0 pi&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 9 sigma, 1 pi&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 8 sigma, 3 pi&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 9 sigma, 2 pi&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 8 sigma, 1 pi&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c16&quot; style=&quot;display:none&quot;&gt;Answer: D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c16').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;17) The hybrid orbital set used by the central atom in O3 is
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; sp&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; sp2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; sp3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; sp3d&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; sp3d2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c17&quot; style=&quot;display:none&quot;&gt;Answer: B. The steric number on the central atom is 3 so sp2 &lt;img src=&quot;../../../assets/2016-12-03-exam-3-review-solutions-aff22.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c17').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;18) A molecule containing a central atom with sp3 hybridization has a(n) &lt;em&gt;__&lt;/em&gt; electron geometry.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; linear&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; trigonal bipyramidal&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; octahedral&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; tetrahedral&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; bent&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c18&quot; style=&quot;display:none&quot;&gt;Answer: D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c18').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;19) Draw the appropriate molecular orbital diagram to determine which of the following is most stable.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; C2^2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; N2^2+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; B2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; C2^2-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; B2^2+&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c19&quot; style=&quot;display:none&quot;&gt;Answer: D/span&amp;gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c19').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;20) If the percent yield for the following reaction is 75.0%, and 25.0 g of NO2 are consumed in the reaction, how many grams of nitric acid, HNO3(aq) are produced?
+    &lt;ul&gt;
+      &lt;li&gt;3 NO2 (g) + H2O(l) -&amp;gt; 2 HNO3 (aq) + NO(g)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 17.1 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 22.8 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 30.4 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 38.5 g&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c20&quot; style=&quot;display:none&quot;&gt;Answer: A&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c20').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;21) Determine the molarity of a solution formed by dissolving 468 mg of MgI2 in enough water to yield 50.0 mL of solution
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 0.0297 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 0.0337 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 0.0936 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 0.0107 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 0.0651 M&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c21&quot; style=&quot;display:none&quot;&gt;Answer: B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c21').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;22) Determine the name for aqueous HBr.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; bromic acid&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; bromous acid&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; hydrobromous acid&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; hydrogen bromate&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; hydrobromic acid&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c22&quot; style=&quot;display:none&quot;&gt;Answer: E&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c22').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;23) Which of the following compounds is soluble in water?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; Ca3(PO4)2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; HgS&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; Ni(NO3)2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; MgCO3&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c23&quot; style=&quot;display:none&quot;&gt;Answer: C&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c23').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;24) How many milliliters of a 0.266 M CSNO3 solution are required to make 150.0 mL of 0.075 M CSNO3 solution?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 53.2 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 42.3 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 18.8 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 23.6 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 35.1 mL&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c24&quot; style=&quot;display:none&quot;&gt;Answer: B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c24').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;25) Lithium and nitrogen react in a combination reaction to produce lithium nitride:
+    &lt;ul&gt;
+      &lt;li&gt;6 Li(s) + N2(g) -&amp;gt; 2LiN(s)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;In a particular experiment, 1.00-g samples of each reagent are reacted. The theoretical yield of lithium nitride is &lt;em&gt;__&lt;/em&gt; g.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1.01&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 0.84&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 5.0&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1.67&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 2.50&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c25&quot; style=&quot;display:none&quot;&gt;Answer: D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c25').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;26) Strontium phosphate reacts with sulfuric acid to form strontium sulfate and phosphoric acid. What is the coefficient for sulfuric acid when the equation is balanced using the lowest, whole-numbered coefficients?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; None of these&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c26&quot; style=&quot;display:none&quot;&gt;Answer: C&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c25').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Consider the molecule below. Determine the hybridization at each of the 3 labeled atoms
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-12-03-exam-3-review-solutions-ef0fd.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1 = 2p2, 2 = sp3, 3 = sp2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; 1 = sp2, 2 = sp3, 3 = sp3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1 = sp3, 2 = sp3, 3 = sp3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1 = sp3, 2=sp3, 3 = sp2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 1 = sp, 2=sp, 3 = sp2&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c27&quot; style=&quot;display:none&quot;&gt;Answer: B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c27').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script&gt;
+var answers = [
+&quot;c&quot;, &quot;a&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;, &quot;d&quot;, &quot;b&quot;, &quot;a&quot;, &quot;b&quot;, &quot;c&quot;,
+&quot;c&quot;, &quot;b&quot;, &quot;c&quot;, &quot;a&quot;, &quot;d&quot;, &quot;d&quot;, &quot;b&quot;, &quot;d&quot;, &quot;d&quot;, &quot;a&quot;,
+&quot;b&quot;, &quot;e&quot;, &quot;c&quot;, &quot;b&quot;, &quot;d&quot;, &quot;c&quot;, &quot;b&quot;];
+function getAnswer(number) {
+  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
+}
+function validate() {
+  var any = false;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (!answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
+      any = true;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
+    }
+  }
+  if (any) {
+    toastr.error(&quot;You did not answer every question!&quot;);
+  }
+  return !any;
+}
+function grade() {
+  if (!validate()) return;
+  var correct = 0;
+  for (var i = 1; i &lt; answers.length+1; i++) {
+    var answer = getAnswer(i);
+    if (answers[i-1] == answer) {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
+      correct++;
+    }
+    else {
+      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
+    }
+  }
+  toastr.success(&quot;Your grade is &quot;+ ((correct/answers.length) * 100).toFixed(2) + &quot; out of 100&quot;);
+}
+&lt;/script&gt;
+
+&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Dec 2016 00:00:00 -0600</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/12/03/exam-3-review-solutions.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/12/03/exam-3-review-solutions.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 16 - Day 3 (End of Ch 11)</title>
+        <description>&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:00:14.091730&lt;/li&gt;
+  &lt;li&gt;The following reaction is used to generate&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:05:07.953778&lt;/li&gt;
+  &lt;li&gt;The rate of effusion of A is four
+proportional to the square root of the masses so it has to be sixteen times&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-root-mean-square-velocity&quot;&gt;Practice Problem: Root Mean Square Velocity&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:07:23.565131&lt;/li&gt;
+  &lt;li&gt;Calculate the mean square velocity of oxygen molecules at 25 oC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gases-in-chemical-reactions-stoichiometry-revisited&quot;&gt;Gases in Chemical Reactions: Stoichiometry Revisited&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:05.014774&lt;/li&gt;
+  &lt;li&gt;In reactions involving reactant or products, the quantity of a gas is often specified in terms of its volume at a given temperature and pressure.
+– As noted earlier, stoichiometry involves relationships between amounts in moles.
+– For stoichiometric calculations involving gases, we can use the ideal gas law to determine the amounts in moles from the volumes, or to determine the volumes from the amounts in moles.
+    &lt;ul&gt;
+      &lt;li&gt;n = (PV)/(RT)&lt;/li&gt;
+      &lt;li&gt;V = (nRT)/P&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;reactions-involving-gases&quot;&gt;Reactions Involving Gases&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:26.511417&lt;/li&gt;
+  &lt;li&gt;When gases are at STP, use 1 mol = 22.4 L.&lt;/li&gt;
+  &lt;li&gt;The pressures here could also be partial pressures.&lt;/li&gt;
+  &lt;li&gt;The general conceptual plan for these kinds of calculations is as follows:&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-12-02-week-16-day-3-end-of-ch-11-6df22.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-gases-in-chemical-reactions&quot;&gt;Practice Problem: Gases in Chemical Reactions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Carbon monoxide reacts with hydrogen to give methanol (CH3OH(g)). What volume (in liters) of H2 gas @ T=82 oC and P=738 Torr do we need to make 35.7 g methanol?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-using-molar-volume-in-gas-stoichiometric-calculations&quot;&gt;Practice Problem: Using Molar Volume in Gas Stoichiometric Calculations&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:33.554013&lt;/li&gt;
+  &lt;li&gt;How many grams of water form when 1.24 L of H2 gas at STP reacts completely with O2?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;properties-of-ideal-gases&quot;&gt;Properties of (Ideal) Gases&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:16:46.617743&lt;/li&gt;
+  &lt;li&gt;Expand to completely fill their container&lt;/li&gt;
+  &lt;li&gt;Take the shape of their container&lt;/li&gt;
+  &lt;li&gt;Low density
+– Much less dense than solid or liquid state&lt;/li&gt;
+  &lt;li&gt;Compressible&lt;/li&gt;
+  &lt;li&gt;Mixtures of gases are always homogeneous fluids&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;real-gases&quot;&gt;Real Gases&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Real gases often do not behave like ideal gases at high pressure or low temperature.&lt;/li&gt;
+  &lt;li&gt;Ideal gas laws assume
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;ol&gt;
+          &lt;li&gt;no attractions between gas molecules; and&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;ol&gt;
+          &lt;li&gt;that gas molecules do not take up space.
+            &lt;ul&gt;
+              &lt;li&gt;Based on the kinetic molecular theory&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;At low temperatures and high pressures, these assumptions are not valid.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-12-02-week-16-day-3-end-of-ch-11-b3492.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;real-gas-behavior&quot;&gt;Real Gas Behavior&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:19:58.672978&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-12-02-week-16-day-3-end-of-ch-11-0a86f.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Because real molecules take up space, the molar volume of a real gas is larger than predicted by the ideal gas law at high pressures.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-effect-of-the-finite-volume-of-gas-particles&quot;&gt;The Effect of the Finite Volume of Gas Particles&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:21:34.753481&lt;/li&gt;
+  &lt;li&gt;At low pressures, the molar volume of argon is nearly identical to that of an ideal gas.&lt;/li&gt;
+  &lt;li&gt;But as the pressure increases, the molar volume of argon becomes greater than that of an ideal gas.
+– At the higher pressures, the argon atoms themselves occupy a significant portion of the gas volume, making the actual volume greater than that predicted by the ideal gas law.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;modification-of-the-ideal-gas-equation&quot;&gt;Modification of the Ideal Gas Equation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:22:23.986334&lt;/li&gt;
+  &lt;li&gt;In 1873, Johannes van der Waals (1837–1923) modified the ideal gas equation to fit the behavior of real gases at high pressure.&lt;/li&gt;
+  &lt;li&gt;The &lt;em&gt;molecular volume&lt;/em&gt; makes the real volume larger than the ideal gas law would predict.&lt;/li&gt;
+  &lt;li&gt;Van der Waals modified the ideal gas equation to account for the molecular volume.
+– &lt;em&gt;b&lt;/em&gt; is a constant van der Waals determined and is different for every gas because the molecules of each gas are of different sizes.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-12-02-week-16-day-3-end-of-ch-11-11f1d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-effect-of-intermolecular-attractions&quot;&gt;The Effect of Intermolecular Attractions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:23:43.041877&lt;/li&gt;
+  &lt;li&gt;Van der Waals modified the ideal gas equation to account for the &lt;em&gt;intermolecular attractions&lt;/em&gt;.
+– &lt;em&gt;a&lt;/em&gt; is another constant that van der Waals determined and is different for every gas because the molecules of each gas have different strengths of attraction.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-12-02-week-16-day-3-end-of-ch-11-8b4c4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-effect-of-intermolecular-attractions-1&quot;&gt;The Effect of Intermolecular Attractions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;At high temperature, the pressure of gases is nearly identical to that of an ideal gas.&lt;/li&gt;
+  &lt;li&gt;But at lower temperatures, the pressure of gases is less than that of an ideal gas.
+– At the lower temperatures, the gas atoms spend more time interacting with each other and less time colliding with the walls, making the actual pressure less than that predicted by the ideal gas law.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-effect-of-intermolecular-attractions-2&quot;&gt;The Effect of Intermolecular Attractions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:24:58.494772&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-12-02-week-16-day-3-end-of-ch-11-7b51e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;van-der-waals-equation&quot;&gt;Van der Waals Equation&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:25:16.451107&lt;/li&gt;
+  &lt;li&gt;Combining the equations to account for molecular volume and intermolecular attractions, the following equation for real gases is derived:&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-12-02-week-16-day-3-end-of-ch-11-f9608.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;real-gases-1&quot;&gt;Real Gases&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A plot of PV/RT versus P for 1 mole of a gas shows the difference between real and ideal gases.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pvrt-plots-real-versus-ideal&quot;&gt;PV/RT Plots: Real versus Ideal&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:26:19.981110&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-12-02-week-16-day-3-end-of-ch-11-db68e.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;real-gases-2&quot;&gt;Real Gases&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:27:22.870965&lt;/li&gt;
+  &lt;li&gt;A plot of PV/RT versus P for 1 mole of a gas shows the difference between real and ideal gases.&lt;/li&gt;
+  &lt;li&gt;It reveals a curve that shows that the PV/RT ratio for a real gas is generally lower than ideal for “low” pressures—meaning that the most important factor is the intermolecular attractions.&lt;/li&gt;
+  &lt;li&gt;It reveals a curve that shows that the PV/RT ratio for a real gas is generally higher than ideal for “high” pressures—meaning that the most important factor is the molecular volume.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;molecular volume&lt;/td&gt;
+      &lt;td&gt;makes the real volume larger than the ideal gas law would predict to be more realistic&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;b&lt;/td&gt;
+      &lt;td&gt;constant van der Waals determined and is different for every gas because the molecules of each gas are of different sizes&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;a&lt;/td&gt;
+      &lt;td&gt;constant that van der Waals determined and is different for every gas because the molecules of each gas have different strengths of attraction&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Fri, 02 Dec 2016 00:00:00 -0600</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/12/02/week-16-day-3-end-of-ch-11.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/12/02/week-16-day-3-end-of-ch-11.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Week 16 - Day 2</title>
+        <description>&lt;h1 id=&quot;final-exam&quot;&gt;Final exam&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Next Monday&lt;/li&gt;
+  &lt;li&gt;Normal location&lt;/li&gt;
+  &lt;li&gt;9:30 - 11:00&lt;/li&gt;
+  &lt;li&gt;Pencil&lt;/li&gt;
+  &lt;li&gt;Photo ID&lt;/li&gt;
+  &lt;li&gt;Calculator&lt;/li&gt;
+  &lt;li&gt;More weighted on new chapters&lt;/li&gt;
+  &lt;li&gt;50 questions&lt;/li&gt;
+  &lt;li&gt;Review sessions saturday and sunday 2:00
+    &lt;ul&gt;
+      &lt;li&gt;Room 1004 Shelby Hall&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:02:08.744030&lt;/li&gt;
+  &lt;li&gt;What is the partial pressure of oxygen in a mixture that contains 0.30 mol of O2, 0.70 mol of N2, and 0.25 mol of Ar with&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:05:23.466658&lt;/li&gt;
+  &lt;li&gt;A 0.334 g sample of an unknown halogen occupies 109 mL at 398 K and 1.41 atm. What is the identity of the halogen? Br:79.90&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c16&quot; style=&quot;display:none&quot;&gt;Answer: C &lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-48fb5.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c16').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;daltons-law-of-partial-pressures&quot;&gt;Daltonʼs Law of Partial Pressures&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:12:15.535453&lt;/li&gt;
+  &lt;li&gt;For a multicomponent gas mixture, we calculate the partial pressure of each component from the ideal gas law and the number of moles of that component (nn) as follows:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-42090.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The sum of the partial pressures of the components in a gas mixture equals the total pressure:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-17682.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;daltons-law-of-partial-pressures-1&quot;&gt;Daltonʼs Law of Partial Pressures&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;This relationship is known as Daltonʼs law of partial pressures.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-a0ed1.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mole-fraction-a&quot;&gt;Mole Fraction: χa&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:13:15.434990&lt;/li&gt;
+  &lt;li&gt;The number of moles of a component in a mixture divided by the total number of moles in the mixture is the &lt;em&gt;mole fraction&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-fa6c7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The ratio of the partial pressure a single gas contributes and total pressure is equal to the mole fraction.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-1b0c9.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mole-fraction&quot;&gt;Mole Fraction&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:14:01.065205&lt;/li&gt;
+  &lt;li&gt;For gases, the mole fraction of a component is equivalent to its percent by volume divided by 100%.
+– Nitrogen has a 78% composition of air. Find its partial pressure.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-22abe.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;practice-problem-total-pressure-and-partial-pressures&quot;&gt;Practice Problem: Total Pressure and Partial Pressures&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:14:37.896502&lt;/li&gt;
+  &lt;li&gt;A 1.00 L mixture of helium, neon, and argon has a total pressure of 662 mmHg at 298 K. If the partial pressure of He is 341 mmHg and that of Ne is 112 mmHg, what mass of Ar is present?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;deep-sea-diving-the-bends-and-partial-pressures&quot;&gt;Deep-Sea Diving, the Bends, and Partial Pressures&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:18:06.803368&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-12002.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;deep-sea-diving-and-partial-pressures&quot;&gt;Deep-Sea Diving and Partial Pressures&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:22:33.181580&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-7fb10.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;When a diver breathes compressed air, the abnormally high partial pressure of oxygen in the lungs leads to an elevated concentration of oxygen in body tissues.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;collecting-gases&quot;&gt;Collecting Gases&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:22:51.487861&lt;/li&gt;
+  &lt;li&gt;Gases are often collected by having them displace water from a container.
+– The problem is that because water evaporates, there is also water vapor in the collected gas.&lt;/li&gt;
+  &lt;li&gt;The partial pressure of the water vapor, called the vapor pressure, depends only on the temperature.
+– A table can be used to find the partial pressure of the water vapor when collecting a gas over water.
+– Example:
+    &lt;ul&gt;
+      &lt;li&gt;A gas sample is collected over water. The gas sample has a total pressure of 758.2 mmHg at 25 °C.&lt;/li&gt;
+      &lt;li&gt;From a &lt;em&gt;vapor pressure&lt;/em&gt; of water table, the partial pressure of the water vapor is 23.78 mmHg at 25 oC.&lt;/li&gt;
+      &lt;li&gt;The partial pressure of the dry gas will be 734.4 mmHg.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-5e252.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vapor-pressure-of-water&quot;&gt;Vapor Pressure of Water&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-d10e0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kinetic-molecular-theory&quot;&gt;Kinetic Molecular Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:25:29.060382&lt;/li&gt;
+  &lt;li&gt;The simplest model for the behavior of gases is the &lt;em&gt;kinetic molecular theory&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;In this theory, a gas is modeled as a collection of particles (either molecules or atoms, depending on the gas) in constant motion.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-d89af.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kinetic-molecular-theory-postulates&quot;&gt;Kinetic Molecular Theory Postulates&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The particles of the gas (either atoms or molecules) are constantly moving.&lt;/li&gt;
+  &lt;li&gt;The attraction between particles are neglected.&lt;/li&gt;
+  &lt;li&gt;When the moving gas particles hit another gas particle or the container, they do not stick; they bounce off and continue moving in another direction.&lt;/li&gt;
+  &lt;li&gt;There is a lot of empty space between the gas particles compared to the size of the particles.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kinetic-molecular-theory-1&quot;&gt;Kinetic Molecular Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-1161d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kinetic-molecular-theory-2&quot;&gt;Kinetic Molecular Theory&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The collision of one particle with another (or with the walls of its container) is completely elastic.
+– This means that when two particles collide, they may exchange energy, but there is no overall loss of energy.
+    &lt;ul&gt;
+      &lt;li&gt;Any kinetic energy lost by one particle is completely gained by the other.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The average kinetic energy of the gas particles is directly proportional to the Kelvin temperature.
+– As you raise the temperature of the gas, the average speed of the particles increases.
+    &lt;ul&gt;
+      &lt;li&gt;But not all the gas particles are moving at the same speed!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-nature-of-pressure&quot;&gt;The Nature of Pressure&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Because the gas particles are constantly moving, they strike the sides of the container with a force.&lt;/li&gt;
+  &lt;li&gt;The result of many particles in a gas sample exerting forces on the surfaces around them is a constant pressure.
+    &lt;ul&gt;
+      &lt;li&gt;Pressure (P) = Force (F)/Area (A)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gas-laws-explain-boyles-law&quot;&gt;Gas Laws Explain Boyleʼs Law&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Boyleʼs law says that the volume of a gas is inversely proportional to the pressure.
+– Decreasing the volume forces the molecules into a smaller space.&lt;/li&gt;
+  &lt;li&gt;More molecules will collide with the container at any one instant, increasing the pressure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gas-laws-explain-charless-law&quot;&gt;Gas Laws Explain Charlesʼs Law&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Charlesʼs law says that the volume of a gas is directly proportional to the absolute temperature.
+– According to kinetic molecular theory, when we increase the temperature of a gas, the average speed—and thus the average kinetic energy—of the particles increases.&lt;/li&gt;
+  &lt;li&gt;The greater volume spreads the collisions out over a greater surface area, so that the pressure is unchanged.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gas-laws-explain-avogadros-law&quot;&gt;Gas Laws Explain Avogadroʼs Law&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:27:49.912122&lt;/li&gt;
+  &lt;li&gt;Avogadroʼs law says that the volume of a gas is directly proportional to the number of gas molecules.&lt;/li&gt;
+  &lt;li&gt;Increasing the number of gas molecules causes more of them to hit the wall at the same time.&lt;/li&gt;
+  &lt;li&gt;To keep the pressure constant, the volume must then increase.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gas-laws-explain-daltons-law&quot;&gt;Gas Laws Explain Daltonʼs Law&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:28:02.848774&lt;/li&gt;
+  &lt;li&gt;Daltonʼs law says that the total pressure of a gas mixture is the sum of the partial pressures.&lt;/li&gt;
+  &lt;li&gt;According to kinetic molecular theory, the particles have negligible size and they do not interact.
+– Particles of different masses have the same average kinetic energy at a given temperature.&lt;/li&gt;
+  &lt;li&gt;Because the average kinetic energy is the same, the total pressure of the collisions is the same.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;temperature-and-molecular-velocities&quot;&gt;Temperature and Molecular Velocities&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-3f092.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;molecular-speed-versus-molar-mass&quot;&gt;Molecular Speed versus Molar Mass&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:33:13.886790
+• To have the same average kinetic energy, heavier molecules must have a slower average speed.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-800f6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;temperature-versus-molecular-speed&quot;&gt;Temperature versus Molecular Speed&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:33:55.441736
+• As the temperature of a gas sample increases, the velocity distribution of the molecules shifts toward higher velocity.
+– The distribution function “spreads out,” resulting in more molecules with faster speeds.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-d32c3.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mean-free-path&quot;&gt;Mean Free Path&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:34:47.342762&lt;/li&gt;
+  &lt;li&gt;Molecules in a gas travel in straight lines until they collide with another molecule or the container.&lt;/li&gt;
+  &lt;li&gt;The average distance a molecule travels between collisions is called the &lt;em&gt;mean free path&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;Mean free path decreases as the pressure increases.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-55ee8.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;diffusion&quot;&gt;Diffusion&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:35:31.009397&lt;/li&gt;
+  &lt;li&gt;The process of a collection of molecules spreading out from high concentration to low concentration is called &lt;em&gt;diffusion&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-8889b.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;diffusion-and-effusion&quot;&gt;Diffusion and Effusion&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:36:50.045677&lt;/li&gt;
+  &lt;li&gt;The process by which a collection of molecules escapes through a small hole into a vacuum is called &lt;em&gt;effusion&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;The rates of diffusion and effusion of a gas are both related to the root mean square (rms) velocity of the gas particles.&lt;/li&gt;
+  &lt;li&gt;For gases at the same temperature, this means that the rate of gas movement is inversely proportional to the square root of its molar mass.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-0f63c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;grahams-law-of-effusion&quot;&gt;Grahamʼs Law of Effusion&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The ratio of the rates of effusion of two different gases at the same temperature is given by the following equation:&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-30-week-16-day-2-b1ee4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;clicker-3&quot;&gt;Clicker 3&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Audio 0:39:33.577535&lt;/li&gt;
+  &lt;li&gt;The rate of effusion of oxygen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Term&lt;/th&gt;
+      &lt;th&gt;Definition&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;mole fraction&lt;/td&gt;
+      &lt;td&gt;number of moles of a component in a mixture divided by the total number of moles in the mixture&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;vapor pressure&lt;/td&gt;
+      &lt;td&gt;partial pressure of water vapor&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;kinetic molecular theory&lt;/td&gt;
+      &lt;td&gt;model of gas behavior in which gas is modeled as a collection of particles (simplest model)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;mean free path&lt;/td&gt;
+      &lt;td&gt;average distance a molecule travels between collisions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;diffusion&lt;/td&gt;
+      &lt;td&gt;process of a collection of molecules spreading out from high concentration to low concentration&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;effusion&lt;/td&gt;
+      &lt;td&gt;process by which a collection of molecules escapes through a small hole into a vacuum&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Wed, 30 Nov 2016 00:00:00 -0600</pubDate>
+        <link>http://jmbeach.github.io/CH101-008/2016/11/30/week-16-day-2.html</link>
+        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/30/week-16-day-2.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Week 16 - Day 1</title>
@@ -1966,1312 +2925,6 @@ what should precipitate out?
         <pubDate>Wed, 09 Nov 2016 00:00:00 -0600</pubDate>
         <link>http://jmbeach.github.io/CH101-008/2016/11/09/week-13-day-2.html</link>
         <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/09/week-13-day-2.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Week 13 - Day 1 (Ch 10 - pt 1)</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://quizlet.com/_2r2v9c&quot;&gt;Quizlet&lt;/a&gt;&lt;/p&gt;
-
-&lt;p class=&quot;downloadDoc&quot;&gt; Download Word (docx): 
-&lt;a target=&quot;_blank&quot; href=&quot;/CH101-008/assets/week-13-day-1-ch-10-pt-1.docx&quot;&gt;
-		&lt;span class=&quot;icono-document&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em; background:black;padding:.2em&quot;&gt;
-	&lt;h2 style=&quot;margin:0;color:white&quot;&gt;Navigate using audio&lt;/h2&gt;
-	&lt;div id=&quot;player&quot;&gt;&lt;/div&gt;
-	&lt;div&gt;&lt;/div&gt;
-	&lt;input id=&quot;hide-player&quot; type=&quot;button&quot; value=&quot;Hide&quot; /&gt;
-	&lt;input id=&quot;previous&quot; type=&quot;button&quot; value=&quot;&amp;lt;&amp;lt;&quot; /&gt;
-	&lt;input id=&quot;next&quot; type=&quot;button&quot; value=&quot;&amp;gt;&amp;gt;&quot; /&gt;
-&lt;/div&gt;
-&lt;div style=&quot;position:fixed;bottom:0em;right:0em;background-color:#666;display:none&quot;&gt;
-	&lt;input id=&quot;show-player&quot; type=&quot;button&quot; value=&quot;Show Audio Navigator&quot; /&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-  new AudioNavigator({videoId:&quot;CdMnsyMnbx8&quot;});
-&lt;/script&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Test Wednesday&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;clicker-1&quot;&gt;Clicker 1&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:00:51.121105&lt;/li&gt;
-  &lt;li&gt;Which choice gives the correct oxidation numbers for all three elements in Rb2SO3 in the order that the elements are shown in the formula?
-    &lt;ul&gt;
-      &lt;li&gt;A) -2, +6, -2&lt;/li&gt;
-      &lt;li&gt;B) -1, +4, -3&lt;/li&gt;
-      &lt;li&gt;C) +2, +4, -2&lt;/li&gt;
-      &lt;li&gt;D) +1, +4, -2&lt;/li&gt;
-      &lt;li&gt;E) +1, +6, -6&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp1&quot; style=&quot;display:none&quot;&gt;D&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp1').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;chapter-10&quot;&gt;Chapter 10&lt;/h1&gt;
-
-&lt;h2 id=&quot;thermochemistry&quot;&gt;Thermochemistry&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:03:04.167112&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-374c0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;nature-of-energy-work-and-heat&quot;&gt;Nature of Energy, Work, and Heat&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:03:40.491883&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Energy&lt;/em&gt; is anything that has the capacity to do work.
-    &lt;ul&gt;
-      &lt;li&gt;Think of &lt;em&gt;energy&lt;/em&gt; as a quantity an object or collection of objects can possess&lt;/li&gt;
-      &lt;li&gt;Energy can be exchanged between objects through contact.&lt;/li&gt;
-      &lt;li&gt;For example:
-        &lt;ul&gt;
-          &lt;li&gt;through collisions&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Work&lt;/em&gt; is a force acting over a distance.
-    &lt;ul&gt;
-      &lt;li&gt;Energy = work = force × distance&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Heat&lt;/em&gt; is the flow of energy caused by a difference in temperature.&lt;/li&gt;
-  &lt;li&gt;Think of heat and work as the two different ways that an object can exchange energy with other objects.
-    &lt;ul&gt;
-      &lt;li&gt;Either out of it, or into it&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;classification-of-energy&quot;&gt;Classification of Energy&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:06:25.636622&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Kinetic energy&lt;/em&gt; is energy of motion or energy that is being transferred.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Thermal energy&lt;/em&gt; is the energy associated with temperature.
-    &lt;ul&gt;
-      &lt;li&gt;Thermal energy is a form of kinetic energy.&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-60814.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;classification-of-energy-1&quot;&gt;Classification of Energy&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:08:21.249403&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Potential energy&lt;/em&gt; is energy that is stored in an object or energy associated with the composition and position of the object.
-    &lt;ul&gt;
-      &lt;li&gt;Audio 0:09:49.310141&lt;/li&gt;
-      &lt;li&gt;Energy stored in the structure of a compound is potential energy.&lt;/li&gt;
-      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-10-10-remainder-of-ch-7-c9ec0.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;manifestations-of-energy&quot;&gt;Manifestations of Energy&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:12:15.834511&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-07-week-13-day-1-ch-10-pt-1-5a7c6.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;some-forms-of-energy&quot;&gt;Some Forms of Energy&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:13:00.066117&lt;/li&gt;
-  &lt;li&gt;Heat or thermal energy
-    &lt;ul&gt;
-      &lt;li&gt;Kinetic energy associated with molecular motion&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Electrical
-    &lt;ul&gt;
-      &lt;li&gt;Kinetic energy associated with the flow of electrical charge&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Light or radiant energy
-    &lt;ul&gt;
-      &lt;li&gt;Kinetic energy associated with energy transitions in an atom&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Nuclear
-    &lt;ul&gt;
-      &lt;li&gt;Potential energy in the nucleus of atoms&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Chemical
-    &lt;ul&gt;
-      &lt;li&gt;Potential energy due to the structure of the atoms, the attachment between atoms, the atoms’ positions relative to each other in a molecule, or the molecules’ relative positions in the structure&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;units-of-energy&quot;&gt;Units of Energy&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:14:08.320504&lt;/li&gt;
-  &lt;li&gt;The amount of kinetic energy an object has is directly proportional to its mass and velocity.
-    &lt;ul&gt;
-      &lt;li&gt;KE = ½mv2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;When the mass is in kg and velocity is in m/s, the unit for kinetic energy is a &lt;em&gt;joule&lt;/em&gt; (J).
-    &lt;ul&gt;
-      &lt;li&gt;1 J = kg m2/s2 = 1 N m&lt;/li&gt;
-      &lt;li&gt;1 joule of energy is the amount of energy needed to move a 1 kg mass at a speed of 1 m/s.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A &lt;em&gt;calorie&lt;/em&gt; (cal) is the amount of energy needed to raise the temperature of one gram of water 1 °C.
-    &lt;ul&gt;
-      &lt;li&gt;1 kcal = energy needed to raise 1000 g of water 1 °C&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A food Calorie (Cal) is 1000 calories.
-    &lt;ul&gt;
-      &lt;li&gt;1 kcal is equivalent to ONE food Calorie = kcals.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;conversion-between-energy-units&quot;&gt;Conversion between Energy Units&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-07-week-13-day-1-ch-10-pt-1-7346c.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;conservation-of-energy&quot;&gt;Conservation of Energy&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:18:02.274506&lt;/li&gt;
-  &lt;li&gt;The &lt;em&gt;law of conservation of energy&lt;/em&gt; states that energy can be neither created nor destroyed.&lt;/li&gt;
-  &lt;li&gt;When energy is transferred between objects, or converted from one form to another, the total amount of energy present at the beginning must be present at the end.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-07-week-13-day-1-ch-10-pt-1-2f303.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;system-and-surroundings&quot;&gt;System and Surroundings&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;System&lt;/em&gt; is defined as the material within which the process we are studying happens.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Surroundings&lt;/em&gt; are defined as everything else with which the system can exchange energy.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Thermodynamics&lt;/em&gt; is the study of energy that is exchanged between the system and the surroundings.
-    &lt;ul&gt;
-      &lt;li&gt;Energy can flow from the system to the surroundings.
-        &lt;ul&gt;
-          &lt;li&gt;Energy of the system drops; energy of surroundings increases.&lt;/li&gt;
-          &lt;li&gt;&lt;em&gt;Exothermic&lt;/em&gt; (flow out of system)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Energy can flow into the system from the surroundings.
-        &lt;ul&gt;
-          &lt;li&gt;Energy of the system increases; energy of the surroundings decreases.&lt;/li&gt;
-          &lt;li&gt;&lt;em&gt;Endothermic&lt;/em&gt; (flow into system)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;comparing-the-amount-of-energy-in-the-system-and-surroundings-during-transfer&quot;&gt;Comparing the Amount of Energy in the System and Surroundings during Transfer&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:24:03.313606&lt;/li&gt;
-  &lt;li&gt;Conservation of energy means that the amount of energy gained or lost by the system has to be equal to the amount of energy lost or gained by the surroundings.&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-07-week-13-day-1-ch-10-pt-1-e20e4.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-first-law-of-thermodynamics-law-of-conservation-of-energy&quot;&gt;The First Law of Thermodynamics: Law of Conservation of Energy&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Thermodynamics&lt;/em&gt; is the study of energy and its interconversions.&lt;/li&gt;
-  &lt;li&gt;Audio 0:24:58.285011&lt;/li&gt;
-  &lt;li&gt;The first law of thermodynamics is the law of conservation of energy.
-    &lt;ul&gt;
-      &lt;li&gt;This means that the total amount of energy in the universe is constant.&lt;/li&gt;
-      &lt;li&gt;Therefore, you can never build a system that will continue to produce energy without some source of energy.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;energy-flow-and-conservation-of-energy&quot;&gt;Energy Flow and Conservation of Energy&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:26:06.301332&lt;/li&gt;
-  &lt;li&gt;Conservation of energy requires that the sum of the energy changes in the system and the surroundings must be zero.&lt;/li&gt;
-  &lt;li&gt;Change(energyuniverse) = 0
-    &lt;ul&gt;
-      &lt;li&gt;=Change(Energysystem) + Change(Energysurroundings)&lt;/li&gt;
-      &lt;li&gt;ΔEnergyuniverse = 0 = ΔEnergysystem + ΔEnergysurroundings&lt;/li&gt;
-      &lt;li&gt;Δ is the symbol that is used to mean change.
-        &lt;ul&gt;
-          &lt;li&gt;– Final amount – initial amount&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;internal-energy&quot;&gt;Internal Energy&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:27:47.890733&lt;/li&gt;
-  &lt;li&gt;The &lt;em&gt;internal energy&lt;/em&gt; is the sum of the kinetic and potential energies of all of the particles that compose the system.&lt;/li&gt;
-  &lt;li&gt;The change in the internal energy of a system only depends on the amount of energy in the system at the
-beginning and end.
-    &lt;ul&gt;
-      &lt;li&gt;ΔE = Efinal – Einitial&lt;/li&gt;
-      &lt;li&gt;ΔEreaction = Eproducts − Ereactants&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A &lt;em&gt;state function&lt;/em&gt; is a mathematical function whose result only depends on the initial and final conditions, not on the process used.&lt;/li&gt;
-  &lt;li&gt;It is an &lt;em&gt;Extensive Property&lt;/em&gt; –depends upon the amount of material&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;state-function&quot;&gt;State Function&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To reach the top of the mountain, there are two trails:
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;ol&gt;
-          &lt;li&gt;Long and winding&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;ol&gt;
-          &lt;li&gt;Short but steep&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Regardless of the trail, when you reach the top, you will be 10,000 ft above the base.&lt;/li&gt;
-  &lt;li&gt;The distance from the base to the peak of the mountain is a state function. It depends only on the difference in elevation between the base and the peak, not on how you arrive there!&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-07-week-13-day-1-ch-10-pt-1-625da.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;in-summary&quot;&gt;In Summary:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:33:20.823776&lt;/li&gt;
-  &lt;li&gt;If the reactants have a higher internal energy than the products:
-    &lt;ul&gt;
-      &lt;li&gt;ΔEsys is said to be negative because energy flows OUT of the system into the surroundings.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;If the reactants have a lower internal energy than the products:
-    &lt;ul&gt;
-      &lt;li&gt;ΔEsys is said to be positive because energy flows INTO the system from the surroundings.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The internal energy of the system can be thought in a similar manner.
-    &lt;ul&gt;
-      &lt;li&gt;Energy flowing out of the system is like a withdrawal and therefore carries a negative sign.&lt;/li&gt;
-      &lt;li&gt;Energy flowing into the system is like a deposit and carries a positive sign.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;energy-exchange&quot;&gt;Energy Exchange&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:34:35.272796&lt;/li&gt;
-  &lt;li&gt;Energy is exchanged between the system and surroundings through heat and work.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;q&lt;/em&gt; = heat (thermal) energy&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;w&lt;/em&gt; = work energy&lt;/li&gt;
-      &lt;li&gt;q and w are NOT state functions; their value depends on the process.
-        &lt;ul&gt;
-          &lt;li&gt;ΔE = q + w&lt;/li&gt;
-          &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-07-week-13-day-1-ch-10-pt-1-cb3f7.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;energy-exchange-1&quot;&gt;Energy Exchange&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:35:29.581181&lt;/li&gt;
-  &lt;li&gt;Chemists are “System Oriented” so energy gained by system is positive, energy lost is negative&lt;/li&gt;
-  &lt;li&gt;doesn’t matter if it is heat flow or work&lt;/li&gt;
-  &lt;li&gt;(Older) engineering convention where heat flow in is positive and work out is positive&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-11-07-week-13-day-1-ch-10-pt-1-6ea49.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;heat-exchange&quot;&gt;Heat Exchange&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:36:39.238039&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Heat&lt;/em&gt; is the exchange of thermal energy between a system and surroundings.&lt;/li&gt;
-  &lt;li&gt;Heat exchange occurs when system and surroundings have a difference in temperature.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Temperature&lt;/em&gt; is the measure of the thermal energy within a sample of matter.&lt;/li&gt;
-  &lt;li&gt;Heat flows from matter with high temperature to matter with low temperature until both objects reach the same temperature.
-    &lt;ul&gt;
-      &lt;li&gt;Thermal equilibrium&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quantity-of-heat-energy-absorbed-heat-capacity&quot;&gt;Quantity of Heat Energy Absorbed: Heat Capacity&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Audio 0:38:11.929773&lt;/li&gt;
-  &lt;li&gt;When a system absorbs heat, its temperature increases.&lt;/li&gt;
-  &lt;li&gt;The increase in temperature is directly proportional to
-the amount of heat absorbed.&lt;/li&gt;
-  &lt;li&gt;The proportionality constant is called the &lt;em&gt;heat
- capacity, C&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;q = C × ΔT&lt;/li&gt;
-      &lt;li&gt;Units of C are J/°C or J/K.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The larger the heat capacity of the object being studied, the smaller the temperature rise will be for a given amount of heat.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;factors-affecting-heat-capacity&quot;&gt;Factors Affecting Heat Capacity&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The heat capacity of an object depends on its amount of matter.
-    &lt;ul&gt;
-      &lt;li&gt;Directly proportional to mass.&lt;/li&gt;
-      &lt;li&gt;200 g of water requires twice as much heat to raise its temperature by 1 °C as does 100 g of water.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The heat capacity of an object depends on the type of material.
-    &lt;ul&gt;
-      &lt;li&gt;1000 J of heat energy will raise the temperature of 100 g of sand 12 °C, but only raise the temperature of 100 g of water by 2.4 °C.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clicker-2&quot;&gt;Clicker 2&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Which of the following signs on q and w represent a system that is doing work on the surroundings, as well as gaining heat from the surroundings?
-    &lt;ul&gt;
-      &lt;li&gt;A) q=+, w=-&lt;/li&gt;
-      &lt;li&gt;B) q = -, w = +&lt;/li&gt;
-      &lt;li&gt;C) q = +, w = +&lt;/li&gt;
-      &lt;li&gt;D) q = -, w = -&lt;/li&gt;
-      &lt;li&gt;E) None of these represent the system referenced&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span id=&quot;cp2&quot; style=&quot;display:none&quot;&gt;A&lt;/span&gt;
-&lt;input type=&quot;button&quot; onclick=&quot;$('#cp2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;vocab&quot;&gt;Vocab&lt;/h1&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Term&lt;/th&gt;
-      &lt;th&gt;Definition&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;energy&lt;/td&gt;
-      &lt;td&gt;anything that has the capacity to do work&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;work&lt;/td&gt;
-      &lt;td&gt;force acting over a distance&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;kinetic energy&lt;/td&gt;
-      &lt;td&gt;energy of motion&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;thermal energy&lt;/td&gt;
-      &lt;td&gt;energy associated with temperature&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;potential energy&lt;/td&gt;
-      &lt;td&gt;energy stored in an object or associated with the composition of an object&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;heat&lt;/td&gt;
-      &lt;td&gt;the flow of energy caused by a difference in temperature&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;joule&lt;/td&gt;
-      &lt;td&gt;the unit for kinetic energy (N m)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;calorie&lt;/td&gt;
-      &lt;td&gt;the amount of energy needed to raise the temperature of one gram of water 1 °C&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;law of conservation of energy&lt;/td&gt;
-      &lt;td&gt;states that energy can be neither created nor destroyed&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;system&lt;/td&gt;
-      &lt;td&gt;the material within which the process we are studying happens&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;surroundings&lt;/td&gt;
-      &lt;td&gt;defined as everything other than the system with which the system can exchange energy&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;thermodynamics&lt;/td&gt;
-      &lt;td&gt;the study of energy and its interconversions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;internal energy&lt;/td&gt;
-      &lt;td&gt;the sum of the kinetic and potential energies of all of the particles that compose the system&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;state function&lt;/td&gt;
-      &lt;td&gt;mathematical function whose result only depends on the initial and final conditions, not on the process used&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;temperature&lt;/td&gt;
-      &lt;td&gt;the measure of the thermal energy within a sample of matter&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Mon, 07 Nov 2016 00:00:00 -0600</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/11/07/week-13-day-1-ch-10-pt-1.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/07/week-13-day-1-ch-10-pt-1.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Test 3 Prep</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;Test 3 is Wednesday at 6:30 pm in our usual location!
-    &lt;ul&gt;
-      &lt;li&gt;Bring a photo ID, a calculator and a pencil (a periodic table will be provided for you).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Test 3 is on &lt;em&gt;chapter 7 through the beginning of chapter 10&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;I recommend going to the &lt;a href=&quot;https://secure.ecollege.com/alabama/index.learn?action=welcome&quot;&gt;MyLabsPlus&lt;/a&gt; website and doing the “End of Chapter Problems” for these chapters.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The easiest way to study for this test is to go back through the clicker questions and practice problems from the notes on these sections and to try to work the recitation questions. Most of the practice problems have videos which are nice for learning how to work them.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/11/07/test-3-all-clicker-questions-since-test-2.html&quot;&gt;All Clicker Questions Since Test 2&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Recitations
-        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/10/15/test-3-recitation-1.html&quot;&gt;Recitation 1 For Test 3&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/10/24/recitation-week-10-test-3-recitation-2.html&quot;&gt;Recitation 2 For Test 3&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/11/05/recitation-week-12-3rd-for-test-3.html&quot;&gt;Recitation 3 For Test 3&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Notes:
-        &lt;ul&gt;
-          &lt;li&gt;Chapter 7
-            &lt;ul&gt;
-              &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/10/10/week-9-day-1-chapter-7-pt-2.html&quot;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/10/12/week-9-day-2-ch-7-continued.html&quot;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/10/14/week-9-day-3.html&quot;&gt;Part 3&lt;/a&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Chapter 8
-            &lt;ul&gt;
-              &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/10/17/week-10-day-1.html&quot;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/10/19/week-10-day-2.html&quot;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/10/21/week-10-day-3.html&quot;&gt;Part 3&lt;/a&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Chapter 9
-            &lt;ul&gt;
-              &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/10/24/week-11-day-1-end-of-ch-8.html&quot;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/10/26/week-11-day-2.html&quot;&gt;Part 2&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/10/31/week-12-day-1-ch-9-pt-2.html&quot;&gt;Part 3&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/11/02/week-12-day-2-ch-9-pt-3.html&quot;&gt;Part 4&lt;/a&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Chapter 10
-            &lt;ul&gt;
-              &lt;li&gt;&lt;a href=&quot;https://jmbeach.github.io/CH101-008/2016/11/07/week-13-day-1-ch-10-pt-1.html&quot;&gt;Part 1&lt;/a&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Also, although I’m not sure how much I recommend them for this test, I have published a folder of quizlets here for all of this material: &lt;a href=&quot;https://quizlet.com/Jared_Beach/folders/ch-101-test-3&quot;&gt;Quizlet folder&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 07 Nov 2016 00:00:00 -0600</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/11/07/test-3-prep.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/07/test-3-prep.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Test 3 - All Clicker Questions Since Test 2</title>
-        <description>&lt;ul&gt;
-  &lt;li&gt;1) Give the electron geometry (eg), molecular geometry (mg), and hybridization for H2O
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) eg = tetrahedral, mg = bent, sp3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) eg = trigonal pyramidal, mg = trigonal pyramidal, sp3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) eg = tetrahedral, mg = trigonal pyramidal, sp3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) eg = bent, mg = bent, sp3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;1&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) eg = trigonal planar, gm = trigonal planar, sp3&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c1&quot; style=&quot;display:none&quot;&gt;A&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c1').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2) place the following in order of decreasing dipole moment&lt;/li&gt;
-  &lt;li&gt;I. cis-CHCl=CHCl II. trans-CHCl=CHCl III. cis-CHF=CHF
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) III &amp;gt; I &amp;gt; II&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) II &amp;gt; I &amp;gt; III&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) I &amp;gt; III &amp;gt; II&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) II &amp;gt; III &amp;gt; I&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;2&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) I = III &amp;gt; II&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c2&quot; style=&quot;display:none&quot;&gt;A. The trans dichloroethane actually cancels itself out and has 0 dipole moment. Then for the cis flourine, it has higher dipole moment than I, so A.&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c2').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;3) Give the hybridization for the O in OF2
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) sp&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) sp3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) sp2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) sp3d&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;3&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) sp3d2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c3&quot; style=&quot;display:none&quot;&gt;Answer: B. To get this, draw the lewis structure for OF2. Then count the lone pairs and the number of atoms bonded to O. This is the steric number. if the steric number is 4, the atom is sp3, if it's 3 -&amp;gt; sp2, if it's 2 -&amp;gt; sp&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c3').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;4) Give the hybridization for the S in SO3
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) sp&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) sp3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) sp2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) sp3d&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;4&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) sp3d2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c4&quot; style=&quot;display:none&quot;&gt;Answer: C. To get this, draw the lewis structure for SO3. Then count the lone pairs and the number of atoms bonded to S. This is the steric number. if the steric number is 4, the atom is sp3, if it's 3 -&amp;gt; sp2, if it's 2 -&amp;gt; sp&lt;/div&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c4').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;5) How many of the following molecules have sp2 hybridization on the central atom?&lt;/li&gt;
-  &lt;li&gt;HCN SO2 OCl2 XeCl2
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 4&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 1&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;5&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 0&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c5&quot; style=&quot;display:none&quot;&gt;Answer: D. To get this, draw the lewis structure for each molecule. Then count the lone pairs and the number of atoms bonded to the central atoms. This is the steric number. if the steric number is 4, the atom is sp3, if it's 3 -&amp;gt; sp2, if it's 2 -&amp;gt; sp&lt;/div&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c5').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;6) Give the hybridization for the C in C2F2
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) sp3d2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) sp3d&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) sp3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) sp2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;6&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) sp&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c6&quot; style=&quot;display:none&quot;&gt;E. The lewis structure is linear because of the tripple bond between the two carbon atoms. Linear = sp&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c6').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;7) How many p-orbitals participate in the Molecular orbitals in Benzene and how many MOs does this give?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 4&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 6&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;7&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 12&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c7&quot; style=&quot;display:none&quot;&gt;D&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c7').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;8) A chemical change
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) occurs when methane gas is burned.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) occurs when paper is shredded.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) occurs when water is vaporized.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) occurs when salt is dissolved in water.&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;8&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) occurs when powdered lemonade is stirred into water.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c8&quot; style=&quot;display:none&quot;&gt;
-A
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ORQi2C1_YKk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c8').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;9) What is the stoichiometric coefficient for oxygen?
-    &lt;ul&gt;
-      &lt;li&gt;B2H6(g) + O2(g) -&amp;gt; B2O3(s) + H2O(g)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;What is the stoichiometric coefficient for oxygen?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 1&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 4&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 6&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c9&quot; style=&quot;display:none&quot;&gt;C&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c9').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;10) Balance the following equation with the smallest whole number coefficients. Choose the answer that is the sum of the coefficients in the balanced equation. Do not forget coefficients of “one.”
-    &lt;ul&gt;
-      &lt;li&gt;Cr2(SO4)3 + RbOH -&amp;gt; Cr(OH)3 + Rb2SO4&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 10&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 12&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 13&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 14&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;10&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 15&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c10&quot; style=&quot;display:none&quot;&gt;B&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c10').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;11) What is the percent yield of C2H2 if 62.80 g of water yields 15.38 g of C2H2 using the following equation.
-    &lt;ul&gt;
-      &lt;li&gt;CaC2(s) + 2 H2O(l) → Ca(OH)2(aq) + C2H2(g)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 13.84%&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 33.90%&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 91.47%&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 48.10%&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;11&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 68.52%&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c11&quot; style=&quot;display:none&quot;&gt;B&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c11').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;12) Determine the percent yield of a reaction that produces 28.65 g of Fe when 50.00 g of Fe2O3 react with excess Al to produce aluminum oxide and Fe. (Al: 26.98, Fe: 55.85)
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 61.03 %&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 28.65 %&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 57.30 %&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 20.02 %&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 81.93 %&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c12&quot; style=&quot;display:none&quot;&gt;E &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1hqJXNTVNx0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c12').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;13) In the reaction of Zn with hydrochloric acid (HCl) to give zinc(II) chloride and hydrogen, 25.0 grams of Zn have reacted with 17.5 g of HCl. How many grams of H2 will be produced? (Zn: 65.38, Cl: 35.45)&lt;/li&gt;
-  &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.385 g H2&lt;/li&gt;
-  &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.484 g H2&lt;/li&gt;
-  &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.765 g H2&lt;/li&gt;
-  &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 25.0 g H2&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c13&quot; style=&quot;display:none&quot;&gt;Answer: B &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KkilKk-MK5E&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c13').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;14) According to the following reaction, what amount of Al2S3 remains when 20.00 g of Al2S3 and 2.00 g of H2O are reacted? A few of the molar masses are as follows: Al2S3 = 150.17 g/mol, H20 = 18.02 g/mol.
-    &lt;ul&gt;
-      &lt;li&gt;Al2S3 + 6H2O -&amp;gt; 2Al(OH)3 + 3H2S&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 14.00 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 8.33 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 19.78 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 17.22 g&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c14&quot; style=&quot;display:none&quot;&gt;Answer: E &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fdwzsQVTKv8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c14').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;15) Two samples of calcium and fluoride are decomposed into their constituent elements. The first sample showed that the yield of products was 100% (really!). If the second sample produced 294 mg of fluorine, how many g of calcium were formed? (Ca: 40.08, F: 19.00)
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.280 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 3.10 * 10^2 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 3.13 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.310 g&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 2.80 * 10^2 g&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c15&quot; style=&quot;display:none&quot;&gt;D &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/icViM432S-0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c15').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;16) Determine the molarity of a solution formed by dissolving 97.7 g LiBr in enough water to yield 750.0 mL of solution. (Li: 6.941, Br: 79.90)
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 1.50 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 1.18 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.130 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.768 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;16&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 2.30 M&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c16&quot; style=&quot;display:none&quot;&gt;A &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LPQJppk1v6M&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c16').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;17) What is the concentration of HCl in the final solution when 65 mL of a 9.0 M HCl solution is diluted with pure water to a total volume of .15 L?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 2.1 × 10-2 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 3.9 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 21 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;17&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 3.9 × 10^3 M&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c17&quot; style=&quot;display:none&quot;&gt;B&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c17').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;18) How many molecules of sucrose (C12H22O11, molar mass = 342.30 g/mol) are contained in 14.3 mL of 0.140 M sucrose solution
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 8.29 * 10^22 molecules C12H22O11&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 1.21 * 10^21 molecules C12H22O11&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 6.15 * 10^22 molecules C12H22O11&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 1.63 * 10^23 molecules C12H22O11&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;18&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 5.90 * 10^24 molecules C12H22O11&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c18&quot; style=&quot;display:none&quot;&gt;B &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nH1OLgwioK8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c18').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;19) What volume of 0.244 M KCl solution is required to react exactly with 50.0 mL of 0.210 M PB(NO3)2 solution?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 97.4 mL&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 116 mL&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 43.0 mL&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 86.1 mL&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;19&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 58.1 mL&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c19&quot; style=&quot;display:none&quot;&gt;D &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_z2k9DAKhCM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c19').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;20) Which of the following will have the highest electrical conductivity?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.045 M Al2(SO4)3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.050 M (NH4)2CO3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.10 M NaBr&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.10 M Kl&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;20&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 0.10 M KF&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c20&quot; style=&quot;display:none&quot;&gt;A&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c20').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;21) K2SO4 is soluble
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; True&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; False&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c21&quot; style=&quot;display:none&quot;&gt;True&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c21').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;22) Ba2SO4 is soluble
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; True&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; False&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c22&quot; style=&quot;display:none&quot;&gt;False&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c22').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;23) NH4CO3 is slightly soluble
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; True&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; False&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c23&quot; style=&quot;display:none&quot;&gt;False (It's very soluble)&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c23').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;24) Ba(OH)2 is slightly soluble
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; True&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; False&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c24&quot; style=&quot;display:none&quot;&gt;True&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c24').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;25) Ni(II)I2 is soluble
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; True&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; False&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c25&quot; style=&quot;display:none&quot;&gt;True&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c25').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;26) Which pair of compounds is soluble in water?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) Hg2Cl2 and HgBr2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) NiS and Li2S&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) NH4I and Ni(NO3)2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) LiNO3 and CuCO3&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c26&quot; style=&quot;display:none&quot;&gt;C&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c26').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;27) Give the complete ionic equation for the reaction (if any) that occurs when aqueous solutions of lithium sulfide and copper (II) nitrate are mixed.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) Li+(aq)+SO4 2-(aq)+Cu+(aq)+NO3 - (aq) → CuS(s)+Li+(aq) + NO3 - (aq)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) Li+(aq) + S- (aq) + Cu+(aq) + NO3 - (aq) → CuS(s) + LiNO3(aq)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 2Li+(aq)+S2-(aq)+Cu2+(aq) + 2NO3 - (aq)→Cu2+(aq)+S2-(aq) +2LiNO3(s)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 2 Li+(aq)+S2-(aq)+Cu2+(aq)+2NO3 - (aq)→ CuS(s) + 2Li+ (aq) + 2NO3 - (aq)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) No reaction occurs.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c27&quot; style=&quot;display:none&quot;&gt;D &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/57oSiH6V_FY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c27').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;28) Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of Na2CO3 and HCl are mixed
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;28&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 2H+(aq)+CO3 2-(aq) → H2CO3(s)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;28&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 2Na+(aq)+CO3 2-(aq)+2H+(aq) + 2Cl- (aq) → H2CO3(s)+2NaCl(aq)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;28&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 2H+(aq)+CO3 2-(aq) → H2O(l)+CO2(g)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;28&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 2Na+(aq)+CO3 2-(aq)+2H+(aq)+2Cl- (aq)→H2CO3(s)+2Na+(aq)+2Cl- (aq)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;28&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) No reaction occurs.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c28&quot; style=&quot;display:none&quot;&gt;C&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c28').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;29) What is the name for an aqueous solution of HIO
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;29&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) hydroiodic acid&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;29&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) hypoiodous acid&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;29&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) iodous acid&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;29&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) iodic acid&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;29&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) periodic acid&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c29&quot; style=&quot;display:none&quot;&gt;B&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c29').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;30) Which of the following is an acid-base reaction?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;30&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) C(s) + O2(g) → CO2(g)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;30&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 2 HClO4(aq) + Ca(OH)2(aq) → 2 H2O(l) + Ca(ClO4)2(aq)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;30&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Fe(s) + 2 AgNO3(aq) → 2 Ag(s) + Fe(NO3)2(aq)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;30&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) MgSO4(aq) + Ba(NO3)2(aq) → Mg(NO3)2(aq) + BaSO4(s)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;30&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) None of the above are acid base reactions.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c30&quot; style=&quot;display:none&quot;&gt;B&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c30').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;31) The titration of 25.0 mL of an unknown concentration of H2SO4 solution requires 83.6 mL of 0.12 M LiOH solution. What is the concentration of the H2SO4 solution?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;31&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.20 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;31&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.40 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;31&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.10 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;31&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.36 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;31&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 0.25 M&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c31&quot; style=&quot;display:none&quot;&gt;A &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Zgo8tHXatzE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c31').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;32) The titration of 80.0 mL of an unknown concentration of H3PO4 solution requires 126 mL of .218 M KOH solution. What is the concentration of H3PO4 solution (in M)
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;32&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 1.03 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;32&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.343 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;32&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.114 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;32&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.138 M&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;32&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 0.0461 M&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c32&quot; style=&quot;display:none&quot;&gt;C &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7hW7bBbAAF4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c32').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;33) Determine the oxidation state of nitrogen in NO2
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;33&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) +5&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;33&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) +3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;33&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;33&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) +2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;33&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) +4&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c33&quot; style=&quot;display:none&quot;&gt;E&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c33').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;34) What element is undergoing reduction (if any) in the following reaction?
-    &lt;ul&gt;
-      &lt;li&gt;Zn(s) + 2AgNO3(aq) -&amp;gt; Zn(NO3)2(aq) + 2 Ag(s)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;34&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) Zn&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;34&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) N&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;34&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) O&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;34&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) Ag&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;34&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) This is not an oxidation-reduction reaction&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c34&quot; style=&quot;display:none&quot;&gt;D&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c34').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;35) Which choice gives the correct oxidation numbers for all three elements in Rb2SO3 in the order that the elements are shown in the formula?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;35&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) -2, +6, -2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;35&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) -1, +4, -3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;35&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) +2, +4, -2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;35&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) +1, +4, -2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;35&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) +1, +6, -6&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c35&quot; style=&quot;display:none&quot;&gt;D&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c35').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;36) Which of the following signs on q and w represent a system that is doing work on the surroundings, as well as gaining heat from the surroundings?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;36&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) q = +, w = -&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;36&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) q = -, w = +&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;36&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) q = +, w = +&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;36&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) q = -, w = -&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;36&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) None of these represent the system referenced&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c36&quot; style=&quot;display:none&quot;&gt;A&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c36').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;37) Which of the following signs on q and w represent a system that the surroundings are doing work on, as well as gaining heat from the surroundings?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;37&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) q = +, w = -&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;37&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) q = -, w = +&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;37&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) q = +, w = +&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;37&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) q = -, w = -&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;37&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) None of these represent the system referenced&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c38&quot; style=&quot;display:none&quot;&gt;C&lt;/div&gt;
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c38').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;38) How many of the following molecules are polar?&lt;/li&gt;
-  &lt;li&gt;PCl5 COS XeO3 SeBr2
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;38&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;38&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;38&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 1&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;38&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;38&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 4&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c39&quot; style=&quot;display:none&quot;&gt;D &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lEtFzd6XBus&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c39').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;39) When an aqueous solution of manganese (II) nitrate is combined with an aqueous solution of ammonium sulfide,
-what should precipitate out?
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;39&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) MnS&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;39&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) Mn(SO3)2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;39&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Mn(SO4)2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;39&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) Mn2SO3&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;39&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) Mn2SO4&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c40&quot; style=&quot;display:none&quot;&gt;Answer: A. Sulfides accept for sodium. Sulfide is 2- so it just goes into the Mn.&lt;/div&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c40').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;40) Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of K2S and Fe(NO3)2 are mixed.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;40&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) K+(aq) + NO3 - (aq) → KNO3(s)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;40&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) Fe2+(aq) + S2-(aq) + 2 K+(aq) + 2 NO3 - (aq) → FeS(s) + 2 K+(aq) + 2 NO3 - (aq)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;40&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) Fe2+(aq) + S2-(aq) + 2 K+(aq) + 2 NO3 - (aq) → Fe2+(aq) + S2-(aq) + 2 KNO3(s)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;40&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) Fe2+(aq) + S2-(aq) → FeS(s)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;40&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) No reaction occurs.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c41&quot; style=&quot;display:none&quot;&gt;Answer: D&lt;/div&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c41').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;41) Determine the reducing agent in the following reaction. 2 Li(s) + Fe(C2H3O2)2(aq) → 2 LiC2H3O2(aq) + Fe(s)
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;41&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) O&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;41&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) H&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;41&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) C&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;41&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) Fe&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;41&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) Li&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c42&quot; style=&quot;display:none&quot;&gt;Answer: E. Lithium is the substance that is losing its electrons and causing the reaction to be reduced&lt;/div&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c42').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;42) Draw the appropriate molecular orbital diagram and determine which of the following are paramagnetic.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;42&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) B2^2+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;42&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) B2^2-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;42&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) N2^2+&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;42&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) C2^2-&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;42&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) B2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c43&quot; style=&quot;display:none&quot;&gt;Answer: E. Looking for six or twelve valence electrons
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cQ4Su46RmfM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c43').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;43) How many moles of nitrogen are formed when 58.6 g of KNO3 decomposes according to the following reaction? The molar mass of KNO3 is 101.11 g/mol
-    &lt;ul&gt;
-      &lt;li&gt;4KNO3(s) -&amp;gt; 2K2O(s) + 2N2(g) + 5O2(g)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;43&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.290 mol N2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;43&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.580 mol N2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;43&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 18.5 mol N2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;43&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.724 mol N2&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;43&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 1.73 mol N2&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c44&quot; style=&quot;display:none&quot;&gt;Answer: A&lt;/div&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c44').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;44) According to the following reaction, how many grams of sulfur are formed when 37.4 g of water are formed? (S: 32.07, H: 1.0079, O: 15.999)
-    &lt;ul&gt;
-      &lt;li&gt;2H2S(g) + SO2(g) -&amp;gt; 3 S(s) + 2H2O&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;44&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 99.8 g S&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;44&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 66.6 g S&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;44&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 56.1 g S&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;44&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 44.4 g S&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;44&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 14.0 g S&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c45&quot; style=&quot;display:none&quot;&gt;![](../../../assets/2016-11-09-week-13-day-2-5ac09.png)&lt;/div&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c45').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;45) Determine the theoretical yield of HCl if 60.0 g of BCl3 and 37.5 g of H2O are reacted according to the following balanced reaction. (molar mass of BCl3 = 117.16 g/mol, B: 10.81, Cl:35.45, O:15.999, H:1.0079)
-    &lt;ul&gt;
-      &lt;li&gt;BCl3(g) + 3 H2O(l) → H3BO3(s) + 3 HCl(g)&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;45&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 75.9 g HCl&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;45&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 132 g HCl&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;45&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 187 g HCl&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;45&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 56.0 g HCl&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;45&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 25.3 g HCl&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c46&quot; style=&quot;display:none&quot;&gt;![](../../../assets/2016-11-09-week-13-day-2-533b5.png)&lt;/div&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c46').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;46) Calcium oxide reacts with water in a combination reaction to produce calcium hydroxide:
-    &lt;ul&gt;
-      &lt;li&gt;CaO(s) + H2O(l) → Ca(OH)2(s)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A 5.00-g sample of CaO is reacted with 4.83 g of H2O. How many grams of water remain after the reaction is complete? (Ca:40.08, O:15.999, H:1.0079)
-    &lt;ul&gt;
-      &lt;li&gt;&lt;input name=&quot;46&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.00&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;46&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.00991&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;46&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 3.22&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;46&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 1.04&lt;/li&gt;
-      &lt;li&gt;&lt;input name=&quot;46&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 0.179&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;c47&quot; style=&quot;display:none&quot;&gt;![](../../../assets/2016-11-09-week-13-day-2-e236c.png)&lt;/div&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; onclick=&quot;$('#c47').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
-
-&lt;script&gt;
-var answers = [&quot;a&quot;, &quot;a&quot;, &quot;b&quot;, &quot;c&quot;, &quot;d&quot;, &quot;e&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;, &quot;e&quot;, &quot;b&quot;, &quot;e&quot;, &quot;d&quot;, &quot;a&quot;, &quot;b&quot;, &quot;b&quot;, &quot;d&quot;, &quot;a&quot;, &quot;a&quot;, &quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;a&quot;, &quot;c&quot;, &quot;d&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;, &quot;a&quot;, &quot;c&quot;, &quot;e&quot;, &quot;d&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;, &quot;d&quot;, &quot;a&quot;, &quot;d&quot;, &quot;e&quot;, &quot;e&quot;, &quot;a&quot;, &quot;a&quot;, &quot;d&quot;, &quot;c&quot;];
-function getAnswer(number) {
-  return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
-}
-function validate() {
-  var any = false;
-  for (var i = 1; i &lt; answers.length+1; i++) {
-    var answer = getAnswer(i);
-    if (!answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#F6F169&quot;);
-      any = true;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;&quot;);
-    }
-  }
-  if (any) {
-    toastr.error(&quot;You did not answer every question!&quot;);
-  }
-  return !any;
-}
-function grade() {
-  if (!validate()) return;
-  var correct = 0;
-  for (var i = 1; i &lt; answers.length+1; i++) {
-    var answer = getAnswer(i);
-    if (answers[i-1] == answer) {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#A5FFB9&quot;);
-      correct++;
-    }
-    else {
-      $(&quot;input[name*=&quot;+i+&quot;]&quot;).parent().css(&quot;background-color&quot;,&quot;#FFA5A5&quot;);
-    }
-  }
-  toastr.success(&quot;Your grade is &quot;+ ((correct/answers.length) * 100).toFixed(2) + &quot; out of 100&quot;);
-}
-&lt;/script&gt;
-
-&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;Grade this&quot; onclick=&quot;grade()&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 07 Nov 2016 00:00:00 -0600</pubDate>
-        <link>http://jmbeach.github.io/CH101-008/2016/11/07/test-3-all-clicker-questions-since-test-2.html</link>
-        <guid isPermaLink="true">http://jmbeach.github.io/CH101-008/2016/11/07/test-3-all-clicker-questions-since-test-2.html</guid>
         
         
       </item>
