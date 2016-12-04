@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CH101-008 UA Fall 2016</title>
-    <description>Notes and study materials for The University of Alabama's Chemistry 101  course offered Fall 2016.
+    <description>Notes and study materials for The University of Alabama's Chemistry 101 course offered Fall 2016.
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Dec 2016 12:52:53 -0600</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2016 12:52:53 -0600</lastBuildDate>
+    <pubDate>Sun, 04 Dec 2016 13:33:41 -0600</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2016 13:33:41 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -142,11 +142,23 @@
     &lt;p&gt;&lt;span id=&quot;c9&quot; style=&quot;display:none&quot;&gt;Answer: B &lt;img src=&quot;../../../assets/2016-12-03-mock-final-4b99e.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 &lt;input type=&quot;button&quot; onclick=&quot;$('#c9').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
+  &lt;li&gt;10) Determine the longest wavelength of light required to remove an electron from a sample of potassium metal, if the binding energy for an electron in K is 1.76 × 10^3 kJ/mol.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 147 nm&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 68.0 nm&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 113 nm&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 885 nm&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;9&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 387 nm&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c10&quot; style=&quot;display:none&quot;&gt;Answer: B &lt;img src=&quot;../../../assets/2016-12-03-mock-final-b44fb.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c10').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;script&gt;
 var answers = [
-&quot;b&quot;, &quot;b&quot;, &quot;e&quot;, &quot;a&quot;, &quot;a&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;, &quot;b&quot;
+&quot;b&quot;, &quot;b&quot;, &quot;e&quot;, &quot;a&quot;, &quot;a&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;
 ];
 function getAnswer(number) {
   return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
