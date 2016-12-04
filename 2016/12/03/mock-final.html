@@ -250,12 +250,62 @@
     <p><span id="c11" style="display:none">Answer: C <img src="../../../assets/2016-12-03-mock-final-0f83f.png" alt="" /></span>
 <input type="button" onclick="$('#c11').toggle()" value="show/hide answer" /></p>
   </li>
+  <li>12) What are the possible orbitals for n = 3?
+    <ul>
+      <li><input name="12" type="radio" value="a" /> A) s, p, d</li>
+      <li><input name="12" type="radio" value="b" /> B) s, p, d, f</li>
+      <li><input name="12" type="radio" value="c" /> C) s</li>
+      <li><input name="12" type="radio" value="d" /> D) s, p</li>
+    </ul>
+
+    <p><span id="c12" style="display:none">Answer: A. n is the quantum number. Possible l values are then 0, 1, and 2 ( because l=0,1,2,3,4…,(n−1)). That means we can have s, p, or d orbitals.</span>
+<input type="button" onclick="$('#c12').toggle()" value="show/hide answer" /></p>
+  </li>
+  <li>13) Determine the energy change associated with the transition from n = 2 to n = 5 in the hydrogen atom. (RH=-2.18 x 10^-18 J)
+    <ul>
+      <li><input name="13" type="radio" value="a" /> A) -2.18 × 10^-19 J</li>
+      <li><input name="13" type="radio" value="b" /> B) +6.54 × 10^-19 J</li>
+      <li><input name="13" type="radio" value="c" /> C) +4.58 × 10^-19 J</li>
+      <li><input name="13" type="radio" value="d" /> D) -1.53 × 10^-19 J</li>
+      <li><input name="13" type="radio" value="e" /> E) +3.76 × 10^-19 J</li>
+    </ul>
+  </li>
+</ul>
+
+<p><span id="c13" style="display:none">Answer: C. <img src="../../../assets/2016-12-03-mock-final-2b45b.png" alt="" /></span>
+<input type="button" onclick="$('#c13').toggle()" value="show/hide answer" /></p>
+
+<ul>
+  <li>14) Predict the charge that an ion formed from sulfur would have.
+    <ul>
+      <li><input name="14" type="radio" value="a" /> A) 1-</li>
+      <li><input name="14" type="radio" value="b" /> B) 6+</li>
+      <li><input name="14" type="radio" value="c" /> C) 3-</li>
+      <li><input name="14" type="radio" value="d" /> D) 4+</li>
+      <li><input name="14" type="radio" value="e" /> E) 2-</li>
+    </ul>
+
+    <p><span id="c14" style="display:none">Answer: E. Look at periodic table. To be stable, sulfur wants to more electrons.</span>
+<input type="button" onclick="$('#c14').toggle()" value="show/hide answer" /></p>
+  </li>
+  <li>15) Give the ground state electron configuration for I.
+    <ul>
+      <li><input name="15" type="radio" value="a" /> A) [Kr]5s2 4d10 5p6</li>
+      <li><input name="15" type="radio" value="b" /> B) [Kr]5s2 4d10 5p5</li>
+      <li><input name="15" type="radio" value="c" /> C) [Kr]4d10 5p6</li>
+      <li><input name="15" type="radio" value="d" /> D) [Kr]5s2 5p6</li>
+      <li><input name="15" type="radio" value="e" /> E) [Kr]5s2 5d10 5p6</li>
+    </ul>
+
+    <p><span id="c15" style="display:none">Answer: B</span>
+<input type="button" onclick="$('#c15').toggle()" value="show/hide answer" /></p>
+  </li>
 </ul>
 
 <script>
 var answers = [
 "b", "b", "e", "a", "a", "d", "a", "c", "b", "b",
-"c"
+"c", "a", "c", "e", "b"
 ];
 function getAnswer(number) {
   return $("input[name*="+number+"]:checked").val()

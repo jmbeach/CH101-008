@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Dec 2016 13:45:31 -0600</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2016 13:45:31 -0600</lastBuildDate>
+    <pubDate>Sun, 04 Dec 2016 14:08:21 -0600</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2016 14:08:21 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -166,12 +166,62 @@
     &lt;p&gt;&lt;span id=&quot;c11&quot; style=&quot;display:none&quot;&gt;Answer: C &lt;img src=&quot;../../../assets/2016-12-03-mock-final-0f83f.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 &lt;input type=&quot;button&quot; onclick=&quot;$('#c11').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
+  &lt;li&gt;12) What are the possible orbitals for n = 3?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) s, p, d&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) s, p, d, f&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) s&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;12&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) s, p&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c12&quot; style=&quot;display:none&quot;&gt;Answer: A. n is the quantum number. Possible l values are then 0, 1, and 2 ( because l=0,1,2,3,4…,(n−1)). That means we can have s, p, or d orbitals.&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c12').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;13) Determine the energy change associated with the transition from n = 2 to n = 5 in the hydrogen atom. (RH=-2.18 x 10^-18 J)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) -2.18 × 10^-19 J&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) +6.54 × 10^-19 J&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) +4.58 × 10^-19 J&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) -1.53 × 10^-19 J&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;13&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) +3.76 × 10^-19 J&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c13&quot; style=&quot;display:none&quot;&gt;Answer: C. &lt;img src=&quot;../../../assets/2016-12-03-mock-final-2b45b.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c13').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;14) Predict the charge that an ion formed from sulfur would have.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 1-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 6+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 3-&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 4+&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;14&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 2-&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c14&quot; style=&quot;display:none&quot;&gt;Answer: E. Look at periodic table. To be stable, sulfur wants to more electrons.&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c14').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;15) Give the ground state electron configuration for I.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) [Kr]5s2 4d10 5p6&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) [Kr]5s2 4d10 5p5&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) [Kr]4d10 5p6&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) [Kr]5s2 5p6&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;15&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) [Kr]5s2 5d10 5p6&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c15&quot; style=&quot;display:none&quot;&gt;Answer: B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c15').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;script&gt;
 var answers = [
 &quot;b&quot;, &quot;b&quot;, &quot;e&quot;, &quot;a&quot;, &quot;a&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;,
-&quot;c&quot;
+&quot;c&quot;, &quot;a&quot;, &quot;c&quot;, &quot;e&quot;, &quot;b&quot;
 ];
 function getAnswer(number) {
   return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
