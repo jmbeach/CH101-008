@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Dec 2016 08:15:29 -0600</pubDate>
-    <lastBuildDate>Mon, 05 Dec 2016 08:15:29 -0600</lastBuildDate>
+    <pubDate>Mon, 05 Dec 2016 10:33:57 -0600</pubDate>
+    <lastBuildDate>Mon, 05 Dec 2016 10:33:57 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -495,6 +495,69 @@
     &lt;p&gt;&lt;span id=&quot;c35&quot; style=&quot;display:none&quot;&gt;Answer: D. &lt;img src=&quot;../../../assets/2016-12-03-mock-final-e2a7f.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 &lt;input type=&quot;button&quot; onclick=&quot;$('#c35').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
+  &lt;li&gt;36) Determine the theoretical yield of H2S (in moles) if 16 mol Al2S3 and 16 mol H2O are reacted according to the following balanced reaction. A possibly useful molar mass is Al2S3 = 150.17 g/mol.&lt;/li&gt;
+  &lt;li&gt;Al2S3(s) + 6 H2O(l) → 2 Al(OH)3(s) + 3 H2S(g)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;36&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 48 mol H2S&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;36&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 16 mol H2S&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;36&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 32 mol H2S&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;36&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 24 mol H2S&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;36&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 8.0 mol H2S&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c36&quot; style=&quot;display:none&quot;&gt;Answer: E. The molar mass is just there to confuse you.  &lt;img src=&quot;../../../assets/2016-12-03-mock-final-6e21d.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c36').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;37) Determine the molarity of a solution formed by dissolving 468 mg of MgI2 in enough water to yield 50.0 mL of solution.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;37&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.0297 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;37&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.0337 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;37&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.0936 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;37&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.0107 M&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;37&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 0.0651 M&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c37&quot; style=&quot;display:none&quot;&gt;Answer: B. &lt;img src=&quot;../../../assets/2016-12-03-mock-final-f568b.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c37').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;38) What mass (in g) of AgCl is formed from the reaction of 75.0 mL of a 0.078 M AgC2H3O2 solution with 55.0 mL of 0.109 M MgCl2 solution?&lt;/li&gt;
+  &lt;li&gt;2 AgC2H3O2(aq) + MgCl2(aq) → 2 AgCl(s) + Mg(C2H3O2)2(aq)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;38&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.838 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;38&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 1.72 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;38&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0.859 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;38&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 2.56 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;38&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 1.70 g&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c38&quot; style=&quot;display:none&quot;&gt;Answer: A. &lt;img src=&quot;../../../assets/2016-12-03-mock-final-a826c.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c38').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;39) Give the net ionic equation for the reaction (if any) that occurs when aqueous solutions of H2SO4 and KOH are mixed&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-12-03-mock-final-c855c.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;39&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;39&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;39&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;39&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;39&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c39&quot; style=&quot;display:none&quot;&gt;Answer: A&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c39').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;40) Determine the oxidation state of nitrogen in NO.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;40&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) +5&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;40&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) +3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;40&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 0&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;40&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) +2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;40&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) +4&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c40&quot; style=&quot;display:none&quot;&gt;Answer: D. The oxidation state of oxygen is always -2 so to solve for nitrogen, you do “x - 2 = 0” and find that x = 2&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c40').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;script&gt;
@@ -502,7 +565,7 @@ var answers = [
 &quot;b&quot;, &quot;b&quot;, &quot;e&quot;, &quot;a&quot;, &quot;a&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;,
 &quot;c&quot;, &quot;a&quot;, &quot;c&quot;, &quot;e&quot;, &quot;b&quot;, &quot;c&quot;, &quot;c&quot;, &quot;c&quot;, &quot;d&quot;, &quot;a&quot;,
 &quot;a&quot;, &quot;c&quot;, &quot;c&quot;, &quot;c&quot;, &quot;d&quot;, &quot;b&quot;, &quot;d&quot;, &quot;a&quot;, &quot;d&quot;, &quot;b&quot;,
-&quot;d&quot;, &quot;d&quot;, &quot;c&quot;, &quot;a&quot;, &quot;d&quot;
+&quot;d&quot;, &quot;d&quot;, &quot;c&quot;, &quot;a&quot;, &quot;d&quot;, &quot;e&quot;, 'b', &quot;a&quot;, &quot;a&quot;, &quot;d&quot;
 ];
 function getAnswer(number) {
   return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
