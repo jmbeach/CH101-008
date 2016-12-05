@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Dec 2016 15:25:13 -0600</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2016 15:25:13 -0600</lastBuildDate>
+    <pubDate>Sun, 04 Dec 2016 19:10:55 -0600</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2016 19:10:55 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -303,12 +303,76 @@
     &lt;p&gt;&lt;span id=&quot;c20&quot; style=&quot;display:none&quot;&gt;Answer: A. &lt;img src=&quot;../../../assets/2016-12-03-mock-final-37e16.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 &lt;input type=&quot;button&quot; onclick=&quot;$('#c20').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
+  &lt;li&gt;21) Determine the empirical formula for a compound that is 70.79% carbon, 8.91% hydrogen, 4.59% nitrogen, and 15.72% oxygen.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) C18H27NO3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) C18H27NO2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) C17H27NO3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;21&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) C17H26NO3&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c21&quot; style=&quot;display:none&quot;&gt;Answer: A. &lt;img src=&quot;../../../assets/2016-12-03-mock-final-5a9f6.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c21').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;22) Combustion analysis of 63.8 mg of a C, H and O containing compound produced 145.0 mg of CO2 and 59.38 mg of H2O. What is the empirical formula for the compound?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) C5H2O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) CHO&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) C3H6O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) C3H7O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;22&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) C6HO3&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c22&quot; style=&quot;display:none&quot;&gt;Answer: C. &lt;img src=&quot;../../../assets/2016-12-03-mock-final-9da01.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c22').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;23) Identify the number of bonding pairs and lone pairs of electrons in water.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 1 bonding pair and 1 lone pair&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 1 bonding pair and 2 lone pairs&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 2 bonding pairs and 2 lone pairs&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 2 bonding pairs and 1 lone pair&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;23&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 3 bonding pairs and 2 lone pairs&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c23&quot; style=&quot;display:none&quot;&gt;Answer: C. &lt;img src=&quot;../../../assets/2016-12-03-mock-final-f500e.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c23').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;24) Choose the best Lewis structure for XeI2
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-12-03-mock-final-85234.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;24&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c24&quot; style=&quot;display:none&quot;&gt;Answer: C. &lt;img src=&quot;../../../assets/2016-12-03-mock-final-3f23b.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c24').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;25) Which of the following resonance structures for OCN⁻ will contribute most to the correct structure of OCN⁻?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) O(2 lone pairs) double bonded to C double bonded to N (2 lone pairs)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) O(1 lone pair) triple bonded to C single bonded to N(3 lone pairs)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) O(1 lone pair) double bonded to C(2 lone pairs) double bonded to N(1 lone pair)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) O(3 lone pairs) single bonded to C triple bonded to N(with 1 lone pair)&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;25&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) They all contribute equally to the correct structure of OCN⁻.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c25&quot; style=&quot;display:none&quot;&gt;Answer: D. &lt;img src=&quot;../../../assets/2016-12-03-mock-final-e9383.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c25').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;script&gt;
 var answers = [
 &quot;b&quot;, &quot;b&quot;, &quot;e&quot;, &quot;a&quot;, &quot;a&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;,
-&quot;c&quot;, &quot;a&quot;, &quot;c&quot;, &quot;e&quot;, &quot;b&quot;, &quot;c&quot;, &quot;c&quot;, &quot;c&quot;, &quot;d&quot;, &quot;a&quot;
+&quot;c&quot;, &quot;a&quot;, &quot;c&quot;, &quot;e&quot;, &quot;b&quot;, &quot;c&quot;, &quot;c&quot;, &quot;c&quot;, &quot;d&quot;, &quot;a&quot;,
+&quot;a&quot;, &quot;c&quot;, &quot;c&quot;, &quot;c&quot;, &quot;d&quot;
 ];
 function getAnswer(number) {
   return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
