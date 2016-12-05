@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Dec 2016 20:10:58 -0600</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2016 20:10:58 -0600</lastBuildDate>
+    <pubDate>Mon, 05 Dec 2016 08:15:29 -0600</pubDate>
+    <lastBuildDate>Mon, 05 Dec 2016 08:15:29 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -433,11 +433,76 @@
 &lt;p&gt;&lt;span id=&quot;c30&quot; style=&quot;display:none&quot;&gt;Answer: C &lt;img src=&quot;../../../assets/2016-12-03-mock-final-4c03a.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 &lt;input type=&quot;button&quot; onclick=&quot;$('#c30').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;31) Use the molecular orbital diagram shown to determine which of the following is most stable.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img src=&quot;../../../assets/2016-12-03-mock-final-4e190.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;31&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) C2^2⁺&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;31&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) N2^2⁺&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;31&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) B2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;31&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) C2^2⁻&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;31&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) B2^2⁺&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c31&quot; style=&quot;display:none&quot;&gt;Answer: D &lt;img src=&quot;../../../assets/2016-12-03-mock-final-8429c.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c31').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;32) How many moles of oxygen are formed when 58.6 g of KNO3 decomposes according to the following reaction? The molar mass of KNO3 is 101.11 g/mol. 4 KNO3(s) → 2 K2O(s) + 2 N2(g) + 5 O2(g)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;32&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.290 mol O2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;32&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 0.580 mol O2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;32&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 18.5 mol O2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;32&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 0.724 mol O2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;32&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 1.73 mol O2&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c32&quot; style=&quot;display:none&quot;&gt;Answer: D &lt;img src=&quot;../../../assets/2016-12-03-mock-final-7923f.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c32').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;33) Give the theoretical yield, in moles, of CO2 from the reaction of 4.00 moles of C8H18 with 4.00 moles of O2.&lt;/li&gt;
+  &lt;li&gt;2 C8H18 + 25 O2 → 16 CO2 + 18 H2O
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;33&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.640 moles&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;33&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 64.0 moles&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;33&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 2.56 moles&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;33&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 16.0 moles&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c33&quot; style=&quot;display:none&quot;&gt;Answer: C &lt;img src=&quot;../../../assets/2016-12-03-mock-final-8069e.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c33').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;34) Which should give the least vigorous reaction when dropped in water?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;34&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) Li&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;34&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) Na&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;34&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) K&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;34&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) Rb&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;34&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) Cs&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c34&quot; style=&quot;display:none&quot;&gt;Answer: C. All of the elements will be reactive because they’re all in the first column and want to lose an electron, but the higher up, the less reactive (or the lower down, the more reactive)&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c34').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;35) Balance the chemical equation given below, and determine the number of grams of MgO are needed to produce 15.0 g of Fe2O3.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;../../../assets/2016-12-03-mock-final-9e77d.png&quot; alt=&quot;&quot; /&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;35&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0.0877 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;35&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 1.26 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;35&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 3.78 g&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;35&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 11.4 g&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c35&quot; style=&quot;display:none&quot;&gt;Answer: D. &lt;img src=&quot;../../../assets/2016-12-03-mock-final-e2a7f.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c35').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;script&gt;
 var answers = [
 &quot;b&quot;, &quot;b&quot;, &quot;e&quot;, &quot;a&quot;, &quot;a&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;,
 &quot;c&quot;, &quot;a&quot;, &quot;c&quot;, &quot;e&quot;, &quot;b&quot;, &quot;c&quot;, &quot;c&quot;, &quot;c&quot;, &quot;d&quot;, &quot;a&quot;,
-&quot;a&quot;, &quot;c&quot;, &quot;c&quot;, &quot;c&quot;, &quot;d&quot;, &quot;b&quot;, &quot;d&quot;, &quot;a&quot;, &quot;d&quot;, &quot;b&quot;
+&quot;a&quot;, &quot;c&quot;, &quot;c&quot;, &quot;c&quot;, &quot;d&quot;, &quot;b&quot;, &quot;d&quot;, &quot;a&quot;, &quot;d&quot;, &quot;b&quot;,
+&quot;d&quot;, &quot;d&quot;, &quot;c&quot;, &quot;a&quot;, &quot;d&quot;
 ];
 function getAnswer(number) {
   return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
