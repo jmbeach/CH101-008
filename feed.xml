@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Dec 2016 19:10:55 -0600</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2016 19:10:55 -0600</lastBuildDate>
+    <pubDate>Sun, 04 Dec 2016 20:10:58 -0600</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2016 20:10:58 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -368,11 +368,76 @@
 &lt;p&gt;&lt;span id=&quot;c25&quot; style=&quot;display:none&quot;&gt;Answer: D. &lt;img src=&quot;../../../assets/2016-12-03-mock-final-e9383.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 &lt;input type=&quot;button&quot; onclick=&quot;$('#c25').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;26) Draw the best Lewis structure for the free radical, NO2. What is the formal charge on the N?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 0&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) +1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) -1&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) +2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;26&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) -2&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c26&quot; style=&quot;display:none&quot;&gt;Answer: B&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c26').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;27) Determine the electron geometry (eg) and molecular geometry (mg) of CO2.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) eg = tetrahedral, mg = tetrahedral&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) eg = linear, mg = trigonal planar&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) eg = trigonal planar, mg = bent&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) eg = linear, mg = linear&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;27&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) eg = trigonal planar, mg = trigonal planar&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c27&quot; style=&quot;display:none&quot;&gt;Answer: D &lt;img src=&quot;../../../assets/2016-12-03-mock-final-1a4f6.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c27').toggle()&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;28) Consider the molecule below. Determine the molecular geometry at each of the 3 labeled atoms.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;img style=&quot;width:200px&quot; src=&quot;../../../assets/2016-10-15-test-3-recitation-1-55f8d.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;28&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; 1 = trigonal planar, 2 = tetrahedral, 3 = trigonal pyramidal&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;28&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; l = tetrahedral, 2 = tetrahedral, 3 =tetrahedral&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;28&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; 1 = trigonal planar, 2 = tetrahedral, 3 = tetrahedral&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;28&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; 1 = tetrahedral, 2 = tetrahedral, 3 = trigonal planar&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;28&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; 1 = trigonal planar, 2 = trigonal pyramidal, 3 = trigonal pyramidal&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c28&quot; style=&quot;display:none&quot;&gt;Answer: A&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c28').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;29) Place the following in order of decreasing X-A-X bond angle, where A represents the central atom and X represents the outer atoms in each molecule.
+    &lt;ul&gt;
+      &lt;li&gt;CS2 CF4 SCl2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;29&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) CS2 = SCl2 &amp;gt; CF4&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;29&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) SCl2 &amp;gt; CF4 &amp;gt; CS2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;29&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) CF4 &amp;gt; CS2 &amp;gt; SCl2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;29&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) CS2 &amp;gt; CF4 &amp;gt; SCl2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;29&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) CF4 &amp;gt; CS2 &amp;gt; SCl2&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c29&quot; style=&quot;display:none&quot;&gt;Answer: D&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c29').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;30) Give the hybridization for the S in SO3.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;30&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) sp&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;30&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) sp3&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;30&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) sp2&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;30&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) sp3d&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;30&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) sp3d2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c30&quot; style=&quot;display:none&quot;&gt;Answer: C &lt;img src=&quot;../../../assets/2016-12-03-mock-final-4c03a.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c30').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+
 &lt;script&gt;
 var answers = [
 &quot;b&quot;, &quot;b&quot;, &quot;e&quot;, &quot;a&quot;, &quot;a&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;,
 &quot;c&quot;, &quot;a&quot;, &quot;c&quot;, &quot;e&quot;, &quot;b&quot;, &quot;c&quot;, &quot;c&quot;, &quot;c&quot;, &quot;d&quot;, &quot;a&quot;,
-&quot;a&quot;, &quot;c&quot;, &quot;c&quot;, &quot;c&quot;, &quot;d&quot;
+&quot;a&quot;, &quot;c&quot;, &quot;c&quot;, &quot;c&quot;, &quot;d&quot;, &quot;b&quot;, &quot;d&quot;, &quot;a&quot;, &quot;d&quot;, &quot;b&quot;
 ];
 function getAnswer(number) {
   return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
