@@ -616,14 +616,40 @@
     <p><span id="c40" style="display:none">Answer: D. The oxidation state of oxygen is always -2 so to solve for nitrogen, you do “x - 2 = 0” and find that x = 2</span>
 <input type="button" onclick="$('#c40').toggle();" value="show/hide answer" /></p>
   </li>
+  <li>41) Determine the reducing agent in the following reaction.</li>
+  <li>2 Li(s) + Fe(C2H3O2)2(aq) → 2 LiC2H3O2(aq) + Fe(s)
+    <ul>
+      <li><input name="41" type="radio" value="a" /> A) O</li>
+      <li><input name="41" type="radio" value="b" /> B) H</li>
+      <li><input name="41" type="radio" value="c" /> C) C</li>
+      <li><input name="41" type="radio" value="d" /> D) Fe</li>
+      <li><input name="41" type="radio" value="e" /> E) Li</li>
+    </ul>
+
+    <p><span id="c41" style="display:none">Answer: E</span>
+<input type="button" onclick="$('#c41').toggle();" value="show/hide answer" /></p>
+  </li>
+  <li>42) 6.74 g of the monoprotic acid KHP (MW = 204.2 g/mol) is dissolved into water. The sample is titrated with a 0.703 M solution of calcium hydroxide to the equivalence point. What volume of base was used?
+    <ul>
+      <li><input name="42" type="radio" value="a" /> A) 8.64 mL</li>
+      <li><input name="42" type="radio" value="b" /> B) 11.8 mL</li>
+      <li><input name="42" type="radio" value="c" /> C) 23.5 mL</li>
+      <li><input name="42" type="radio" value="d" /> D) 47.0 mL</li>
+      <li><input name="42" type="radio" value="e" /> E) 93.9 mL</li>
+    </ul>
+  </li>
 </ul>
+
+<p><span id="c42" style="display:none">Answer: C. <img src="../../../assets/2016-12-03-mock-final-f3a62.png" alt="" /></span>
+<input type="button" onclick="$('#c42').toggle();" value="show/hide answer" /></p>
 
 <script>
 var answers = [
 "b", "b", "e", "a", "a", "d", "a", "c", "b", "b",
 "c", "a", "c", "e", "b", "c", "c", "c", "d", "a",
 "a", "c", "c", "c", "d", "b", "d", "a", "d", "b",
-"d", "d", "c", "a", "d", "e", 'b', "a", "a", "d"
+"d", "d", "c", "a", "d", "e", 'b', "a", "a", "d",
+"e", "d"
 ];
 function getAnswer(number) {
   return $("input[name*="+number+"]:checked").val()

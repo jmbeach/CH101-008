@@ -6,8 +6,8 @@
 </description>
     <link>http://jmbeach.github.io/CH101-008/</link>
     <atom:link href="http://jmbeach.github.io/CH101-008/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Dec 2016 10:33:57 -0600</pubDate>
-    <lastBuildDate>Mon, 05 Dec 2016 10:33:57 -0600</lastBuildDate>
+    <pubDate>Mon, 05 Dec 2016 11:02:46 -0600</pubDate>
+    <lastBuildDate>Mon, 05 Dec 2016 11:02:46 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -558,14 +558,40 @@
     &lt;p&gt;&lt;span id=&quot;c40&quot; style=&quot;display:none&quot;&gt;Answer: D. The oxidation state of oxygen is always -2 so to solve for nitrogen, you do “x - 2 = 0” and find that x = 2&lt;/span&gt;
 &lt;input type=&quot;button&quot; onclick=&quot;$('#c40').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
+  &lt;li&gt;41) Determine the reducing agent in the following reaction.&lt;/li&gt;
+  &lt;li&gt;2 Li(s) + Fe(C2H3O2)2(aq) → 2 LiC2H3O2(aq) + Fe(s)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;41&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) O&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;41&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) H&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;41&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) C&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;41&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) Fe&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;41&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) Li&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;span id=&quot;c41&quot; style=&quot;display:none&quot;&gt;Answer: E&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c41').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;42) 6.74 g of the monoprotic acid KHP (MW = 204.2 g/mol) is dissolved into water. The sample is titrated with a 0.703 M solution of calcium hydroxide to the equivalence point. What volume of base was used?
+    &lt;ul&gt;
+      &lt;li&gt;&lt;input name=&quot;42&quot; type=&quot;radio&quot; value=&quot;a&quot; /&gt; A) 8.64 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;42&quot; type=&quot;radio&quot; value=&quot;b&quot; /&gt; B) 11.8 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;42&quot; type=&quot;radio&quot; value=&quot;c&quot; /&gt; C) 23.5 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;42&quot; type=&quot;radio&quot; value=&quot;d&quot; /&gt; D) 47.0 mL&lt;/li&gt;
+      &lt;li&gt;&lt;input name=&quot;42&quot; type=&quot;radio&quot; value=&quot;e&quot; /&gt; E) 93.9 mL&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;span id=&quot;c42&quot; style=&quot;display:none&quot;&gt;Answer: C. &lt;img src=&quot;../../../assets/2016-12-03-mock-final-f3a62.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+&lt;input type=&quot;button&quot; onclick=&quot;$('#c42').toggle();&quot; value=&quot;show/hide answer&quot; /&gt;&lt;/p&gt;
 
 &lt;script&gt;
 var answers = [
 &quot;b&quot;, &quot;b&quot;, &quot;e&quot;, &quot;a&quot;, &quot;a&quot;, &quot;d&quot;, &quot;a&quot;, &quot;c&quot;, &quot;b&quot;, &quot;b&quot;,
 &quot;c&quot;, &quot;a&quot;, &quot;c&quot;, &quot;e&quot;, &quot;b&quot;, &quot;c&quot;, &quot;c&quot;, &quot;c&quot;, &quot;d&quot;, &quot;a&quot;,
 &quot;a&quot;, &quot;c&quot;, &quot;c&quot;, &quot;c&quot;, &quot;d&quot;, &quot;b&quot;, &quot;d&quot;, &quot;a&quot;, &quot;d&quot;, &quot;b&quot;,
-&quot;d&quot;, &quot;d&quot;, &quot;c&quot;, &quot;a&quot;, &quot;d&quot;, &quot;e&quot;, 'b', &quot;a&quot;, &quot;a&quot;, &quot;d&quot;
+&quot;d&quot;, &quot;d&quot;, &quot;c&quot;, &quot;a&quot;, &quot;d&quot;, &quot;e&quot;, 'b', &quot;a&quot;, &quot;a&quot;, &quot;d&quot;,
+&quot;e&quot;, &quot;d&quot;
 ];
 function getAnswer(number) {
   return $(&quot;input[name*=&quot;+number+&quot;]:checked&quot;).val()
